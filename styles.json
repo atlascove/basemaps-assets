@@ -8287,8 +8287,7 @@
       "minzoom": 3,
       "layout": {
         "text-font": [
-          "Noto Sans Regular",
-          "Noto Sans Medium"
+          "Noto Sans Regular"
         ],
         "text-size": {
           "stops": [
@@ -8331,8 +8330,7 @@
       "minzoom": 0,
       "layout": {
         "text-font": [
-          "Noto Sans Regular",
-          "Noto Sans Medium"
+          "Noto Sans Regular"
         ],
         "text-size": 12,
         "text-field": "{name:latin}\n{name:nonlatin}",
@@ -9451,8 +9449,7 @@
       "maxzoom": 12,
       "layout": {
         "text-font": [
-          "Noto Sans Regular",
-          "Noto Sans Medium"
+          "Noto Sans Regular"
         ],
         "text-size": {
           "stops": [
@@ -9722,8 +9719,7 @@
       "maxzoom": 12,
       "layout": {
         "text-font": [
-          "Open Sans Semibold",
-          "Noto Sans Medium"
+          "Open Sans Semibold"
         ],
         "text-size": {
           "stops": [
@@ -9791,8 +9787,7 @@
       "maxzoom": 12,
       "layout": {
         "text-font": [
-          "Open Sans Semibold",
-          "Noto Sans Medium"
+          "Open Sans Semibold"
         ],
         "text-size": {
           "stops": [
@@ -9860,8 +9855,7 @@
       "maxzoom": 12,
       "layout": {
         "text-font": [
-          "Open Sans Semibold",
-          "Noto Sans Medium"
+          "Open Sans Semibold"
         ],
         "text-size": {
           "stops": [

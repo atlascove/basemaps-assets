@@ -10003,8 +10003,8 @@
       "metadata": {}
     }
   ],
-  "glyphs": "https://atlascove.github.io/basemaps-assets/fonts/{fontstack}/{range}.pbf?key=LVXocV2Y6nX6vEqq67iz",
-  "sprite": "https://atlascove.github.io/basemaps-assets/sprites/sprites",
+  "glyphs": "http://localhost:8000/fonts/{fontstack}/{range}.pbf?key=LVXocV2Y6nX6vEqq67iz",
+  "sprite": "http://localhost:8000/sprites/sprites",
   "bearing": 0,
   "pitch": 0,
   "center": [

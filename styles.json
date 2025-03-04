@@ -8287,8 +8287,8 @@
       "minzoom": 3,
       "layout": {
         "text-font": [
-          "Open Sans Regular",
-          "Open Sans Bold"
+          "Noto Sans Regular",
+          "Noto Sans Medium"
         ],
         "text-size": {
           "stops": [
@@ -8331,8 +8331,8 @@
       "minzoom": 0,
       "layout": {
         "text-font": [
-          "Open Sans Regular",
-          "Open Sans Bold"
+          "Noto Sans Regular",
+          "Noto Sans Medium"
         ],
         "text-size": 12,
         "text-field": "{name:latin}\n{name:nonlatin}",
@@ -8364,7 +8364,7 @@
       "maxzoom": 22,
       "layout": {
         "text-font": [
-          "Open Sans Regular",
+          "Noto Sans Regular",
           "Open Sans Light"
         ],
         "text-size": 11,
@@ -8617,8 +8617,8 @@
       "minzoom": 14,
       "layout": {
         "text-font": [
-          "Open Sans Regular",
-          "Open Sans Regular"
+          "Noto Sans Regular",
+          "Noto Sans Regular"
         ],
         "text-size": 10,
         "text-field": "{name}",
@@ -8654,8 +8654,8 @@
       "minzoom": 14,
       "layout": {
         "text-font": [
-          "Open Sans Regular",
-          "Open Sans Regular"
+          "Noto Sans Regular",
+          "Noto Sans Regular"
         ],
         "text-size": {
           "base": 1,
@@ -9081,7 +9081,7 @@
       "layout": {
         "text-font": [
           "Open Sans Italic",
-          "Open Sans Regular"
+          "Noto Sans Regular"
         ],
         "text-size": {
           "stops": [
@@ -9163,7 +9163,7 @@
       "layout": {
         "text-font": [
           "Open Sans Semibold",
-          "Open Sans Regular"
+          "Noto Sans Regular"
         ],
         "text-size": {
           "base": 1.2,
@@ -9320,7 +9320,7 @@
       "maxzoom": 16,
       "layout": {
         "text-font": [
-          "Open Sans Regular",
+          "Noto Sans Regular",
           "Open Sans Italic"
         ],
         "text-size": 10,
@@ -9360,7 +9360,7 @@
       "layout": {
         "text-font": [
           "Open Sans Semibold",
-          "Open Sans Regular"
+          "Noto Sans Regular"
         ],
         "text-size": {
           "base": 1.2,
@@ -9403,7 +9403,7 @@
       "layout": {
         "text-font": [
           "Open Sans Semibold",
-          "Open Sans Regular"
+          "Noto Sans Regular"
         ],
         "text-size": {
           "base": 1.2,
@@ -9451,8 +9451,8 @@
       "maxzoom": 12,
       "layout": {
         "text-font": [
-          "Open Sans Regular",
-          "Open Sans Bold"
+          "Noto Sans Regular",
+          "Noto Sans Medium"
         ],
         "text-size": {
           "stops": [
@@ -9502,7 +9502,7 @@
       "layout": {
         "text-font": [
           "Open Sans Semibold",
-          "Open Sans Regular"
+          "Noto Sans Regular"
         ],
         "text-size": {
           "base": 1.2,
@@ -9586,7 +9586,7 @@
         "icon-size": 1,
         "text-font": [
           "Open Sans Semibold",
-          "Open Sans Regular"
+          "Noto Sans Regular"
         ],
         "text-size": {
           "base": 1.2,
@@ -9670,7 +9670,7 @@
       "layout": {
         "text-font": [
           "Noto Sans Regular",
-          "Open Sans Regular"
+          "Noto Sans Regular"
         ],
         "text-size": {
           "stops": [
@@ -9723,7 +9723,7 @@
       "layout": {
         "text-font": [
           "Open Sans Semibold",
-          "Open Sans Bold"
+          "Noto Sans Medium"
         ],
         "text-size": {
           "stops": [
@@ -9792,7 +9792,7 @@
       "layout": {
         "text-font": [
           "Open Sans Semibold",
-          "Open Sans Bold"
+          "Noto Sans Medium"
         ],
         "text-size": {
           "stops": [
@@ -9861,7 +9861,7 @@
       "layout": {
         "text-font": [
           "Open Sans Semibold",
-          "Open Sans Bold"
+          "Noto Sans Medium"
         ],
         "text-size": {
           "stops": [
@@ -10023,7 +10023,7 @@
       "metadata": {}
     }
   ],
-  "glyphs": "https://api.maptiler.com/fonts/{fontstack}/{range}.pbf?key=LVXocV2Y6nX6vEqq67iz",
+  "glyphs": "https://atlascove.github.io/basemaps-assets/fonts/{fontstack}/{range}.pbf?key=LVXocV2Y6nX6vEqq67iz",
   "sprite": "https://atlascove.github.io/basemaps-assets/sprites/sprites",
   "bearing": 0,
   "pitch": 0,

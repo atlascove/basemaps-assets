@@ -4,6 +4,7 @@ const path = require('path');
 // Configuration
 const TARGET_HEIGHT = 15;
 const TARGET_WIDTH = 15;
+const TARGET_VIEWBOX = "0 0 15 15";
 
 // Function to recursively find all SVG files
 function findSvgFiles(dir) {
@@ -48,6 +49,37 @@ function fixSvgDimensions(filePath) {
             return match;
         });
         
+        // Handle viewBox normalization
+        content = content.replace(/viewBox="([^"]+)"/g, (match, viewBox) => {
+            if (viewBox.trim() !== TARGET_VIEWBOX) {
+                modified = true;
+                return `viewBox="${TARGET_VIEWBOX}"`;
+            }
+            return match;
+        });
+        
+        // Add explicit width/height attributes if missing
+        const hasWidth = /width="/.test(content);
+        const hasHeight = /height="/.test(content);
+        
+        if (!hasWidth || !hasHeight) {
+            // Find the SVG opening tag
+            content = content.replace(/<svg([^>]*)>/g, (match, attributes) => {
+                let newAttributes = attributes;
+                
+                if (!hasWidth) {
+                    newAttributes = ` width="${TARGET_WIDTH}"` + newAttributes;
+                    modified = true;
+                }
+                if (!hasHeight) {
+                    newAttributes = ` height="${TARGET_HEIGHT}"` + newAttributes;
+                    modified = true;
+                }
+                
+                return `<svg${newAttributes}>`;
+            });
+        }
+        
         // Write back if modified
         if (modified) {
             fs.writeFileSync(filePath, content, 'utf8');
@@ -69,6 +101,7 @@ function analyzeSvgDimensions(dir) {
         total: svgFiles.length,
         widthStats: {},
         heightStats: {},
+        viewBoxStats: {},
         fixed: 0
     };
     
@@ -91,6 +124,13 @@ function analyzeSvgDimensions(dir) {
             if (heightMatch) {
                 const height = heightMatch[1];
                 stats.heightStats[height] = (stats.heightStats[height] || 0) + 1;
+            }
+            
+            // Extract viewBox
+            const viewBoxMatch = content.match(/viewBox="([^"]+)"/);
+            if (viewBoxMatch) {
+                const viewBox = viewBoxMatch[1].trim();
+                stats.viewBoxStats[viewBox] = (stats.viewBoxStats[viewBox] || 0) + 1;
             }
             
             // Fix if needed
@@ -142,8 +182,16 @@ function main() {
             console.log(`  ${emoji} height="${height}": ${count} files`);
         });
     
+    console.log('\n🎯 ViewBox distribution:');
+    Object.entries(stats.viewBoxStats)
+        .sort((a, b) => parseInt(b[1]) - parseInt(a[1]))
+        .forEach(([viewBox, count]) => {
+            const emoji = viewBox === TARGET_VIEWBOX ? '✅' : '⚠️';
+            console.log(`  ${emoji} viewBox="${viewBox}": ${count} files`);
+        });
+    
     if (stats.fixed > 0) {
-        console.log(`\n🎉 Successfully aligned ${stats.fixed} SVG files to ${TARGET_WIDTH}x${TARGET_HEIGHT} dimensions!`);
+        console.log(`\n🎉 Successfully aligned ${stats.fixed} SVG files to ${TARGET_WIDTH}x${TARGET_HEIGHT} dimensions with viewBox="${TARGET_VIEWBOX}"!`);
     } else {
         console.log('\n✨ All SVG files already have correct dimensions!');
     }

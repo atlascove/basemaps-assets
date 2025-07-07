@@ -1,5 +1,5 @@
 icon:
-	spreet ./icons ./test/sprite 
+	spreet ./icons ./sprites/sprites
 
-retina:
-	spreet --retina ./icons ./test/sprite@2x
+retina: 
+	spreet --retina ./icons ./sprites/sprites@2x

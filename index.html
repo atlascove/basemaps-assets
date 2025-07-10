@@ -23,9 +23,57 @@
     <script>
       const map = new maplibregl.Map({
         container: "map",
-        style: "https://atlascove.github.io/basemaps-assets/styles.json", // Make sure test.json is in the same directory
+        style: "http://127.0.0.1:8080/styles.json", // Make sure test.json is in the same directory
         center: [8.544425883402937, 47.04744592902591],
         zoom: 17.051075220003924, // Initial zoom level
+      });
+
+      map.on('load', () => {
+        // Function to add image markers for thumbnails
+        const addImageMarkers = () => {
+          const features = map.querySourceFeatures('pois', {
+            sourceLayer: 'pois'
+          });
+          
+          features?.forEach((feature) => {
+            if (feature.properties?.thumbnail && feature.geometry.type === 'Point') {
+              const coordinates = feature.geometry.coordinates;
+              
+              // Create image element
+              const img = document.createElement('img');
+              img.src = feature.properties.thumbnail;
+              img.style.width = '32px';
+              img.style.height = '32px';
+              img.style.borderRadius = '4px';
+              img.style.border = '2px solid white';
+              img.style.boxShadow = '0 2px 4px rgba(0,0,0,0.3)';
+              img.style.objectFit = 'cover';
+              
+              // Create marker
+              new maplibregl.Marker({
+                element: img,
+                anchor: 'bottom'
+              })
+              .setLngLat([coordinates[0], coordinates[1]])
+              .addTo(map);
+            }
+          });
+        };
+
+        // Debug: Log tile loading
+        map.on('sourcedataloading', (e) => {
+          if (e.sourceId === 'pois') {
+            console.log('Loading POI tiles...');
+          }
+        });
+
+        map.on('sourcedata', (e) => {
+          if (e.sourceId === 'pois' && e.isSourceLoaded) {
+            console.log('POI tiles loaded');
+            // Add image markers after tiles are loaded
+            setTimeout(addImageMarkers, 100); // Small delay to ensure features are available
+          }
+        });
       });
     </script>
   </body>

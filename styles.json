@@ -4,7 +4,11 @@
   "name": "fotoshi-osm-no-points",
   "sources": {
     "openmaptiles": {
-      "url": "https://dev.tiles.fotoshi.com/v1/base-maps/swiss.json",
+      "url": "https://dev.tiles.fotoshi.com/v1/base-maps/planet.json",
+      "type": "vector"
+    },
+    "pois": {
+      "url": "https://dev.api.fotoshi.com/v1/pois/tilejson",
       "type": "vector"
     }
   },
@@ -9707,7 +9711,7 @@
       "maxzoom": 12,
       "layout": {
         "text-font": [
-          "Open Sans Semibold"
+          "Noto Sans Medium"
         ],
         "text-size": {
           "stops": [
@@ -9775,7 +9779,7 @@
       "maxzoom": 12,
       "layout": {
         "text-font": [
-          "Open Sans Semibold"
+          "Noto Sans Medium"
         ],
         "text-size": {
           "stops": [
@@ -9843,7 +9847,7 @@
       "maxzoom": 12,
       "layout": {
         "text-font": [
-          "Open Sans Semibold"
+          "Noto Sans Medium"
         ],
         "text-size": {
           "stops": [
@@ -9905,8 +9909,8 @@
     {
       "id": "poi_label",
       "type": "symbol",
-      "source": "openmaptiles",
-      "source-layer": "poi",
+      "source": "pois",
+      "source-layer": "pois",
       "minzoom": 14,
       "layout": {
         "text-font": [
@@ -9933,8 +9937,8 @@
     {
       "id": "poi_all",
       "type": "symbol",
-      "source": "openmaptiles",
-      "source-layer": "poi",
+      "source": "pois",
+      "source-layer": "pois",
       "layout": {
         "icon-allow-overlap": false,
         "icon-image": [

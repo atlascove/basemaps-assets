@@ -28,11 +28,11 @@ SHOW ALL TABLES;
 SELECT DISTINCT icon FROM pg.presets;
 
 -- filter icon has in pg.presets but not in files
-SELECT icon FROM pg.presets
+SELECT DISTINCT icon FROM pg.presets
 WHERE icon NOT IN (SELECT icon_name FROM files);
 
 -- export csv
-COPY (SELECT icon FROM pg.presets
+COPY (SELECT DISTINCT icon FROM pg.presets
 WHERE icon NOT IN (SELECT icon_name FROM files))
 TO 'missing_icons.csv'
 WITH (FORMAT CSV, HEADER);

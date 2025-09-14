@@ -9912,6 +9912,7 @@
       "source": "pois",
       "source-layer": "pois",
       "minzoom": 14,
+      "maxzoom": 22,
       "layout": {
         "text-font": [
           "Noto Sans Italic"
@@ -9939,6 +9940,8 @@
       "type": "symbol",
       "source": "pois",
       "source-layer": "pois",
+      "minzoom": 14,
+      "maxzoom": 22,
       "layout": {
         "icon-allow-overlap": false,
         "icon-image": [
@@ -10011,6 +10014,7 @@
   "sprite": "https://atlascove.github.io/basemaps-assets/sprites/sprites",
   "bearing": 0,
   "pitch": 0,
+  "maxTileCacheZoomLevels": 8,
   "center": [
     8.544425883402937,
     47.04744592902591

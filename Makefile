@@ -1,4 +1,5 @@
 icon:
+	mkdir -p ./sprites
 	spreet ./icons ./sprites/sprites
 
 retina: 

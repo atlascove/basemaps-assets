@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Fotoshi Satellite Style Test</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link
+      href="https://unpkg.com/maplibre-gl@2.4.0/dist/maplibre-gl.css"
+      rel="stylesheet"
+    />
+    <style>
+      #map {
+        width: 100%;
+        height: 600px;
+      }
+      .style-switch {
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        z-index: 1000;
+        background-color: white;
+        padding: 5px;
+        border-radius: 4px;
+        box-shadow: 0 0 10px rgba(0,0,0,0.3);
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Fotoshi Satellite Style Test</h1>
+    <div class="style-switch">
+      <button id="switchStyle">Switch to Standard Style</button>
+    </div>
+    <div id="map"></div>
+
+    <script src="https://unpkg.com/maplibre-gl@2.4.0/dist/maplibre-gl.js"></script>
+    <script>
+      // Using local file path for the satellite style we just modified
+      const satelliteStyleUrl = "./satelite/styles.json";
+      const standardStyleUrl = "./styles.json";
+      
+      let currentStyle = satelliteStyleUrl;
+      const switchButton = document.getElementById('switchStyle');
+
+      const map = new maplibregl.Map({
+        container: "map",
+        style: currentStyle,
+        center: [8.544425883402937, 47.04744592902591],
+        zoom: 17.051075220003924, // Initial zoom level
+      });
+
+      // Function to toggle between styles
+      switchButton.addEventListener('click', () => {
+        currentStyle = currentStyle === satelliteStyleUrl ? standardStyleUrl : satelliteStyleUrl;
+        map.setStyle(currentStyle);
+        switchButton.textContent = currentStyle === satelliteStyleUrl ? 
+            "Switch to Standard Style" : "Switch to Satellite Style";
+        
+        // Re-attach event listeners after style change
+        map.once('styledata', setupMapEvents);
+      });
+
+      function setupMapEvents() {
+        // Function to add image markers for thumbnails
+        const addImageMarkers = () => {
+          const features = map.querySourceFeatures('pois', {
+            sourceLayer: 'pois'
+          });
+          
+          console.log('Found POI features:', features.length);
+          
+          features?.forEach((feature) => {
+            if (feature.properties?.thumbnail && feature.geometry.type === 'Point') {
+              const coordinates = feature.geometry.coordinates;
+              
+              // Create image element
+              const img = document.createElement('img');
+              img.src = feature.properties.thumbnail;
+              img.style.width = '32px';
+              img.style.height = '32px';
+              img.style.borderRadius = '4px';
+              img.style.border = '2px solid white';
+              img.style.boxShadow = '0 2px 4px rgba(0,0,0,0.3)';
+              img.style.objectFit = 'cover';
+              
+              // Create marker
+              new maplibregl.Marker({
+                element: img,
+                anchor: 'bottom'
+              })
+              .setLngLat([coordinates[0], coordinates[1]])
+              .addTo(map);
+            }
+          });
+        };
+
+        // Debug: Log tile loading
+        map.on('sourcedataloading', (e) => {
+          if (e.sourceId === 'pois') {
+            console.log('Loading POI tiles...');
+          }
+        });
+
+        map.on('sourcedata', (e) => {
+          if (e.sourceId === 'pois' && e.isSourceLoaded) {
+            console.log('POI tiles loaded');
+            // Add image markers after tiles are loaded
+            setTimeout(addImageMarkers, 100); // Small delay to ensure features are available
+          }
+        });
+      }
+
+      map.on('load', setupMapEvents);
+    </script>
+  </body>
+</html>

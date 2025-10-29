@@ -132,9 +132,16 @@
 
         <script src="https://unpkg.com/maplibre-gl@2.4.0/dist/maplibre-gl.js"></script>
         <script>
-            // Using local file path for the satellite style we just modified
-            const satelliteStyleUrl = "/satellite/styles.json";
-            const standardStyleUrl = "/styles.json";
+            // Determine base path based on host
+            const isLocalHost =
+                window.location.hostname === "localhost" ||
+                window.location.hostname === "127.0.0.1" ||
+                window.location.hostname === "";
+            const basePath = isLocalHost ? "" : "/basemaps-assets";
+
+            // Using dynamic path for the satellite style
+            const satelliteStyleUrl = `${basePath}/satellite/styles.json`;
+            const standardStyleUrl = `${basePath}/styles.json`;
 
             let currentStyle = satelliteStyleUrl;
             const switchButton = document.getElementById("switchStyle");

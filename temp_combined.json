@@ -53,7 +53,7 @@
       },
       "paint": {
         "fill-color": "#babcb5",
-        "fill-opacity": 0
+        "fill-opacity": 1
       },
       "metadata": {},
       "filter": [
@@ -114,8 +114,7 @@
               "#e0dfdf"
             ]
           ]
-        },
-        "fill-opacity": 0
+        }
       },
       "metadata": {},
       "filter": [
@@ -151,7 +150,7 @@
             ]
           ]
         },
-        "fill-opacity": 0
+        "fill-opacity": 1
       },
       "metadata": {},
       "filter": [
@@ -167,7 +166,7 @@
       "source-layer": "landcover",
       "maxzoom": 13,
       "layout": {
-        "visibility": "none"
+        "visibility": "visible"
       },
       "paint": {
         "fill-color": [
@@ -190,7 +189,18 @@
           "#efffd3",
           "#000"
         ],
-        "fill-opacity": 0,
+        "fill-opacity": {
+          "stops": [
+            [
+              7,
+              0.5
+            ],
+            [
+              10,
+              1
+            ]
+          ]
+        },
         "fill-antialias": false
       },
       "metadata": {},
@@ -214,7 +224,7 @@
       "source": "openmaptiles",
       "source-layer": "landcover",
       "layout": {
-        "visibility": "none"
+        "visibility": "visible"
       },
       "paint": {
         "line-color": "#c7c9ae",
@@ -236,12 +246,11 @@
       "source-layer": "landcover",
       "minzoom": 13,
       "layout": {
-        "visibility": "none"
+        "visibility": "visible"
       },
       "paint": {
         "fill-color": "rgba(195, 205, 195, 1)",
-        "fill-antialias": true,
-        "fill-opacity": 0
+        "fill-antialias": true
       },
       "filter": [
         "all",
@@ -259,7 +268,7 @@
       "source-layer": "landcover",
       "minzoom": 13,
       "layout": {
-        "visibility": "none"
+        "visibility": "visible"
       },
       "paint": {
         "fill-color": [
@@ -334,8 +343,7 @@
           "#ff0",
           "#FFFFFF"
         ],
-        "fill-antialias": true,
-        "fill-opacity": 0
+        "fill-antialias": true
       },
       "filter": [
         "all",
@@ -381,10 +389,31 @@
       "source-layer": "landcover",
       "minzoom": 13,
       "layout": {
-        "visibility": "none"
+        "visibility": "visible"
       },
       "paint": {
-        "fill-opacity": 0,
+        "fill-opacity": [
+          "match",
+          [
+            "get",
+            "subclass"
+          ],
+          "beach",
+          0.4,
+          "forest",
+          0.4,
+          "bare_rock",
+          0.3,
+          "scrub",
+          0.6,
+          "garden",
+          0.6,
+          "scree",
+          0.3,
+          "wood",
+          0.4,
+          1
+        ],
         "fill-pattern": [
           "match",
           [
@@ -480,7 +509,7 @@
       "source-layer": "landcover",
       "minzoom": 15,
       "layout": {
-        "visibility": "none"
+        "visibility": "visible"
       },
       "paint": {
         "line-color": [
@@ -531,8 +560,7 @@
       "minzoom": 5,
       "paint": {
         "fill-color": "#ddecec",
-        "fill-antialias": false,
-        "fill-opacity": 0
+        "fill-antialias": false
       },
       "metadata": {},
       "filter": [
@@ -542,10 +570,7 @@
           "class",
           "ice"
         ]
-      ],
-      "layout": {
-        "visibility": "none"
-      }
+      ]
     },
     {
       "id": "landcover_ice_outline",
@@ -554,7 +579,7 @@
       "source-layer": "landcover",
       "minzoom": 5,
       "layout": {
-        "visibility": "none"
+        "visibility": "visible"
       },
       "paint": {
         "line-color": "#9cf",
@@ -834,7 +859,7 @@
       },
       "paint": {
         "fill-color": "#deedef",
-        "fill-opacity": 0
+        "fill-opacity": 0.85
       },
       "metadata": {},
       "filter": [
@@ -855,8 +880,7 @@
         "visibility": "visible"
       },
       "paint": {
-        "fill-color": "#deedef",
-        "fill-opacity": 0
+        "fill-color": "#deedef"
       },
       "metadata": {},
       "filter": [
@@ -897,8 +921,7 @@
               "rgba(166, 157, 150, 1)"
             ]
           ]
-        },
-        "fill-opacity": 0
+        }
       },
       "metadata": {}
     },
@@ -1082,7 +1105,7 @@
       },
       "paint": {
         "fill-color": "#000000",
-        "fill-opacity": 0,
+        "fill-opacity": 1,
         "fill-pattern": [
           "match",
           [
@@ -3262,8 +3285,7 @@
       },
       "paint": {
         "fill-color": "rgba(135, 121, 97, 0.7)",
-        "fill-antialias": true,
-        "fill-opacity": 0
+        "fill-antialias": true
       },
       "metadata": {},
       "filter": [
@@ -3290,8 +3312,7 @@
       },
       "paint": {
         "fill-color": "rgba(246, 241, 229, 1)",
-        "fill-antialias": true,
-        "fill-opacity": 0
+        "fill-antialias": true
       },
       "metadata": {},
       "filter": [
@@ -3359,8 +3380,7 @@
       },
       "paint": {
         "fill-color": "#b8b8b8",
-        "fill-antialias": true,
-        "fill-opacity": 0
+        "fill-antialias": true
       },
       "metadata": {},
       "filter": [
@@ -3386,8 +3406,7 @@
         "visibility": "none"
       },
       "paint": {
-        "fill-color": "rgba(112, 84, 43, 0.76)",
-        "fill-opacity": 0
+        "fill-color": "rgba(112, 84, 43, 0.76)"
       },
       "metadata": {},
       "filter": [
@@ -3422,8 +3441,7 @@
         "visibility": "none"
       },
       "paint": {
-        "fill-color": "rgba(112, 84, 43, 0.7)",
-        "fill-opacity": 0
+        "fill-color": "rgba(112, 84, 43, 0.7)"
       },
       "metadata": {},
       "filter": [
@@ -10020,5 +10038,10 @@
     8.544425883402937,
     47.04744592902591
   ],
-  "zoom": 17.051075220003924
+  "zoom": 17.051075220003924,
+  "metadata": {
+    "fotoshi": {
+      "mapType": "satellite"
+    }
+  }
 }

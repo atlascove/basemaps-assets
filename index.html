@@ -2,79 +2,1712 @@
 <html>
   <head>
     <meta charset="utf-8" />
-    <title>MapLibre Example</title>
+    <title>Fotoshi Explorer Map</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link
       href="https://unpkg.com/maplibre-gl@2.4.0/dist/maplibre-gl.css"
+      rel="stylesheet"
+    />
+    <link
+      rel="icon"
+      type="image/svg+xml"
+      href='data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><circle cx="32" cy="32" r="30" fill="%23ffb72c"/><rect x="15" y="22" width="34" height="18" rx="4" fill="%23333333"/><rect x="26" y="17" width="12" height="6" rx="1.5" fill="%23333333"/><rect x="18" y="20" width="8" height="4" rx="1" fill="%23f2f2f2"/><circle cx="32" cy="31" r="10" fill="%23f2f2f2"/><circle cx="32" cy="31" r="6" fill="%23333333"/><rect x="42" y="23" width="6" height="4" rx="0.8" fill="%23f2f2f2"/></svg>'
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;600&display=swap"
       rel="stylesheet"
     />
     <style>
       #map {
         width: 100%;
         height: 600px;
+        position: relative;
+      }
+
+      body {
+        background-color: #044f2a;
+        font-family: 'Noto Sans', 'ToshibaSat 9x14', 'Press Start 2P', sans-serif;
+        color: #f5f5f5;
+      }
+
+      .app-title {
+        font-family: 'Noto Sans', 'ToshibaSat 9x14', 'Press Start 2P', sans-serif;
+        color: #ffd700;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+        margin-bottom: 12px;
+      }
+
+      .geocoder-control {
+        background: rgba(255, 255, 255, 0.95);
+        border-radius: 4px;
+        box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+        padding: 8px;
+        min-width: 240px;
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+      }
+
+      .mode-toggle {
+        background: rgba(255, 255, 255, 0.95);
+        border-radius: 4px;
+        box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+        padding: 8px 12px;
+        min-width: 240px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        gap: 8px;
+        font-family: 'Noto Sans', sans-serif;
+        font-size: 10px;
+      }
+
+      .mode-toggle button {
+        border: 1px solid #ccc;
+        background: #fff;
+        padding: 6px 12px;
+        border-radius: 4px;
+        cursor: pointer;
+        font-family: inherit;
+        font-size: inherit;
+        text-align: left;
+        width: 85px;
+        display: inline-flex;
+        align-items: center;
+        justify-content: flex-start;
+        white-space: nowrap;
+      }
+
+      .mode-toggle__btn--coverage {
+        width: 200px;
+        padding-right: 18px;
+      }
+
+      .mode-toggle button.active {
+        background: #ffd700;
+        border-color: #b39200;
+        color: #033015;
+      }
+
+      .geocoder-control input {
+        width: 100%;
+        padding: 6px 8px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+      }
+
+      .geocoder-results {
+        max-height: 180px;
+        overflow-y: auto;
+      }
+
+      .geocoder-result {
+        padding: 4px 6px;
+        border-radius: 4px;
+        cursor: pointer;
+        color: #000;
+      }
+
+      .geocoder-result:hover {
+        background-color: #f2e8ff;
+      }
+
+      .map-loading-overlay {
+        position: absolute;
+        inset: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        pointer-events: none;
+        background: rgba(4, 79, 42, 0.75);
+        z-index: 500;
+        opacity: 0;
+        transition: opacity 0.2s ease;
+      }
+
+      .maplibregl-ctrl-attrib {
+        color: #000;
+        background: rgba(255, 255, 255, 0.85);
+      }
+
+      .city-bar {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+        margin-top: 12px;
+      }
+
+      .city-button {
+        border: 1px solid #ccc;
+        background: rgba(255, 255, 255, 0.95);
+        border-radius: 4px;
+        padding: 6px 10px;
+        font-family: 'Noto Sans', sans-serif;
+        cursor: pointer;
+      }
+
+      .map-loading-overlay--visible {
+        opacity: 1;
+      }
+
+      .pixel-spinner {
+        display: grid;
+        grid-template-columns: repeat(3, 10px);
+        grid-template-rows: repeat(3, 10px);
+        gap: 4px;
+      }
+
+      .pixel-spinner__cell {
+        width: 10px;
+        height: 10px;
+        background: #ffd700;
+        animation: pixelBlink 0.9s infinite alternate;
+      }
+
+      .pixel-spinner__cell:nth-child(odd) {
+        animation-delay: 0.15s;
+      }
+
+      .pixel-spinner__cell:nth-child(even) {
+        animation-delay: 0.3s;
+      }
+
+      @keyframes pixelBlink {
+        from {
+          opacity: 0.4;
+          transform: scale(0.95);
+        }
+        to {
+          opacity: 1;
+          transform: scale(1.1);
+        }
+      }
+
+      .photo-modal {
+        position: fixed;
+        inset: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: rgba(0, 0, 0, 0.75);
+        z-index: 1000;
+        opacity: 0;
+        pointer-events: none;
+        transition: opacity 0.2s ease;
+      }
+
+      .photo-modal--visible {
+        opacity: 1;
+        pointer-events: auto;
+      }
+
+      .photo-modal__content {
+        position: relative;
+        max-width: 90vw;
+        max-height: 90vh;
+        background: #111;
+        border-radius: 12px;
+        padding: 16px 48px;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.45);
+        display: flex;
+        align-items: center;
+        gap: 16px;
+      }
+
+      .photo-modal__image {
+        max-width: 70vw;
+        max-height: 80vh;
+        border-radius: 8px;
+        object-fit: contain;
+        box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5);
+      }
+
+      .photo-modal__close {
+        position: absolute;
+        top: 8px;
+        right: 12px;
+        background: transparent;
+        border: none;
+        color: #fff;
+        font-size: 28px;
+        cursor: pointer;
+      }
+
+      .photo-modal__nav-btn {
+        background: rgba(255, 255, 255, 0.15);
+        border: none;
+        color: #fff;
+        font-size: 24px;
+        width: 48px;
+        height: 48px;
+        border-radius: 50%;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+      .photo-modal__nav-btn:disabled {
+        opacity: 0.3;
+        cursor: default;
+      }
+
+      .photo-modal__body {
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+        align-items: center;
+      }
+
+      .photo-modal__info {
+        width: 100%;
+        text-align: left;
+        color: #fff;
+        font-family: 'Noto Sans', sans-serif;
+        line-height: 1.5;
+      }
+
+      .photo-modal__text {
+        font-size: 12px;
+        letter-spacing: 0.5px;
+        margin: 0;
+      }
+
+      .photo-modal__text--secondary {
+        font-size: 10px;
+        opacity: 0.85;
+      }
+
+      .photo-modal__counter {
+        position: absolute;
+        bottom: 8px;
+        right: 16px;
+        color: #fff;
+        font-size: 12px;
+        font-family: 'Noto Sans', sans-serif;
+        letter-spacing: 1px;
       }
     </style>
   </head>
   <body>
-    <h1>test map</h1>
-    <div id="map"></div>
+    <h1 class="app-title">fotoshi explorer</h1>
+    <div id="map-container" style="position: relative;">
+      <div id="map"></div>
+      <div id="map-loading-overlay" class="map-loading-overlay">
+        <div class="pixel-spinner">
+          <span class="pixel-spinner__cell"></span>
+          <span class="pixel-spinner__cell"></span>
+          <span class="pixel-spinner__cell"></span>
+          <span class="pixel-spinner__cell"></span>
+          <span class="pixel-spinner__cell"></span>
+          <span class="pixel-spinner__cell"></span>
+          <span class="pixel-spinner__cell"></span>
+          <span class="pixel-spinner__cell"></span>
+          <span class="pixel-spinner__cell"></span>
+        </div>
+      </div>
+    </div>
+    <div id="photo-modal" class="photo-modal">
+      <div class="photo-modal__content">
+        <button id="photo-modal-close" class="photo-modal__close" type="button" aria-label="Close photo viewer">&times;</button>
+        <button id="photo-modal-prev" class="photo-modal__nav-btn" type="button" aria-label="Previous photo">&#10094;</button>
+        <div class="photo-modal__body">
+          <img id="photo-modal-image" class="photo-modal__image" alt="POI photo" />
+          <div class="photo-modal__info">
+            <div id="photo-modal-name" class="photo-modal__text"></div>
+            <div id="photo-modal-category" class="photo-modal__text photo-modal__text--secondary"></div>
+          </div>
+        </div>
+        <button id="photo-modal-next" class="photo-modal__nav-btn" type="button" aria-label="Next photo">&#10095;</button>
+        <div id="photo-modal-counter" class="photo-modal__counter"></div>
+      </div>
+    </div>
 
     <script src="https://unpkg.com/maplibre-gl@2.4.0/dist/maplibre-gl.js"></script>
-    <script>
+    <script type="module">
+      import Pbf from 'https://cdn.jsdelivr.net/npm/pbf@3.2.1/+esm';
+      import { VectorTile } from 'https://cdn.jsdelivr.net/npm/@mapbox/vector-tile@1.3.1/+esm';
+
+      window.Pbf = Pbf;
+      window.VectorTile = VectorTile;
+
       const map = new maplibregl.Map({
         container: "map",
-        style: "https://atlascove.github.io/basemaps-assets/styles.json", // Make sure test.json is in the same directory
+        style: "style_test.json", // Use local test style with adjusted POI zoom
         center: [8.544425883402937, 47.04744592902591],
         zoom: 17.051075220003924, // Initial zoom level
+        attributionControl: false
+      });
+
+      const modalElements = {
+        container: document.getElementById('photo-modal'),
+        close: document.getElementById('photo-modal-close'),
+        prev: document.getElementById('photo-modal-prev'),
+        next: document.getElementById('photo-modal-next'),
+        image: document.getElementById('photo-modal-image'),
+        counter: document.getElementById('photo-modal-counter'),
+        name: document.getElementById('photo-modal-name'),
+        category: document.getElementById('photo-modal-category')
+      };
+
+      const modalState = {
+        fid: null,
+        photos: [],
+        index: 0,
+        name: '',
+        category: '',
+        presetId: null,
+        tags: null,
+        displayName: ''
+      };
+
+      const poiMediaMap = new Map();
+      const fidImageTemplateMap = new Map();
+      const fidPhotoRequestCache = new Map();
+
+      const mapLoadingOverlay = document.getElementById('map-loading-overlay');
+      let poiLoadingActive = false;
+
+      const showLoadingOverlay = () => {
+        if (!poiLoadingActive) {
+          poiLoadingActive = true;
+          mapLoadingOverlay?.classList.add('map-loading-overlay--visible');
+        }
+      };
+
+      const hideLoadingOverlay = () => {
+        if (poiLoadingActive) {
+          poiLoadingActive = false;
+          mapLoadingOverlay?.classList.remove('map-loading-overlay--visible');
+        }
+      };
+
+      const POI_TILE_ZOOM = 14;
+      const POI_TILE_URL_TEMPLATE = 'https://dev.api.fotoshi.com/v1/pois/tiles-duckdb/{z}/{x}/{y}.pbf';
+      const PLACE_MEDIA_API_URL = "https://dev.api.fotoshi.com/v1/places";
+      const HOT_PINK_LAYER_ID = 'poi-hotpink';
+      const COVERAGE_SOURCE_ID = 'poi-coverage';
+      const COVERAGE_LAYER_ID = 'poi-coverage-layer';
+      const POI_TILE_CACHE_TTL = 60000;
+      const poiTileCache = new Map();
+      let coverageUpdateInFlight = false;
+      let coverageUpdateTimeout = null;
+      let hotPinkEventsBound = false;
+      let coverageLayerEventsBound = false;
+      let currentMode = 'photos';
+      const IMAGE_EXTENSION_REGEX = /\.(jpe?g|png|gif|webp|avif)$/i;
+      let presetIndex = null;
+      const presetFetchPromise = fetch('https://dev.api.fotoshi.com/v1/presets')
+        .then((response) => response.json())
+        .then((data) => {
+          const index = new Map();
+          if (Array.isArray(data)) {
+            data.forEach((preset) => {
+              if (preset?.id != null) {
+                index.set(preset.id, preset);
+              }
+            });
+          }
+          presetIndex = index;
+          console.log(`Loaded ${index.size} presets for metadata lookup.`);
+        })
+        .catch((error) => {
+          console.error('Failed to load preset metadata:', error);
+          presetIndex = new Map();
+        });
+
+      const emptyFeatureCollection = () => ({
+        type: 'FeatureCollection',
+        features: []
+      });
+
+      const normalizeUrl = (url) => (typeof url === 'string' ? url.trim() : '');
+
+      const isHttpUrl = (value) =>
+        typeof value === 'string' && /^https?:\/\//i.test(value.trim());
+
+      const looksLikeImage = (value) => {
+        if (!isHttpUrl(value)) {
+          return false;
+        }
+        const candidate = value.split('?')[0];
+        return IMAGE_EXTENSION_REGEX.test(candidate);
+      };
+
+      const isLikelyImageUrl = (value) => isHttpUrl(value);
+
+      const addUrlToSet = (set, value) => {
+        const normalized = normalizeUrl(value);
+        if (!normalized) return;
+        if (!set.has(normalized)) {
+          set.add(normalized);
+        }
+      };
+
+      const maybeParseList = (value) => {
+        if (!value) return [];
+        if (Array.isArray(value)) return value;
+        if (typeof value === 'string') {
+          try {
+            const parsed = JSON.parse(value);
+            if (Array.isArray(parsed)) {
+              return parsed;
+            }
+          } catch (error) {
+            // Ignore parse errors and fallback to comma splitting
+          }
+          return value
+            .split(',')
+            .map((item) => item.trim())
+            .filter(Boolean);
+        }
+        return [];
+      };
+
+      const extractPhotoUrls = (properties = {}) => {
+        const urlSet = new Set();
+        const preferredKeys = [
+          'thumbnail',
+          'thumbnail_url',
+          'image',
+          'image_url',
+          'photo',
+          'photo_url',
+          'preview'
+        ];
+
+        preferredKeys.forEach((key) => {
+          if (properties[key]) {
+            addUrlToSet(urlSet, properties[key]);
+          }
+        });
+
+        ['images', 'image_urls', 'photos'].forEach((key) => {
+          maybeParseList(properties[key]).forEach((entry) => addUrlToSet(urlSet, entry));
+        });
+
+        Object.values(properties).forEach((value) => {
+          if (looksLikeImage(value) && IMAGE_EXTENSION_REGEX.test(value.split('?')[0])) {
+            addUrlToSet(urlSet, value);
+          }
+        });
+
+        return Array.from(urlSet);
+      };
+
+      const addPhotosToGallery = (fid, urls = []) => {
+        if (!fid) {
+          return false;
+        }
+
+        const normalized =
+          urls
+            ?.map((url) => normalizeUrl(url))
+            .filter(Boolean) ?? [];
+
+        const unique = [...new Set(normalized)];
+        if (!unique.length) {
+          return false;
+        }
+
+        poiMediaMap.set(fid, unique);
+        return true;
+      };
+
+      const deriveImageTemplate = (urlString) => {
+        if (!urlString || !isHttpUrl(urlString)) {
+          return null;
+        }
+
+        try {
+          const url = new URL(urlString);
+          const segments = url.pathname.split('/').filter(Boolean);
+          if (!segments.length) {
+            return null;
+          }
+          segments.pop(); // remove filename
+          const directory = segments.length ? `/${segments.join('/')}/` : '/';
+          return {
+            base: `${url.origin}${directory}`,
+            query: url.search || ''
+          };
+        } catch (error) {
+          console.warn('Failed to derive image template from URL:', urlString, error);
+          return null;
+        }
+      };
+
+      const rememberImageTemplateFromProperties = (fid, properties) => {
+        if (!fid || !properties || fidImageTemplateMap.has(fid)) {
+          return;
+        }
+
+        const candidateKeys = [
+          'thumbnail',
+          'image',
+          'image_url',
+          'photo',
+          'photo_url',
+          'preview'
+        ];
+
+        for (const key of candidateKeys) {
+          if (properties[key] && isHttpUrl(properties[key])) {
+            const template = deriveImageTemplate(properties[key]);
+            if (template) {
+              fidImageTemplateMap.set(fid, template);
+              return;
+            }
+          }
+        }
+      };
+
+      const ensureImageTemplateForFid = (fid) => {
+        if (!fid) {
+          return null;
+        }
+
+        if (fidImageTemplateMap.has(fid)) {
+          return fidImageTemplateMap.get(fid);
+        }
+
+        const gallery = poiMediaMap.get(fid);
+        if (gallery?.length) {
+          for (const url of gallery) {
+            const template = deriveImageTemplate(url);
+            if (template) {
+              fidImageTemplateMap.set(fid, template);
+              return template;
+            }
+          }
+        }
+
+        return null;
+      };
+
+      const buildImageUrlFromOid = (fid, oid, extension = 'jpeg') => {
+        if (!fid || !oid) {
+          return null;
+        }
+
+        const template = ensureImageTemplateForFid(fid);
+        if (!template) {
+          console.warn('Missing image template for fid:', fid, 'unable to build URL for oid:', oid);
+          return null;
+        }
+
+        const cleanOid = oid.toString().trim();
+        if (!cleanOid) {
+          return null;
+        }
+
+        return `${template.base}${cleanOid}.${extension}${template.query}`;
+      };
+
+      const getFeatureFid = (properties = {}) => properties?.fid || null;
+
+      const registerFeatureMedia = (fid, properties) => {
+        if (!fid || !properties) {
+          return;
+        }
+
+        rememberImageTemplateFromProperties(fid, properties);
+      };
+
+      const updateModalCounter = () => {
+        if (!isModalVisible() || !modalState.photos.length) {
+          modalElements.counter.textContent = '';
+          return;
+        }
+        modalElements.counter.textContent = `${modalState.index + 1}/${modalState.photos.length}`;
+      };
+
+      const buildPlaceApiUrl = (fid) =>
+        `${PLACE_MEDIA_API_URL}?has_id=${encodeURIComponent(fid)}&urls=true`;
+
+      const collectImageUrlsFromValue = (value, set) => {
+        if (!value) {
+          return;
+        }
+        if (typeof value === 'string') {
+          if (isLikelyImageUrl(value)) {
+            addUrlToSet(set, value);
+          }
+          return;
+        }
+        if (Array.isArray(value)) {
+          value.forEach((entry) => collectImageUrlsFromValue(entry, set));
+          return;
+        }
+        if (typeof value === 'object') {
+          Object.values(value).forEach((entry) => collectImageUrlsFromValue(entry, set));
+        }
+      };
+
+      const extractImageUrlsFromApiImage = (image, fallbackFid) => {
+        const collected = new Set();
+        if (!image || typeof image !== 'object') {
+          return [];
+        }
+
+        const fid = image.fid || fallbackFid;
+
+        const directKeys = ['url', 'image_url', 'thumbnail', 'thumbnail_url', 'preview_url'];
+        directKeys.forEach((key) => {
+          if (image[key] && isLikelyImageUrl(image[key])) {
+            addUrlToSet(collected, image[key]);
+          }
+        });
+
+        if (image.urls) {
+          collectImageUrlsFromValue(image.urls, collected);
+        }
+
+        if (!collected.size && fid && image.oid && typeof image.oid === 'string') {
+          const derivedUrl = buildImageUrlFromOid(fid, image.oid, 'jpeg');
+          if (derivedUrl) {
+            collected.add(derivedUrl);
+          } else {
+            console.warn('Unable to derive URL for image oid', image.oid, 'fid', fid);
+          }
+        }
+
+        return Array.from(collected);
+      };
+
+      const extractPhotoUrlsFromApiResponse = (data, fallbackFid) => {
+        if (!Array.isArray(data)) {
+          return [];
+        }
+        const urls = [];
+        data.forEach((place) => {
+          const fid = place?.fid || fallbackFid;
+          if (!Array.isArray(place.images)) {
+            return;
+          }
+          place.images.forEach((image) => {
+            const imageUrls = extractImageUrlsFromApiImage(image, fid);
+            if (imageUrls.length) {
+              urls.push(...imageUrls);
+            }
+          });
+        });
+        return urls;
+      };
+
+      const extractPlaceMetadata = (data, fid) => {
+        if (!Array.isArray(data)) {
+          return null;
+        }
+        const place = data.find((entry) => entry.fid === fid) || data[0];
+        if (!place) {
+          return null;
+        }
+
+        const tags =
+          place.tags_secondary ||
+          place.tags_primary ||
+          null;
+        const displayName =
+          place.tags_secondary?.name ||
+          place.tags_primary?.name ||
+          (Array.isArray(place.pretty_names) ? place.pretty_names[0] : '') ||
+          '';
+
+        return {
+          presetId: place.preset_id ?? null,
+          tags,
+          displayName
+        };
+      };
+
+      const fetchAdditionalPhotos = async (fid) => {
+        if (!fid) {
+          return { urls: [], metadata: null };
+        }
+
+        if (fidPhotoRequestCache.has(fid)) {
+          return fidPhotoRequestCache.get(fid);
+        }
+
+        const request = (async () => {
+          try {
+            console.log('Fetching additional photos for fid:', fid);
+            const response = await fetch(buildPlaceApiUrl(fid));
+            if (!response.ok) {
+              throw new Error(`Failed to fetch extra photos for ${fid}`);
+            }
+            const data = await response.json();
+            const urls = extractPhotoUrlsFromApiResponse(data, fid);
+            const metadata = extractPlaceMetadata(data, fid);
+            console.log(`Found ${urls.length} additional photos for fid ${fid}`);
+            return { urls, metadata };
+          } catch (error) {
+            console.error('Failed to fetch additional photos:', error);
+            return { urls: [], metadata: null };
+          }
+        })();
+
+        fidPhotoRequestCache.set(fid, request);
+        return request;
+      };
+
+      const isModalVisible = () =>
+        modalElements.container.classList.contains('photo-modal--visible');
+
+      const toggleModalVisibility = (show) => {
+        if (show) {
+          modalElements.container.classList.add('photo-modal--visible');
+        } else {
+          modalElements.container.classList.remove('photo-modal--visible');
+        }
+      };
+
+      const convertJpegToJpg = (url) => {
+        if (!url) return null;
+        const [path, query] = url.split('?');
+        if (!/\.jpeg$/i.test(path)) return null;
+        const newPath = path.replace(/\.jpeg$/i, '.jpg');
+        return query ? `${newPath}?${query}` : newPath;
+      };
+
+      const updateModalNavButtons = () => {
+        const multiple = modalState.photos.length > 1;
+        modalElements.prev.disabled = !multiple;
+        modalElements.next.disabled = !multiple;
+        modalElements.prev.style.visibility = multiple ? 'visible' : 'hidden';
+        modalElements.next.style.visibility = multiple ? 'visible' : 'hidden';
+      };
+
+      const showModalImage = () => {
+        if (!modalState.photos.length) {
+          return;
+        }
+
+        const url = modalState.photos[modalState.index];
+        modalElements.image.dataset.originalUrl = url;
+        modalElements.image.dataset.usedFallback = 'false';
+        modalElements.image.src = url;
+        updateModalCounter();
+        modalElements.name.textContent = modalState.name ? `Name: ${modalState.name}` : '';
+        modalElements.category.textContent = modalState.category ? `Category: ${modalState.category}` : '';
+        modalElements.name.style.display = modalState.name ? 'block' : 'none';
+        modalElements.category.style.display = modalState.category ? 'block' : 'none';
+      };
+
+      const handleModalImageError = () => {
+        const originalUrl = modalElements.image.dataset.originalUrl || modalElements.image.src;
+        if (modalElements.image.dataset.usedFallback === 'true') {
+          console.warn('Photo failed to load:', originalUrl);
+          return;
+        }
+
+        const fallbackUrl = convertJpegToJpg(originalUrl);
+        if (fallbackUrl) {
+          modalElements.image.dataset.usedFallback = 'true';
+          modalElements.image.src = fallbackUrl;
+          return;
+        }
+
+        modalElements.image.dataset.usedFallback = 'true';
+        console.warn('Photo failed to load and no fallback available:', originalUrl);
+      };
+
+      const openPhotoModal = async (fid, properties = {}) => {
+        ensureImageTemplateForFid(fid);
+
+        const { urls: additionalPhotos, metadata } = await fetchAdditionalPhotos(fid);
+        if (!additionalPhotos.length) {
+          console.warn('No photos available for fid', fid, 'from API response');
+          return;
+        }
+
+        addPhotosToGallery(fid, additionalPhotos);
+        modalState.fid = fid;
+        modalState.photos = poiMediaMap.get(fid) || additionalPhotos;
+        modalState.index = 0;
+        modalState.presetId = metadata?.presetId ?? properties.preset_id ?? null;
+        modalState.tags = metadata?.tags || properties.tags_secondary || properties.tags_primary || null;
+        modalState.displayName =
+          metadata?.displayName ||
+          properties.tags_secondary?.name ||
+          properties.tags_primary?.name ||
+          properties.name ||
+          '';
+
+        modalState.name = '';
+        modalState.category = '';
+
+        updateModalNavButtons();
+        await presetFetchPromise.catch(() => {});
+        updateModalMetadata();
+        showModalImage();
+        toggleModalVisibility(true);
+      };
+
+      const closePhotoModal = () => {
+        toggleModalVisibility(false);
+        modalState.fid = null;
+        modalState.photos = [];
+        modalState.index = 0;
+        modalState.name = '';
+        modalState.category = '';
+        modalState.presetId = null;
+        modalState.tags = null;
+        modalState.displayName = '';
+        modalElements.counter.textContent = '';
+      };
+
+      const updateModalMetadata = () => {
+        let name = '';
+        let category = '';
+
+        if (modalState.displayName) {
+          name = modalState.displayName;
+        } else if (modalState.tags?.name) {
+          name = modalState.tags.name;
+        }
+
+        if (modalState.presetId != null && presetIndex?.has(modalState.presetId)) {
+          const preset = presetIndex.get(modalState.presetId);
+          category = preset?.name || '';
+        }
+
+        modalState.name = name;
+        modalState.category = category;
+        modalElements.name.style.display = name ? 'block' : 'none';
+        modalElements.category.style.display = category ? 'block' : 'none';
+      };
+
+      const navigateModal = (direction) => {
+        if (!modalState.photos.length) {
+          return;
+        }
+
+        modalState.index =
+          (modalState.index + direction + modalState.photos.length) % modalState.photos.length;
+        showModalImage();
+      };
+
+      modalElements.image.addEventListener('error', handleModalImageError);
+      modalElements.close.addEventListener('click', (event) => {
+        event.stopPropagation();
+        closePhotoModal();
+      });
+      modalElements.prev.addEventListener('click', (event) => {
+        event.stopPropagation();
+        if (!modalElements.prev.disabled) {
+          navigateModal(-1);
+        }
+      });
+      modalElements.next.addEventListener('click', (event) => {
+        event.stopPropagation();
+        if (!modalElements.next.disabled) {
+          navigateModal(1);
+        }
+      });
+      modalElements.container.addEventListener('click', (event) => {
+        if (event.target === modalElements.container) {
+          closePhotoModal();
+        }
+      });
+      document.addEventListener('keydown', (event) => {
+        if (!isModalVisible()) {
+          return;
+        }
+        if (event.key === 'Escape') {
+          closePhotoModal();
+        } else if (event.key === 'ArrowRight') {
+          navigateModal(1);
+        } else if (event.key === 'ArrowLeft') {
+          navigateModal(-1);
+        }
+      });
+
+      const degToRad = (deg) => (deg * Math.PI) / 180;
+      const radToDeg = (rad) => (rad * 180) / Math.PI;
+      const clampLat = (lat) => Math.max(-85.05112878, Math.min(85.05112878, lat));
+      const normalizeLng = (lng) => {
+        let normalized = lng;
+        while (normalized < -180) normalized += 360;
+        while (normalized > 180) normalized -= 360;
+        return normalized;
+      };
+
+      const lonToTile = (lon, zoom) => {
+        const n = 1 << zoom;
+        return Math.floor(((normalizeLng(lon) + 180) / 360) * n);
+      };
+
+      const latToTile = (lat, zoom) => {
+        const latRad = degToRad(clampLat(lat));
+        const n = 1 << zoom;
+        return Math.floor(
+          (1 - Math.log(Math.tan(latRad) + 1 / Math.cos(latRad)) / Math.PI) / 2 * n
+        );
+      };
+
+      const tileXToLon = (x, zoom) => {
+        const n = 1 << zoom;
+        return (x / n) * 360 - 180;
+      };
+
+      const tileYToLat = (y, zoom) => {
+        const n = 1 << zoom;
+        const rad = Math.atan(Math.sinh(Math.PI * (1 - 2 * y / n)));
+        return radToDeg(rad);
+      };
+
+      const tileCoordToPolygon = (coord) => {
+        const west = tileXToLon(coord.x, coord.z);
+        const east = tileXToLon(coord.x + 1, coord.z);
+        const north = tileYToLat(coord.y, coord.z);
+        const south = tileYToLat(coord.y + 1, coord.z);
+        return [
+          [west, south],
+          [east, south],
+          [east, north],
+          [west, north],
+          [west, south]
+        ];
+      };
+
+      const getTileCoverage = (bounds, zoom) => {
+        const sw = bounds.getSouthWest();
+        const ne = bounds.getNorthEast();
+        const south = clampLat(sw.lat);
+        const north = clampLat(ne.lat);
+        const worldTileCount = 1 << zoom;
+
+        const minY = latToTile(north, zoom);
+        const maxY = latToTile(south, zoom);
+
+        const startX = lonToTile(sw.lng, zoom);
+        const endX = lonToTile(ne.lng, zoom);
+        const tiles = [];
+        const xTiles = [startX];
+        let currentX = startX;
+
+        while (currentX !== endX) {
+          currentX = (currentX + 1) % worldTileCount;
+          xTiles.push(currentX);
+          if (xTiles.length > worldTileCount) {
+            break;
+          }
+        }
+
+        xTiles.forEach((xTile) => {
+          for (let y = minY; y <= maxY; y += 1) {
+            tiles.push({ x: xTile, y, z: zoom });
+          }
+        });
+
+        return tiles;
+      };
+
+      const expandTilesToTarget = (tiles, baseZoom, targetZoom) => {
+        if (baseZoom >= targetZoom) {
+          const zoomDiff = baseZoom - targetZoom;
+          const divisor = 1 << zoomDiff;
+          return tiles.map((tile) => ({
+            z: targetZoom,
+            x: Math.floor(tile.x / divisor),
+            y: Math.floor(tile.y / divisor)
+          }));
+        }
+
+        const result = [];
+        const zoomDiff = targetZoom - baseZoom;
+        const factor = 1 << zoomDiff;
+        const limit = 1 << targetZoom;
+        tiles.forEach((tile) => {
+          for (let dx = 0; dx < factor; dx += 1) {
+            for (let dy = 0; dy < factor; dy += 1) {
+              const x = (tile.x * factor + dx) % limit;
+              const y = tile.y * factor + dy;
+              result.push({
+                z: targetZoom,
+                x,
+                y
+              });
+            }
+          }
+        });
+        return result;
+      };
+
+      const toLngLat = (tileCoord, point, extent) => {
+        const worldSize = Math.pow(2, tileCoord.z);
+        const worldX = tileCoord.x + point.x / extent;
+        const worldY = tileCoord.y + point.y / extent;
+        const lng = (worldX / worldSize) * 360 - 180;
+        const latRadians = Math.atan(Math.sinh(Math.PI * (1 - 2 * worldY / worldSize)));
+        const lat = (latRadians * 180) / Math.PI;
+        return [lng, lat];
+      };
+
+      const buildPoiTileUrl = (coord) =>
+        POI_TILE_URL_TEMPLATE
+          .replace('{z}', coord.z)
+          .replace('{x}', coord.x)
+          .replace('{y}', coord.y);
+
+      const loadPoiTile = async (tileCoord) => {
+        const cacheKey = `${tileCoord.z}/${tileCoord.x}/${tileCoord.y}`;
+        const cached = poiTileCache.get(cacheKey);
+        if (cached && Date.now() - cached.timestamp < POI_TILE_CACHE_TTL) {
+          return cached.features;
+        }
+
+        try {
+          const url = buildPoiTileUrl(tileCoord);
+          const response = await fetch(url);
+          if (!response.ok) {
+            throw new Error(`Failed to load POI tile ${url}`);
+          }
+          const buffer = await response.arrayBuffer();
+          const VectorTileCtor = getVectorTileConstructor();
+          const PbfCtor = window.Pbf;
+          if (!VectorTileCtor || !PbfCtor) {
+            console.warn('Vector tile parser is not available for POI tiles.');
+            return [];
+          }
+
+          const tile = new VectorTileCtor(new PbfCtor(buffer));
+          const layer = tile.layers?.pois;
+          if (!layer) {
+            return [];
+          }
+
+          const features = [];
+          for (let i = 0; i < layer.length; i += 1) {
+            const feature = layer.feature(i);
+            if (feature.type !== 1) {
+              continue;
+            }
+            const props = feature.properties || {};
+            const fid = getFeatureFid(props);
+            if (!fid) {
+              continue;
+            }
+            features.push({
+              type: 'Feature',
+              properties: {
+                ...props,
+                fid
+              }
+            });
+          }
+
+          poiTileCache.set(cacheKey, {
+            features,
+            timestamp: Date.now()
+          });
+          return features;
+        } catch (error) {
+          console.error('POI tile request failed:', error);
+          return [];
+        }
+      };
+
+      const buildTileUrl = (template, coord) => {
+        const replacements = {
+          '{z}': coord.z,
+          '{x}': coord.x,
+          '{y}': coord.y,
+          '{-y}': (1 << coord.z) - 1 - coord.y
+        };
+
+        let url = template;
+        Object.entries(replacements).forEach(([token, value]) => {
+          url = url.replace(new RegExp(token, 'g'), value);
+        });
+
+        if (url.includes('{s}')) {
+          url = url.replace('{s}', 'a');
+        }
+
+        return url;
+      };
+
+      const getVectorTileConstructor = () => {
+        if (window.vectorTile?.VectorTile) {
+          return window.vectorTile.VectorTile;
+        }
+        if (window.mapboxVectorTile?.VectorTile) {
+          return window.mapboxVectorTile.VectorTile;
+        }
+        if (window.vector_tile?.VectorTile) {
+          return window.vector_tile.VectorTile;
+        }
+        if (window.VectorTile) {
+          return window.VectorTile;
+        }
+        return null;
+      };
+
+
+      const clearCoverageTiles = () => {
+        const source = map.getSource(COVERAGE_SOURCE_ID);
+        if (source) {
+          source.setData(emptyFeatureCollection());
+        }
+      };
+
+      const updateHotPinkLayerVisibility = () => {
+        if (!map.getLayer(HOT_PINK_LAYER_ID)) {
+          return;
+        }
+        map.setLayoutProperty(
+          HOT_PINK_LAYER_ID,
+          'visibility',
+          currentMode === 'coverage' ? 'visible' : 'none'
+        );
+      };
+
+      const ensureHotPinkLayer = () => {
+        if (map.getLayer(HOT_PINK_LAYER_ID)) {
+          updateHotPinkLayerVisibility();
+          return;
+        }
+        if (!map.getSource('pois')) {
+          return;
+        }
+        map.addLayer(
+          {
+            id: HOT_PINK_LAYER_ID,
+            type: 'circle',
+            source: 'pois',
+            'source-layer': 'pois',
+            filter: ['has', 'fid'],
+            paint: {
+              'circle-color': '#ff4f93',
+              'circle-opacity': 0.7,
+              'circle-radius': [
+                'interpolate',
+                ['linear'],
+                ['zoom'],
+                10,
+                6,
+                16,
+                12
+              ]
+            }
+          },
+          'poi_all'
+        );
+        updateHotPinkLayerVisibility();
+
+        if (!hotPinkEventsBound) {
+          map.on('click', HOT_PINK_LAYER_ID, async (event) => {
+            const props = event.features?.[0]?.properties || {};
+            const fid = getFeatureFid(props);
+            if (fid) {
+              await openPhotoModal(fid);
+            }
+          });
+          map.on('mouseenter', HOT_PINK_LAYER_ID, () => {
+            map.getCanvas().style.cursor = 'pointer';
+          });
+          map.on('mouseleave', HOT_PINK_LAYER_ID, () => {
+            map.getCanvas().style.cursor = '';
+          });
+          hotPinkEventsBound = true;
+        }
+      };
+
+      const ensureCoverageSource = () => {
+        if (!map.isStyleLoaded()) {
+          return;
+        }
+        if (!map.getSource(COVERAGE_SOURCE_ID)) {
+          map.addSource(COVERAGE_SOURCE_ID, {
+            type: 'geojson',
+            data: emptyFeatureCollection()
+          });
+        }
+        if (!map.getLayer(COVERAGE_LAYER_ID)) {
+          map.addLayer(
+            {
+              id: COVERAGE_LAYER_ID,
+              type: 'fill',
+              source: COVERAGE_SOURCE_ID,
+              paint: {
+                'fill-color': '#ff4f93',
+                'fill-opacity': 0.5,
+                'fill-outline-color': '#bf2c6c'
+              },
+              layout: {
+                visibility: 'none'
+              }
+            },
+            HOT_PINK_LAYER_ID
+          );
+        }
+
+        if (!coverageLayerEventsBound) {
+          map.on('click', COVERAGE_LAYER_ID, async (event) => {
+            const props = event.features?.[0]?.properties || {};
+            const fid = getFeatureFid(props);
+            if (fid) {
+              await openPhotoModal(fid);
+            }
+          });
+
+          map.on('mouseenter', COVERAGE_LAYER_ID, () => {
+            map.getCanvas().style.cursor = 'pointer';
+          });
+
+          map.on('mouseleave', COVERAGE_LAYER_ID, () => {
+            map.getCanvas().style.cursor = '';
+          });
+
+          coverageLayerEventsBound = true;
+        }
+
+        updateCoverageLayerVisibility();
+      };
+
+      const updateCoverageLayerVisibility = () => {
+        if (!map.getLayer(COVERAGE_LAYER_ID)) {
+          return;
+        }
+        map.setLayoutProperty(
+          COVERAGE_LAYER_ID,
+          'visibility',
+          currentMode === 'coverage' ? 'visible' : 'none'
+        );
+        if (currentMode === 'coverage') {
+          map.setPaintProperty(COVERAGE_LAYER_ID, 'fill-opacity', 0.5);
+        } else {
+          map.setPaintProperty(COVERAGE_LAYER_ID, 'fill-opacity', 0);
+        }
+      };
+
+
+      const updateCoverageTiles = async () => {
+        if (coverageUpdateInFlight) {
+          return;
+        }
+        coverageUpdateInFlight = true;
+        try {
+          if (currentMode !== 'coverage') {
+            clearCoverageTiles();
+            return;
+          }
+
+          const zoom = map.getZoom();
+          if (map.isMoving()) {
+            coverageUpdateInFlight = false;
+            return;
+          }
+
+          if (zoom < 10 || zoom >= 14) {
+            clearCoverageTiles();
+            console.log('Coverage: zoom outside range, clearing tiles');
+            return;
+          }
+
+          const bounds = map.getBounds();
+          const baseZoom = Math.min(Math.max(Math.floor(zoom), 10), 13);
+          const baseTiles = getTileCoverage(bounds, baseZoom);
+          const tiles = expandTilesToTarget(baseTiles, baseZoom, POI_TILE_ZOOM);
+          if (!tiles.length) {
+            clearCoverageTiles();
+            console.log('Coverage: no tiles in view');
+            return;
+          }
+
+          const seenTiles = new Set();
+          const polygons = [];
+          console.log('Coverage: evaluating tiles', tiles.length);
+          const tileResults = await Promise.all(
+            tiles.map(async (tileCoord) => {
+              const tileFeatures = await loadPoiTile(tileCoord);
+              return { tileCoord, tileFeatures };
+            })
+          );
+
+          tileResults.forEach(({ tileCoord, tileFeatures }) => {
+            const featureWithFid = tileFeatures.find((feature) => getFeatureFid(feature.properties));
+            if (!featureWithFid) {
+              return;
+            }
+            const key = `${tileCoord.x}-${tileCoord.y}-${tileCoord.z}`;
+            if (seenTiles.has(key)) {
+              return;
+            }
+            seenTiles.add(key);
+            const fid = getFeatureFid(featureWithFid.properties);
+            polygons.push({
+              type: 'Feature',
+              geometry: {
+                type: 'Polygon',
+                coordinates: [tileCoordToPolygon(tileCoord)]
+              },
+              properties: {
+                tile: `${tileCoord.z}/${tileCoord.x}/${tileCoord.y}`,
+                fid
+              }
+            });
+          });
+
+          const source = map.getSource(COVERAGE_SOURCE_ID);
+          if (source) {
+            source.setData({
+              type: 'FeatureCollection',
+              features: polygons
+            });
+            console.log('Coverage: updated polygons', polygons.length);
+          }
+        } finally {
+          coverageUpdateInFlight = false;
+        }
+      };
+
+      const scheduleCoverageUpdate = () => {
+        if (coverageUpdateTimeout) {
+          clearTimeout(coverageUpdateTimeout);
+        }
+        coverageUpdateTimeout = setTimeout(() => {
+          if (currentMode === 'coverage') {
+            updateCoverageTiles();
+          }
+        }, 500);
+      };
+
+      const logLoadedSources = () => {
+        const style = map.getStyle();
+        const configuredSources = style?.sources ? Object.keys(style.sources) : [];
+        console.log('Configured style sources:', configuredSources);
+
+        const sourceCaches = map.style?._sourceCaches || {};
+        const cacheSummary = Object.entries(sourceCaches).map(([id, cache]) => {
+          const tiles = cache?._tiles ? Object.keys(cache._tiles) : [];
+          return { id, tileCount: tiles.length };
+        });
+        console.log('Active source caches:', cacheSummary);
+      };
+
+      class SimpleGeocoderControl {
+        onAdd(map) {
+          this._map = map;
+          this._container = document.createElement('div');
+          this._container.className = 'geocoder-control maplibregl-ctrl';
+
+          const form = document.createElement('form');
+          form.addEventListener('submit', (event) => {
+            event.preventDefault();
+            this._search();
+          });
+
+          this._input = document.createElement('input');
+          this._input.type = 'search';
+          this._input.placeholder = 'Search for a place';
+          form.appendChild(this._input);
+
+          this._results = document.createElement('div');
+          this._results.className = 'geocoder-results';
+
+          this._container.appendChild(form);
+          this._container.appendChild(this._results);
+
+          return this._container;
+        }
+
+        onRemove() {
+          this._container.remove();
+          this._map = undefined;
+        }
+
+        async _search() {
+          const query = this._input.value.trim();
+          if (!query) {
+            this._results.innerHTML = '';
+            return;
+          }
+
+          try {
+            const url = `https://nominatim.openstreetmap.org/search?format=json&limit=5&q=${encodeURIComponent(query)}`;
+            const response = await fetch(url);
+            const data = await response.json();
+            this._renderResults(data);
+          } catch (error) {
+            console.error('Geocoding error:', error);
+            this._results.innerHTML = '<div class="geocoder-result">Search failed.</div>';
+          }
+        }
+
+        _renderResults(items) {
+          this._results.innerHTML = '';
+
+          if (!items.length) {
+            this._results.innerHTML = '<div class="geocoder-result">No results.</div>';
+            return;
+          }
+
+          items.forEach((item) => {
+            const result = document.createElement('div');
+            result.className = 'geocoder-result';
+            result.textContent = item.display_name;
+            result.addEventListener('click', () => {
+              const lon = parseFloat(item.lon);
+              const lat = parseFloat(item.lat);
+              this._map.jumpTo({ center: [lon, lat], zoom: Math.max(this._map.getZoom(), 14) });
+              this._results.innerHTML = '';
+            });
+
+            this._results.appendChild(result);
+          });
+        }
+      }
+
+      const toggleControl = document.createElement('div');
+      toggleControl.className = 'mode-toggle maplibregl-ctrl maplibregl-ctrl-group';
+      const photosButton = document.createElement('button');
+      photosButton.textContent = 'Photos';
+      photosButton.className = 'mode-toggle__btn';
+      const coverageButton = document.createElement('button');
+        coverageButton.textContent = 'Coverage';
+        coverageButton.className = 'mode-toggle__btn mode-toggle__btn--coverage';
+      toggleControl.appendChild(photosButton);
+      toggleControl.appendChild(coverageButton);
+
+      class ModeToggleControl {
+        onAdd() {
+          return toggleControl;
+        }
+        onRemove() {
+          toggleControl.remove();
+        }
+      }
+
+      map.addControl(new SimpleGeocoderControl(), 'top-right');
+      map.addControl(new ModeToggleControl(), 'top-right');
+      map.addControl(
+        new maplibregl.AttributionControl({
+          customAttribution: '© Overture Maps Foundation, © Fotoshi contributors'
+        }),
+        'bottom-right'
+      );
+      const geolocateControl = new maplibregl.GeolocateControl({
+        positionOptions: { enableHighAccuracy: true },
+        showUserLocation: true,
+        trackUserLocation: false
+      });
+
+      map.addControl(geolocateControl, 'top-right');
+
+      geolocateControl.on('geolocate', (event) => {
+        const { coords } = event;
+        if (coords) {
+          map.jumpTo({
+            center: [coords.longitude, coords.latitude],
+            zoom: 17
+          });
+        }
+      });
+
+      const updateModeButtons = () => {
+        photosButton.classList.toggle('active', currentMode === 'photos');
+        coverageButton.classList.toggle('active', currentMode === 'coverage');
+      };
+
+      const clearCoverageUpdateTimeout = () => {
+        if (coverageUpdateTimeout) {
+          clearTimeout(coverageUpdateTimeout);
+          coverageUpdateTimeout = null;
+        }
+      };
+
+      const switchMode = (mode) => {
+        if (mode === currentMode) return;
+        currentMode = mode;
+        updateModeButtons();
+        clearCoverageTiles();
+        clearCoverageUpdateTimeout();
+        if (mode === 'coverage') {
+          hideLoadingOverlay();
+          ensureCoverageSource();
+          scheduleCoverageUpdate();
+        }
+        updateHotPinkLayerVisibility();
+        updateCoverageLayerVisibility();
+        map.fire('moveend');
+      };
+
+      photosButton.addEventListener('click', () => switchMode('photos'));
+      coverageButton.addEventListener('click', () => switchMode('coverage'));
+      updateModeButtons();
+
+      map.on('movestart', () => {
+        hideLoadingOverlay();
+      });
+
+      map.on('click', (event) => {
+        const { lng, lat } = event.lngLat;
+        console.log('Map click:', lng.toFixed(6), lat.toFixed(6));
+      });
+
+      map.on('zoomend', () => {
+        console.log('Zoom level:', map.getZoom());
       });
 
       map.on('load', () => {
+        setTimeout(logLoadedSources, 500);
+        if (currentMode === 'coverage') {
+          scheduleCoverageUpdate();
+        }
+
+        const markers = [];
+        let sampleLogged = false;
+
+        const clearImageMarkers = () => {
+          markers.forEach((marker) => marker.remove());
+          markers.length = 0;
+        };
+
+        ensureHotPinkLayer();
+        updateHotPinkLayerVisibility();
+        ensureCoverageSource();
+
         // Function to add image markers for thumbnails
         const addImageMarkers = () => {
+          clearImageMarkers();
+
+          const zoom = map.getZoom();
+          if (zoom <= 10 || currentMode !== 'photos') {
+            return;
+          }
+
           const features = map.querySourceFeatures('pois', {
             sourceLayer: 'pois'
           });
+
+          if (!sampleLogged && features?.length) {
+            const sample = features
+              .filter((feature) => getFeatureFid(feature.properties))
+              .slice(0, 10)
+              .map((feature) => ({
+                properties: feature.properties,
+                geometry: feature.geometry,
+                id: feature.id,
+              }));
+            console.log('Sample POI features:', sample);
+            sampleLogged = true;
+          }
           
           features?.forEach((feature) => {
-            if (feature.properties?.thumbnail && feature.geometry.type === 'Point') {
-              const coordinates = feature.geometry.coordinates;
-              
-              // Create image element
-              const img = document.createElement('img');
-              img.src = feature.properties.thumbnail;
-              img.style.width = '32px';
-              img.style.height = '32px';
-              img.style.borderRadius = '4px';
-              img.style.border = '2px solid white';
-              img.style.boxShadow = '0 2px 4px rgba(0,0,0,0.3)';
-              img.style.objectFit = 'cover';
-              
-              // Create marker
-              new maplibregl.Marker({
-                element: img,
-                anchor: 'bottom'
-              })
-              .setLngLat([coordinates[0], coordinates[1]])
-              .addTo(map);
+            if (feature.geometry.type !== 'Point') {
+              return;
             }
+
+            const coordinates = feature.geometry.coordinates;
+            let element = null;
+            const fid = getFeatureFid(feature.properties);
+            if (fid) {
+              registerFeatureMedia(fid, feature.properties);
+            }
+
+            if (zoom >= 16 && feature.properties?.thumbnail) {
+              // High zoom: show thumbnail image
+              element = document.createElement('img');
+              element.src = feature.properties.thumbnail;
+              element.style.width = '32px';
+              element.style.height = '32px';
+              element.style.borderRadius = '4px';
+              element.style.border = '2px solid white';
+              element.style.boxShadow = '0 2px 4px rgba(0,0,0,0.3)';
+              element.style.objectFit = 'cover';
+            }
+
+            if (!element) {
+              return;
+            }
+
+            if (fid && currentMode === 'photos') {
+              element.style.cursor = 'pointer';
+              element.addEventListener('click', async (event) => {
+                event.stopPropagation();
+                console.log('Photo clicked fid:', fid);
+                await openPhotoModal(fid, feature.properties || {});
+              });
+            }
+
+            const marker = new maplibregl.Marker({
+              element,
+              anchor: 'bottom'
+            })
+            .setLngLat([coordinates[0], coordinates[1]])
+            .addTo(map);
+
+            markers.push(marker);
           });
         };
 
         // Debug: Log tile loading
         map.on('sourcedataloading', (e) => {
-          if (e.sourceId === 'pois') {
+          if (e.sourceId === 'pois' && !map.isSourceLoaded('pois')) {
             console.log('Loading POI tiles...');
+            showLoadingOverlay();
           }
         });
 
         map.on('sourcedata', (e) => {
           if (e.sourceId === 'pois' && e.isSourceLoaded) {
             console.log('POI tiles loaded');
+            hideLoadingOverlay();
+            const currentZoom = map.getZoom();
+            map.setZoom(currentZoom + 0.001);
             // Add image markers after tiles are loaded
             setTimeout(addImageMarkers, 100); // Small delay to ensure features are available
           }
         });
+
+        map.on('moveend', () => {
+          addImageMarkers();
+        });
       });
+
+      map.on('idle', () => {
+        if (currentMode === 'coverage') {
+          scheduleCoverageUpdate();
+        }
+      });
+
+      const CITY_PRESETS = [
+        { name: 'Melbourne', coords: [144.9631, -37.8136], flag: '🇦🇺' },
+        { name: 'Tokyo', coords: [139.6917, 35.6895], flag: '🇯🇵' },
+        { name: 'Seoul', coords: [126.978, 37.5665], flag: '🇰🇷' },
+        { name: 'Medellin', coords: [-75.5636, 6.2518], flag: '🇨🇴' },
+        { name: 'San Francisco', coords: [-122.4194, 37.7749], flag: '🇺🇸' },
+        { name: 'Mexico City', coords: [-99.1332, 19.4326], flag: '🇲🇽' },
+        { name: 'Budapest', coords: [19.0402, 47.4979], flag: '🇭🇺' }
+      ];
+
+      const cityBar = document.createElement('div');
+      cityBar.className = 'city-bar';
+
+      CITY_PRESETS.forEach((city) => {
+        const button = document.createElement('button');
+        button.className = 'city-button';
+        button.textContent = `${city.flag} ${city.name}`;
+        button.addEventListener('click', () => {
+          map.jumpTo({
+            center: city.coords,
+            zoom: 16
+          });
+        });
+        cityBar.appendChild(button);
+      });
+
+      document.body.appendChild(cityBar);
     </script>
   </body>
 </html>

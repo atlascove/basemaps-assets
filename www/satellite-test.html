@@ -1,0 +1,407 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Fotoshi Satellite Style Test</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link
+            href="https://unpkg.com/maplibre-gl@2.4.0/dist/maplibre-gl.css"
+            rel="stylesheet"
+        />
+        <style>
+            #map {
+                width: 100%;
+                height: 600px;
+            }
+            .style-switch {
+                position: absolute;
+                top: 10px;
+                right: 10px;
+                z-index: 1000;
+                background-color: white;
+                padding: 5px;
+                border-radius: 4px;
+                box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+            }
+            .feature-info {
+                position: absolute;
+                top: 10px;
+                left: 10px;
+                z-index: 1000;
+                background-color: white;
+                padding: 15px;
+                border-radius: 4px;
+                box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+                max-width: 400px;
+                max-height: 500px;
+                overflow-y: auto;
+                display: none;
+            }
+            .feature-info h3 {
+                margin: 0 0 10px 0;
+                color: #333;
+            }
+            .feature-item {
+                margin-bottom: 15px;
+                padding: 10px;
+                background-color: #f5f5f5;
+                border-radius: 3px;
+                border-left: 4px solid #007cbf;
+            }
+            .feature-item h4 {
+                margin: 0 0 5px 0;
+                color: #007cbf;
+            }
+            .feature-item .layer {
+                font-weight: bold;
+                color: #666;
+            }
+            .feature-item .source-layer {
+                color: #888;
+                font-size: 0.9em;
+            }
+            .feature-item .geometry {
+                color: #333;
+                margin-top: 3px;
+            }
+            .feature-item .properties {
+                margin-top: 8px;
+                font-size: 0.85em;
+                color: #555;
+                max-height: 100px;
+                overflow-y: auto;
+                background-color: white;
+                padding: 5px;
+                border-radius: 2px;
+            }
+            .close-btn {
+                position: absolute;
+                top: 5px;
+                right: 5px;
+                background: none;
+                border: none;
+                font-size: 16px;
+                cursor: pointer;
+                color: #666;
+            }
+            .click-instruction {
+                position: absolute;
+                bottom: 10px;
+                left: 10px;
+                z-index: 1000;
+                background-color: rgba(0, 0, 0, 0.8);
+                color: white;
+                padding: 10px;
+                border-radius: 4px;
+                font-size: 14px;
+            }
+            .debug-info {
+                position: absolute;
+                bottom: 60px;
+                left: 10px;
+                z-index: 1000;
+                background-color: rgba(0, 100, 0, 0.8);
+                color: white;
+                padding: 10px;
+                border-radius: 4px;
+                font-size: 12px;
+                max-width: 250px;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Fotoshi Satellite Style Test</h1>
+        <div class="style-switch">
+            <button id="switchStyle">Switch to Standard Style</button>
+        </div>
+        <div class="feature-info" id="featureInfo">
+            <button class="close-btn" onclick="closeFeatureInfo()">×</button>
+            <h3>Features at Click Location</h3>
+            <div id="featureList"></div>
+        </div>
+        <div class="click-instruction">
+            💡 Click anywhere on the map to query features
+        </div>
+        <div class="debug-info" id="debugInfo">
+            <strong>Debug Info:</strong><br />
+            Zoom: <span id="zoomLevel">--</span><br />
+            Style: <span id="currentStyleName">--</span><br />
+            Features at last click: <span id="featureCount">--</span>
+        </div>
+        <div id="map"></div>
+
+        <script src="https://unpkg.com/maplibre-gl@2.4.0/dist/maplibre-gl.js"></script>
+        <script>
+            // Determine base path based on host
+            const isLocalHost =
+                window.location.hostname === "localhost" ||
+                window.location.hostname === "127.0.0.1" ||
+                window.location.hostname === "";
+            const basePath = isLocalHost ? "" : "/basemaps-assets";
+
+            // Using dynamic path for the satellite style
+            const satelliteStyleUrl = `${basePath}/satellite/styles.json`;
+            const standardStyleUrl = `${basePath}/styles.json`;
+
+            let currentStyle = satelliteStyleUrl;
+            const switchButton = document.getElementById("switchStyle");
+
+            const map = new maplibregl.Map({
+                container: "map",
+                style: currentStyle,
+                center: [8.544425883402937, 47.04744592902591],
+                zoom: 17.051075220003924, // Initial zoom level
+            });
+
+            // Function to toggle between styles
+            switchButton.addEventListener("click", () => {
+                currentStyle =
+                    currentStyle === satelliteStyleUrl
+                        ? standardStyleUrl
+                        : satelliteStyleUrl;
+                map.setStyle(currentStyle);
+                switchButton.textContent =
+                    currentStyle === satelliteStyleUrl
+                        ? "Switch to Standard Style"
+                        : "Switch to Satellite Style";
+
+                // Re-attach event listeners after style change
+                map.once("styledata", setupMapEvents);
+            });
+
+            function setupMapEvents() {
+                // Function to add image markers for thumbnails
+                const addImageMarkers = () => {
+                    const features = map.querySourceFeatures("pois", {
+                        sourceLayer: "pois",
+                    });
+
+                    console.log("Found POI features:", features.length);
+
+                    features?.forEach((feature) => {
+                        if (
+                            feature.properties?.thumbnail &&
+                            feature.geometry.type === "Point"
+                        ) {
+                            const coordinates = feature.geometry.coordinates;
+
+                            // Create image element
+                            const img = document.createElement("img");
+                            img.src = feature.properties.thumbnail;
+                            img.style.width = "32px";
+                            img.style.height = "32px";
+                            img.style.borderRadius = "4px";
+                            img.style.border = "2px solid white";
+                            img.style.boxShadow = "0 2px 4px rgba(0,0,0,0.3)";
+                            img.style.objectFit = "cover";
+
+                            // Create marker
+                            new maplibregl.Marker({
+                                element: img,
+                                anchor: "bottom",
+                            })
+                                .setLngLat([coordinates[0], coordinates[1]])
+                                .addTo(map);
+                        }
+                    });
+                };
+
+                // Debug: Log tile loading
+                map.on("sourcedataloading", (e) => {
+                    if (e.sourceId === "pois") {
+                        console.log("Loading POI tiles...");
+                    }
+                });
+
+                map.on("sourcedata", (e) => {
+                    if (e.sourceId === "pois" && e.isSourceLoaded) {
+                        console.log("POI tiles loaded");
+                        // Add image markers after tiles are loaded
+                        setTimeout(addImageMarkers, 100); // Small delay to ensure features are available
+                    }
+                });
+            }
+
+            // Update debug information
+            function updateDebugInfo(zoom, styleName, featureCount) {
+                document.getElementById("zoomLevel").textContent =
+                    zoom.toFixed(2);
+                document.getElementById("currentStyleName").textContent =
+                    styleName;
+                document.getElementById("featureCount").textContent =
+                    featureCount;
+            }
+
+            // Close feature info panel
+            function closeFeatureInfo() {
+                document.getElementById("featureInfo").style.display = "none";
+            }
+
+            // Display features in the info panel
+            function displayFeatures(features) {
+                const featureInfo = document.getElementById("featureInfo");
+                const featureList = document.getElementById("featureList");
+
+                featureList.innerHTML = "";
+
+                if (features.length === 0) {
+                    featureList.innerHTML =
+                        "<p>No features found at this location.</p>";
+                } else {
+                    features.forEach((feature, index) => {
+                        const featureItem = document.createElement("div");
+                        featureItem.className = "feature-item";
+
+                        const layerName = feature.layer?.id || "Unknown";
+                        const sourceLayer = feature.sourceLayer || "N/A";
+                        const geometryType = feature.geometry?.type || "N/A";
+
+                        featureItem.innerHTML = `
+              <h4>Feature ${index + 1}</h4>
+              <div class="layer">Layer: ${layerName}</div>
+              <div class="source-layer">Source Layer: ${sourceLayer}</div>
+              <div class="geometry">Geometry: ${geometryType}</div>
+              <div class="properties">
+                <strong>Properties:</strong><br>
+                ${formatProperties(feature.properties)}
+              </div>
+            `;
+
+                        featureList.appendChild(featureItem);
+                    });
+                }
+
+                featureInfo.style.display = "block";
+            }
+
+            // Format properties for display
+            function formatProperties(properties) {
+                if (!properties || Object.keys(properties).length === 0) {
+                    return "No properties";
+                }
+
+                return Object.entries(properties)
+                    .map(([key, value]) => {
+                        const displayValue =
+                            typeof value === "object"
+                                ? JSON.stringify(value)
+                                : value;
+                        return `<strong>${key}:</strong> ${displayValue}`;
+                    })
+                    .join("<br>");
+            }
+
+            function setupMapEvents() {
+                // Function to add image markers for thumbnails
+                const addImageMarkers = () => {
+                    const features = map.querySourceFeatures("pois", {
+                        sourceLayer: "pois",
+                    });
+
+                    console.log("Found POI features:", features.length);
+
+                    features?.forEach((feature) => {
+                        if (
+                            feature.properties?.thumbnail &&
+                            feature.geometry.type === "Point"
+                        ) {
+                            const coordinates = feature.geometry.coordinates;
+
+                            // Create image element
+                            const img = document.createElement("img");
+                            img.src = feature.properties.thumbnail;
+                            img.style.width = "32px";
+                            img.style.height = "32px";
+                            img.style.borderRadius = "4px";
+                            img.style.border = "2px solid white";
+                            img.style.boxShadow = "0 2px 4px rgba(0,0,0,0.3)";
+                            img.style.objectFit = "cover";
+
+                            // Create marker
+                            new maplibregl.Marker({
+                                element: img,
+                                anchor: "bottom",
+                            })
+                                .setLngLat([coordinates[0], coordinates[1]])
+                                .addTo(map);
+                        }
+                    });
+                };
+
+                // Add click event handler for querying features
+                map.on("click", (e) => {
+                    const point = [e.point.x, e.point.y];
+
+                    // Query all rendered features at the click point
+                    const features = map.queryRenderedFeatures(point, {
+                        layers: null, // Query all layers
+                    });
+
+                    // Update debug info
+                    updateDebugInfo(
+                        map.getZoom(),
+                        currentStyle === satelliteStyleUrl
+                            ? "Satellite"
+                            : "Standard",
+                        features.length,
+                    );
+
+                    console.log("Clicked at:", e.lngLat);
+                    console.log("Current zoom:", map.getZoom());
+                    console.log("Features found:", features.length);
+                    features.forEach((feature, index) => {
+                        console.log(`Feature ${index + 1}:`, {
+                            layer: feature.layer?.id,
+                            sourceLayer: feature.sourceLayer,
+                            geometry: feature.geometry?.type,
+                            properties: feature.properties,
+                        });
+                    });
+
+                    displayFeatures(features);
+                });
+
+                // Update debug info on zoom change
+                map.on("zoom", () => {
+                    updateDebugInfo(
+                        map.getZoom(),
+                        currentStyle === satelliteStyleUrl
+                            ? "Satellite"
+                            : "Standard",
+                        "--",
+                    );
+                });
+
+                // Change cursor on hover to indicate clickable
+                map.on("mouseenter", () => {
+                    map.getCanvas().style.cursor = "crosshair";
+                });
+
+                map.on("mouseleave", () => {
+                    map.getCanvas().style.cursor = "";
+                });
+
+                // Debug: Log tile loading
+                map.on("sourcedataloading", (e) => {
+                    if (e.sourceId === "pois") {
+                        console.log("Loading POI tiles...");
+                    }
+                });
+
+                map.on("sourcedata", (e) => {
+                    if (e.sourceId === "pois" && e.isSourceLoaded) {
+                        console.log("POI tiles loaded");
+                        // Add image markers after tiles are loaded
+                        setTimeout(addImageMarkers, 100); // Small delay to ensure features are available
+                    }
+                });
+            }
+
+            map.on("load", () => {
+                // Initialize debug info
+                updateDebugInfo(map.getZoom(), "Satellite", "--");
+                setupMapEvents();
+            });
+        </script>
+    </body>
+</html>

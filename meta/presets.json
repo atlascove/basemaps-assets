@@ -54968,12 +54968,12 @@
             "vertex"
         ],
         "terms": [],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "passport_and_visa_services"
         ],
@@ -61639,12 +61639,12 @@
             "gymnastics",
             "gymnastics club"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "gymnastics_center",
             "gymnastics_club"
@@ -64254,12 +64254,12 @@
             "vertex"
         ],
         "terms": [],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "cupcake_shop"
         ],

@@ -59862,7 +59862,7 @@
     {
         "id": 1550,
         "name": "Food Truck",
-        "icon": "temaki-camper_trailer",
+        "icon": "streamline-plump-food-truck",
         "tags": {
             "amenity": "food_court",
             "street_vendor": "yes"

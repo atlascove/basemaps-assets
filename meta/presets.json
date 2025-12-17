@@ -88858,5 +88858,97 @@
         "natural_language_category": [
             "shop entrance"
         ]
+    },
+    {
+        "id": 2659,
+        "name": "Slippery Spot",
+        "icon": "maki-caution",
+        "tags": {
+            "hazard": "slippery"
+        },
+        "geometry": [
+            "point",
+            "vertex"
+        ],
+        "terms": [],
+        "last_updated": "2025-09-03",
+        "ds": "2025-09-03",
+        "name_required": false,
+        "allow_add": false,
+        "source": "osm",
+        "version": "1",
+        "overture_categories": [],
+        "natural_language_category": [
+            "slippery spot"
+        ]
+    },
+    {
+        "id": 2660,
+        "name": "Crosswalk with Signals",
+        "icon": "temaki-railway_signals",
+        "tags": {
+            "crossing": "traffic_signals"
+        },
+        "geometry": [
+            "point",
+            "vertex"
+        ],
+        "terms": [],
+        "last_updated": "2025-09-03",
+        "ds": "2025-09-03",
+        "name_required": false,
+        "allow_add": false,
+        "source": "osm",
+        "version": "1",
+        "overture_categories": [],
+        "natural_language_category": [
+            "crosswalk with signals"
+        ]
+    },
+    {
+        "id": 2661,
+        "name": "Mountain Pass",
+        "icon": "game-icons-mountain-pass",
+        "tags": {
+            "mountain_pass": "yes"
+        },
+        "geometry": [
+            "point",
+            "vertex"
+        ],
+        "terms": [],
+        "last_updated": "2025-09-03",
+        "ds": "2025-09-03",
+        "name_required": false,
+        "allow_add": true,
+        "source": "osm",
+        "version": "1",
+        "overture_categories": [],
+        "natural_language_category": [
+            "mountain pass"
+        ]
+    },
+    {
+        "id": 2662,
+        "name": "Runway Navigation Aid",
+        "icon": "temaki-antenna",
+        "tags": {
+            "aeroway": "navigationaid"
+        },
+        "geometry": [
+            "point",
+            "vertex"
+        ],
+        "terms": [],
+        "last_updated": "2025-09-03",
+        "ds": "2025-09-03",
+        "name_required": false,
+        "allow_add": true,
+        "source": "osm",
+        "version": "1",
+        "overture_categories": [],
+        "natural_language_category": [
+            "runway navigation aid"
+        ]
     }
 ]

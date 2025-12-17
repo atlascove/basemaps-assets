@@ -6242,7 +6242,7 @@
     {
         "id": 149,
         "name": "Public Bookcase",
-        "icon": "maki-library",
+        "icon": "streamline-ultimate-bookcase",
         "tags": {
             "amenity": "public_bookcase"
         },
@@ -7860,7 +7860,7 @@
     {
         "id": 188,
         "name": "Coworking Space",
-        "icon": "maki-commercial",
+        "icon": "streamline-ultimate-coworking",
         "tags": {
             "amenity": "coworking_space"
         },
@@ -7889,7 +7889,7 @@
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
         "name_required": true,
-        "allow_add": true,
+        "allow_add": false,
         "source": "osm",
         "version": "2",
         "overture_categories": [
@@ -29635,7 +29635,7 @@
     {
         "id": 2651,
         "name": "Gymnastics",
-        "icon": "temaki-gym",
+        "icon": "streamline-ultimate-gymnastics",
         "tags": {
             "sport": "gymnastics"
         },
@@ -61618,7 +61618,7 @@
     {
         "id": 1646,
         "name": "Gymnastics Center",
-        "icon": "maki-pitch",
+        "icon": "streamline-ultimate-gymnastics",
         "tags": {
             "sport": "gymnastics",
             "leisure": "sports_centre"
@@ -88627,7 +88627,7 @@
     {
         "id": 2645,
         "name": "Climbing",
-        "icon": "temaki-light_rail",
+        "icon": "temaki-climbing",
         "tags": {
             "railway": "station",
             "public_transport": "station"
@@ -88732,7 +88732,11 @@
             "point",
             "vertex"
         ],
-        "terms": [],
+        "terms": [
+            "entry",
+            "doorway",
+            "building entrance"
+        ],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
         "name_required": false,
@@ -88755,7 +88759,11 @@
             "point",
             "vertex"
         ],
-        "terms": [],
+        "terms": [
+            "exit door",
+            "way out",
+            "egress"
+        ],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
         "name_required": false,
@@ -88778,7 +88786,11 @@
             "point",
             "vertex"
         ],
-        "terms": [],
+        "terms": [
+            "front door",
+            "house entrance",
+            "residential entry"
+        ],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
         "name_required": false,
@@ -88801,7 +88813,11 @@
             "point",
             "vertex"
         ],
-        "terms": [],
+        "terms": [
+            "staircase entrance",
+            "stairs entry",
+            "stairway access"
+        ],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
         "name_required": false,
@@ -88824,7 +88840,11 @@
             "point",
             "vertex"
         ],
-        "terms": [],
+        "terms": [
+            "garage door",
+            "garage entry",
+            "vehicle entrance"
+        ],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
         "name_required": false,
@@ -88847,7 +88867,11 @@
             "point",
             "vertex"
         ],
-        "terms": [],
+        "terms": [
+            "store entrance",
+            "retail entry",
+            "shop doorway"
+        ],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
         "name_required": false,
@@ -88916,7 +88940,11 @@
             "point",
             "vertex"
         ],
-        "terms": [],
+        "terms": [
+            "alpine pass",
+            "mountain crossing",
+            "high pass"
+        ],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
         "name_required": false,
@@ -88939,7 +88967,11 @@
             "point",
             "vertex"
         ],
-        "terms": [],
+        "terms": [
+            "airport navigation aid",
+            "runway beacon",
+            "airfield antenna"
+        ],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
         "name_required": false,
@@ -88949,6 +88981,137 @@
         "overture_categories": [],
         "natural_language_category": [
             "runway navigation aid"
+        ]
+    },
+    {
+        "id": 2663,
+        "name": "Building Passage",
+        "icon": "temaki-corridor",
+        "tags": {
+            "tunnel": "building_passage"
+        },
+        "geometry": [
+            "point",
+            "line",
+            "vertex"
+        ],
+        "terms": [
+            "indoor passage",
+            "corridor tunnel",
+            "building tunnel"
+        ],
+        "last_updated": "2025-09-03",
+        "ds": "2025-09-03",
+        "name_required": false,
+        "allow_add": true,
+        "source": "osm",
+        "version": "1",
+        "overture_categories": [],
+        "natural_language_category": [
+            "building passage"
+        ]
+    },
+    {
+        "id": 2664,
+        "name": "Ford",
+        "icon": "fotoshi-ford",
+        "tags": {
+            "ford": "yes"
+        },
+        "geometry": [
+            "point",
+            "line",
+            "vertex"
+        ],
+        "terms": [
+            "river crossing",
+            "shallow ford",
+            "water crossing"
+        ],
+        "last_updated": "2025-09-03",
+        "ds": "2025-09-03",
+        "name_required": false,
+        "allow_add": true,
+        "source": "osm",
+        "version": "1",
+        "overture_categories": [],
+        "natural_language_category": [
+            "ford"
+        ]
+    },
+    {
+        "id": 2665,
+        "name": "Bridge",
+        "icon": "maki-bridge",
+        "tags": {
+            "bridge": "yes"
+        },
+        "geometry": [
+            "point",
+            "line",
+            "area"
+        ],
+        "terms": [],
+        "last_updated": "2025-09-03",
+        "ds": "2025-09-03",
+        "name_required": false,
+        "allow_add": false,
+        "source": "osm",
+        "version": "1",
+        "overture_categories": [],
+        "natural_language_category": [
+            "bridge"
+        ]
+    },
+    {
+        "id": 2666,
+        "name": "Coworking Space",
+        "icon": "streamline-ultimate-coworking",
+        "tags": {
+            "office": "coworking"
+        },
+        "geometry": [
+            "point",
+            "area"
+        ],
+        "terms": [],
+        "last_updated": "2025-09-03",
+        "ds": "2025-09-03",
+        "name_required": true,
+        "allow_add": false,
+        "source": "osm",
+        "version": "1",
+        "overture_categories": [],
+        "natural_language_category": [
+            "coworking space"
+        ]
+    },
+    {
+        "id": 2667,
+        "name": "University Office",
+        "icon": "ion-university",
+        "tags": {
+            "office": "university"
+        },
+        "geometry": [
+            "point",
+            "vertex",
+            "area"
+        ],
+        "terms": [
+            "university administration",
+            "campus office",
+            "academic office"
+        ],
+        "last_updated": "2025-09-03",
+        "ds": "2025-09-03",
+        "name_required": true,
+        "allow_add": true,
+        "source": "osm",
+        "version": "1",
+        "overture_categories": [],
+        "natural_language_category": [
+            "university office"
         ]
     }
 ]

@@ -4619,7 +4619,7 @@
     {
         "id":  107,
         "name":  "Hospital Grounds",
-        "icon":  "maki-hospital",
+        "icon":  "maki-doctor",
         "tags":  {
                      "amenity":  "hospital"
                  },
@@ -4926,7 +4926,7 @@
     {
         "id":  113,
         "name":  "Kneipp Water Cure",
-        "icon":  "maki-hospital",
+        "icon":  "maki-doctor",
         "tags":  {
                      "amenity":  "kneipp_water_cure"
                  },
@@ -8507,7 +8507,7 @@
     {
         "id":  197,
         "name":  "Abortion Clinic",
-        "icon":  "maki-hospital",
+        "icon":  "maki-doctor",
         "tags":  {
                      "amenity":  "clinic",
                      "healthcare":  "clinic",
@@ -8553,7 +8553,7 @@
     {
         "id":  198,
         "name":  "Fertility Clinic",
-        "icon":  "maki-hospital",
+        "icon":  "maki-doctor",
         "tags":  {
                      "amenity":  "clinic",
                      "healthcare":  "clinic",
@@ -20320,7 +20320,7 @@
     {
         "id":  497,
         "name":  "Emergency Room Entrance",
-        "icon":  "maki-hospital",
+        "icon":  "maki-doctor",
         "tags":  {
                      "emergency":  "emergency_ward_entrance"
                  },
@@ -20867,7 +20867,7 @@
     {
         "id":  513,
         "name":  "Alternative Medicine",
-        "icon":  "maki-hospital",
+        "icon":  "maki-doctor",
         "tags":  {
                      "healthcare":  "alternative"
                  },
@@ -20908,7 +20908,7 @@
     {
         "id":  514,
         "name":  "Audiologist",
-        "icon":  "maki-hospital",
+        "icon":  "maki-doctor",
         "tags":  {
                      "healthcare":  "audiologist"
                  },
@@ -21187,7 +21187,7 @@
     {
         "id":  521,
         "name":  "Occupational Therapist",
-        "icon":  "maki-hospital",
+        "icon":  "maki-doctor",
         "tags":  {
                      "healthcare":  "occupational_therapist"
                  },
@@ -21292,7 +21292,7 @@
     {
         "id":  524,
         "name":  "Podiatrist",
-        "icon":  "maki-hospital",
+        "icon":  "maki-doctor",
         "tags":  {
                      "healthcare":  "podiatrist"
                  },
@@ -21338,7 +21338,7 @@
     {
         "id":  525,
         "name":  "Psychotherapist",
-        "icon":  "maki-hospital",
+        "icon":  "maki-doctor",
         "tags":  {
                      "healthcare":  "psychotherapist"
                  },
@@ -21386,7 +21386,7 @@
     {
         "id":  526,
         "name":  "Rehabilitation Facility",
-        "icon":  "maki-hospital",
+        "icon":  "maki-doctor",
         "tags":  {
                      "healthcare":  "rehabilitation"
                  },
@@ -21612,7 +21612,7 @@
     {
         "id":  532,
         "name":  "Chiropractor",
-        "icon":  "maki-hospital",
+        "icon":  "maki-doctor",
         "tags":  {
                      "healthcare":  "alternative",
                      "healthcare:speciality":  "chiropractic"
@@ -58393,7 +58393,7 @@
     {
         "id":  1446,
         "name":  "Medical Service Organizations",
-        "icon":  "maki-hospital",
+        "icon":  "maki-doctor",
         "tags":  {
                      "office":  "medical_service_organization"
                  },
@@ -59622,7 +59622,7 @@
     {
         "id":  1488,
         "name":  "Alcohol and Drug Treatment Centers",
-        "icon":  "maki-hospital",
+        "icon":  "maki-doctor",
         "tags":  {
                      "amenity":  "clinic",
                      "healthcare":  "clinic",
@@ -60028,7 +60028,7 @@
     {
         "id":  1501,
         "name":  "Home Health Care",
-        "icon":  "maki-hospital",
+        "icon":  "maki-doctor",
         "tags":  {
                      "amenity":  "clinic",
                      "healthcare:speciality":  "outpatient"
@@ -60255,7 +60255,7 @@
     {
         "id":  1508,
         "name":  "Diagnostic Services",
-        "icon":  "maki-hospital",
+        "icon":  "maki-doctor",
         "tags":  {
                      "amenity":  "clinic",
                      "healthcare:speciality":  "diagnostic_services"
@@ -61348,7 +61348,7 @@
     {
         "id":  1544,
         "name":  "Surgical Center",
-        "icon":  "maki-hospital",
+        "icon":  "fas-weight",
         "tags":  {
                      "amenity":  "hospital",
                      "healthcare:speciality":  "surgery"
@@ -63905,7 +63905,7 @@
     {
         "id":  1630,
         "name":  "Maternity Centers",
-        "icon":  "maki-hospital",
+        "icon":  "maki-doctor",
         "tags":  {
                      "amenity":  "clinic",
                      "healthcare":  "doctor",
@@ -63992,7 +63992,7 @@
     {
         "id":  1633,
         "name":  "Health Department",
-        "icon":  "maki-hospital",
+        "icon":  "maki-heart",
         "tags":  {
                      "office":  "government",
                      "government":  "health_department"
@@ -64204,7 +64204,7 @@
     {
         "id":  1640,
         "name":  "Weight Loss Center",
-        "icon":  "maki-hospital",
+        "icon":  "fas-weight",
         "tags":  {
                      "amenity":  "clinic",
                      "healthcare":  "weight_loss"
@@ -64998,7 +64998,7 @@
     {
         "id":  1665,
         "name":  "Internal Medicine",
-        "icon":  "maki-hospital",
+        "icon":  "maki-doctor",
         "tags":  {
                      "healthcare":  "doctor",
                      "healthcare:speciality":  "internal_medicine"
@@ -67939,7 +67939,7 @@
     {
         "id":  1762,
         "name":  "Women\u0027s Health Clinic",
-        "icon":  "maki-hospital",
+        "icon":  "maki-veterinary",
         "tags":  {
                      "amenity":  "clinic",
                      "healthcare":  "clinic",
@@ -70331,7 +70331,7 @@
     {
         "id":  1840,
         "name":  "First Aid Class",
-        "icon":  "maki-hospital",
+        "icon":  "fas-weight",
         "tags":  {
                      "amenity":  "training",
                      "training":  "first_aid"
@@ -81781,7 +81781,7 @@
     {
         "id":  2250,
         "name":  "Cpr Classes",
-        "icon":  "maki-hospital",
+        "icon":  "maki-heart",
         "tags":  {
                      "amenity":  "training",
                      "training":  "cpr"
@@ -82733,7 +82733,7 @@
     {
         "id":  2284,
         "name":  "Foot Care",
-        "icon":  "maki-hospital",
+        "icon":  "maki-doctor",
         "tags":  {
                      "healthcare":  "doctor",
                      "healthcare:speciality":  "podiatry"
@@ -89238,7 +89238,7 @@
     {
         "id":  2511,
         "name":  "Animal Assisted Therapy",
-        "icon":  "maki-hospital",
+        "icon":  "maki-veterinary",
         "tags":  {
                      "healthcare":  "alternative",
                      "healthcare:speciality":  "animal_assisted_therapy"
@@ -89406,7 +89406,7 @@
     {
         "id":  2517,
         "name":  "Psychomotor Therapist",
-        "icon":  "maki-hospital",
+        "icon":  "maki-doctor",
         "tags":  {
                      "healthcare":  "doctor",
                      "healthcare:speciality":  "psychomotor_therapy"
@@ -90881,7 +90881,7 @@
     {
         "id":  2569,
         "name":  "Holistic Animal Care",
-        "icon":  "maki-hospital",
+        "icon":  "maki-veterinary",
         "tags":  {
                      "amenity":  "veterinary",
                      "veterinary":  "alternative"

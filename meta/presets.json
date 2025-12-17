@@ -88720,5 +88720,51 @@
             "lighting",
             "fixture"
         ]
+    },
+    {
+        "id": 2653,
+        "name": "Entrance",
+        "icon": "maki-entrance-alt1",
+        "tags": {
+            "entrance": "yes"
+        },
+        "geometry": [
+            "point",
+            "vertex"
+        ],
+        "terms": [],
+        "last_updated": "2025-09-03",
+        "ds": "2025-09-03",
+        "name_required": false,
+        "allow_add": true,
+        "source": "osm",
+        "version": "1",
+        "overture_categories": [],
+        "natural_language_category": [
+            "entrance"
+        ]
+    },
+    {
+        "id": 2654,
+        "name": "Exit",
+        "icon": "maki-entrance-alt1",
+        "tags": {
+            "entrance": "exit"
+        },
+        "geometry": [
+            "point",
+            "vertex"
+        ],
+        "terms": [],
+        "last_updated": "2025-09-03",
+        "ds": "2025-09-03",
+        "name_required": false,
+        "allow_add": true,
+        "source": "osm",
+        "version": "1",
+        "overture_categories": [],
+        "natural_language_category": [
+            "exit"
+        ]
     }
 ]

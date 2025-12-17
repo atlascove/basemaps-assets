@@ -1307,8 +1307,8 @@
         "ds":  "2025-09-03",
         "name_required":  true,
         "allow_add":  true,
-        "source":  "overture",
-        "version":  "2",
+        "source":  "osm",
+        "version":  "1",
         "overture_categories":  [
                                     "costume_museum"
                                 ],
@@ -25171,6 +25171,39 @@
                                       ]
     },
     {
+        "id":  2644,
+        "name":  "Memorial Statue",
+        "icon":  "temaki-statue",
+        "tags":  {
+                     "historic":  "memorial",
+                     "memorial":  "statue"
+                 },
+        "geometry":  [
+                         "point",
+                         "vertex",
+                         "area"
+                     ],
+        "terms":  [
+                      "statue memorial",
+                      "commemorative statue",
+                      "tribute statue"
+                  ],
+        "last_updated":  "2025-09-03",
+        "ds":  "2025-09-03",
+        "name_required":  false,
+        "allow_add":  true,
+        "source":  "osm",
+        "version":  "1",
+        "overture_categories":  [
+
+                                ],
+        "natural_language_category":  [
+                                          "memorial statue",
+                                          "commemorative statue",
+                                          "memorial monument"
+                                      ]
+    },
+    {
         "id":  627,
         "name":  "Historic Pillory",
         "icon":  "maki-monument",
@@ -30958,6 +30991,97 @@
                                           "ping pong spot",
                                           "table tennis spot",
                                           "ping pong location"
+                                      ]
+    },
+    {
+        "id":  2641,
+        "name":  "Ping Pong Venue",
+        "icon":  "fas-table-tennis",
+        "tags":  {
+                     "sport":  "table_tennis"
+                 },
+        "geometry":  [
+                         "point",
+                         "area"
+                     ],
+        "terms":  [
+                      "ping pong venue",
+                      "table tennis venue",
+                      "ping pong meetup",
+                      "table tennis meetup"
+                  ],
+        "last_updated":  "2025-09-03",
+        "ds":  "2025-09-03",
+        "name_required":  false,
+        "allow_add":  true,
+        "source":  "osm",
+        "version":  "1",
+        "overture_categories":  [
+
+                                ],
+        "natural_language_category":  [
+                                          "ping pong",
+                                          "table tennis"
+                                      ]
+    },
+    {
+        "id":  2642,
+        "name":  "Proposed Railway",
+        "icon":  "temaki-railway_track",
+        "tags":  {
+                     "railway":  "proposed"
+                 },
+        "geometry":  [
+                         "line",
+                         "point"
+                     ],
+        "terms":  [
+                      "future rail line",
+                      "planned railway",
+                      "rail proposal"
+                  ],
+        "last_updated":  "2025-09-03",
+        "ds":  "2025-09-03",
+        "name_required":  false,
+        "allow_add":  true,
+        "source":  "osm",
+        "version":  "1",
+        "overture_categories":  [
+
+                                ],
+        "natural_language_category":  [
+                                          "proposed railway",
+                                          "future railway"
+                                      ]
+    },
+    {
+        "id":  2643,
+        "name":  "Traffic Calming",
+        "icon":  "temaki-speed_bump",
+        "tags":  {
+                     "traffic_calming":  "yes"
+                 },
+        "geometry":  [
+                         "point",
+                         "vertex"
+                     ],
+        "terms":  [
+                      "speed bump",
+                      "speed hump",
+                      "traffic calming device"
+                  ],
+        "last_updated":  "2025-09-03",
+        "ds":  "2025-09-03",
+        "name_required":  false,
+        "allow_add":  false,
+        "source":  "osm",
+        "version":  "1",
+        "overture_categories":  [
+
+                                ],
+        "natural_language_category":  [
+                                          "traffic calming",
+                                          "speed calming feature"
                                       ]
     },
     {

@@ -88766,5 +88766,97 @@
         "natural_language_category": [
             "exit"
         ]
+    },
+    {
+        "id": 2655,
+        "name": "Home Entrance",
+        "icon": "maki-entrance-alt1",
+        "tags": {
+            "entrance": "home"
+        },
+        "geometry": [
+            "point",
+            "vertex"
+        ],
+        "terms": [],
+        "last_updated": "2025-09-03",
+        "ds": "2025-09-03",
+        "name_required": false,
+        "allow_add": true,
+        "source": "osm",
+        "version": "1",
+        "overture_categories": [],
+        "natural_language_category": [
+            "home entrance"
+        ]
+    },
+    {
+        "id": 2656,
+        "name": "Stair Entrance",
+        "icon": "maki-entrance-alt1",
+        "tags": {
+            "entrance": "staircase"
+        },
+        "geometry": [
+            "point",
+            "vertex"
+        ],
+        "terms": [],
+        "last_updated": "2025-09-03",
+        "ds": "2025-09-03",
+        "name_required": false,
+        "allow_add": true,
+        "source": "osm",
+        "version": "1",
+        "overture_categories": [],
+        "natural_language_category": [
+            "stair entrance"
+        ]
+    },
+    {
+        "id": 2657,
+        "name": "Garage Entrance",
+        "icon": "maki-entrance-alt1",
+        "tags": {
+            "entrance": "garage"
+        },
+        "geometry": [
+            "point",
+            "vertex"
+        ],
+        "terms": [],
+        "last_updated": "2025-09-03",
+        "ds": "2025-09-03",
+        "name_required": false,
+        "allow_add": true,
+        "source": "osm",
+        "version": "1",
+        "overture_categories": [],
+        "natural_language_category": [
+            "garage entrance"
+        ]
+    },
+    {
+        "id": 2658,
+        "name": "Shop Entrance",
+        "icon": "maki-entrance-alt1",
+        "tags": {
+            "entrance": "shop"
+        },
+        "geometry": [
+            "point",
+            "vertex"
+        ],
+        "terms": [],
+        "last_updated": "2025-09-03",
+        "ds": "2025-09-03",
+        "name_required": false,
+        "allow_add": true,
+        "source": "osm",
+        "version": "1",
+        "overture_categories": [],
+        "natural_language_category": [
+            "shop entrance"
+        ]
     }
 ]

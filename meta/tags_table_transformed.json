@@ -195,13 +195,13 @@
         "icon": "maki-dentist",
         "category": "Dentist"
     },
-    {
+{
         "overture": "sports_club_and_league",
         "osm_tags": {
-            "leisure": "sports_club"
+            "club": "sport"
         },
-        "class": "leisure",
-        "subclass": "sports_club",
+        "class": "club",
+        "subclass": "sport",
         "icon": "maki-pitch",
         "category": "Sports Club and League"
     },
@@ -5606,7 +5606,7 @@
         "class": "tourism",
         "subclass": "museum",
         "icon": "temaki-museum",
-        "category": "Children'S Museum"
+        "category": "Children's Museum"
     },
     {
         "overture": "used_vintage_and_consignment",
@@ -21738,5 +21738,61 @@
         "subclass": "builder",
         "icon": "fas-tools",
         "category": "Builder"
+    },
+    {
+        "overture": "womens_health_clinic",
+        "osm_tags": {
+            "amenity": "clinic",
+            "healthcare": "clinic",
+            "healthcare:speciality": "women"
+        },
+        "class": "amenity",
+        "subclass": "clinic",
+        "icon": "maki-hospital",
+        "category": "Women's Health Clinic"
+    },
+    {
+        "overture": "poke_restaurant",
+        "osm_tags": {
+            "amenity": "restaurant",
+            "cuisine": "poke"
+        },
+        "class": "amenity",
+        "subclass": "restaurant",
+        "icon": "maki-restaurant",
+        "category": "Poke Restaurant"
+    },
+    {
+        "overture": "cajun_and_creole_restaurant",
+        "osm_tags": {
+            "amenity": "restaurant",
+            "cuisine": "cajun"
+        },
+        "class": "amenity",
+        "subclass": "restaurant",
+        "icon": "maki-restaurant",
+        "category": "Cajun And Creole Restaurant"
+    },
+    {
+        "overture": "cafeteria",
+        "osm_tags": {
+            "amenity": "restaurant",
+            "cuisine": "cafeteria"
+        },
+        "class": "amenity",
+        "subclass": "restaurant",
+        "icon": "maki-restaurant",
+        "category": "Cafeteria"
+    },
+    {
+        "overture": "it_support_and_service",
+        "osm_tags": {
+            "shop": "computer",
+            "service": "it"
+        },
+        "class": "shop",
+        "subclass": "computer",
+        "icon": "maki-laptop",
+        "category": "IT Support and Service"
     }
 ]

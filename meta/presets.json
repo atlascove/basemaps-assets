@@ -5811,7 +5811,6 @@
         "source": "osm",
         "version": "2",
         "overture_categories": [
-            "religious_organization",
             "temple"
         ],
         "natural_language_category": [
@@ -54960,9 +54959,9 @@
     {
         "id": 1410,
         "name": "Passport and Visa Services",
-        "icon": "temaki-town_hall",
+        "icon": "material-symbols-passport",
         "tags": {
-            "office": "company"
+            "office": "passport_and_visa_services"
         },
         "geometry": [
             "point",
@@ -55791,6 +55790,8 @@
             "vertex"
         ],
         "terms": [
+            "cajun",
+            "creole",
             "eatery",
             "dining",
             "food",
@@ -55813,7 +55814,8 @@
         "source": "overture",
         "version": "2",
         "overture_categories": [
-            "cajun_creole_restaurant"
+            "cajun_creole_restaurant",
+            "cajun_and_creole_restaurant"
         ],
         "natural_language_category": [
             "cajun creole restaurant"
@@ -56092,7 +56094,12 @@
             "point",
             "vertex"
         ],
-        "terms": [],
+        "terms": [
+            "cafeteria",
+            "canteen",
+            "buffet",
+            "coffee"
+        ],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
         "name_required": true,
@@ -56100,7 +56107,8 @@
         "source": "overture",
         "version": "2",
         "overture_categories": [
-            "cafetaria"
+            "cafetaria",
+            "cafeteria"
         ],
         "natural_language_category": [
             "cafeteria",
@@ -61206,7 +61214,7 @@
     },
     {
         "id": 1631,
-        "name": "Children'S Museum",
+        "name": "Children's Museum",
         "icon": "temaki-museum",
         "tags": {
             "museum": "children",
@@ -61224,7 +61232,7 @@
         "source": "overture",
         "version": "2",
         "overture_categories": [
-            "children's_museum"
+            "childrens_museum"
         ],
         "natural_language_category": [
             "children s museum",
@@ -64915,7 +64923,8 @@
         "source": "overture",
         "version": "2",
         "overture_categories": [
-            "poke"
+            "poke",
+            "poke_restaurant"
         ],
         "natural_language_category": [
             "poke"
@@ -65017,7 +65026,7 @@
     {
         "id": 1762,
         "name": "Women's Health Clinic",
-        "icon": "maki-veterinary",
+        "icon": "maki-hospital",
         "tags": {
             "amenity": "clinic",
             "healthcare": "clinic",
@@ -65035,7 +65044,7 @@
         "source": "overture",
         "version": "2",
         "overture_categories": [
-            "women's_health_clinic"
+            "womens_health_clinic"
         ],
         "natural_language_category": [
             "women s health clinic",
@@ -87077,7 +87086,8 @@
         "source": "overture",
         "version": "2",
         "overture_categories": [
-            "it_support_snd_service"
+            "it_support_snd_service",
+            "it_support_and_service"
         ],
         "natural_language_category": [
             "it support and service",
@@ -89112,6 +89122,34 @@
         "overture_categories": [],
         "natural_language_category": [
             "university office"
+        ]
+    },
+    {
+        "id": 2668,
+        "name": "Religious Organization",
+        "icon": "maki-town-hall",
+        "tags": {
+            "office": "religious_organization"
+        },
+        "geometry": [
+            "point",
+            "vertex",
+            "area"
+        ],
+        "terms": [
+            "religion office",
+            "faith office",
+            "ministry office"
+        ],
+        "last_updated": "2025-09-03",
+        "ds": "2025-09-03",
+        "name_required": true,
+        "allow_add": true,
+        "source": "osm",
+        "version": "1",
+        "overture_categories": [],
+        "natural_language_category": [
+            "religious organization"
         ]
     }
 ]

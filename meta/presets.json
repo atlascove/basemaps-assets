@@ -43406,9 +43406,7 @@
             "farming",
             "equipment",
             "store",
-            "farm",
             "and",
-            "supply",
             "b2b",
             "agriculture",
             "food"
@@ -43463,7 +43461,8 @@
             "beer shop",
             "spirits shop",
             "package store",
-            "bottle-o"
+            "bottle-o",
+            "liquor"
         ],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
@@ -43545,8 +43544,6 @@
             "area"
         ],
         "terms": [
-            "anime",
-            "manga",
             "japan",
             "cosplay",
             "figurine",
@@ -43590,7 +43587,6 @@
             "area"
         ],
         "terms": [
-            "antiques",
             "resale shop",
             "resale store",
             "thrift shop",
@@ -43648,11 +43644,11 @@
             "toddler store",
             "toddler shop",
             "childproofing",
-            "baby",
             "gear",
             "and",
             "furniture",
-            "baby gear and furniture"
+            "baby gear and furniture",
+            "homeware"
         ],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
@@ -43787,7 +43783,6 @@
             "vanity store",
             "furniture showroom",
             "bathroom supplies store",
-            "bathroom",
             "fixture",
             "stores",
             "bathroom fixture stores",
@@ -43994,8 +43989,7 @@
             "bicycle retailer",
             "bike retailer",
             "bicycle workshop",
-            "bike workshop",
-            "bicycle"
+            "bike workshop"
         ],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
@@ -44032,7 +44026,6 @@
         ],
         "terms": [
             "shop",
-            "boat",
             "jetski",
             "motorboat",
             "rowboat",
@@ -44176,9 +44169,7 @@
             "beer making supplies",
             "homebrew store",
             "home beer brewing supplies",
-            "beer supply store",
-            "brewing",
-            "supply"
+            "beer supply store"
         ],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
@@ -44296,7 +44287,6 @@
             "area"
         ],
         "terms": [
-            "camera",
             "film",
             "lens",
             "photo",
@@ -44371,7 +44361,6 @@
             "area"
         ],
         "terms": [
-            "cannabis",
             "cannabis collective",
             "cannabis dispensary"
         ],
@@ -44466,7 +44455,6 @@
             "area"
         ],
         "terms": [
-            "rv",
             "caravan",
             "motorhome",
             "camper",
@@ -44482,7 +44470,8 @@
             "home",
             "dealer",
             "mobile home dealer",
-            "cell phone"
+            "cell phone",
+            "motor"
         ],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
@@ -44604,19 +44593,18 @@
             "automotive parts shop",
             "car parts",
             "automotive",
-            "parts",
             "and",
             "accessories",
             "auto",
             "customization",
             "supply",
-            "car",
             "stereo",
             "installation",
             "automotive parts and accessories",
             "auto customization",
             "auto parts and supply store",
-            "car stereo installation"
+            "car stereo installation",
+            "motor"
         ],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
@@ -44654,13 +44642,11 @@
             "area"
         ],
         "terms": [
-            "repair",
             "services",
             "and",
             "auto",
             "body",
             "brake",
-            "car",
             "inspector",
             "windshield",
             "installation",
@@ -44679,7 +44665,8 @@
             "windshield installation and repair",
             "exhaust and muffler repair",
             "auto electrical repair",
-            "cell phone"
+            "cell phone",
+            "motor"
         ],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
@@ -44725,7 +44712,6 @@
             "area"
         ],
         "terms": [
-            "catalog",
             "store",
             "retail",
             "shopping",
@@ -44853,7 +44839,8 @@
             "chemist",
             "pharmaceuticals",
             "wellness",
-            "health products"
+            "health products",
+            "drugstore"
         ],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
@@ -44949,7 +44936,6 @@
             "garments",
             "wardrobe",
             "outfits",
-            "clothing",
             "womens",
             "traditional",
             "womens clothing store",
@@ -45001,7 +44987,6 @@
             "coffee co",
             "coffee spot",
             "coffee stand",
-            "coffee",
             "coffee roastery"
         ],
         "last_updated": "2025-09-03",
@@ -45097,12 +45082,12 @@
             "computer services",
             "computer sales",
             "it store",
-            "computer",
             "it",
             "service",
             "and",
             "repair",
-            "it service and computer repair"
+            "it service and computer repair",
+            "ironmongery"
         ],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
@@ -45150,7 +45135,6 @@
             "marshmallow store",
             "licorice shop",
             "toffee store",
-            "candy",
             "sugar",
             "shack",
             "sugar shack"
@@ -45190,7 +45174,6 @@
             "area"
         ],
         "terms": [
-            "fabric",
             "sew",
             "fabrics",
             "material",
@@ -45333,9 +45316,7 @@
             "crafts store",
             "crafts shop",
             "hobby supply",
-            "arts",
             "and",
-            "crafts",
             "craft",
             "shop",
             "handicraft",
@@ -45385,7 +45366,6 @@
             "area"
         ],
         "terms": [
-            "curtain",
             "curtains",
             "window",
             "drapes",
@@ -45433,10 +45413,10 @@
             "cheeses",
             "milk products",
             "bar",
-            "dairy",
             "stores",
             "milk bar",
-            "dairy stores"
+            "dairy stores",
+            "supermarket"
         ],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
@@ -45524,7 +45504,8 @@
             "storehouse",
             "superstore",
             "concept",
-            "concept shop"
+            "concept shop",
+            "grocery"
         ],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
@@ -45563,7 +45544,6 @@
         ],
         "terms": [
             "craft",
-            "diy",
             "hardware",
             "tools",
             "shop",
@@ -45577,7 +45557,8 @@
             "it",
             "yourself",
             "building supply store",
-            "do it yourself store"
+            "do it yourself store",
+            "ironmongery"
         ],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
@@ -45663,7 +45644,6 @@
             "clothing service",
             "clothes care",
             "clothes maintenance",
-            "dry",
             "cleaning"
         ],
         "last_updated": "2025-09-03",
@@ -45773,7 +45753,6 @@
             "speaker",
             "tv",
             "video",
-            "electronics",
             "b2b",
             "electronic",
             "equipment",
@@ -45915,11 +45894,11 @@
             "orchard",
             "organics",
             "vegetables",
-            "produce",
             "market",
             "grocery",
             "fruit stand",
-            "fruit shop"
+            "fruit shop",
+            "supermarket"
         ],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
@@ -45955,9 +45934,7 @@
             "sunglasses",
             "umbrella",
             "wallet",
-            "watch",
-            "fashion",
-            "accessories"
+            "watch"
         ],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
@@ -45993,7 +45970,6 @@
             "area"
         ],
         "terms": [
-            "fireplace",
             "stove",
             "fireplace shop",
             "heating store",
@@ -46113,7 +46089,6 @@
             "tile outlet",
             "flooring center",
             "tile center",
-            "flooring",
             "store"
         ],
         "last_updated": "2025-09-03",
@@ -46231,8 +46206,8 @@
             "frozen products",
             "food storage",
             "frozen section",
-            "frozen",
-            "foods"
+            "foods",
+            "supermarket"
         ],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
@@ -46268,7 +46243,6 @@
             "area"
         ],
         "terms": [
-            "fuel",
             "refueling station",
             "gas shop",
             "gasoline station",
@@ -46321,7 +46295,6 @@
             "graveside service",
             "grieving process",
             "mourning rituals",
-            "funeral",
             "services",
             "and",
             "cemeteries",
@@ -46409,9 +46382,7 @@
             "miniatures",
             "wargame",
             "strategy",
-            "game",
             "publisher",
-            "tabletop",
             "game publisher",
             "tabletop games"
         ],
@@ -46488,7 +46459,6 @@
         "terms": [
             "shrub",
             "tree",
-            "garden",
             "nursery",
             "plants",
             "flowers",
@@ -46613,7 +46583,8 @@
             "grocery",
             "corner market",
             "provisions store",
-            "depot"
+            "depot",
+            "supermarket"
         ],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
@@ -46850,7 +46821,6 @@
         ],
         "terms": [
             "diy",
-            "hardware",
             "tools",
             "building supplies",
             "lowes",
@@ -46949,8 +46919,6 @@
             "vitamins market",
             "vegetarian market",
             "vegan market",
-            "health",
-            "food",
             "store",
             "vitamins",
             "and",
@@ -47001,7 +46969,6 @@
         "terms": [
             "athletics",
             "sports",
-            "goods",
             "sporting goods",
             "snorkeling equipment rental",
             "fitness exercise equipment"
@@ -47042,8 +47009,6 @@
         ],
         "terms": [
             "hearing aids",
-            "hearing",
-            "aids",
             "hearing store",
             "store for hearing aids",
             "hearing aids supplier",
@@ -47308,7 +47273,6 @@
             "pins",
             "ring",
             "silver",
-            "jewelry",
             "dealer",
             "diamond dealer"
         ],
@@ -47395,8 +47359,6 @@
             "cabinets",
             "countertops",
             "sinks",
-            "kitchen",
-            "design",
             "kitchen cabinets",
             "kitchen countertops",
             "kitchen sinks",
@@ -47532,7 +47494,6 @@
             "area"
         ],
         "terms": [
-            "leather",
             "shop",
             "retail",
             "leather goods",
@@ -47767,8 +47728,6 @@
             "supply store",
             "supplies store",
             "supplies shop",
-            "medical",
-            "supply",
             "hospital",
             "equipment",
             "and",
@@ -47776,7 +47735,8 @@
             "laboratory",
             "supplier",
             "hospital equipment and supplies",
-            "laboratory equipment supplier"
+            "laboratory equipment supplier",
+            "chemist"
         ],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
@@ -47830,8 +47790,6 @@
             "army",
             "and",
             "navy",
-            "military",
-            "surplus",
             "army and navy store"
         ],
         "last_updated": "2025-09-03",
@@ -47879,8 +47837,6 @@
             "cellular store",
             "mobile retailer",
             "phone boutique",
-            "mobile",
-            "phone",
             "accessories",
             "mobile phone accessories",
             "cell phone"
@@ -48016,7 +47972,6 @@
             "motorcycle store",
             "bike sales",
             "bike showroom",
-            "motorcycle",
             "dealer",
             "motorsports",
             "store",
@@ -48170,8 +48125,6 @@
             "instruments",
             "musical instruments",
             "music gear",
-            "musical",
-            "instrument",
             "services",
             "musical instrument services"
         ],
@@ -48436,8 +48389,6 @@
             "event store",
             "event supplies",
             "event decorations",
-            "party",
-            "supply",
             "kids",
             "recreation",
             "and",
@@ -48526,7 +48477,8 @@
             "cake stand",
             "sweets shop",
             "cake",
-            "patisserie cake shop"
+            "patisserie cake shop",
+            "bake shop"
         ],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
@@ -48567,7 +48519,6 @@
             "garages",
             "storage center",
             "storage warehouse",
-            "storage",
             "facility",
             "self",
             "b2b",
@@ -48618,7 +48569,6 @@
         ],
         "terms": [
             "pawnbroker",
-            "pawn",
             "pawnshop",
             "secondhand shop",
             "resale shop",
@@ -48665,7 +48615,6 @@
             "perfumery",
             "cologne",
             "fragrance",
-            "perfume",
             "scent",
             "aroma",
             "smell",
@@ -48719,7 +48668,6 @@
             "puppies",
             "reptiles",
             "pet supplies",
-            "pet",
             "pets"
         ],
         "last_updated": "2025-09-03",
@@ -49004,7 +48952,6 @@
             "area"
         ],
         "terms": [
-            "fireworks",
             "pyrotechnics",
             "firework retailer"
         ],
@@ -49174,7 +49121,8 @@
             "b2b",
             "equipment",
             "and",
-            "b2b equipment maintenance and repair"
+            "b2b equipment maintenance and repair",
+            "motor"
         ],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
@@ -49451,7 +49399,8 @@
             "specialty",
             "ethical",
             "specialty grocery store",
-            "ethical grocery"
+            "ethical grocery",
+            "supermarket"
         ],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
@@ -49498,7 +49447,6 @@
             "spa maintenance store",
             "spa supply store",
             "swimming pool shop",
-            "pool",
             "and",
             "hot",
             "tub",
@@ -49583,7 +49531,6 @@
             "tobacco seller",
             "tobacco stand",
             "smoke store",
-            "tobacco",
             "company",
             "tabac",
             "tobacco company"
@@ -49979,9 +49926,7 @@
             "game outlet",
             "gaming outlet",
             "dvd store",
-            "vhs store",
-            "video",
-            "game"
+            "vhs store"
         ],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
@@ -50017,7 +49962,6 @@
             "area"
         ],
         "terms": [
-            "watches",
             "watch retailer",
             "timepiece seller",
             "wristwatch seller",
@@ -50059,8 +50003,6 @@
             "area"
         ],
         "terms": [
-            "drinking",
-            "water",
             "store",
             "water retail",
             "filtered water",
@@ -50182,7 +50124,6 @@
             "wholesaler",
             "distributor",
             "bulk retailer",
-            "wholesale",
             "restaurant",
             "tools",
             "industrial",
@@ -50243,7 +50184,6 @@
             "wig salon",
             "wig accessories",
             "hair solutions",
-            "wig",
             "store"
         ],
         "last_updated": "2025-09-03",
@@ -50331,7 +50271,6 @@
             "area"
         ],
         "terms": [
-            "wine",
             "vineyard",
             "wine lounge",
             "wine boutique",
@@ -50558,8 +50497,7 @@
             "nail expert",
             "nail artist",
             "nail stylist",
-            "nail boutique",
-            "nail"
+            "nail boutique"
         ],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
@@ -50876,7 +50814,6 @@
             "craftsman",
             "shop",
             "clothes",
-            "workwear",
             "crafts",
             "apparel",
             "uniforms",
@@ -51054,9 +50991,9 @@
             "green market",
             "sustainable grocery",
             "natural supermarket",
-            "organic",
             "grocery",
-            "store"
+            "store",
+            "supermarket"
         ],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
@@ -58948,9 +58885,7 @@
             "point",
             "vertex"
         ],
-        "terms": [
-            "fishmonger"
-        ],
+        "terms": [],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
         "name_required": true,
@@ -59222,9 +59157,7 @@
             "point",
             "vertex"
         ],
-        "terms": [
-            "linen"
-        ],
+        "terms": [],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
         "name_required": true,
@@ -64114,9 +64047,7 @@
             "point",
             "vertex"
         ],
-        "terms": [
-            "astrologer"
-        ],
+        "terms": [],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
         "name_required": true,
@@ -65466,9 +65397,7 @@
             "point",
             "vertex"
         ],
-        "terms": [
-            "prosthetics"
-        ],
+        "terms": [],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
         "name_required": true,
@@ -69345,9 +69274,7 @@
             "point",
             "vertex"
         ],
-        "terms": [
-            "sugaring"
-        ],
+        "terms": [],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
         "name_required": true,
@@ -70170,9 +70097,7 @@
             "point",
             "vertex"
         ],
-        "terms": [
-            "waxing"
-        ],
+        "terms": [],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
         "name_required": true,
@@ -73747,9 +73672,7 @@
             "point",
             "vertex"
         ],
-        "terms": [
-            "orthotics"
-        ],
+        "terms": [],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
         "name_required": true,
@@ -78791,9 +78714,7 @@
             "point",
             "vertex"
         ],
-        "terms": [
-            "kombucha"
-        ],
+        "terms": [],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
         "name_required": true,
@@ -81285,9 +81206,7 @@
             "point",
             "vertex"
         ],
-        "terms": [
-            "mystic"
-        ],
+        "terms": [],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
         "name_required": true,
@@ -84181,9 +84100,7 @@
             "point",
             "vertex"
         ],
-        "terms": [
-            "piercing"
-        ],
+        "terms": [],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
         "name_required": true,
@@ -84669,9 +84586,7 @@
             "point",
             "vertex"
         ],
-        "terms": [
-            "macarons"
-        ],
+        "terms": [],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
         "name_required": true,
@@ -86188,9 +86103,7 @@
             "point",
             "vertex"
         ],
-        "terms": [
-            "firewood"
-        ],
+        "terms": [],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
         "name_required": true,
@@ -88599,9 +88512,7 @@
             "point",
             "vertex"
         ],
-        "terms": [
-            "pretzels"
-        ],
+        "terms": [],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
         "name_required": true,
@@ -89225,9 +89136,7 @@
             "point",
             "vertex"
         ],
-        "terms": [
-            "caricature"
-        ],
+        "terms": [],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
         "name_required": true,
@@ -90602,9 +90511,7 @@
             "point",
             "vertex"
         ],
-        "terms": [
-            "shutters"
-        ],
+        "terms": [],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
         "name_required": true,

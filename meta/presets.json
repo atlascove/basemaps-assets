@@ -2541,15 +2541,12 @@
         ],
         "terms": [
             "barbecue",
+            "grill",
+            "stove",
+            "barbie",
             "bbq",
-            "backyard barbecue",
-            "barbecue pit",
-            "cookout area",
-            "rooftop barbecue",
-            "park barbecue",
-            "picnic grill",
-            "campsite barbecue",
-            "barbecue restaurant"
+            "cookout",
+            "barbecue pit"
         ],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
@@ -7590,7 +7587,12 @@
             "vertex"
         ],
         "terms": [
-            "waste basket"
+            "waste basket",
+            "trash can",
+            "rubbish",
+            "bin",
+            "litter",
+            "garbage"
         ],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
@@ -10194,6 +10196,7 @@
         ],
         "terms": [
             "tacos",
+            "Mexican",
             "burritos",
             "enchiladas",
             "fajitas",
@@ -10243,14 +10246,6 @@
             "area"
         ],
         "terms": [
-            "cafeteria",
-            "dine",
-            "dining",
-            "dinner",
-            "eat",
-            "grill",
-            "lunch",
-            "table",
             "ramen noodles",
             "soup",
             "soba noodles",

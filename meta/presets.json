@@ -3119,14 +3119,15 @@
         "terms": [
             "chemist counter",
             "drug counter",
-            "dispensary"
+            "dispensary",
+            "counter"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "pharmacy"
         ],
@@ -3349,18 +3350,15 @@
             "area"
         ],
         "terms": [
-            "health centre",
-            "medical centre",
-            "urgent care",
-            "walk-in clinic",
-            "health clinic"
+            "urgent",
+            "walk"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "health_and_medical",
             "medical_center",
@@ -3686,18 +3684,15 @@
             "area"
         ],
         "terms": [
-            "dental surgery",
-            "dental clinic",
-            "dentist office",
-            "dental practice",
-            "oral clinic"
+            "surgery",
+            "oral"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "dentist",
             "general_dentistry"
@@ -3766,17 +3761,16 @@
         ],
         "terms": [
             "gp surgery",
-            "medical office",
-            "physician clinic",
-            "family doctor",
-            "doctor surgery"
+            "physician",
+            "family",
+            "surgery"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "doctor"
         ],
@@ -4102,21 +4096,18 @@
             "area"
         ],
         "terms": [
-            "fire fighters",
+            "fighters",
             "firehouse",
-            "emergency services",
+            "emergency",
             "firefighters",
-            "fire response",
-            "fire prevention",
-            "fire protection",
-            "department"
+            "response"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "fire_department"
         ],
@@ -4401,17 +4392,17 @@
             "point"
         ],
         "terms": [
-            "hospital campus",
-            "medical campus",
-            "hospital estate",
-            "hospital complex"
+            "campus",
+            "estate",
+            "complex",
+            "grounds"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "hospital",
             "hospitalist"
@@ -5797,22 +5788,14 @@
             "cop",
             "constable",
             "detective",
-            "patrol",
-            "badge",
-            "constabulary",
-            "fed",
-            "police law",
-            "department",
-            "law",
-            "enforcement",
-            "police department"
+            "patrol"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "police_department",
             "law_enforcement"
@@ -8104,18 +8087,18 @@
             "area"
         ],
         "terms": [
-            "termination clinic",
+            "termination",
             "family planning",
-            "women's clinic",
-            "reproductive clinic",
-            "abortion service"
+            "women s",
+            "reproductive",
+            "abortion"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "abortion_clinic"
         ],
@@ -8145,18 +8128,17 @@
             "area"
         ],
         "terms": [
-            "ivf clinic",
-            "fertility centre",
-            "reproductive clinic",
-            "fertility specialist",
-            "fertility doctor"
+            "ivf",
+            "fertility",
+            "reproductive",
+            "fertility specialist"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "3",
+        "version": "4",
         "overture_categories": [],
         "natural_language_category": [
             "fertility clinic",
@@ -8322,17 +8304,17 @@
         ],
         "terms": [
             "obgyn",
-            "women's doctor",
-            "women's clinic",
-            "gynae clinic",
-            "female doctor"
+            "women s",
+            "gynae",
+            "female",
+            "gynecologist"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "3",
+        "version": "4",
         "overture_categories": [],
         "natural_language_category": [
             "gynecologist",
@@ -18387,27 +18369,15 @@
         "terms": [
             "ems",
             "emt",
-            "rescue",
-            "medical",
             "emergency",
-            "hospital",
-            "paramedic",
-            "emergency services",
-            "healthcare",
-            "emergency medical services",
-            "emergency facility",
-            "medical facility",
-            "ambulance",
-            "and",
-            "services",
-            "ambulance and ems services"
+            "paramedic"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "ambulance_and_ems_services"
         ],
@@ -18436,14 +18406,18 @@
             "area"
         ],
         "terms": [
-            "eap"
+            "eap",
+            "emergency assembly",
+            "assembly point",
+            "assembly",
+            "point"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "emergency assembly point",
@@ -18472,12 +18446,12 @@
         "terms": [
             "defibrillator"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "defibrillator",
@@ -18496,14 +18470,17 @@
             "vertex"
         ],
         "terms": [
-            "fire alarm call box"
+            "alarm call",
+            "alarm box",
+            "alarm",
+            "box"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "fire alarm call box",
@@ -18524,22 +18501,17 @@
         ],
         "terms": [
             "emergency equipment",
-            "fire suppression",
-            "fire prevention",
+            "suppression",
+            "prevention",
             "safety gear",
-            "firefighting gear",
-            "firefighting apparatus",
-            "fire douser",
-            "firefighting tool",
-            "flame fighter",
-            "firefighting equipment"
+            "firefighting gear"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "fire extinguisher",
@@ -18568,14 +18540,15 @@
         "terms": [
             "firefighting tool",
             "firefighter gear",
-            "emergency equipment"
+            "emergency equipment",
+            "hose"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "fire hose",
@@ -18631,27 +18604,18 @@
             "vertex"
         ],
         "terms": [
-            "fire suppression",
-            "fire control",
-            "fire response",
-            "fire protection",
-            "fire department",
-            "fire station",
-            "fire access",
-            "firefighting equipment",
-            "water supply",
-            "emergency response",
-            "fire",
+            "suppression",
+            "control",
+            "response",
             "protection",
-            "service",
-            "fire protection service"
+            "access"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "fire_protection_service"
         ],
@@ -18722,22 +18686,17 @@
         ],
         "terms": [
             "medkit",
-            "medical kit",
+            "kit",
             "bandage",
             "emergency medicine",
-            "emergency supplies",
-            "medicinal kit",
-            "safety kit",
-            "medical supply",
-            "health kit",
-            "emergency medical supplies"
+            "emergency supplies"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "first aid kit",
@@ -18798,19 +18757,14 @@
             "helipad",
             "heliport",
             "emergency site",
-            "landing area",
-            "landing spot",
-            "emergency helipad",
-            "emergency heliport",
-            "helipad landing",
-            "heliport landing"
+            "landing area"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "emergency landing site",
@@ -18838,22 +18792,17 @@
         ],
         "terms": [
             "lifeboat",
-            "rescue",
             "lifeboatstation",
             "water lifeboat",
             "emergency lifeboat",
-            "rescue boat",
-            "life saving station",
-            "coastal lifeboat",
-            "water emergency",
-            "marine lifeboat"
+            "boat"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "lifeboat station",
@@ -18882,12 +18831,12 @@
         "terms": [
             "lifeguard"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "lifeguard",
@@ -18907,14 +18856,16 @@
             "vertex"
         ],
         "terms": [
-            "life ring"
+            "life ring",
+            "life",
+            "ring"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "life ring",
@@ -18937,14 +18888,15 @@
             "area"
         ],
         "terms": [
-            "ems"
+            "ems",
+            "mountain"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "mountain rescue",
@@ -18965,14 +18917,15 @@
             "vertex"
         ],
         "terms": [
-            "emergency phone"
+            "emergency phone",
+            "phone"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "emergency phone",
@@ -18994,12 +18947,12 @@
         "terms": [
             "siren"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "siren",
@@ -19031,20 +18984,14 @@
             "extinguishing",
             "firefighting",
             "water storage",
-            "water supply",
-            "water container",
-            "water reserve",
-            "water backup",
-            "water reservoir",
-            "emergency reservoir",
-            "water emergency"
+            "water supply"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "emergency water reservoir",
@@ -19074,20 +19021,14 @@
             "reservoir",
             "water storage",
             "underground storage",
-            "water tank",
-            "underground tank",
-            "water supply",
-            "water container",
-            "reservoir cover",
-            "groundwater storage",
-            "water storage facility"
+            "water tank"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "emergency water reservoir underground",
@@ -19115,14 +19056,17 @@
             "area"
         ],
         "terms": [
-            "emergency water tank"
+            "emergency water",
+            "water tank",
+            "water",
+            "tank"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "emergency water tank",
@@ -19199,14 +19143,18 @@
             "vertex"
         ],
         "terms": [
-            "emergency room entrance"
+            "emergency room",
+            "emergency ward",
+            "emergency",
+            "ward",
+            "entrance"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "emergency room entrance",
@@ -19356,19 +19304,14 @@
             "glasses",
             "lasik",
             "lenses",
-            "vision",
-            "optician",
-            "ophthalmologist",
-            "optometry",
-            "sight",
-            "eye health"
+            "vision"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "optometrist"
         ],
@@ -19723,19 +19666,14 @@
             "naturopathy",
             "osteopathy",
             "reflexology",
-            "reiki",
-            "shiatsu",
-            "traditional",
-            "tuina",
-            "unani",
-            "alternative"
+            "reiki"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "alternative_medicine"
         ],
@@ -19762,12 +19700,12 @@
         "terms": [
             "audiologist"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "audiologist"
         ],
@@ -19794,19 +19732,14 @@
             "obstetrics",
             "infant",
             "newborn",
-            "antenatal",
-            "postnatal",
-            "prenatal",
-            "neonatal",
-            "birth",
-            "nursery"
+            "antenatal"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "birthing center",
@@ -19835,17 +19768,15 @@
             "apheresis",
             "plasmapheresis",
             "plateletpheresis",
-            "and",
             "plasma",
-            "donation",
-            "blood and plasma donation center"
+            "donation"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "blood_and_plasma_donation_center"
         ],
@@ -19874,26 +19805,17 @@
         ],
         "terms": [
             "counselling",
-            "therapy",
-            "support",
             "wellness",
             "psychology",
             "counseling",
-            "advice",
-            "guidance",
-            "support center",
-            "counseling center",
-            "and",
-            "mental",
-            "health",
-            "counseling and mental health"
+            "advice"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "counseling_and_mental_health"
         ],
@@ -19924,12 +19846,12 @@
         "terms": [
             "hospice"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "hospice"
         ],
@@ -19951,31 +19873,18 @@
             "area"
         ],
         "terms": [
-            "pathology lab",
-            "medical testing",
-            "lab analysis",
-            "medical diagnostics",
-            "lab examination",
-            "lab analysis services",
-            "blood testing",
-            "lab tests",
-            "medical pathology",
-            "diagnostic testing",
-            "medical lab services",
-            "lab work",
-            "healthcare lab",
+            "pathology",
             "testing",
-            "clinical",
-            "laboratories",
-            "laboratory testing",
-            "clinical laboratories"
+            "analysis",
+            "diagnostics",
+            "examination"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "laboratory_testing",
             "clinical_laboratories"
@@ -20006,12 +19915,12 @@
         "terms": [
             "midwife"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "midwife"
         ],
@@ -20037,14 +19946,14 @@
             "area"
         ],
         "terms": [
-            "occupational therapist"
+            "occupational"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "occupational therapist",
@@ -20065,23 +19974,18 @@
             "area"
         ],
         "terms": [
-            "therapy",
-            "healthcare",
             "rehabilitation",
             "rehab",
             "physiotherapy",
             "physio",
-            "bodywork",
-            "therapist",
-            "recovery",
-            "pain management"
+            "bodywork"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "physiotherapist",
@@ -20142,21 +20046,14 @@
             "ankle",
             "toes",
             "orthopedic",
-            "care",
-            "health",
-            "treatment",
-            "physician",
-            "surgery",
-            "epidemiology",
-            "diagnosis",
-            "podiatry"
+            "treatment"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "podiatrist",
             "podiatry"
@@ -20188,20 +20085,14 @@
             "depression",
             "mind",
             "suicide",
-            "therapist",
-            "therapy",
-            "psychiatrist",
-            "psychologist",
-            "counseling",
-            "mindfulness",
-            "psychoanalyst"
+            "psychiatrist"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "psychologist",
             "psychotherapist",
@@ -20233,18 +20124,14 @@
         ],
         "terms": [
             "rehabilitation",
-            "rehab",
-            "therapist",
-            "therapy",
-            "rehabilitation services",
-            "center"
+            "rehab"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "rehabilitation_center"
         ],
@@ -20271,14 +20158,16 @@
             "area"
         ],
         "terms": [
-            "sample collection facility"
+            "sample collection",
+            "sample",
+            "collection"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "sample collection facility",
@@ -20337,22 +20226,14 @@
             "language",
             "pathology",
             "communication",
-            "disorder",
-            "aphasia",
-            "stutter",
-            "accent",
-            "swallow",
-            "dysphagia",
-            "treatment",
-            "training",
-            "speech training"
+            "disorder"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "speech_therapist",
             "speech_training"
@@ -20456,20 +20337,15 @@
             "chiropractic",
             "spine",
             "wellness",
-            "manual therapy",
-            "joint health",
-            "spinal adjustment",
-            "spinal health",
-            "wellbeing",
-            "complementary medicine",
-            "holistic healing"
+            "manual",
+            "joint"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "chiropractor"
         ],
@@ -20500,14 +20376,15 @@
         "terms": [
             "braces",
             "dentofacial orthopedics",
-            "orthodontics"
+            "orthodontics",
+            "orthodontist"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "orthodontist"
         ],
@@ -36833,7 +36710,7 @@
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "3",
+        "version": "4",
         "overture_categories": [],
         "natural_language_category": [
             "therapist office",
@@ -54407,18 +54284,18 @@
             "vertex"
         ],
         "terms": [
-            "prenatal clinic",
-            "antenatal clinic",
-            "perinatal centre",
-            "maternity care",
-            "maternity clinic"
+            "prenatal",
+            "antenatal",
+            "perinatal",
+            "maternity",
+            "prenatal perinatal"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "prenatal_perinatal_care"
         ],
@@ -54523,18 +54400,17 @@
             "vertex"
         ],
         "terms": [
-            "gp clinic",
-            "family doctor",
-            "primary care",
-            "medical practice",
-            "surgery clinic"
+            "gp",
+            "family",
+            "primary",
+            "surgery"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "family_practice"
         ],
@@ -54583,10 +54459,10 @@
             "vertex"
         ],
         "terms": [
-            "aesthetic dental",
-            "smile clinic",
-            "cosmetic dental",
-            "dental aesthetics",
+            "aesthetic",
+            "smile",
+            "cosmetic",
+            "aesthetics",
             "smile studio"
         ],
         "last_updated": "2025-12-17",
@@ -54594,7 +54470,7 @@
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "cosmetic_dentist"
         ],
@@ -55234,15 +55110,15 @@
             "vertex"
         ],
         "terms": [
-            "medical organizations",
-            "medical"
+            "organizations",
+            "organization"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "medical_service_organizations"
         ],
@@ -55720,18 +55596,15 @@
             "vertex"
         ],
         "terms": [
-            "medical cannabis",
-            "cannabis clinic",
-            "cannabis therapy",
-            "medical marijuana",
-            "cannabis doctor"
+            "cannabis",
+            "marijuana"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "cannabis_clinic"
         ],
@@ -56015,14 +55888,14 @@
             "vertex"
         ],
         "terms": [
-            "obstetrician and gynecologist"
+            "obstetrician gynecologist"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "obstetrician_and_gynecologist"
         ],
@@ -56186,14 +56059,15 @@
             "vertex"
         ],
         "terms": [
-            "physical therapy"
+            "physical",
+            "physiotherapy"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "physical_therapy"
         ],
@@ -56502,10 +56376,10 @@
             "vertex"
         ],
         "terms": [
-            "rehab centre",
-            "detox clinic",
-            "substance clinic",
-            "addiction service",
+            "rehab",
+            "detox",
+            "substance",
+            "addiction",
             "drug rehab"
         ],
         "last_updated": "2025-12-17",
@@ -56513,7 +56387,7 @@
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "alcohol_and_drug_treatment_centers"
         ],
@@ -56606,14 +56480,15 @@
             "vertex"
         ],
         "terms": [
-            "naturopathic holistic"
+            "naturopathic holistic",
+            "alternative"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "naturopathic_holistic"
         ],
@@ -56922,17 +56797,16 @@
         ],
         "terms": [
             "home nursing",
-            "domiciliary care",
-            "in-home care",
-            "visiting nurse",
-            "home care"
+            "domiciliary",
+            "home",
+            "visiting nurse"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "home_health_care"
         ],
@@ -57159,18 +57033,17 @@
             "vertex"
         ],
         "terms": [
-            "imaging centre",
-            "testing lab",
-            "diagnostic lab",
-            "scan centre",
-            "diagnostic centre"
+            "imaging",
+            "testing",
+            "diagnostic",
+            "scan"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "diagnostic_services"
         ],
@@ -57490,18 +57363,18 @@
             "vertex"
         ],
         "terms": [
-            "kids dentist",
-            "paediatric dentist",
-            "child dental",
-            "children's dentist",
-            "paedo dentist"
+            "kids",
+            "paediatric",
+            "child",
+            "children s",
+            "paedo"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "pediatric_dentist"
         ],
@@ -57607,12 +57480,12 @@
         "terms": [
             "plastic surgeon"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "plastic_surgeon"
         ],
@@ -58086,12 +57959,12 @@
         "terms": [
             "nutritionist"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "nutritionist"
         ],
@@ -58279,8 +58152,8 @@
             "vertex"
         ],
         "terms": [
-            "surgery centre",
-            "surgical clinic",
+            "surgery",
+            "surgical",
             "day surgery",
             "surgicenter",
             "surgery suite"
@@ -58290,7 +58163,7 @@
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "surgical_center"
         ],
@@ -58767,18 +58640,18 @@
             "vertex"
         ],
         "terms": [
-            "child doctor",
+            "child",
             "paediatrician",
-            "kids clinic",
-            "paeds clinic",
-            "children's doctor"
+            "kids",
+            "paeds",
+            "children s"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "pediatrician"
         ],
@@ -58931,18 +58804,18 @@
             "vertex"
         ],
         "terms": [
-            "eye clinic",
+            "eye",
             "ophthalmology",
-            "vision centre",
-            "eye hospital",
-            "optometry clinic"
+            "vision",
+            "optometry",
+            "optometrist"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "eye_care_clinic"
         ],
@@ -59495,12 +59368,12 @@
         "terms": [
             "osteopathic physician"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "osteopathic_physician"
         ],
@@ -59735,18 +59608,16 @@
             "vertex"
         ],
         "terms": [
-            "ivf clinic",
-            "fertility centre",
-            "reproductive health",
-            "fertility doctor",
-            "ivf centre"
+            "ivf",
+            "fertility",
+            "reproductive"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "fertility"
         ],
@@ -59867,12 +59738,12 @@
         "terms": [
             "orthopedist"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "orthopedist"
         ],
@@ -60337,18 +60208,18 @@
             "vertex"
         ],
         "terms": [
-            "implant dentist",
-            "restorative dentist",
-            "prosthetic dentist",
-            "dental implants",
-            "prostho clinic"
+            "implant",
+            "restorative",
+            "prosthetic",
+            "implants",
+            "prostho"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "prosthodontist"
         ],
@@ -60943,18 +60814,18 @@
             "vertex"
         ],
         "terms": [
-            "birthing centre",
-            "maternity clinic",
-            "antenatal centre",
-            "birth center",
-            "maternity unit"
+            "birthing",
+            "maternity",
+            "antenatal",
+            "birth",
+            "maternity centers"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "maternity_centers"
         ],
@@ -61248,10 +61119,10 @@
             "vertex"
         ],
         "terms": [
-            "slimming clinic",
-            "weight clinic",
-            "diet centre",
-            "bariatric clinic",
+            "slimming",
+            "weight",
+            "diet",
+            "bariatric",
             "weight studio"
         ],
         "last_updated": "2025-12-17",
@@ -61259,7 +61130,7 @@
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "weight_loss_center"
         ],
@@ -61692,7 +61563,7 @@
         "terms": [
             "whitening bar",
             "smile studio",
-            "bleaching clinic",
+            "bleaching",
             "tooth whitening",
             "laser whitening"
         ],
@@ -61701,7 +61572,7 @@
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "teeth_whitening"
         ],
@@ -62063,12 +61934,12 @@
         "terms": [
             "internal medicine"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "internal_medicine"
         ],
@@ -62314,12 +62185,12 @@
         "terms": [
             "neurologist"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "neurologist"
         ],
@@ -62371,14 +62242,15 @@
             "vertex"
         ],
         "terms": [
-            "acne treatment"
+            "acne treatment",
+            "dermatologist"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "dermatologist",
             "acne_treatment"
@@ -62444,14 +62316,15 @@
             "vertex"
         ],
         "terms": [
-            "acupuncture"
+            "acupuncture",
+            "alternative"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "acupuncture"
         ],
@@ -62907,14 +62780,14 @@
             "vertex"
         ],
         "terms": [
-            "occupational therapy"
+            "occupational"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "occupational_therapy"
         ],
@@ -63449,14 +63322,14 @@
             "vertex"
         ],
         "terms": [
-            "ear nose and throat"
+            "ear nose"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "ear_nose_and_throat"
         ],
@@ -63600,14 +63473,16 @@
             "vertex"
         ],
         "terms": [
-            "nurse practitioner"
+            "nurse practitioner",
+            "nurse",
+            "practitioner"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "nurse_practitioner"
         ],
@@ -63773,14 +63648,18 @@
             "vertex"
         ],
         "terms": [
-            "emergency room"
+            "emergency room",
+            "emergency ward",
+            "emergency",
+            "ward",
+            "entrance"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "emergency_room"
         ],
@@ -63940,14 +63819,15 @@
             "vertex"
         ],
         "terms": [
-            "reflexology"
+            "reflexology",
+            "alternative"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "reflexology"
         ],
@@ -64063,7 +63943,7 @@
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "career_counseling"
         ],
@@ -64574,14 +64454,15 @@
             "vertex"
         ],
         "terms": [
-            "aromatherapy"
+            "aromatherapy",
+            "alternative"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "aromatherapy"
         ],
@@ -64799,7 +64680,7 @@
             "vertex"
         ],
         "terms": [
-            "surgical doctor",
+            "surgical",
             "consultant surgeon",
             "surgery specialist",
             "operating surgeon",
@@ -64810,7 +64691,7 @@
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "surgeon"
         ],
@@ -64833,12 +64714,12 @@
         "terms": [
             "gastroenterologist"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "gastroenterologist"
         ],
@@ -65074,18 +64955,15 @@
             "vertex"
         ],
         "terms": [
-            "women's clinic",
-            "gynaecology clinic",
-            "women's health",
-            "women's centre",
-            "women's care"
+            "women s",
+            "gynaecology"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "womens_health_clinic"
         ],
@@ -66104,12 +65982,12 @@
         "terms": [
             "dui law"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "dui_law"
         ],
@@ -66129,14 +66007,17 @@
             "vertex"
         ],
         "terms": [
-            "pharmaceutical"
+            "pharmaceutical",
+            "pharmaceutical companies",
+            "pharmaceutical company",
+            "company"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "pharmaceutical_companies"
         ],
@@ -66444,12 +66325,12 @@
         "terms": [
             "urologist"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "urologist"
         ],
@@ -66527,14 +66408,15 @@
             "vertex"
         ],
         "terms": [
-            "abuse and addiction treatment"
+            "abuse addiction",
+            "counselling"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "abuse_and_addiction_treatment"
         ],
@@ -66711,12 +66593,12 @@
         "terms": [
             "hair replacement"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "hair_replacement"
         ],
@@ -67167,12 +67049,12 @@
         "terms": [
             "radiologist"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "radiologist"
         ],
@@ -67195,12 +67077,12 @@
         "terms": [
             "pulmonologist"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "pulmonologist"
         ],
@@ -67437,12 +67319,12 @@
         "terms": [
             "rheumatologist"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "rheumatologist"
         ],
@@ -67548,14 +67430,15 @@
             "vertex"
         ],
         "terms": [
-            "laser eye surgery lasik"
+            "laser eye",
+            "surgery"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "laser_eye_surgery_lasik"
         ],
@@ -67987,12 +67870,12 @@
         "terms": [
             "neuropathologist"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "neuropathologist"
         ],
@@ -68015,12 +67898,12 @@
         "terms": [
             "endodontist"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "endodontist"
         ],
@@ -68112,12 +67995,12 @@
         "terms": [
             "nephrologist"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "nephrologist"
         ],
@@ -68197,12 +68080,12 @@
         "terms": [
             "cardiologist"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "cardiologist"
         ],
@@ -68329,12 +68212,12 @@
         "terms": [
             "oncologist"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "oncologist"
         ],
@@ -68471,15 +68354,14 @@
             "vertex"
         ],
         "terms": [
-            "sex therapist",
-            "therapist"
+            "sex"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "sex_therapist"
         ],
@@ -68530,18 +68412,18 @@
             "vertex"
         ],
         "terms": [
-            "renal clinic",
-            "kidney clinic",
-            "dialysis centre",
+            "renal",
+            "kidney",
+            "dialysis",
             "haemodialysis",
-            "peritoneal clinic"
+            "peritoneal"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "dialysis_clinic"
         ],
@@ -68616,14 +68498,15 @@
             "vertex"
         ],
         "terms": [
-            "pediatric anesthesiology"
+            "pediatric anesthesiology",
+            "anesthesiologist"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "anesthesiologist",
             "pediatric_anesthesiology"
@@ -68765,12 +68648,12 @@
         "terms": [
             "gerontologist"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "gerontologist"
         ],
@@ -69112,12 +68995,12 @@
         "terms": [
             "allergist"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "allergist"
         ],
@@ -69381,14 +69264,15 @@
             "emergency roadside",
             "roadside assistance",
             "roadside",
-            "assistance"
+            "assistance",
+            "yes"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "emergency_roadside_service"
         ],
@@ -69535,14 +69419,15 @@
             "vertex"
         ],
         "terms": [
-            "oral surgeon"
+            "oral surgeon",
+            "surgeon"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "oral_surgeon"
         ],
@@ -69798,14 +69683,15 @@
             "vertex"
         ],
         "terms": [
-            "sports psychologist"
+            "sports psychologist",
+            "psychotherapist"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "sports_psychologist"
         ],
@@ -70126,12 +70012,12 @@
         "terms": [
             "endocrinologist"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "endocrinologist"
         ],
@@ -70154,17 +70040,17 @@
         ],
         "terms": [
             "gum specialist",
-            "periodontal clinic",
-            "gum doctor",
+            "periodontal",
+            "gum",
             "periodontics",
-            "gum dentist"
+            "periodontist"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "periodontist"
         ],
@@ -70865,12 +70751,12 @@
         "terms": [
             "psychiatrist"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "psychiatrist"
         ],
@@ -71346,12 +71232,12 @@
         "terms": [
             "proctologist"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "proctologist"
         ],
@@ -72772,8 +72658,6 @@
             "vertex"
         ],
         "terms": [
-            "health coach",
-            "health",
             "coach"
         ],
         "last_updated": "2025-12-17",
@@ -72781,7 +72665,7 @@
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "health_coach"
         ],
@@ -73082,14 +72966,15 @@
             "vertex"
         ],
         "terms": [
-            "addiction rehabilitation center"
+            "addiction rehabilitation",
+            "rehabilitation"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "addiction_rehabilitation_center"
         ],
@@ -73169,10 +73054,10 @@
             "vertex"
         ],
         "terms": [
-            "walk-in clinic",
-            "after-hours clinic",
+            "walk",
+            "after hours",
             "minor emergency",
-            "immediate care",
+            "immediate",
             "urgent treatment"
         ],
         "last_updated": "2025-12-17",
@@ -73180,7 +73065,7 @@
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "urgent_care_clinic"
         ],
@@ -73405,12 +73290,12 @@
         "terms": [
             "hematology"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "hematology"
         ],
@@ -73600,14 +73485,14 @@
             "vertex"
         ],
         "terms": [
-            "cardiovascular and thoracic surgeon"
+            "cardiovascular thoracic"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "cardiovascular_and_thoracic_surgeon"
         ],
@@ -73781,14 +73666,14 @@
             "vertex"
         ],
         "terms": [
-            "childrens hospital"
+            "childrens"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "childrens_hospital"
         ],
@@ -73979,9 +73864,9 @@
             "vertex"
         ],
         "terms": [
-            "dental school",
+            "school",
             "dentistry school",
-            "dental college",
+            "college",
             "odontology school",
             "dentistry college"
         ],
@@ -73990,7 +73875,7 @@
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "dentistry_schools"
         ],
@@ -74159,14 +74044,14 @@
             "vertex"
         ],
         "terms": [
-            "paternity tests and services"
+            "paternity tests"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "paternity_tests_and_services"
         ],
@@ -74310,14 +74195,17 @@
             "vertex"
         ],
         "terms": [
-            "organ and tissue donor service"
+            "organ tissue",
+            "organ",
+            "tissue",
+            "donor"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "organ_and_tissue_donor_service"
         ],
@@ -74960,14 +74848,15 @@
             "vertex"
         ],
         "terms": [
-            "surf lifesaving club"
+            "surf lifesaving",
+            "lifeguard"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "surf_lifesaving_club"
         ],
@@ -76455,12 +76344,12 @@
         "terms": [
             "sleep specialist"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "sleep_specialist"
         ],
@@ -76509,14 +76398,14 @@
             "vertex"
         ],
         "terms": [
-            "ultrasound imaging center"
+            "ultrasound imaging"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "ultrasound_imaging_center"
         ],
@@ -76621,14 +76510,15 @@
             "vertex"
         ],
         "terms": [
-            "alcohol and drug treatment center"
+            "alcohol drug",
+            "addiction"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "alcohol_and_drug_treatment_center"
         ],
@@ -76798,14 +76688,14 @@
             "vertex"
         ],
         "terms": [
-            "undersea hyperbaric medicine"
+            "undersea hyperbaric"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "undersea_hyperbaric_medicine"
         ],
@@ -76978,12 +76868,12 @@
         "terms": [
             "immunodermatologist"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "immunodermatologist"
         ],
@@ -77006,12 +76896,12 @@
         "terms": [
             "pediatric nephrology"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "pediatric_nephrology"
         ],
@@ -77092,12 +76982,12 @@
         "terms": [
             "pediatric gastroenterology"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "pediatric_gastroenterology"
         ],
@@ -77148,12 +77038,12 @@
         "terms": [
             "cryotherapy"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "cryotherapy"
         ],
@@ -77438,14 +77328,16 @@
             "vertex"
         ],
         "terms": [
-            "lactation services"
+            "lactation",
+            "lactation counselor",
+            "counselor"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "lactation_services"
         ],
@@ -77566,12 +77458,12 @@
         "terms": [
             "doula"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "doula"
         ],
@@ -77674,14 +77566,15 @@
             "vertex"
         ],
         "terms": [
-            "bulk billing"
+            "bulk billing",
+            "billing"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "bulk_billing"
         ],
@@ -77942,14 +77835,16 @@
             "vertex"
         ],
         "terms": [
-            "medical cannabis referral"
+            "cannabis referral",
+            "cannabis",
+            "referral"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "medical_cannabis_referral"
         ],
@@ -78727,15 +78622,14 @@
             "vertex"
         ],
         "terms": [
-            "health consultant",
-            "healthcare"
+            "consultant"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "health_consultant"
         ],
@@ -78812,14 +78706,14 @@
             "vertex"
         ],
         "terms": [
-            "infectious disease specialist"
+            "infectious disease"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "infectious_disease_specialist"
         ],
@@ -78841,12 +78735,12 @@
         "terms": [
             "pathologist"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "pathologist"
         ],
@@ -78925,14 +78819,15 @@
             "vertex"
         ],
         "terms": [
-            "child psychiatrist"
+            "child psychiatrist",
+            "psychiatrist"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "child_psychiatrist"
         ],
@@ -79015,12 +78910,12 @@
         "terms": [
             "pain management"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "pain_management"
         ],
@@ -79341,12 +79236,12 @@
         "terms": [
             "pediatric endocrinology"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "pediatric_endocrinology"
         ],
@@ -79540,12 +79435,12 @@
         "terms": [
             "reiki"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "reiki"
         ],
@@ -79686,12 +79581,12 @@
         "terms": [
             "vascular medicine"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "vascular_medicine"
         ],
@@ -79831,14 +79726,17 @@
             "vertex"
         ],
         "terms": [
-            "colonics"
+            "colonics",
+            "colon hydrotherapy",
+            "colon",
+            "hydrotherapy"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "colonics"
         ],
@@ -79919,12 +79817,12 @@
         "terms": [
             "preventive medicine"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "preventive_medicine"
         ],
@@ -79947,12 +79845,12 @@
         "terms": [
             "pediatric neurology"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "pediatric_neurology"
         ],
@@ -79972,14 +79870,17 @@
             "vertex"
         ],
         "terms": [
-            "halotherapy"
+            "halotherapy",
+            "alternative medicine",
+            "alternative",
+            "medicine"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "halotherapy"
         ],
@@ -80261,14 +80162,14 @@
             "vertex"
         ],
         "terms": [
-            "dental hygienist"
+            "hygienist"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "dental_hygienist"
         ],
@@ -80289,14 +80190,14 @@
             "vertex"
         ],
         "terms": [
-            "foot care"
+            "foot"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "foot_care"
         ],
@@ -80317,14 +80218,14 @@
             "vertex"
         ],
         "terms": [
-            "pediatric infectious disease"
+            "pediatric infectious"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "pediatric_infectious_disease"
         ],
@@ -80501,12 +80402,12 @@
         "terms": [
             "spine surgeon"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "spine_surgeon"
         ],
@@ -80666,14 +80567,15 @@
             "vertex"
         ],
         "terms": [
-            "suicide prevention services"
+            "suicide prevention",
+            "counselling"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "suicide_prevention_services"
         ],
@@ -81278,14 +81180,16 @@
             "vertex"
         ],
         "terms": [
-            "sports medicine"
+            "sports medicine",
+            "sports",
+            "medicine"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "sports_medicine"
         ],
@@ -81418,14 +81322,16 @@
             "vertex"
         ],
         "terms": [
-            "physician assistant"
+            "physician assistant",
+            "physician",
+            "assistant"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "physician_assistant"
         ],
@@ -81601,18 +81507,18 @@
             "vertex"
         ],
         "terms": [
-            "er doctor",
-            "a&e doctor",
+            "er",
+            "a e",
             "ed physician",
-            "emergency doctor",
-            "trauma doctor"
+            "emergency",
+            "trauma"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "emergency_medicine"
         ],
@@ -81690,14 +81596,15 @@
             "vertex"
         ],
         "terms": [
-            "dietitian"
+            "dietitian",
+            "dietician"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "dietitian"
         ],
@@ -81836,15 +81743,14 @@
             "vertex"
         ],
         "terms": [
-            "behavior analyst",
-            "therapist"
+            "behavior analyst"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "behavior_analyst"
         ],
@@ -81951,14 +81857,15 @@
             "vertex"
         ],
         "terms": [
-            "geriatric psychiatry"
+            "geriatric psychiatry",
+            "psychiatrist"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "geriatric_psychiatry"
         ],
@@ -82215,14 +82122,15 @@
             "vertex"
         ],
         "terms": [
-            "pediatric radiology"
+            "pediatric radiology",
+            "pediatric"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "pediatric_radiology"
         ],
@@ -82358,14 +82266,15 @@
             "vertex"
         ],
         "terms": [
-            "traditional chinese medicine"
+            "traditional chinese",
+            "alternative"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "traditional_chinese_medicine"
         ],
@@ -82472,14 +82381,16 @@
             "vertex"
         ],
         "terms": [
-            "sperm clinic"
+            "sperm",
+            "sperm bank",
+            "bank"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "sperm_clinic"
         ],
@@ -83075,14 +82986,15 @@
             "vertex"
         ],
         "terms": [
-            "emergency pet hospital"
+            "emergency pet",
+            "yes"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "emergency_pet_hospital"
         ],
@@ -83102,14 +83014,17 @@
             "vertex"
         ],
         "terms": [
-            "emergency service"
+            "emergency",
+            "disaster response",
+            "disaster",
+            "response"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "emergency_service"
         ],
@@ -84104,12 +84019,12 @@
         "terms": [
             "pediatric pulmonology"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "pediatric_pulmonology"
         ],
@@ -84189,14 +84104,16 @@
             "vertex"
         ],
         "terms": [
-            "iv hydration"
+            "iv hydration",
+            "iv",
+            "hydration"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "iv_hydration"
         ],
@@ -84464,15 +84381,14 @@
             "vertex"
         ],
         "terms": [
-            "phlebologist",
-            "doctor"
+            "phlebologist"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "phlebologist"
         ],
@@ -84755,12 +84671,12 @@
         "terms": [
             "toxicologist"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "toxicologist"
         ],
@@ -84894,12 +84810,12 @@
         "terms": [
             "neurotologist"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "neurotologist"
         ],
@@ -85100,12 +85016,12 @@
         "terms": [
             "diagnostic imaging"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "diagnostic_imaging"
         ],
@@ -85128,12 +85044,12 @@
         "terms": [
             "occupational medicine"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "occupational_medicine"
         ],
@@ -85937,14 +85853,15 @@
             "vertex"
         ],
         "terms": [
-            "hypnosis hypnotherapy"
+            "hypnosis hypnotherapy",
+            "alternative"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "hypnosis_hypnotherapy"
         ],
@@ -85964,17 +85881,14 @@
             "vertex"
         ],
         "terms": [
-            "b2b medical",
-            "medical support",
-            "medical",
-            "support"
+            "b2b"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "b2b_medical_support_services"
         ],
@@ -85995,14 +85909,15 @@
             "vertex"
         ],
         "terms": [
-            "skilled nursing"
+            "skilled nursing",
+            "nurse"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "skilled_nursing"
         ],
@@ -86023,14 +85938,14 @@
             "vertex"
         ],
         "terms": [
-            "hair loss center"
+            "hair loss"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "hair_loss_center"
         ],
@@ -86200,12 +86115,12 @@
         "terms": [
             "endoscopist"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "endoscopist"
         ],
@@ -86603,12 +86518,12 @@
         "terms": [
             "hepatologist"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "hepatologist"
         ],
@@ -86774,12 +86689,12 @@
         "terms": [
             "osteopath"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "osteopath"
         ],
@@ -86941,14 +86856,17 @@
             "vertex"
         ],
         "terms": [
-            "memory care"
+            "memory",
+            "nursing home",
+            "nursing",
+            "home"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "memory_care"
         ],
@@ -86999,14 +86917,15 @@
             "vertex"
         ],
         "terms": [
-            "animal assisted therapy"
+            "animal assisted",
+            "alternative"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "animal_assisted_therapy"
         ],
@@ -87169,14 +87088,14 @@
             "vertex"
         ],
         "terms": [
-            "psychomotor therapist"
+            "psychomotor"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "psychomotor_therapist"
         ],
@@ -87284,12 +87203,12 @@
         "terms": [
             "pediatric cardiology"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "pediatric_cardiology"
         ],
@@ -87661,18 +87580,17 @@
             "vertex"
         ],
         "terms": [
-            "oncology centre",
-            "cancer clinic",
-            "cancer hospital",
+            "oncology",
+            "cancer",
             "cancer institute",
-            "oncology unit"
+            "cancer treatment"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "cancer_treatment_center"
         ],
@@ -87752,12 +87670,12 @@
         "terms": [
             "cosmetic surgeon"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "cosmetic_surgeon"
         ],
@@ -87864,14 +87782,14 @@
             "vertex"
         ],
         "terms": [
-            "dental laboratories"
+            "laboratory"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "dental_laboratories"
         ],
@@ -87952,12 +87870,12 @@
         "terms": [
             "otologist"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "otologist"
         ],
@@ -88008,12 +87926,12 @@
         "terms": [
             "geriatric medicine"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "geriatric_medicine"
         ],
@@ -88095,12 +88013,12 @@
         "terms": [
             "retina specialist"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "retina_specialist",
             "ophthalmologist"
@@ -88153,14 +88071,15 @@
             "vertex"
         ],
         "terms": [
-            "tui na"
+            "tui na",
+            "alternative"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "tui_na"
         ],
@@ -88568,12 +88487,12 @@
         "terms": [
             "concierge medicine"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "concierge_medicine"
         ],
@@ -88655,12 +88574,12 @@
         "terms": [
             "environmental medicine"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "environmental_medicine"
         ],
@@ -88796,14 +88715,14 @@
             "vertex"
         ],
         "terms": [
-            "stress management services"
+            "stress management"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "stress_management_services"
         ],
@@ -89763,14 +89682,14 @@
             "vertex"
         ],
         "terms": [
-            "pediatric orthopedic surgery"
+            "pediatric orthopedic"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "pediatric_orthopedic_surgery"
         ],
@@ -89878,14 +89797,15 @@
             "vertex"
         ],
         "terms": [
-            "ayurveda"
+            "ayurveda",
+            "alternative"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "ayurveda"
         ],
@@ -89947,17 +89867,16 @@
             "vertex"
         ],
         "terms": [
-            "elder care",
             "elder",
-            "care",
-            "planning"
+            "planning",
+            "elder planning"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "elder_care_planning"
         ],
@@ -89980,12 +89899,12 @@
         "terms": [
             "pediatric oncology"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "pediatric_oncology"
         ],
@@ -90387,14 +90306,17 @@
             "vertex"
         ],
         "terms": [
-            "hydrotherapy"
+            "hydrotherapy",
+            "alternative medicine",
+            "alternative",
+            "medicine"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "hydrotherapy"
         ],
@@ -90445,12 +90367,12 @@
         "terms": [
             "pediatric surgery"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "pediatric_surgery"
         ],

@@ -1137,15 +1137,18 @@
             "vertex"
         ],
         "terms": [
-            "costume museum",
-            "museum"
+            "costume",
+            "fashion museum",
+            "dress museum",
+            "textile museum",
+            "garment museum"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "costume_museum"
         ],
@@ -21975,22 +21978,15 @@
             "ancient ruins",
             "remains",
             "ancient remains",
-            "ruined site",
-            "temple ruins",
-            "castle ruins",
-            "old fortress",
-            "historic structure",
-            "ancient walls",
-            "archaeological site",
-            "old stones",
-            "abandoned monument"
+            "ruined",
+            "ruins"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "ruin"
         ],
@@ -22126,14 +22122,18 @@
             "area"
         ],
         "terms": [
-            "monument"
+            "landmark",
+            "statue",
+            "memorial",
+            "historic monument",
+            "plinth"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "monument"
         ],
@@ -23040,22 +23040,17 @@
         ],
         "terms": [
             "ancient ruins",
-            "dig site",
-            "historic excavation",
+            "dig",
+            "excavation",
             "archaeological remains",
-            "buried ruins",
-            "prehistoric site",
-            "ancient settlement",
-            "ruined temple",
-            "historic artifacts",
-            "heritage site"
+            "buried ruins"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "archaeological site",
@@ -23078,20 +23073,15 @@
             "stone boundary",
             "boundary marker",
             "marker boundary",
-            "boundary stone landmark",
-            "stone boundary landmark",
-            "historical marker",
-            "historical monument",
-            "historical landmark",
-            "historic monument",
-            "historic landmark"
+            "boundary stone",
+            "historical marker"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "boundary stone",
@@ -23117,23 +23107,18 @@
             "area"
         ],
         "terms": [
-            "archaic building",
-            "classic building",
-            "landmark building",
-            "retro building",
-            "traditional building",
-            "timeless building",
-            "dated building",
-            "bygone building",
-            "nostalgic building",
-            "traditional structure"
+            "archaic",
+            "classic",
+            "landmark",
+            "retro",
+            "traditional"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "historic building",
@@ -23161,14 +23146,15 @@
         ],
         "terms": [
             "fortification",
-            "landmark"
+            "landmark",
+            "castle"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "castle"
         ],
@@ -23221,14 +23207,14 @@
             "area"
         ],
         "terms": [
-            "historic fort"
+            "fort"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "fort"
         ],
@@ -23254,18 +23240,14 @@
             "gentry",
             "nobility",
             "estate",
-            "historic",
-            "heritage",
-            "manor",
-            "noble house",
-            "historical house"
+            "manor"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "manor house",
@@ -23293,23 +23275,17 @@
         ],
         "terms": [
             "memory",
-            "monument",
             "stolperstein",
             "memorialize",
             "commemorative",
-            "tribute",
-            "honoring",
-            "memorabilia",
-            "cenotaph",
-            "monumental",
-            "lighthouse"
+            "tribute"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "lighthouse"
         ],
@@ -23339,16 +23315,16 @@
             "area"
         ],
         "terms": [
-            "statue memorial",
+            "statue",
             "commemorative statue",
             "tribute statue"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "1",
+        "version": "2",
         "overture_categories": [],
         "natural_language_category": [
             "memorial statue",
@@ -23368,17 +23344,15 @@
             "area"
         ],
         "terms": [
-            "historic",
-            "memorial",
-            "monument",
-            "landmark"
+            "landmark",
+            "pillory"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "historic pillory",
@@ -23459,14 +23433,14 @@
             "area"
         ],
         "terms": [
-            "wayside shrine"
+            "wayside"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "wayside shrine",
@@ -23490,20 +23464,14 @@
             "boat wreck",
             "sunken boat",
             "wrecked ship",
-            "maritime ruins",
-            "ship remains",
-            "hull wreck",
-            "ocean wreck",
-            "abandoned vessel",
-            "ship disaster",
-            "skeleton ship"
+            "maritime ruins"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "shipwreck",
@@ -23524,14 +23492,15 @@
             "area"
         ],
         "terms": [
-            "historic fortress"
+            "fortress",
+            "castle"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "historic fortress",
@@ -23553,14 +23522,15 @@
             "area"
         ],
         "terms": [
-            "palace"
+            "palace",
+            "castle"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "palace"
         ],
@@ -23587,14 +23557,15 @@
             "area"
         ],
         "terms": [
-            "ch\u00e3\u00a2teau"
+            "ch teau",
+            "castle"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "cha a teau",
@@ -38394,15 +38365,14 @@
             "vertex"
         ],
         "terms": [
-            "asian art",
-            "museum"
+            "asian art"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "asian_art_museum"
         ],
@@ -41185,15 +41155,14 @@
             "vertex"
         ],
         "terms": [
-            "decorative arts",
-            "museum"
+            "decorative arts"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "decorative_arts_museum"
         ],
@@ -43981,15 +43950,14 @@
             "area"
         ],
         "terms": [
-            "art gallery",
-            "artwork"
+            "art"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "art_gallery",
             "painting"
@@ -44016,15 +43984,14 @@
             "vertex"
         ],
         "terms": [
-            "contemporary art",
-            "museum"
+            "contemporary art"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "contemporary_art_museum"
         ],
@@ -45240,15 +45207,14 @@
             "vertex"
         ],
         "terms": [
-            "photography museum",
-            "museum"
+            "photography"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "photography_museum"
         ],
@@ -48381,15 +48347,14 @@
             "area"
         ],
         "terms": [
-            "mural",
-            "artwork"
+            "mural"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "3",
+        "version": "4",
         "overture_categories": [],
         "natural_language_category": [
             "mural",
@@ -48869,15 +48834,15 @@
             "paint",
             "photo",
             "sculpt",
-            "artwork",
-            "exhibition"
+            "exhibition",
+            "art"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "atelier"
         ],
@@ -49098,8 +49063,6 @@
         "terms": [
             "art",
             "exhibit",
-            "gallery",
-            "hall",
             "institution"
         ],
         "last_updated": "2025-12-17",
@@ -49107,7 +49070,7 @@
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "museum",
             "state_museum"
@@ -49347,15 +49310,15 @@
             "figure",
             "sculpture",
             "statue",
-            "artwork",
-            "art"
+            "art",
+            "bust"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "3",
+        "version": "4",
         "overture_categories": [],
         "natural_language_category": [
             "bust",
@@ -49388,7 +49351,7 @@
             "wall art",
             "public art",
             "graffiti type",
-            "artwork type",
+            "type",
             "art type"
         ],
         "last_updated": "2025-12-17",
@@ -49396,7 +49359,7 @@
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "3",
+        "version": "4",
         "overture_categories": [],
         "natural_language_category": [
             "graffiti",
@@ -49425,15 +49388,14 @@
             "area"
         ],
         "terms": [
-            "art installation",
-            "artwork"
+            "art installation"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "3",
+        "version": "4",
         "overture_categories": [],
         "natural_language_category": [
             "art installation",
@@ -49461,15 +49423,15 @@
             "statue",
             "figure",
             "carving",
-            "artwork",
-            "sculpting"
+            "sculpting",
+            "sculpture"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "3",
+        "version": "4",
         "overture_categories": [],
         "natural_language_category": [
             "sculpture",
@@ -49499,15 +49461,14 @@
         ],
         "terms": [
             "sculpture statue",
-            "statue",
-            "artwork"
+            "statue"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "sculpture_statue"
         ],
@@ -52751,14 +52712,14 @@
             "vertex"
         ],
         "terms": [
-            "landmark and historical building"
+            "landmark historical"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "landmark_and_historical_building"
         ],
@@ -59565,15 +59526,14 @@
             "vertex"
         ],
         "terms": [
-            "children s",
-            "museum"
+            "children s"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "childrens_museum"
         ],
@@ -61653,15 +61613,14 @@
             "vertex"
         ],
         "terms": [
-            "art museum",
-            "museum"
+            "art"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "art_museum"
         ],
@@ -64300,15 +64259,14 @@
             "vertex"
         ],
         "terms": [
-            "modern art",
-            "museum"
+            "modern art"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "modern_art_museum"
         ],
@@ -66267,15 +66225,14 @@
             "vertex"
         ],
         "terms": [
-            "community museum",
-            "museum"
+            "community"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "community_museum"
         ],
@@ -66512,15 +66469,14 @@
             "vertex"
         ],
         "terms": [
-            "science museum",
-            "museum"
+            "science"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "science_museum"
         ],
@@ -68333,15 +68289,14 @@
             "vertex"
         ],
         "terms": [
-            "design museum",
-            "museum"
+            "design"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "design_museum"
         ],
@@ -69263,15 +69218,14 @@
             "vertex"
         ],
         "terms": [
-            "computer museum",
-            "museum"
+            "computer"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "computer_museum"
         ],
@@ -69631,15 +69585,14 @@
             "vertex"
         ],
         "terms": [
-            "aviation museum",
-            "museum"
+            "aviation"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "aviation_museum"
         ],
@@ -69874,15 +69827,14 @@
             "vertex"
         ],
         "terms": [
-            "sports museum",
-            "museum"
+            "sports"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "sports_museum"
         ],
@@ -70338,15 +70290,14 @@
             "vertex"
         ],
         "terms": [
-            "cartooning museum",
-            "museum"
+            "cartooning"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "cartooning_museum"
         ],
@@ -70367,15 +70318,14 @@
             "vertex"
         ],
         "terms": [
-            "textile museum",
-            "museum"
+            "textile"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "textile_museum"
         ],
@@ -79031,15 +78981,14 @@
             "vertex"
         ],
         "terms": [
-            "military museum",
-            "museum"
+            "military"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "military_museum"
         ],
@@ -81004,15 +80953,14 @@
             "vertex"
         ],
         "terms": [
-            "street art",
-            "artwork"
+            "street art"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "street_art"
         ],
@@ -87676,15 +87624,14 @@
             "vertex"
         ],
         "terms": [
-            "national museum",
-            "museum"
+            "national"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "national_museum"
         ],
@@ -88372,15 +88319,14 @@
             "vertex"
         ],
         "terms": [
-            "memorial park",
-            "park"
+            "memorial"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "memorial_park"
         ],

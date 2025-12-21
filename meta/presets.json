@@ -1103,13 +1103,19 @@
             "point",
             "area"
         ],
-        "terms": [],
-        "last_updated": "2025-09-03",
+        "terms": [
+            "movie theater",
+            "film theatre",
+            "cinema hall",
+            "picture house",
+            "multiplex"
+        ],
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "4",
         "overture_categories": [
             "cinema"
         ],
@@ -2107,34 +2113,18 @@
             "area"
         ],
         "terms": [
-            "community arts",
-            "creative space",
+            "arts centre",
+            "creative hub",
             "studio space",
-            "art gallery",
-            "art venue",
-            "arts venue",
-            "arts hub",
-            "performance center",
-            "theater center",
-            "theatre center",
-            "arts facility",
-            "cultural venue",
-            "and",
-            "entertainment",
-            "cultural",
-            "exhibition",
-            "trade",
-            "gallery",
-            "performing arts",
-            "arts and entertainment",
-            "exhibition and trade center"
+            "cultural center",
+            "arts hub"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "4",
         "overture_categories": [
             "arts_and_entertainment",
             "cultural_center",
@@ -2951,26 +2941,18 @@
             "area"
         ],
         "terms": [
-            "gambling",
-            "roulette",
-            "craps",
-            "poker",
-            "blackjack",
-            "slots",
-            "gaming",
-            "betting",
-            "gamble",
-            "casino games",
-            "card games",
-            "slot machines",
-            "jackpot"
+            "gambling hall",
+            "gaming floor",
+            "casino resort",
+            "poker room",
+            "gaming house"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "4",
         "overture_categories": [
             "casino"
         ],
@@ -5211,23 +5193,18 @@
             "area"
         ],
         "terms": [
-            "disco",
-            "dancing",
-            "club",
-            "bar",
-            "clubhouse",
-            "nightlife",
-            "pub",
-            "lounge",
-            "night club",
-            "dancefloor"
+            "dance club",
+            "discotheque",
+            "nightlife venue",
+            "late night club",
+            "club scene"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "4",
         "overture_categories": [],
         "natural_language_category": [
             "nightclub",
@@ -5487,24 +5464,18 @@
             "area"
         ],
         "terms": [
-            "stars",
-            "universe",
-            "cosmos",
-            "astronomical",
-            "stargazing",
-            "science",
-            "education",
-            "constellations",
-            "telescope",
-            "astrophysics",
-            "cosmology"
+            "planetarium",
+            "star dome",
+            "astronomy theatre",
+            "cosmos show",
+            "sky theatre"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "4",
         "overture_categories": [
             "planetarium"
         ],
@@ -6721,38 +6692,18 @@
             "area"
         ],
         "terms": [
-            "opera",
-            "show",
-            "live",
-            "acting",
-            "concert",
-            "entertainment",
-            "film",
-            "screen",
-            "art",
-            "arena",
-            "topic",
-            "venue",
-            "music",
-            "comedy",
-            "club",
-            "theatrical",
-            "productions",
-            "performing",
-            "arts",
-            "theaters",
-            "and",
-            "venues",
-            "topic concert venue",
-            "music venue",
-            "comedy club"
+            "playhouse",
+            "performing arts",
+            "stage theatre",
+            "live drama",
+            "drama house"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "4",
         "overture_categories": [
             "topic_concert_venue",
             "music_venue",
@@ -8590,14 +8541,18 @@
             "area"
         ],
         "terms": [
-            "lgbtq+ nightclub"
+            "lgbtq club",
+            "queer nightlife",
+            "gay bar",
+            "gay club",
+            "pride club"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "4",
         "overture_categories": [],
         "natural_language_category": [
             "lgbtq nightclub",
@@ -11837,22 +11792,18 @@
             "area"
         ],
         "terms": [
-            "outdoor",
-            "greek",
-            "amphi",
-            "theatre",
+            "open air theatre",
             "amphitheater",
-            "theater",
-            "theatretype",
-            "amphitype",
-            "amphitheatretype"
+            "arena stage",
+            "outdoor stage",
+            "bowl"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "4",
         "overture_categories": [],
         "natural_language_category": [
             "amphitheatre",
@@ -28621,17 +28572,18 @@
             "area"
         ],
         "terms": [
-            "ping pong venue",
-            "table tennis venue",
-            "ping pong meetup",
-            "table tennis meetup"
+            "ping pong",
+            "table tennis",
+            "ping pong hall",
+            "table tennis club",
+            "ping pong lounge"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "1",
+        "version": "2",
         "overture_categories": [],
         "natural_language_category": [
             "ping pong",
@@ -57793,14 +57745,18 @@
             "vertex"
         ],
         "terms": [
-            "jazz and blues"
+            "jazz club",
+            "blues bar",
+            "live jazz",
+            "jazz lounge",
+            "blues lounge"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "4",
         "overture_categories": [
             "jazz_and_blues"
         ],
@@ -59642,14 +59598,17 @@
         ],
         "terms": [
             "strip club",
-            "striptease dancer"
+            "gentlemens club",
+            "adult club",
+            "burlesque club",
+            "exotic dance"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "4",
         "overture_categories": [
             "adult_entertainment",
             "strip_club",
@@ -61806,14 +61765,18 @@
             "vertex"
         ],
         "terms": [
-            "opera and ballet"
+            "opera house",
+            "ballet theatre",
+            "opera ballet",
+            "classical performance",
+            "grand opera"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "4",
         "overture_categories": [
             "opera_and_ballet"
         ],
@@ -63810,13 +63773,19 @@
             "point",
             "vertex"
         ],
-        "terms": [],
-        "last_updated": "2025-09-03",
+        "terms": [
+            "big top",
+            "circus show",
+            "sideshow",
+            "traveling circus",
+            "circus tent"
+        ],
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "4",
         "overture_categories": [
             "circus"
         ],
@@ -66497,14 +66466,18 @@
             "vertex"
         ],
         "terms": [
-            "salsa club"
+            "salsa dance",
+            "latin club",
+            "salsa bar",
+            "salsa lounge",
+            "latin dance"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "4",
         "overture_categories": [
             "salsa_club"
         ],
@@ -67082,14 +67055,18 @@
             "vertex"
         ],
         "terms": [
-            "drive in theater"
+            "drive-in cinema",
+            "outdoor movies",
+            "car cinema",
+            "drive-in screen",
+            "car theatre"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "4",
         "overture_categories": [
             "drive_in_theater"
         ],
@@ -78841,14 +78818,18 @@
             "vertex"
         ],
         "terms": [
-            "outdoor movies"
+            "outdoor cinema",
+            "movie in park",
+            "screen on green",
+            "open air film",
+            "pop-up cinema"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "outdoor_movies"
         ],
@@ -80981,14 +80962,18 @@
             "vertex"
         ],
         "terms": [
-            "musical band orchestras and symphonies"
+            "orchestra",
+            "symphony",
+            "concert band",
+            "philharmonic",
+            "ensemble"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "4",
         "overture_categories": [
             "musical_band_orchestras_and_symphonies"
         ],
@@ -82940,14 +82925,18 @@
             "vertex"
         ],
         "terms": [
-            "dinner theater"
+            "dinner theatre",
+            "cabaret supper",
+            "dinner show",
+            "supper club",
+            "theatre restaurant"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "4",
         "overture_categories": [
             "dinner_theater"
         ],
@@ -87679,15 +87668,18 @@
             "vertex"
         ],
         "terms": [
-            "club crawl",
-            "guide"
+            "bar crawl",
+            "pub crawl",
+            "nightlife tour",
+            "club tour",
+            "party crawl"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "5",
         "overture_categories": [
             "club_crawl"
         ],
@@ -89473,13 +89465,19 @@
             "point",
             "vertex"
         ],
-        "terms": [],
-        "last_updated": "2025-09-03",
+        "terms": [
+            "ping pong",
+            "table tennis",
+            "ping pong hall",
+            "table tennis club",
+            "ping pong lounge"
+        ],
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "4",
         "overture_categories": [
             "cabaret"
         ],

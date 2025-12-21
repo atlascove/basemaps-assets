@@ -40728,14 +40728,18 @@
             "area"
         ],
         "terms": [
-            "convenience store"
+            "corner shop",
+            "bodega",
+            "milk bar",
+            "dairy",
+            "quick mart"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "convenience_store"
         ],
@@ -43241,26 +43245,18 @@
             "area"
         ],
         "terms": [
-            "liquor store",
             "bottle shop",
             "off-licence",
-            "off licence",
-            "off-license",
-            "alcohol shop",
-            "beer wine spirits",
-            "wine shop",
-            "beer shop",
-            "spirits shop",
             "package store",
             "bottle-o",
-            "liquor"
+            "liquor mart"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "liquor_store",
             "beer_wine_and_spirits"
@@ -43510,30 +43506,18 @@
             "area"
         ],
         "terms": [
-            "cakes",
-            "rolls",
-            "pastries",
-            "doughnuts",
-            "cookies",
-            "muffins",
-            "croissant",
-            "baguette",
-            "buns",
-            "scones",
-            "loaf",
+            "boulangerie",
             "patisserie",
-            "sweet treats",
-            "baker",
-            "back",
-            "shop",
-            "back shop"
+            "bread shop",
+            "cake shop",
+            "bakehouse"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "bakery",
             "back_shop"
@@ -44000,16 +43984,18 @@
             "area"
         ],
         "terms": [
-            "butcher shop",
-            "meat wholesaler",
-            "meat shop"
+            "meat market",
+            "butchers",
+            "charcuterie",
+            "meat house",
+            "smokehouse"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "butcher_shop",
             "meat_wholesaler",
@@ -44624,25 +44610,18 @@
             "area"
         ],
         "terms": [
-            "medications",
-            "healthcare",
-            "beauty",
-            "hair",
-            "toiletries",
-            "tooth",
-            "dental",
             "chemist",
-            "pharmaceuticals",
-            "wellness",
-            "health products",
-            "drugstore"
+            "pharmacy",
+            "drug store",
+            "apothecary",
+            "wellness shop"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "drugstore"
         ],
@@ -49182,27 +49161,18 @@
             "area"
         ],
         "terms": [
-            "grocery",
-            "store",
-            "shop",
-            "market",
-            "groceries",
-            "bodega",
-            "marketplace",
-            "superstore",
+            "grocery store",
+            "grocery shop",
             "hypermarket",
-            "specialty",
-            "ethical",
-            "specialty grocery store",
-            "ethical grocery",
-            "supermarket"
+            "superstore",
+            "mini-mart"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "grocery_store",
             "supermarket",

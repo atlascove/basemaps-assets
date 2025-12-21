@@ -10280,7 +10280,8 @@
         "name": "Pedestrian Area",
         "icon": "temaki-pedestrian",
         "tags": {
-            "highway": "pedestrian"
+            "highway": "pedestrian",
+            "area": "yes"
         },
         "geometry": [
             "area"

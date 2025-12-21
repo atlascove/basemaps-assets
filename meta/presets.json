@@ -1137,14 +1137,15 @@
             "vertex"
         ],
         "terms": [
-            "costume museum"
+            "costume museum",
+            "museum"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "1",
+        "version": "2",
         "overture_categories": [
             "costume_museum"
         ],
@@ -21356,14 +21357,15 @@
             "point"
         ],
         "terms": [
-            "netball court"
+            "netball court",
+            "pitch"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "netball court",
@@ -21793,14 +21795,16 @@
             "area"
         ],
         "terms": [
-            "dance club"
+            "dance club",
+            "dance hall",
+            "dance"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "dance_club"
         ],
@@ -22493,14 +22497,15 @@
         ],
         "terms": [
             "links",
-            "golf club"
+            "golf club",
+            "golf course"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "golf_course",
             "golf_club"
@@ -25556,14 +25561,14 @@
             "area"
         ],
         "terms": [
-            "adult gaming center"
+            "adult gaming"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "adult gaming center",
@@ -25583,33 +25588,18 @@
             "area"
         ],
         "terms": [
-            "pay-to-play games",
+            "pay play",
             "video games",
             "driving simulators",
             "pinball machines",
-            "arcade games",
-            "game parlor",
-            "game room",
-            "game zone",
-            "gaming center",
-            "gaming arcade",
-            "gaming hall",
-            "gaming parlor",
-            "gaming room",
-            "gaming zone",
-            "fun center",
-            "fun arcade",
-            "virtual",
-            "reality",
-            "center",
-            "virtual reality center"
+            "arcade games"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "arcade",
             "virtual_reality_center"
@@ -25641,24 +25631,16 @@
         "terms": [
             "pavilion",
             "gazebo",
-            "performance area",
+            "performance",
             "concert platform",
-            "park stage",
-            "park pavilion",
-            "community bandshell",
-            "music shell",
-            "bandstand stage",
-            "bandshell",
-            "marching",
-            "band",
-            "marching band"
+            "park stage"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "marching_band"
         ],
@@ -25691,15 +25673,14 @@
             "coastal",
             "vacation",
             "holiday",
-            "beachfront",
-            "coast"
+            "beachfront"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "beach_resort"
         ],
@@ -25730,21 +25711,14 @@
             "birding",
             "birdwatchers spot",
             "ornithology",
-            "bird watching",
-            "bird hideout",
-            "bird hideaway",
-            "bird shelter",
-            "bird blind",
-            "hideout for birdwatchers",
-            "hideaway for birdwatchers",
-            "bird observatory"
+            "bird watching"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "bird hide",
@@ -25771,14 +25745,15 @@
         ],
         "terms": [
             "sports",
-            "stands"
+            "stands",
+            "bleachers"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "bleachers",
@@ -25807,21 +25782,14 @@
             "swing",
             "tango",
             "waltz",
-            "dance",
-            "dance lessons",
-            "dance center",
-            "ballroom",
-            "salsa",
-            "ballet",
-            "hip-hop",
-            "contemporary"
+            "dance"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "dance_school"
         ],
@@ -25850,14 +25818,14 @@
             "point"
         ],
         "terms": [
-            "disc golf course"
+            "disc golf"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "disc_golf_course"
         ],
@@ -25886,24 +25854,17 @@
         ],
         "terms": [
             "dog playground",
-            "off-leash",
+            "off leash",
             "offleash",
             "puppy park",
-            "canine park",
-            "pet park",
-            "dog run",
-            "canine playground",
-            "puppy playground",
-            "dog exercise zone",
-            "dog play zone",
-            "dog"
+            "canine park"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "dog_park"
         ],
@@ -25932,14 +25893,16 @@
         ],
         "terms": [
             "rooms",
-            "escape rooms"
+            "escape rooms",
+            "escape room",
+            "escape game"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "escape_rooms"
         ],
@@ -25968,19 +25931,14 @@
             "campfire",
             "firepit",
             "fireplace",
-            "firering",
-            "fire seating",
-            "open fire",
-            "fire lounge",
-            "fire area",
-            "fire holder"
+            "firering"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "fire pit",
@@ -26008,14 +25966,15 @@
             "area"
         ],
         "terms": [
-            "fishing spot"
+            "fishing spot",
+            "fishing"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "fishing spot",
@@ -26040,28 +25999,14 @@
             "workout",
             "exercise",
             "training",
-            "wellness",
-            "gymnasium",
-            "sports",
-            "wellbeing",
-            "activity",
-            "recreation",
-            "cardio",
-            "fitness",
-            "trainer",
-            "and",
-            "club",
-            "program",
-            "fitness trainer",
-            "health and wellness club",
-            "wellness program"
+            "wellness"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "fitness_trainer",
             "health_and_wellness_club",
@@ -26095,19 +26040,14 @@
             "fitness",
             "gym",
             "workout",
-            "fitness equipment",
-            "outdoor workout",
-            "fitness area",
-            "streetworkout",
-            "calisthenics area",
-            "fitness park"
+            "fitness equipment"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "outdoor fitness station",
@@ -26199,31 +26139,17 @@
         ],
         "terms": [
             "horse stables",
-            "riding facility",
-            "stables",
-            "equestrian center",
-            "riding center",
-            "horseback riding",
-            "equestrian park",
-            "riding park",
-            "equestrian ranch",
-            "riding ranch",
-            "horse training",
-            "horse barn",
-            "horse",
             "riding",
+            "stables",
             "equestrian",
-            "facility",
-            "horseback",
-            "service",
-            "horseback riding service"
+            "horseback riding"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "horse_riding",
             "equestrian_facility",
@@ -26254,14 +26180,15 @@
             "point"
         ],
         "terms": [
-            "ice skating rink"
+            "ice skating",
+            "ice rink"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "ice_skating_rink"
         ],
@@ -26290,20 +26217,15 @@
             "ball pit",
             "indoor playground",
             "play zone",
-            "indoor play structure",
-            "indoor play place",
-            "indoor play park",
-            "indoor play facility",
-            "indoor playzone",
-            "indoor kids zone",
-            "indoor kids playground"
+            "indoor play",
+            "indoor playzone"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "indoor play center",
@@ -26335,17 +26257,14 @@
             "docks",
             "moorings",
             "yachts",
-            "places",
-            "area",
-            "boating places",
-            "sailing area"
+            "places"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "marina",
             "boating_places",
@@ -26378,19 +26297,14 @@
             "amusement",
             "fun",
             "sport",
-            "game",
-            "putting",
-            "tee",
-            "club",
-            "hole",
-            "obstacle"
+            "game"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "miniature golf",
@@ -26417,14 +26331,15 @@
         ],
         "terms": [
             "national park",
-            "wildlife sanctuary"
+            "wildlife sanctuary",
+            "nature reserve"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "national_park",
             "wildlife_sanctuary",
@@ -26454,14 +26369,14 @@
             "area"
         ],
         "terms": [
-            "outdoor seating area"
+            "outdoor seating"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "outdoor seating area",
@@ -26488,20 +26403,14 @@
             "lawn",
             "lot",
             "meadow",
-            "parkland",
-            "place",
-            "playground",
-            "plaza",
-            "square",
-            "tract",
-            "woodland"
+            "playground"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "park"
         ],
@@ -26558,19 +26467,14 @@
             "sports ground",
             "athletic field",
             "sports arena",
-            "sports facility",
-            "athletic facility",
-            "open space for sports",
-            "athletic pitch",
-            "game field",
-            "playing surface"
+            "sports"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "sport pitch",
@@ -26601,17 +26505,14 @@
             "play equipment",
             "playground space",
             "playground zone",
-            "recreation space",
-            "recreational facility",
-            "playground facility",
-            "kids park"
+            "recreation space"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "playground"
         ],
@@ -26757,14 +26658,15 @@
             "line"
         ],
         "terms": [
-            "slipway drivable"
+            "slipway drivable",
+            "slipway"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "3",
+        "version": "4",
         "overture_categories": [],
         "natural_language_category": [
             "slipway drivable",
@@ -26786,14 +26688,16 @@
             "point"
         ],
         "terms": [
-            "table_soccer"
+            "table soccer",
+            "foosball table",
+            "pitch"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "foosball table",
@@ -26821,37 +26725,17 @@
         ],
         "terms": [
             "gymnasium",
-            "sporting center",
-            "athletics complex",
-            "athletics center",
-            "recreation complex",
-            "fitness complex",
-            "exercise facility",
-            "exercise center",
-            "exercise complex",
-            "gym",
-            "active",
-            "life",
-            "sports",
-            "and",
+            "sporting",
+            "athletics",
             "recreation",
-            "venue",
-            "go",
-            "kart",
-            "club",
-            "school",
-            "team",
-            "active life",
-            "sports and recreation venue",
-            "go kart club",
-            "school sports team"
+            "fitness"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "gym",
             "active_life",
@@ -26887,22 +26771,15 @@
             "athletic courts",
             "gym",
             "indoor sports",
-            "athletic facility",
-            "sports complex",
-            "physical fitness",
-            "workout area",
-            "training center",
-            "exercise center",
-            "fitness studio",
-            "activity center",
-            "sports arena"
+            "athletic",
+            "sports"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "gymnasium",
@@ -26929,14 +26806,15 @@
             "area"
         ],
         "terms": [
-            "stadium arena"
+            "stadium arena",
+            "stadium"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "stadium_arena"
         ],
@@ -26958,14 +26836,16 @@
             "area"
         ],
         "terms": [
-            "aquatics"
+            "aquatics",
+            "natural swimming",
+            "swimming"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "natural swimming area",
@@ -26989,14 +26869,16 @@
             "point"
         ],
         "terms": [
-            "horseshoes"
+            "horseshoes",
+            "horseshoes pit",
+            "pitch"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "horseshoes pit",
@@ -27050,14 +26932,16 @@
         ],
         "terms": [
             "experience",
-            "racing experience"
+            "racing experience",
+            "racetrack non",
+            "track"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "race_track",
             "racing_experience"
@@ -27092,19 +26976,14 @@
             "jump",
             "spring",
             "trampoline",
-            "bounce activity",
-            "jump activity",
-            "spring activity",
-            "trampoline fun",
-            "bounce fun",
-            "jump fun"
+            "bounce activity"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "trampoline_park"
         ],
@@ -27136,23 +27015,14 @@
             "pool",
             "dive",
             "aquapark",
-            "slides",
-            "splash",
-            "refresh",
-            "recreation",
-            "entertainment",
-            "outing",
-            "water games",
-            "water slides",
-            "water fun",
-            "water"
+            "slides"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "water_park"
         ],
@@ -27183,19 +27053,14 @@
             "mindfulness",
             "relaxation",
             "movement",
-            "stretching",
-            "balance",
-            "flexibility",
-            "strength",
-            "tranquility",
-            "serenity"
+            "stretching"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "yoga_studio"
         ],
@@ -27224,14 +27089,15 @@
             "area"
         ],
         "terms": [
-            "exercise balance beam"
+            "exercise balance",
+            "fitness station"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "exercise balance beam",
@@ -27257,14 +27123,15 @@
             "area"
         ],
         "terms": [
-            "exercise box"
+            "exercise box",
+            "fitness station"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "exercise box",
@@ -27292,20 +27159,14 @@
             "horizontal",
             "chinup",
             "pullup",
-            "fitness",
-            "gym",
-            "workout",
-            "outdoor gym",
-            "calisthenics",
-            "workout equipment",
-            "street workout"
+            "fitness"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "exercise horizontal bar",
@@ -27332,14 +27193,16 @@
             "area"
         ],
         "terms": [
-            "monkey bars"
+            "monkey bars",
+            "exercise monkey",
+            "fitness station"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "exercise monkey bars",
@@ -27370,19 +27233,14 @@
             "back training",
             "fitness machine",
             "gym machine",
-            "exercise station",
-            "hyperextension machine",
-            "core workout",
-            "strength training",
-            "outdoor fitness",
-            "calisthenics equipment"
+            "exercise station"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "hyperextension station",
@@ -27410,14 +27268,15 @@
             "area"
         ],
         "terms": [
-            "parallel bars"
+            "parallel bars",
+            "fitness station"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "parallel bars",
@@ -27445,18 +27304,14 @@
             "exercise",
             "fitness",
             "gym",
-            "pushup",
-            "push-up",
-            "fitness area",
-            "exercise spot",
-            "fitness spot"
+            "pushup"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "push up station",
@@ -27489,22 +27344,14 @@
             "fitness",
             "gym",
             "pullup",
-            "rings",
-            "workout",
-            "strength",
-            "calisthenics",
-            "fitness rings",
-            "exercise station",
-            "outdoor exercise",
-            "fitness station",
-            "fitness park"
+            "rings"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "exercise rings",
@@ -27532,14 +27379,15 @@
             "area"
         ],
         "terms": [
-            "exercise instruction sign"
+            "exercise instruction",
+            "fitness station"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "exercise instruction sign",
@@ -27567,19 +27415,14 @@
             "exercise equipment",
             "fitness equipment",
             "gym equipment",
-            "situp equipment",
-            "crunch spot",
-            "exercise spot",
-            "fitness spot",
-            "gym spot",
-            "situp spot"
+            "situp equipment"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "sit up station",
@@ -27609,24 +27452,17 @@
         ],
         "terms": [
             "stairs",
-            "fitness_station",
+            "fitness station",
             "exercise",
             "fitness",
-            "gym",
-            "steps",
-            "workout stairs",
-            "fitness steps",
-            "trim trail stairs",
-            "stairs workout",
-            "stairs exercise",
-            "fitness equipment"
+            "gym"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "exercise stairs",
@@ -27657,22 +27493,14 @@
             "plant sanctuary",
             "plant conservatory",
             "arboretum",
-            "greenhouse",
-            "botany garden",
-            "plant exhibition",
-            "plant nursery",
-            "floral garden",
-            "flora park",
-            "botanical oasis",
-            "plant haven",
-            "botanical"
+            "greenhouse"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "botanical_garden"
         ],
@@ -27705,23 +27533,14 @@
             "city garden",
             "town garden",
             "village garden",
-            "common garden",
-            "shared space",
-            "green space",
-            "public space",
-            "open space",
-            "outdoor garden",
-            "citizen garden",
-            "community",
-            "gardens",
-            "community gardens"
+            "common garden"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "community_gardens"
         ],
@@ -27749,14 +27568,16 @@
             "point"
         ],
         "terms": [
-            "checkers"
+            "checkers",
+            "chess table",
+            "picnic table"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "chess table",
@@ -27786,21 +27607,14 @@
             "gridiron",
             "football ground",
             "playing field",
-            "leisure pitch",
-            "sports ground",
-            "sporting field",
-            "gridiron facility",
-            "football facility",
-            "outdoor field",
-            "athletic field",
-            "american"
+            "leisure pitch"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "american_football_field"
         ],
@@ -27833,21 +27647,15 @@
             "crossbow",
             "archery ground",
             "archery spot",
-            "archery site",
-            "archery arena",
-            "target range",
-            "archery facility",
-            "archery place",
-            "archery location",
-            "archery venue",
-            "archery"
+            "archery",
+            "archery arena"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "archery_range"
         ],
@@ -27876,14 +27684,15 @@
             "point"
         ],
         "terms": [
-            "australian football field"
+            "australian football",
+            "pitch"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "australian football field",
@@ -27905,23 +27714,18 @@
             "point"
         ],
         "terms": [
-            "badminton facility",
-            "badminton venue",
-            "badminton area",
-            "badminton place",
+            "badminton",
             "badminton spot",
             "badminton zone",
             "badminton space",
-            "badminton field",
-            "badminton ground",
-            "badminton"
+            "badminton field"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "badminton_court"
         ],
@@ -27951,14 +27755,16 @@
             "point"
         ],
         "terms": [
-            "batting cage"
+            "batting cage",
+            "baseball field",
+            "pitch"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "batting_cage",
             "baseball_field"
@@ -27992,20 +27798,15 @@
             "basketball hoops",
             "hoops",
             "basketball",
-            "sports facility",
-            "outdoor sports",
-            "court yard",
-            "field",
-            "playing field",
-            "sports field",
-            "athletic court"
+            "sports",
+            "outdoor sports"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "basketball_court"
         ],
@@ -28037,14 +27838,16 @@
         "terms": [
             "leisure pitch",
             "beach",
-            "volleyball"
+            "volleyball",
+            "beach volleyball",
+            "pitch"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "beach_volleyball_court"
         ],
@@ -28073,14 +27876,16 @@
             "point"
         ],
         "terms": [
-            "boules"
+            "boules",
+            "bocce court",
+            "pitch"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "boules bocce court",
@@ -28140,21 +27945,16 @@
         "terms": [
             "lawn bowls",
             "bowls space",
-            "bowls site",
-            "bowls venue",
+            "bowls",
             "bowls arena",
-            "bowling field",
-            "bowling court",
-            "bowling area",
-            "bowling facility",
-            "bowling zone"
+            "bowling field"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "bowling green",
@@ -28182,14 +27982,16 @@
             "point"
         ],
         "terms": [
-            "checkers"
+            "checkers",
+            "giant chess",
+            "pitch"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "giant chess board",
@@ -28216,14 +28018,16 @@
             "point"
         ],
         "terms": [
-            "cricket ground"
+            "cricket ground",
+            "cricket field",
+            "pitch"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "cricket_ground"
         ],
@@ -28253,19 +28057,14 @@
             "riding ring",
             "riding",
             "ring",
-            "round pen",
-            "horseback",
-            "pen",
-            "horses arena",
-            "horses ring",
-            "riding horses"
+            "round pen"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "horseback riding arena",
@@ -28296,14 +28095,15 @@
             "landhockey",
             "hockey",
             "field",
-            "hockey field"
+            "hockey field",
+            "field hockey"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "hockey_field"
         ],
@@ -28333,15 +28133,15 @@
             "point"
         ],
         "terms": [
-            "four-square court",
-            "four-square game"
+            "four square",
+            "pitch"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "four square court",
@@ -28368,14 +28168,15 @@
             "point"
         ],
         "terms": [
-            "futsal court"
+            "futsal court",
+            "pitch"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "futsal court",
@@ -28397,14 +28198,16 @@
             "point"
         ],
         "terms": [
-            "tennis"
+            "tennis",
+            "padel court",
+            "pitch"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "padel court",
@@ -28470,22 +28273,17 @@
         ],
         "terms": [
             "paintball grounds",
-            "paintball site",
+            "paintball",
             "paintball location",
             "paintball zone",
-            "paintball playground",
-            "paintball place",
-            "paintball terrain",
-            "paintball spot",
-            "paintball course",
-            "paintball"
+            "paintball playground"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "paintball"
         ],
@@ -28515,14 +28313,16 @@
             "point"
         ],
         "terms": [
-            "tennis"
+            "tennis",
+            "pickleball court",
+            "pitch"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "pickleball court",
@@ -28550,14 +28350,15 @@
             "point"
         ],
         "terms": [
-            "rugby league field"
+            "rugby league",
+            "pitch"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "rugby league field",
@@ -28619,20 +28420,14 @@
             "ground",
             "arena",
             "outdoor sports",
-            "sports field",
-            "playing field",
-            "grass field",
-            "open field",
-            "green field",
-            "rugby court",
-            "court"
+            "sports field"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "rugby union field",
@@ -28659,14 +28454,15 @@
             "point"
         ],
         "terms": [
-            "shooting range"
+            "shooting range",
+            "pitch"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "shooting_range"
         ],
@@ -28695,14 +28491,15 @@
             "point"
         ],
         "terms": [
-            "shuffleboard court"
+            "shuffleboard court",
+            "pitch"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "shuffleboard court",
@@ -28729,14 +28526,16 @@
             "point"
         ],
         "terms": [
-            "skate"
+            "skate",
+            "skate park",
+            "pitch"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "skate_park"
         ],
@@ -28765,14 +28564,15 @@
             "point"
         ],
         "terms": [
-            "soccer field"
+            "soccer field",
+            "pitch"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "soccer_field"
         ],
@@ -28842,20 +28642,14 @@
             "diamond",
             "pitch",
             "leisure",
-            "sport",
-            "ballpark",
-            "outdoor sports",
-            "athletic facility",
-            "outdoor activities",
-            "leisure facility",
-            "sports ground"
+            "sport"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "softball field",
@@ -28916,19 +28710,14 @@
             "table tennis",
             "ping pong",
             "pingpong",
-            "table tennis location",
-            "ping pong arena",
-            "table tennis arena",
-            "ping pong place",
-            "table tennis place",
-            "ping pong zone"
+            "pitch"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "ping pong table",
@@ -29261,20 +29050,15 @@
             "tennis",
             "tennis pitch",
             "tennis field",
-            "tennis area",
-            "tennis facility",
             "tennis ground",
-            "tennis spot",
-            "tennis location",
-            "tennis site",
-            "tennis sport site"
+            "tennis spot"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "tennis_court"
         ],
@@ -29304,14 +29088,16 @@
             "point"
         ],
         "terms": [
-            "tether tennis"
+            "tether tennis",
+            "tetherball court",
+            "pitch"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "tetherball court",
@@ -29335,19 +29121,15 @@
             "volleyball",
             "volleyball pitch",
             "volleyball location",
-            "volleyball facility",
-            "volleyball site",
             "volleyball spot",
-            "volley area",
-            "volley field",
-            "volley space"
+            "volley"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "volleyball_court"
         ],
@@ -29377,14 +29159,16 @@
             "point"
         ],
         "terms": [
-            "indoor playcenter"
+            "indoor playcenter",
+            "indoor playground",
+            "playground"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "indoor_playcenter"
         ],
@@ -29417,22 +29201,14 @@
             "belaying",
             "bouldering",
             "rappeling",
-            "rock gym",
-            "ropes",
-            "climbing centre",
-            "climbing center",
-            "climbing facility",
-            "climbing wall",
-            "rock climbing center",
-            "rock",
-            "climbing"
+            "rock gym"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "rock_climbing_gym"
         ],
@@ -29462,14 +29238,15 @@
             "point"
         ],
         "terms": [
-            "shooting range facility"
+            "shooting range",
+            "sports"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "shooting range facility",
@@ -29495,14 +29272,15 @@
             "point"
         ],
         "terms": [
-            "swimming pool facility"
+            "swimming pool",
+            "sports"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "swimming pool facility",
@@ -29527,16 +29305,14 @@
             "biking circuit",
             "cycling circuit",
             "bicycle circuit",
-            "cycling lane",
-            "biking lane",
-            "bicycle lane"
+            "cycling lane"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "cycling track",
@@ -29607,17 +29383,14 @@
             "racecourse",
             "raceway",
             "track",
-            "sport",
-            "horse",
-            "equestrian",
-            "racing"
+            "sport"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "horse_racing_track"
         ],
@@ -29649,14 +29422,16 @@
         ],
         "terms": [
             "sprint",
-            "walking"
+            "walking",
+            "running track",
+            "track"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "running track",
@@ -30449,14 +30224,15 @@
             "vertex"
         ],
         "terms": [
-            "tai chi studio"
+            "tai chi",
+            "fitness"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "tai_chi_studio"
         ],
@@ -38708,14 +38484,15 @@
             "vertex"
         ],
         "terms": [
-            "asian art museum"
+            "asian art",
+            "museum"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "asian_art_museum"
         ],
@@ -39128,14 +38905,15 @@
             "vertex"
         ],
         "terms": [
-            "accommodation"
+            "accommodation",
+            "hotel"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "accommodation"
         ],
@@ -41497,14 +41275,15 @@
             "vertex"
         ],
         "terms": [
-            "decorative arts museum"
+            "decorative arts",
+            "museum"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "decorative_arts_museum"
         ],
@@ -44292,14 +44071,15 @@
             "area"
         ],
         "terms": [
-            "art gallery"
+            "art gallery",
+            "artwork"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "art_gallery",
             "painting"
@@ -44326,14 +44106,15 @@
             "vertex"
         ],
         "terms": [
-            "contemporary art museum"
+            "contemporary art",
+            "museum"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "contemporary_art_museum"
         ],
@@ -45079,22 +44860,14 @@
             "dioramas",
             "exhibits",
             "exhibitions",
-            "exposition",
-            "collection",
-            "curator",
-            "archives",
-            "gallery",
-            "heritage",
-            "history",
-            "civilization",
-            "civilization museum"
+            "exposition"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "history_museum",
             "civilization_museum"
@@ -45557,14 +45330,15 @@
             "vertex"
         ],
         "terms": [
-            "photography museum"
+            "photography museum",
+            "museum"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "photography_museum"
         ],
@@ -47268,14 +47042,15 @@
             "vertex"
         ],
         "terms": [
-            "paddleboarding center"
+            "paddleboarding",
+            "sports"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "paddleboarding_center"
         ],
@@ -48696,14 +48471,15 @@
             "area"
         ],
         "terms": [
-            "mural"
+            "mural",
+            "artwork"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "mural",
@@ -48838,25 +48614,14 @@
             "lodging",
             "overnight accommodations",
             "refuge",
-            "mountain hostel",
-            "alpine",
-            "hut",
-            "accommodation",
-            "hiking hut",
-            "mountain cabin",
-            "mountain",
-            "huts",
-            "country",
-            "house",
-            "mountain huts",
-            "country house"
+            "mountain hostel"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "cabin",
             "mountain_huts",
@@ -48889,31 +48654,14 @@
             "lodging",
             "overnight accommodations",
             "apartment",
-            "rental",
-            "holiday home",
-            "holiday let",
-            "vacation home",
-            "vacation let",
-            "apartment rental",
-            "condominium",
-            "flat",
-            "holiday",
-            "home",
-            "service",
-            "apartments",
-            "self",
-            "catering",
-            "accommodation",
-            "holiday rental home",
-            "service apartments",
-            "self catering accommodation"
+            "rental"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "holiday_rental_home",
             "service_apartments",
@@ -48947,19 +48695,14 @@
             "coral",
             "diving",
             "oceanarium",
-            "sealife",
-            "turtle",
-            "shark",
-            "whale",
-            "jellyfish",
-            "dolphin"
+            "sealife"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "aquarium"
         ],
@@ -48993,19 +48736,14 @@
             "mural",
             "sculpture",
             "statue",
-            "landmark",
-            "sightseeing",
-            "attractions",
-            "and",
-            "activities",
-            "attractions and activities"
+            "landmark"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "attractions_and_activities"
         ],
@@ -49038,18 +48776,14 @@
             "rv",
             "campsite",
             "tent location",
-            "rv location",
-            "tent spot",
-            "rv spot",
-            "tent area",
-            "rv area"
+            "rv location"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "camp pitch",
@@ -49110,15 +48844,14 @@
             "caravans",
             "campers",
             "mobile homes",
-            "camp pitches",
-            "camp sites"
+            "camp pitches"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "campground"
         ],
@@ -49151,21 +48884,14 @@
             "campground",
             "camper park",
             "caravan park",
-            "campsite",
-            "holiday park",
-            "vacation park",
-            "camping ground",
-            "motorhome site",
-            "camper site",
-            "rv site",
-            "rv"
+            "campsite"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "rv_park"
         ],
@@ -49193,14 +48919,16 @@
             "area"
         ],
         "terms": [
-            "overnight accommodations"
+            "overnight accommodations",
+            "holiday cottage",
+            "chalet"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "cottage"
         ],
@@ -49232,22 +48960,14 @@
             "photo",
             "sculpt",
             "artwork",
-            "exhibition",
-            "painting",
-            "photography",
-            "sculpture",
-            "museum",
-            "display",
-            "visual arts",
-            "fine arts",
-            "atelier"
+            "exhibition"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "atelier"
         ],
@@ -49275,14 +48995,15 @@
             "area"
         ],
         "terms": [
-            "overnight accommodations"
+            "overnight accommodations",
+            "guest house"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "pension",
             "guest_house"
@@ -49314,23 +49035,14 @@
             "dormitories",
             "dorms",
             "lodging",
-            "overnight accommodations",
-            "budget accommodations",
-            "cheap accommodations",
-            "budget lodging",
-            "shared accommodations",
-            "budget dormitory",
-            "affordable dorm",
-            "youth accommodation",
-            "backpacker lodging",
-            "cheap dormitory"
+            "overnight accommodations"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "hostel"
         ],
@@ -49363,20 +49075,14 @@
             "accommodation",
             "resort",
             "guesthouse",
-            "hostel",
-            "stay",
-            "room",
-            "board",
-            "suite",
-            "holiday",
-            "vacation"
+            "hostel"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "hotel",
             "inn"
@@ -49408,21 +49114,14 @@
             "lodge",
             "lodging",
             "overnight accommodations",
-            "guide",
-            "info",
-            "assistance",
-            "tourist services",
-            "tourism resources",
-            "tips",
-            "travel assistance",
-            "hospitality"
+            "guide"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "information",
@@ -49452,20 +49151,14 @@
             "overnight accommodations",
             "inn",
             "hotel",
-            "guesthouse",
-            "accommodation",
-            "stay",
-            "residence",
-            "lodgings",
-            "motor court",
-            "resting place"
+            "guesthouse"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "motel"
         ],
@@ -49497,22 +49190,14 @@
             "exhibit",
             "gallery",
             "hall",
-            "institution",
-            "paint",
-            "photo",
-            "sculpt",
-            "fine arts",
-            "art venue",
-            "art show",
-            "state",
-            "state museum"
+            "institution"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "museum",
             "state_museum"
@@ -49542,20 +49227,17 @@
         ],
         "terms": [
             "picnic",
-            "picnic place",
             "picnic destination",
             "picnic ground",
             "picnic zone",
-            "picnic venue",
-            "picnic facility",
             "picnic park"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "picnic site",
@@ -49585,22 +49267,14 @@
             "attraction",
             "carnival",
             "playground",
-            "amusement grounds",
-            "leisure park",
-            "amusement arcade",
-            "fairground",
-            "amusement place",
-            "recreational park",
-            "funland",
-            "holiday",
-            "holiday park"
+            "amusement grounds"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "holiday_park"
         ],
@@ -49627,22 +49301,17 @@
         ],
         "terms": [
             "trail station",
-            "riding center",
-            "horse center",
-            "equine center",
-            "equestrian center",
-            "trail center",
-            "horse stable",
-            "riding stable",
-            "equine stable",
-            "equestrian stable"
+            "riding",
+            "horse",
+            "equine",
+            "equestrian"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "trail riding station",
@@ -49702,20 +49371,14 @@
             "lodge",
             "lodging",
             "overnight accommodations",
-            "refuge",
-            "term1",
-            "term2",
-            "term3",
-            "term4",
-            "term5",
-            "term6"
+            "refuge"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "wilderness hut",
@@ -49775,19 +49438,14 @@
             "sculpture",
             "statue",
             "artwork",
-            "art",
-            "monument",
-            "sculpt",
-            "head",
-            "portrait",
-            "figure statue"
+            "art"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "bust",
@@ -49821,19 +49479,14 @@
             "public art",
             "graffiti type",
             "artwork type",
-            "art type",
-            "artwork category",
-            "artwork style",
-            "graffiti style",
-            "art style",
-            "artwork classification"
+            "art type"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "graffiti",
@@ -49862,14 +49515,15 @@
             "area"
         ],
         "terms": [
-            "art installation"
+            "art installation",
+            "artwork"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "art installation",
@@ -49898,19 +49552,14 @@
             "figure",
             "carving",
             "artwork",
-            "sculpting",
-            "sculptor",
-            "monument",
-            "sculpting work",
-            "sculptural artwork",
-            "sculptural statue"
+            "sculpting"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "sculpture",
@@ -49939,14 +49588,16 @@
             "area"
         ],
         "terms": [
-            "sculpture statue"
+            "sculpture statue",
+            "statue",
+            "artwork"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "sculpture_statue"
         ],
@@ -50009,20 +49660,15 @@
             "campground",
             "campsite",
             "primitive camping",
-            "camping area",
-            "wilderness camping",
-            "remote camping",
-            "outdoor camping",
-            "secluded camping",
-            "unofficial camping",
-            "undeveloped camping"
+            "camping",
+            "wilderness camping"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "backcountry camping area",
@@ -50050,22 +49696,18 @@
             "area"
         ],
         "terms": [
-            "camp site",
+            "camp",
             "campground",
             "campsite",
             "scout camping",
-            "youth camping",
-            "group camping",
-            "group campground",
-            "group campsite",
-            "group tenting"
+            "youth camping"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "group camping area",
@@ -50092,14 +49734,15 @@
             "vertex"
         ],
         "terms": [
-            "information board"
+            "information board",
+            "information"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "information board",
@@ -50124,14 +49767,15 @@
             "vertex"
         ],
         "terms": [
-            "guidepost"
+            "guidepost",
+            "information"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "guidepost",
@@ -50151,14 +49795,15 @@
             "vertex"
         ],
         "terms": [
-            "map"
+            "map",
+            "information"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "map",
@@ -50179,25 +49824,18 @@
             "area"
         ],
         "terms": [
-            "info center",
+            "info",
             "visitor information",
             "visitor office",
-            "tourist center",
-            "visitor info",
-            "info office",
-            "information desk",
-            "tourist info",
-            "visitor services",
-            "tourism info",
-            "travel information",
-            "visitor"
+            "tourist",
+            "visitor info"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "visitor_center"
         ],
@@ -50267,19 +49905,14 @@
             "direction sign",
             "information sign",
             "path marker",
-            "route sign",
-            "guide sign",
-            "trail indicator",
-            "navigation marker",
-            "path indicator",
-            "way indicator"
+            "route sign"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "trail marker",
@@ -50311,19 +49944,14 @@
             "info point",
             "visitor info",
             "info kiosk",
-            "tourist information",
-            "visitor center",
-            "visitor point",
-            "map terminal",
-            "map information",
-            "map point"
+            "tourist information"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "information terminal",
@@ -50355,22 +49983,14 @@
             "farm",
             "animal interaction",
             "petting farm",
-            "farmyard",
-            "childrens zoo",
-            "animal park",
-            "animal sanctuary",
-            "animal exhibition",
-            "animal attraction",
-            "interactive zoo",
-            "zoo for kids",
-            "petting"
+            "farmyard"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "petting_zoo"
         ],
@@ -50403,19 +50023,14 @@
             "wildlife reserve",
             "zoo safari",
             "wildlife safari",
-            "zoo adventure",
-            "zoo exploration",
-            "zoo visit",
-            "zoo tour",
-            "zoo excursion",
-            "zoo trip"
+            "zoo adventure"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "safari park",
@@ -50445,19 +50060,14 @@
             "zoo",
             "animals",
             "native animals",
-            "animal exhibit",
-            "native wildlife",
-            "zoo park",
-            "animal habitat",
-            "animal refuge",
-            "wildlife preserve"
+            "animal exhibit"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "wildlife park",
@@ -50520,19 +50130,14 @@
             "map stand",
             "information booth",
             "information display",
-            "information panel",
-            "entry sign",
-            "information point",
-            "wayfinding sign",
-            "visitor sign",
-            "tourism board"
+            "information panel"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "welcome sign",
@@ -53264,14 +52869,15 @@
             "vertex"
         ],
         "terms": [
-            "pilates studio"
+            "pilates studio",
+            "fitness"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "pilates_studio"
         ],
@@ -54528,14 +54134,15 @@
             "vertex"
         ],
         "terms": [
-            "fair"
+            "fair",
+            "festival grounds"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "fair"
         ],
@@ -55022,14 +54629,15 @@
             "vertex"
         ],
         "terms": [
-            "bed and breakfast"
+            "bed breakfast",
+            "guest house"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "bed_and_breakfast"
         ],
@@ -56417,14 +56025,15 @@
             "vertex"
         ],
         "terms": [
-            "squash court"
+            "squash court",
+            "sports"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "squash_court"
         ],
@@ -56646,14 +56255,14 @@
             "vertex"
         ],
         "terms": [
-            "rock climbing spot"
+            "rock climbing"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "rock_climbing_spot"
         ],
@@ -59930,14 +59539,15 @@
             "vertex"
         ],
         "terms": [
-            "tennis stadium"
+            "tennis stadium",
+            "stadium"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "tennis_stadium"
         ],
@@ -60048,14 +59658,15 @@
             "vertex"
         ],
         "terms": [
-            "children's museum"
+            "children s",
+            "museum"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "childrens_museum"
         ],
@@ -60227,14 +59838,15 @@
         ],
         "terms": [
             "billiards",
-            "pool and billiards"
+            "pool billiards",
+            "sports"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "pool_billiards",
             "pool_and_billiards"
@@ -60495,14 +60107,15 @@
         ],
         "terms": [
             "gymnastics",
-            "gymnastics club"
+            "gymnastics club",
+            "sports"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "gymnastics_center",
             "gymnastics_club"
@@ -60676,14 +60289,15 @@
             "vertex"
         ],
         "terms": [
-            "rodeo"
+            "rodeo",
+            "pitch"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "rodeo"
         ],
@@ -61547,14 +61161,15 @@
             "vertex"
         ],
         "terms": [
-            "basketball stadium"
+            "basketball stadium",
+            "stadium"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "basketball_stadium"
         ],
@@ -61656,14 +61271,15 @@
             "vertex"
         ],
         "terms": [
-            "soccer stadium"
+            "soccer stadium",
+            "stadium"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "soccer_stadium"
         ],
@@ -61925,14 +61541,15 @@
             "vertex"
         ],
         "terms": [
-            "surfing"
+            "surfing",
+            "sports"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "surfing"
         ],
@@ -62131,14 +61748,15 @@
             "vertex"
         ],
         "terms": [
-            "art museum"
+            "art museum",
+            "museum"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "art_museum"
         ],
@@ -62649,14 +62267,15 @@
             "vertex"
         ],
         "terms": [
-            "roller skating rink"
+            "roller skating",
+            "pitch"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "roller_skating_rink"
         ],
@@ -62823,14 +62442,15 @@
             "vertex"
         ],
         "terms": [
-            "laser tag"
+            "laser tag",
+            "sports"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "laser_tag"
         ],
@@ -63716,14 +63336,16 @@
         "terms": [
             "retreats",
             "day spa",
-            "health retreats"
+            "health retreats",
+            "health spa",
+            "spa"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "health_spa",
             "day_spa",
@@ -64263,14 +63885,15 @@
             "vertex"
         ],
         "terms": [
-            "educational camp"
+            "educational camp",
+            "camp"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "educational_camp"
         ],
@@ -64770,14 +64393,15 @@
             "vertex"
         ],
         "terms": [
-            "modern art museum"
+            "modern art",
+            "museum"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "modern_art_museum"
         ],
@@ -64828,14 +64452,15 @@
             "vertex"
         ],
         "terms": [
-            "football stadium"
+            "football stadium",
+            "stadium"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "football_stadium"
         ],
@@ -65681,14 +65306,15 @@
             "vertex"
         ],
         "terms": [
-            "hockey arena"
+            "hockey arena",
+            "sports"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "hockey_arena"
         ],
@@ -65766,14 +65392,15 @@
             "vertex"
         ],
         "terms": [
-            "bingo hall"
+            "bingo hall",
+            "bing hall"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "bingo_hall"
         ],
@@ -66732,14 +66359,15 @@
             "vertex"
         ],
         "terms": [
-            "community museum"
+            "community museum",
+            "museum"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "community_museum"
         ],
@@ -66976,14 +66604,15 @@
             "vertex"
         ],
         "terms": [
-            "science museum"
+            "science museum",
+            "museum"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "science_museum"
         ],
@@ -67226,14 +66855,15 @@
             "vertex"
         ],
         "terms": [
-            "baseball stadium"
+            "baseball stadium",
+            "stadium"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "baseball_stadium"
         ],
@@ -67531,14 +67161,15 @@
             "vertex"
         ],
         "terms": [
-            "rugby pitch"
+            "rugby pitch",
+            "pitch"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "rugby_pitch"
         ],
@@ -67649,14 +67280,15 @@
             "vertex"
         ],
         "terms": [
-            "miniature golf course"
+            "miniature golf",
+            "golf course"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "miniature_golf_course"
         ],
@@ -67736,14 +67368,15 @@
             "vertex"
         ],
         "terms": [
-            "medical spa"
+            "medical spa",
+            "spa"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "medical_spa"
         ],
@@ -68567,14 +68200,15 @@
             "vertex"
         ],
         "terms": [
-            "atv recreation park"
+            "atv recreation",
+            "atv park"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "atv_recreation_park"
         ],
@@ -68791,14 +68425,15 @@
             "vertex"
         ],
         "terms": [
-            "design museum"
+            "design museum",
+            "museum"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "design_museum"
         ],
@@ -68819,14 +68454,15 @@
             "vertex"
         ],
         "terms": [
-            "track stadium"
+            "track stadium",
+            "stadium track"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "track_stadium"
         ],
@@ -68948,14 +68584,15 @@
             "vertex"
         ],
         "terms": [
-            "rugby stadium"
+            "rugby stadium",
+            "stadium"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "rugby_stadium"
         ],
@@ -69631,14 +69268,15 @@
             "vertex"
         ],
         "terms": [
-            "racquetball court"
+            "racquetball court",
+            "pitch"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "racquetball_court"
         ],
@@ -69717,14 +69355,15 @@
             "vertex"
         ],
         "terms": [
-            "computer museum"
+            "computer museum",
+            "museum"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "computer_museum"
         ],
@@ -70023,14 +69662,15 @@
             "vertex"
         ],
         "terms": [
-            "flyboarding center"
+            "flyboarding",
+            "sports"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "flyboarding_center"
         ],
@@ -70083,14 +69723,15 @@
             "vertex"
         ],
         "terms": [
-            "aviation museum"
+            "aviation museum",
+            "museum"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "aviation_museum"
         ],
@@ -70325,14 +69966,15 @@
             "vertex"
         ],
         "terms": [
-            "sports museum"
+            "sports museum",
+            "museum"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "sports_museum"
         ],
@@ -70643,14 +70285,16 @@
             "vertex"
         ],
         "terms": [
-            "high gliding center"
+            "high gliding",
+            "hang gliding",
+            "sports"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "hang_gliding_center",
             "high_gliding_center"
@@ -70786,14 +70430,15 @@
             "vertex"
         ],
         "terms": [
-            "cartooning museum"
+            "cartooning museum",
+            "museum"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "cartooning_museum"
         ],
@@ -70814,14 +70459,15 @@
             "vertex"
         ],
         "terms": [
-            "textile museum"
+            "textile museum",
+            "museum"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "textile_museum"
         ],
@@ -72350,14 +71996,15 @@
             "vertex"
         ],
         "terms": [
-            "barre classes"
+            "barre classes",
+            "fitness"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "barre_classes"
         ],
@@ -72465,14 +72112,15 @@
             "vertex"
         ],
         "terms": [
-            "mountain bike parks"
+            "mountain bike",
+            "track"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "mountain_bike_parks"
         ],
@@ -72522,14 +72170,15 @@
             "vertex"
         ],
         "terms": [
-            "wildlife hunting range"
+            "wildlife hunting",
+            "nature reserve"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "wildlife_hunting_range"
         ],
@@ -73221,14 +72870,15 @@
             "vertex"
         ],
         "terms": [
-            "cardio classes"
+            "cardio classes",
+            "fitness"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "cardio_classes"
         ],
@@ -73555,14 +73205,15 @@
             "vertex"
         ],
         "terms": [
-            "country dance hall"
+            "country dance",
+            "dance"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "country_dance_hall"
         ],
@@ -73613,14 +73264,15 @@
             "vertex"
         ],
         "terms": [
-            "ziplining center"
+            "ziplining",
+            "sports"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "ziplining_center"
         ],
@@ -73711,14 +73363,15 @@
             "vertex"
         ],
         "terms": [
-            "bocce ball court"
+            "bocce ball",
+            "pitch"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "bocce_ball_court"
         ],
@@ -74205,14 +73858,15 @@
             "vertex"
         ],
         "terms": [
-            "adventure sports center"
+            "adventure sports",
+            "sports"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "adventure_sports_center"
         ],
@@ -75695,14 +75349,15 @@
             "vertex"
         ],
         "terms": [
-            "brazilian jiu jitsu club"
+            "brazilian jiu",
+            "sports"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "brazilian_jiu_jitsu_club"
         ],
@@ -76571,14 +76226,15 @@
             "vertex"
         ],
         "terms": [
-            "state park"
+            "state park",
+            "park"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "state_park"
         ],
@@ -76640,14 +76296,15 @@
             "vertex"
         ],
         "terms": [
-            "beer tours"
+            "beer tours",
+            "attraction"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "beer_tours"
         ],
@@ -76696,14 +76353,15 @@
             "vertex"
         ],
         "terms": [
-            "table tennis club"
+            "table tennis",
+            "sports"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "table_tennis_club"
         ],
@@ -76724,14 +76382,15 @@
             "vertex"
         ],
         "terms": [
-            "paddle tennis club"
+            "paddle tennis",
+            "sports"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "paddle_tennis_club"
         ],
@@ -77974,14 +77633,15 @@
             "vertex"
         ],
         "terms": [
-            "airsoft fields"
+            "airsoft fields",
+            "pitch"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "airsoft_fields"
         ],
@@ -78149,14 +77809,16 @@
             "vertex"
         ],
         "terms": [
-            "boxing club"
+            "boxing club",
+            "boxing gym",
+            "sports"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "boxing_gym",
             "boxing_club"
@@ -78304,14 +77966,15 @@
             "vertex"
         ],
         "terms": [
-            "religious destination"
+            "religious destination",
+            "attraction"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "religious_destination"
         ],
@@ -78884,14 +78547,15 @@
             "vertex"
         ],
         "terms": [
-            "muay thai club"
+            "muay thai",
+            "sports"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "muay_thai_club"
         ],
@@ -79000,14 +78664,15 @@
             "vertex"
         ],
         "terms": [
-            "float spa"
+            "float spa",
+            "spa"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "float_spa"
         ],
@@ -79459,14 +79124,15 @@
             "vertex"
         ],
         "terms": [
-            "military museum"
+            "military museum",
+            "museum"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "military_museum"
         ],
@@ -79711,14 +79377,15 @@
             "vertex"
         ],
         "terms": [
-            "agriturismo"
+            "agriturismo",
+            "guest house"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "agriturismo"
         ],
@@ -79810,14 +79477,15 @@
             "vertex"
         ],
         "terms": [
-            "bubble soccer field"
+            "bubble soccer",
+            "sports"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "bubble_soccer_field"
         ],
@@ -80164,14 +79832,15 @@
             "vertex"
         ],
         "terms": [
-            "sports school"
+            "sports school",
+            "sports"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "sports_school"
         ],
@@ -80221,14 +79890,15 @@
             "vertex"
         ],
         "terms": [
-            "soccer club"
+            "soccer club",
+            "sports club"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "soccer_club"
         ],
@@ -80336,14 +80006,15 @@
             "vertex"
         ],
         "terms": [
-            "chinese martial arts club"
+            "chinese martial",
+            "sports"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "chinese_martial_arts_club"
         ],
@@ -80509,14 +80180,15 @@
             "vertex"
         ],
         "terms": [
-            "country club"
+            "country club",
+            "golf course"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "country_club"
         ],
@@ -80692,14 +80364,15 @@
             "vertex"
         ],
         "terms": [
-            "pool hall"
+            "pool hall",
+            "sports"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "pool_hall"
         ],
@@ -81014,14 +80687,15 @@
             "vertex"
         ],
         "terms": [
-            "qi gong studio"
+            "qi gong",
+            "fitness"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "qi_gong_studio"
         ],
@@ -81100,14 +80774,15 @@
             "vertex"
         ],
         "terms": [
-            "skating rink"
+            "skating rink",
+            "sports"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "skating_rink"
         ],
@@ -81423,14 +81098,15 @@
             "vertex"
         ],
         "terms": [
-            "street art"
+            "street art",
+            "artwork"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "street_art"
         ],
@@ -81568,14 +81244,15 @@
             "vertex"
         ],
         "terms": [
-            "aerial fitness center"
+            "aerial fitness",
+            "sports"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "aerial_fitness_center"
         ],
@@ -81790,14 +81467,15 @@
             "vertex"
         ],
         "terms": [
-            "futsal field"
+            "futsal field",
+            "sports"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "futsal_field"
         ],
@@ -81847,14 +81525,15 @@
             "vertex"
         ],
         "terms": [
-            "challenge courses center"
+            "challenge courses",
+            "sports"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "challenge_courses_center"
         ],
@@ -81875,14 +81554,15 @@
             "vertex"
         ],
         "terms": [
-            "ryokan"
+            "ryokan",
+            "hotel"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "ryokan"
         ],
@@ -83057,14 +82737,15 @@
             "vertex"
         ],
         "terms": [
-            "windsurfing center"
+            "windsurfing",
+            "sports"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "windsurfing_center"
         ],
@@ -83571,14 +83252,15 @@
             "vertex"
         ],
         "terms": [
-            "indoor golf center"
+            "indoor golf",
+            "sports"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "indoor_golf_center"
         ],
@@ -83697,14 +83379,15 @@
             "vertex"
         ],
         "terms": [
-            "cheese tasting classes"
+            "cheese tasting",
+            "attraction"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "cheese_tasting_classes"
         ],
@@ -83998,14 +83681,15 @@
             "vertex"
         ],
         "terms": [
-            "scavenger hunts provider"
+            "scavenger hunts",
+            "scavenger hunt"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "scavenger_hunts_provider"
         ],
@@ -85706,14 +85390,15 @@
             "vertex"
         ],
         "terms": [
-            "pick your own farm"
+            "pick your",
+            "attraction"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "pick_your_own_farm"
         ],
@@ -85762,14 +85447,15 @@
             "vertex"
         ],
         "terms": [
-            "kickboxing club"
+            "kickboxing club",
+            "sports"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "kickboxing_club"
         ],
@@ -85877,14 +85563,14 @@
             "vertex"
         ],
         "terms": [
-            "paint and sip"
+            "paint sip"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "paint_and_sip"
         ],
@@ -86048,14 +85734,15 @@
             "vertex"
         ],
         "terms": [
-            "cheerleading"
+            "cheerleading",
+            "sports"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "cheerleading"
         ],
@@ -86533,14 +86220,15 @@
             "vertex"
         ],
         "terms": [
-            "rafting kayaking area"
+            "rafting kayaking",
+            "attraction"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "rafting_kayaking_area"
         ],
@@ -87506,14 +87194,15 @@
             "vertex"
         ],
         "terms": [
-            "tanning bed"
+            "tanning bed",
+            "tanning salon"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "tanning_bed"
         ],
@@ -87591,14 +87280,15 @@
             "vertex"
         ],
         "terms": [
-            "attraction farm"
+            "attraction farm",
+            "attraction"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "attraction_farm"
         ],
@@ -87964,14 +87654,15 @@
             "vertex"
         ],
         "terms": [
-            "axe throwing"
+            "axe throwing",
+            "sports"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "axe_throwing"
         ],
@@ -88081,14 +87772,15 @@
             "vertex"
         ],
         "terms": [
-            "national museum"
+            "national museum",
+            "museum"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "national_museum"
         ],
@@ -88776,14 +88468,15 @@
             "vertex"
         ],
         "terms": [
-            "memorial park"
+            "memorial park",
+            "park"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "memorial_park"
         ],

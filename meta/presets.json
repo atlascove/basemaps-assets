@@ -3116,14 +3116,16 @@
             "area"
         ],
         "terms": [
-            "pharmacy counter"
+            "chemist counter",
+            "drug counter",
+            "dispensary"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "pharmacy"
         ],
@@ -3346,23 +3348,18 @@
             "area"
         ],
         "terms": [
-            "community",
-            "lice",
-            "treatment",
-            "health and medical",
-            "medical center",
-            "public health clinic",
-            "mobile clinic",
-            "walk in clinic",
-            "community health center",
-            "lice treatment"
+            "health centre",
+            "medical centre",
+            "urgent care",
+            "walk-in clinic",
+            "health clinic"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "health_and_medical",
             "medical_center",
@@ -3475,36 +3472,17 @@
             "point"
         ],
         "terms": [
-            "university",
             "campus",
-            "college campus",
-            "school",
-            "higher education",
-            "academy",
-            "learning center",
-            "college premises",
-            "college area",
-            "university grounds",
-            "university campus",
-            "university area",
-            "university premises",
-            "higher education grounds",
-            "higher education campus",
-            "architecture",
-            "schools",
-            "engineering",
-            "quad",
-            "faculty",
-            "lecture hall",
-            "architecture schools",
-            "engineering schools"
+            "uni grounds",
+            "college quad",
+            "tertiary campus"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "architecture_schools",
             "engineering_schools"
@@ -3707,25 +3685,18 @@
             "area"
         ],
         "terms": [
-            "tooth",
-            "teeth",
-            "dentistry",
-            "dental specialist",
-            "dental treatment",
-            "dental service",
-            "oral examination",
-            "dental appointment",
-            "dental visit",
-            "oral care",
-            "general",
-            "general dentistry"
+            "dental surgery",
+            "dental clinic",
+            "dentist office",
+            "dental practice",
+            "oral clinic"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "dentist",
             "general_dentistry"
@@ -3793,17 +3764,18 @@
             "area"
         ],
         "terms": [
-            "hospital",
-            "health",
-            "medicinal",
-            "gp"
+            "gp surgery",
+            "medical office",
+            "physician clinic",
+            "family doctor",
+            "doctor surgery"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "doctor"
         ],
@@ -4428,20 +4400,17 @@
             "point"
         ],
         "terms": [
-            "sick",
-            "surgery",
-            "ward",
-            "hospitalist",
-            "ambulance",
-            "emergency",
-            "healthcare"
+            "hospital campus",
+            "medical campus",
+            "hospital estate",
+            "hospital complex"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "hospital",
             "hospitalist"
@@ -4681,25 +4650,17 @@
             "point"
         ],
         "terms": [
-            "kindergarden",
-            "preprimary",
-            "nursery",
-            "daycare",
-            "childcare",
-            "toddler",
-            "playgroup",
-            "cr\u00e8che",
-            "preschool grounds",
-            "kindergarten grounds",
-            "preprimary school",
-            "preschool facilities"
+            "nursery yard",
+            "kindy grounds",
+            "pre-k playground",
+            "early years campus"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "preschool"
         ],
@@ -4920,23 +4881,18 @@
             "area"
         ],
         "terms": [
-            "books",
-            "information",
-            "literature",
-            "resources",
-            "reference",
-            "bookstore",
-            "education",
-            "bookshelf",
-            "stacks",
-            "bookworm"
+            "public library",
+            "lending library",
+            "book room",
+            "reading room",
+            "reference library"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "library"
         ],
@@ -5427,20 +5383,17 @@
             "point"
         ],
         "terms": [
-            "college",
-            "campus",
-            "school",
-            "academy",
             "university campus",
-            "academic center",
-            "college university"
+            "uni quad",
+            "tertiary grounds",
+            "campus grounds"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "college_university"
         ],
@@ -6580,26 +6533,18 @@
             "point"
         ],
         "terms": [
-            "academy",
             "school campus",
-            "school premises",
-            "educational grounds",
-            "school compound",
-            "school area",
-            "educational site",
-            "school property",
-            "school facilities",
-            "school land",
-            "school territory",
-            "public",
-            "public school"
+            "schoolyard",
+            "school quad",
+            "school field",
+            "school oval"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "school",
             "public_school"
@@ -6776,23 +6721,18 @@
             "area"
         ],
         "terms": [
-            "social services",
-            "services",
-            "profits",
-            "organizations",
-            "and",
-            "human",
-            "community services non profits",
-            "social service organizations",
-            "fraternal organization",
-            "social and human services"
+            "care facility",
+            "support centre",
+            "social service",
+            "community care",
+            "aid centre"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "community_services_non_profits",
             "social_service_organizations",
@@ -8171,22 +8111,18 @@
             "area"
         ],
         "terms": [
-            "womens healthcare",
-            "abortion services",
-            "womens clinic",
-            "abortion provider",
-            "abortion center",
-            "abortion care",
-            "reproductive healthcare",
-            "abortion facility",
-            "termination clinic"
+            "termination clinic",
+            "family planning",
+            "women's clinic",
+            "reproductive clinic",
+            "abortion service"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "abortion_clinic"
         ],
@@ -8216,14 +8152,18 @@
             "area"
         ],
         "terms": [
-            "fertility clinic"
+            "ivf clinic",
+            "fertility centre",
+            "reproductive clinic",
+            "fertility specialist",
+            "fertility doctor"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "fertility clinic",
@@ -8388,14 +8328,18 @@
             "area"
         ],
         "terms": [
-            "obstetrics"
+            "obgyn",
+            "women's doctor",
+            "women's clinic",
+            "gynae clinic",
+            "female doctor"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "gynecologist",
@@ -10711,25 +10655,18 @@
             "area"
         ],
         "terms": [
-            "clinic",
-            "healthcare",
-            "health services",
-            "medical services",
-            "ambulatory center",
-            "outpatient treatment",
-            "outpatient center",
-            "urgent care",
-            "emergency care",
-            "primary care",
-            "healthcare facility",
-            "doctors office"
+            "outpatient clinic",
+            "day hospital",
+            "ambulatory unit",
+            "day surgery",
+            "outpatient center"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "ambulatory care",
@@ -10756,14 +10693,18 @@
             "area"
         ],
         "terms": [
-            "food bank"
+            "food pantry",
+            "food shelf",
+            "community pantry",
+            "food hub",
+            "food relief"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "food bank",
@@ -10785,23 +10726,18 @@
             "area"
         ],
         "terms": [
-            "old",
-            "senior",
-            "living",
+            "seniors home",
+            "aged care",
             "elder care",
-            "senior care",
-            "assisted care",
-            "elderly residence",
-            "group residence",
-            "elderly housing",
-            "retirement residence"
+            "senior group",
+            "retirement group"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "elderly group home",
@@ -10828,24 +10764,18 @@
             "area"
         ],
         "terms": [
-            "houseless shelter",
-            "unhoused shelter",
-            "displaced shelter",
-            "homeless accommodation",
-            "emergency shelter",
-            "temporary shelter",
-            "shelter for those in need",
-            "homelessness support",
-            "homeless housing",
-            "support for homeless",
-            "homeless resource center"
+            "night shelter",
+            "housing shelter",
+            "warming centre",
+            "homeless hostel",
+            "rough sleeper"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "homeless_shelter"
         ],
@@ -10875,24 +10805,18 @@
             "area"
         ],
         "terms": [
-            "elderly",
-            "living",
-            "old",
-            "senior",
-            "nursing home for seniors",
-            "nursing home for the elderly",
-            "nursing facility",
-            "senior living",
-            "senior residence",
-            "elderly care",
-            "senior home"
+            "care home",
+            "nursing home",
+            "aged care",
+            "convalescent home",
+            "skilled nursing"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "nursing facility",
@@ -43744,14 +43668,18 @@
             "vertex"
         ],
         "terms": [
-            "elementary school"
+            "primary school",
+            "grade school",
+            "grammar school",
+            "junior school",
+            "primary campus"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "elementary_school"
         ],
@@ -55707,14 +55635,18 @@
             "vertex"
         ],
         "terms": [
-            "prenatal perinatal care"
+            "prenatal clinic",
+            "antenatal clinic",
+            "perinatal centre",
+            "maternity care",
+            "maternity clinic"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "prenatal_perinatal_care"
         ],
@@ -55817,14 +55749,18 @@
             "vertex"
         ],
         "terms": [
-            "family practice"
+            "gp clinic",
+            "family doctor",
+            "primary care",
+            "medical practice",
+            "surgery clinic"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "family_practice"
         ],
@@ -55873,14 +55809,18 @@
             "vertex"
         ],
         "terms": [
-            "cosmetic dentist"
+            "aesthetic dental",
+            "smile clinic",
+            "cosmetic dental",
+            "dental aesthetics",
+            "smile studio"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "cosmetic_dentist"
         ],
@@ -56814,14 +56754,18 @@
             "vertex"
         ],
         "terms": [
-            "high school"
+            "secondary school",
+            "senior high",
+            "upper school",
+            "secondary college",
+            "sixth form"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "high_school"
         ],
@@ -56978,14 +56922,18 @@
             "vertex"
         ],
         "terms": [
-            "cannabis clinic"
+            "medical cannabis",
+            "cannabis clinic",
+            "cannabis therapy",
+            "medical marijuana",
+            "cannabis doctor"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "cannabis_clinic"
         ],
@@ -57459,14 +57407,18 @@
             "vertex"
         ],
         "terms": [
-            "middle school"
+            "junior high",
+            "intermediate school",
+            "middle years",
+            "lower secondary",
+            "middle college"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "middle_school"
         ],
@@ -57739,14 +57691,18 @@
             "vertex"
         ],
         "terms": [
-            "alcohol and drug treatment centers"
+            "rehab centre",
+            "detox clinic",
+            "substance clinic",
+            "addiction service",
+            "drug rehab"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "alcohol_and_drug_treatment_centers"
         ],
@@ -57867,14 +57823,18 @@
             "vertex"
         ],
         "terms": [
-            "retirement home"
+            "seniors home",
+            "retirement residence",
+            "pensioners home",
+            "aged home",
+            "senior living"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "retirement_home"
         ],
@@ -57979,14 +57939,18 @@
             "vertex"
         ],
         "terms": [
-            "specialty school"
+            "magnet school",
+            "specialist school",
+            "selective school",
+            "charter academy",
+            "focus school"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "specialty_school"
         ],
@@ -58144,14 +58108,18 @@
             "vertex"
         ],
         "terms": [
-            "home health care"
+            "home nursing",
+            "domiciliary care",
+            "in-home care",
+            "visiting nurse",
+            "home care"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "home_health_care"
         ],
@@ -58371,14 +58339,18 @@
             "vertex"
         ],
         "terms": [
-            "diagnostic services"
+            "imaging centre",
+            "testing lab",
+            "diagnostic lab",
+            "scan centre",
+            "diagnostic centre"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "diagnostic_services"
         ],
@@ -58691,14 +58663,18 @@
             "vertex"
         ],
         "terms": [
-            "pediatric dentist"
+            "kids dentist",
+            "paediatric dentist",
+            "child dental",
+            "children's dentist",
+            "paedo dentist"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "pediatric_dentist"
         ],
@@ -59242,14 +59218,18 @@
             "vertex"
         ],
         "terms": [
-            "family counselor"
+            "family therapy",
+            "marriage counseling",
+            "family counselling",
+            "relationship therapy",
+            "family support"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "family_counselor"
         ],
@@ -59460,14 +59440,18 @@
             "vertex"
         ],
         "terms": [
-            "surgical center"
+            "surgery centre",
+            "surgical clinic",
+            "day surgery",
+            "surgicenter",
+            "surgery suite"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "surgical_center"
         ],
@@ -59616,14 +59600,18 @@
             "vertex"
         ],
         "terms": [
-            "disability services and support organization"
+            "disability support",
+            "disability aid",
+            "support services",
+            "access services",
+            "disability centre"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "disability_services_and_support_organization"
         ],
@@ -59926,13 +59914,19 @@
             "point",
             "vertex"
         ],
-        "terms": [],
-        "last_updated": "2025-09-03",
+        "terms": [
+            "child doctor",
+            "paediatrician",
+            "kids clinic",
+            "paeds clinic",
+            "children's doctor"
+        ],
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "pediatrician"
         ],
@@ -59993,14 +59987,18 @@
             "vertex"
         ],
         "terms": [
-            "private school"
+            "independent school",
+            "prep school",
+            "private academy",
+            "public school",
+            "fee school"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "private_school"
         ],
@@ -60077,14 +60075,18 @@
             "vertex"
         ],
         "terms": [
-            "eye care clinic"
+            "eye clinic",
+            "ophthalmology",
+            "vision centre",
+            "eye hospital",
+            "optometry clinic"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "eye_care_clinic"
         ],
@@ -60310,14 +60312,18 @@
             "vertex"
         ],
         "terms": [
-            "art school"
+            "art college",
+            "art academy",
+            "fine arts",
+            "art institute",
+            "art conservatory"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "art_school"
         ],
@@ -60396,14 +60402,18 @@
             "vertex"
         ],
         "terms": [
-            "credit and debt counseling"
+            "debt advice",
+            "credit counselling",
+            "money help",
+            "budget service",
+            "financial counselling"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "credit_and_debt_counseling"
         ],
@@ -60493,14 +60503,18 @@
             "vertex"
         ],
         "terms": [
-            "religious school"
+            "faith school",
+            "parochial school",
+            "madrasah",
+            "yeshiva",
+            "church school"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "religious_school"
         ],
@@ -60838,13 +60852,19 @@
             "point",
             "vertex"
         ],
-        "terms": [],
-        "last_updated": "2025-09-03",
+        "terms": [
+            "ivf clinic",
+            "fertility centre",
+            "reproductive health",
+            "fertility doctor",
+            "ivf centre"
+        ],
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "fertility"
         ],
@@ -61423,13 +61443,19 @@
             "point",
             "vertex"
         ],
-        "terms": [],
-        "last_updated": "2025-09-03",
+        "terms": [
+            "implant dentist",
+            "restorative dentist",
+            "prosthetic dentist",
+            "dental implants",
+            "prostho clinic"
+        ],
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "prosthodontist"
         ],
@@ -62006,14 +62032,18 @@
             "vertex"
         ],
         "terms": [
-            "maternity centers"
+            "birthing centre",
+            "maternity clinic",
+            "antenatal centre",
+            "birth center",
+            "maternity unit"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "maternity_centers"
         ],
@@ -62302,14 +62332,18 @@
             "vertex"
         ],
         "terms": [
-            "weight loss center"
+            "slimming clinic",
+            "weight clinic",
+            "diet centre",
+            "bariatric clinic",
+            "weight studio"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "weight_loss_center"
         ],
@@ -62736,14 +62770,18 @@
             "vertex"
         ],
         "terms": [
-            "teeth whitening"
+            "whitening bar",
+            "smile studio",
+            "bleaching clinic",
+            "tooth whitening",
+            "laser whitening"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "teeth_whitening"
         ],
@@ -63811,14 +63849,18 @@
             "vertex"
         ],
         "terms": [
-            "bartending school"
+            "bar school",
+            "mixology school",
+            "cocktail academy",
+            "bartender training",
+            "bar academy"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "bartending_school"
         ],
@@ -64033,14 +64075,18 @@
             "vertex"
         ],
         "terms": [
-            "medical school"
+            "med school",
+            "medical college",
+            "medical faculty",
+            "medicine faculty",
+            "med uni"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "medical_school"
         ],
@@ -65763,13 +65809,19 @@
             "point",
             "vertex"
         ],
-        "terms": [],
-        "last_updated": "2025-09-03",
+        "terms": [
+            "surgical doctor",
+            "consultant surgeon",
+            "surgery specialist",
+            "operating surgeon",
+            "surgical consultant"
+        ],
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "surgeon"
         ],
@@ -65996,14 +66048,18 @@
             "vertex"
         ],
         "terms": [
-            "crisis intervention services"
+            "crisis centre",
+            "helpline",
+            "distress centre",
+            "crisis team",
+            "support line"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "crisis_intervention_services"
         ],
@@ -66026,14 +66082,18 @@
             "vertex"
         ],
         "terms": [
-            "women's health clinic"
+            "women's clinic",
+            "gynaecology clinic",
+            "women's health",
+            "women's centre",
+            "women's care"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "womens_health_clinic"
         ],
@@ -66157,14 +66217,18 @@
             "vertex"
         ],
         "terms": [
-            "occupational safety"
+            "osh training",
+            "work safety",
+            "safety training",
+            "worksafe",
+            "ohs training"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "occupational_safety"
         ],
@@ -67649,14 +67713,18 @@
             "vertex"
         ],
         "terms": [
-            "cosmetology school"
+            "beauty school",
+            "cosmetology academy",
+            "beauty college",
+            "esthetic school",
+            "beauty institute"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "cosmetology_school"
         ],
@@ -67896,14 +67964,18 @@
             "vertex"
         ],
         "terms": [
-            "senior citizen services"
+            "senior services",
+            "elder services",
+            "aged services",
+            "senior support",
+            "aged care"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "senior_citizen_services"
         ],
@@ -69177,14 +69249,18 @@
             "vertex"
         ],
         "terms": [
-            "child protection service"
+            "child welfare",
+            "child services",
+            "child safety",
+            "child protective",
+            "child support"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "child_protection_service"
         ],
@@ -69402,14 +69478,18 @@
             "vertex"
         ],
         "terms": [
-            "dialysis clinic"
+            "renal clinic",
+            "kidney clinic",
+            "dialysis centre",
+            "haemodialysis",
+            "peritoneal clinic"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "dialysis_clinic"
         ],
@@ -69862,14 +69942,18 @@
             "vertex"
         ],
         "terms": [
-            "halfway house"
+            "transitional home",
+            "reentry home",
+            "sober house",
+            "step-down home",
+            "resettlement home"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "halfway_house"
         ],
@@ -70979,13 +71063,19 @@
             "point",
             "vertex"
         ],
-        "terms": [],
-        "last_updated": "2025-09-03",
+        "terms": [
+            "gum specialist",
+            "periodontal clinic",
+            "gum doctor",
+            "periodontics",
+            "gum dentist"
+        ],
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "periodontist"
         ],
@@ -73670,14 +73760,18 @@
             "vertex"
         ],
         "terms": [
-            "volunteer association"
+            "volunteer hub",
+            "volunteer centre",
+            "service club",
+            "volunteer group",
+            "volunteer network"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "volunteer_association"
         ],
@@ -73913,14 +74007,18 @@
             "vertex"
         ],
         "terms": [
-            "urgent care clinic"
+            "walk-in clinic",
+            "after-hours clinic",
+            "minor emergency",
+            "immediate care",
+            "urgent treatment"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "urgent_care_clinic"
         ],
@@ -74390,14 +74488,18 @@
             "vertex"
         ],
         "terms": [
-            "montessori school"
+            "montessori academy",
+            "montessori preschool",
+            "montessori centre",
+            "montessori class",
+            "montessori program"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "montessori_school"
         ],
@@ -74695,14 +74797,18 @@
             "vertex"
         ],
         "terms": [
-            "dentistry schools"
+            "dental school",
+            "dentistry school",
+            "dental college",
+            "odontology school",
+            "dentistry college"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "dentistry_schools"
         ],
@@ -75450,14 +75556,18 @@
             "vertex"
         ],
         "terms": [
-            "waldorf school"
+            "steiner school",
+            "waldorf academy",
+            "waldorf college",
+            "steiner education",
+            "waldorf campus"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "waldorf_school"
         ],
@@ -76035,14 +76145,18 @@
             "vertex"
         ],
         "terms": [
-            "business schools"
+            "business college",
+            "business school",
+            "b-school",
+            "management school",
+            "commerce college"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "business_schools"
         ],
@@ -76257,14 +76371,18 @@
             "vertex"
         ],
         "terms": [
-            "foster care services"
+            "foster agency",
+            "care agency",
+            "kinship care",
+            "foster support",
+            "placement service"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "foster_care_services"
         ],
@@ -77775,14 +77893,18 @@
             "vertex"
         ],
         "terms": [
-            "low income housing"
+            "affordable housing",
+            "social housing",
+            "public housing",
+            "council housing",
+            "income housing"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "low_income_housing"
         ],
@@ -80187,14 +80309,18 @@
             "vertex"
         ],
         "terms": [
-            "medical sciences schools"
+            "health sciences",
+            "medical science",
+            "biomed school",
+            "allied health",
+            "health science"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "medical_sciences_schools"
         ],
@@ -80272,14 +80398,18 @@
             "vertex"
         ],
         "terms": [
-            "science schools"
+            "stem school",
+            "science academy",
+            "science magnet",
+            "science college",
+            "polytechnic"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "science_schools"
         ],
@@ -81234,14 +81364,18 @@
             "vertex"
         ],
         "terms": [
-            "assisted living facility"
+            "senior living",
+            "assisted living",
+            "care residence",
+            "retirement living",
+            "supportive living"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "assisted_living_facility"
         ],
@@ -82087,14 +82221,18 @@
             "vertex"
         ],
         "terms": [
-            "emergency medicine"
+            "er doctor",
+            "a&e doctor",
+            "ed physician",
+            "emergency doctor",
+            "trauma doctor"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "emergency_medicine"
         ],
@@ -84448,14 +84586,18 @@
             "vertex"
         ],
         "terms": [
-            "family service center"
+            "family services",
+            "family agency",
+            "family hub",
+            "family support",
+            "family resource"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "family_service_center"
         ],
@@ -85075,14 +85217,18 @@
             "vertex"
         ],
         "terms": [
-            "scout hall"
+            "scout hut",
+            "scout lodge",
+            "guide hall",
+            "scout center",
+            "scout den"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "scout_hall"
         ],
@@ -86668,14 +86814,18 @@
             "vertex"
         ],
         "terms": [
-            "social welfare center"
+            "social service centre",
+            "welfare office",
+            "community welfare",
+            "social assistance",
+            "welfare hub"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "social_welfare_center"
         ],
@@ -87952,14 +88102,18 @@
             "vertex"
         ],
         "terms": [
-            "cancer treatment center"
+            "oncology centre",
+            "cancer clinic",
+            "cancer hospital",
+            "cancer institute",
+            "oncology unit"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "cancer_treatment_center"
         ],
@@ -88500,14 +88654,18 @@
             "vertex"
         ],
         "terms": [
-            "charter school"
+            "charter academy",
+            "independent public",
+            "charter campus",
+            "pilot school",
+            "charter programme"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "charter_school"
         ],
@@ -90316,14 +90474,18 @@
             "vertex"
         ],
         "terms": [
-            "law schools"
+            "law school",
+            "law faculty",
+            "legal school",
+            "law college",
+            "legal academy"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "law_schools"
         ],
@@ -90399,14 +90561,18 @@
             "vertex"
         ],
         "terms": [
-            "pharmacy schools"
+            "pharmacy school",
+            "pharm school",
+            "pharmacy college",
+            "pharm college",
+            "pharmacy faculty"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "pharmacy_schools"
         ],

@@ -91895,5 +91895,39 @@
         "natural_language_category": [
             "religious organization"
         ]
+    },
+    {
+        "id": 2669,
+        "name": "Oaxacan Restaurant",
+        "icon": "maki-restaurant",
+        "tags": {
+            "amenity": "restaurant",
+            "cuisine": "oaxacan"
+        },
+        "geometry": [
+            "point",
+            "vertex",
+            "area"
+        ],
+        "terms": [
+            "mole",
+            "oaxaca",
+            "oaxacan",
+            "tlayuda",
+            "chapulines",
+            "quesillo",
+            "tamales",
+            "mezcal"
+        ],
+        "last_updated": "2025-12-17",
+        "ds": "2025-12-17",
+        "name_required": true,
+        "allow_add": true,
+        "source": "osm",
+        "version": "1",
+        "overture_categories": [],
+        "natural_language_category": [
+            "oaxacan restaurant"
+        ]
     }
 ]

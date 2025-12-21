@@ -6519,7 +6519,6 @@
             "area"
         ],
         "terms": [
-            "restaurant",
             "eatery",
             "dining",
             "dine-in",
@@ -9771,7 +9770,6 @@
             "pub",
             "steakhouse",
             "brunch",
-            "american",
             "eatery",
             "dining",
             "menu"
@@ -9816,7 +9814,6 @@
             "cuisine",
             "asian lunch",
             "asian dinner",
-            "asian",
             "eatery",
             "menu",
             "table service",
@@ -9867,7 +9864,6 @@
             "asian lunch",
             "asian dinner",
             "asian bar",
-            "chinese",
             "eatery",
             "dining"
         ],
@@ -9915,7 +9911,6 @@
             "french grill",
             "french lunch",
             "french dinner",
-            "french",
             "eatery",
             "dining",
             "food"
@@ -9964,7 +9959,6 @@
             "german kitchen",
             "german-themed restaurant",
             "german cuisine eatery",
-            "german",
             "eatery",
             "dining",
             "food"
@@ -10013,7 +10007,6 @@
             "greek cafe",
             "greek bar",
             "greek canteen",
-            "greek",
             "eatery",
             "dining",
             "food"
@@ -10055,7 +10048,6 @@
             "lunch",
             "table",
             "curry",
-            "indian",
             "eatery",
             "dining",
             "food",
@@ -10158,7 +10150,6 @@
             "yakitori restaurant",
             "japanese buffet",
             "yoshoku restaurant",
-            "japanese",
             "eatery",
             "dining"
         ],
@@ -10196,7 +10187,6 @@
         ],
         "terms": [
             "tacos",
-            "Mexican",
             "burritos",
             "enchiladas",
             "fajitas",
@@ -10320,7 +10310,6 @@
             "lunch",
             "table",
             "slice",
-            "pizza",
             "food",
             "italian",
             "takeout",
@@ -10494,7 +10483,6 @@
             "sushi table",
             "sushi snack",
             "sushi takeout",
-            "sushi",
             "eatery",
             "dining"
         ],
@@ -10588,7 +10576,6 @@
             "table",
             "cafeteria",
             "kebab",
-            "turkish",
             "eatery",
             "dining",
             "menu"
@@ -10636,7 +10623,6 @@
             "pho dining",
             "pho place",
             "noodle restaurant",
-            "vietnamese",
             "eatery",
             "dining",
             "food",
@@ -56530,8 +56516,6 @@
             "vertex"
         ],
         "terms": [
-            "cajun",
-            "creole",
             "eatery",
             "dining",
             "food",
@@ -60183,7 +60167,6 @@
         "terms": [
             "eatery",
             "dining",
-            "food",
             "menu",
             "table service",
             "takeaway",
@@ -62093,7 +62076,6 @@
         "terms": [
             "eatery",
             "dining",
-            "food",
             "menu",
             "table service",
             "takeaway",
@@ -63771,7 +63753,6 @@
         "terms": [
             "eatery",
             "dining",
-            "food",
             "menu",
             "table service",
             "takeaway",
@@ -67189,7 +67170,6 @@
         "terms": [
             "eatery",
             "dining",
-            "food",
             "menu",
             "table service",
             "takeaway",
@@ -91912,7 +91892,6 @@
         "terms": [
             "mole",
             "oaxaca",
-            "oaxacan",
             "tlayuda",
             "chapulines",
             "quesillo",

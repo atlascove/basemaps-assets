@@ -88,13 +88,18 @@
         "geometry": [
             "line"
         ],
-        "terms": [],
-        "last_updated": "2025-09-03",
+        "terms": [
+            "flush toilet",
+            "flush loo",
+            "flush wc",
+            "flushing bathroom"
+        ],
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": false,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "address interpolation",
@@ -1177,9 +1182,7 @@
             "point",
             "area"
         ],
-        "terms": [
-            "cinema"
-        ],
+        "terms": [],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
         "name_required": true,
@@ -1957,7 +1960,6 @@
         "terms": [
             "bike tools",
             "cycling",
-            "bicycle",
             "tool stand",
             "repair station",
             "bike maintenance",
@@ -2174,7 +2176,6 @@
             "area"
         ],
         "terms": [
-            "boarding",
             "cat",
             "cattery",
             "dog",
@@ -2287,7 +2288,6 @@
             "rescue",
             "spca",
             "pound",
-            "animal",
             "service",
             "pet",
             "animal rescue service",
@@ -2340,7 +2340,6 @@
             "theatre center",
             "arts facility",
             "cultural venue",
-            "arts",
             "and",
             "entertainment",
             "cultural",
@@ -2580,9 +2579,7 @@
             "vertex",
             "line"
         ],
-        "terms": [
-            "bench"
-        ],
+        "terms": [],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
         "name_required": false,
@@ -2609,25 +2606,18 @@
             "area"
         ],
         "terms": [
+            "bike rack",
             "cycle rack",
+            "bike corral",
             "bicycle stand",
-            "bike stand",
-            "cycle stand",
-            "bike spot",
-            "cycle spot",
-            "bicycle spot",
-            "bicycle park",
-            "bike park",
-            "cycle park",
-            "cycling park",
-            "bike"
+            "cycle park"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "bike_parking"
         ],
@@ -2656,26 +2646,18 @@
             "area"
         ],
         "terms": [
-            "bike",
-            "bicycle",
-            "bikeshare",
-            "cycleshare",
-            "cycling",
-            "bike rental",
-            "rental bikes",
+            "bike share",
+            "cycle hire",
             "bike hire",
-            "bike station",
-            "bike stand",
-            "bike docking",
-            "rentals",
-            "bike rentals"
+            "bike rental station",
+            "dockless bikes"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "bike_rentals"
         ],
@@ -2794,7 +2776,6 @@
             "boat lease company",
             "renting a boat",
             "hiring a boat",
-            "boat",
             "and",
             "training",
             "boat rental and training"
@@ -2847,7 +2828,6 @@
             "boat shelter",
             "watercraft storage",
             "vessel storage",
-            "boat",
             "facility"
         ],
         "last_updated": "2025-09-03",
@@ -2895,7 +2875,6 @@
             "cash converter",
             "currency switcher",
             "money trader",
-            "currency",
             "money",
             "exchange office",
             "foreign exchange",
@@ -2948,7 +2927,6 @@
             "coffeehouse",
             "coffee shop",
             "espresso bar",
-            "cafe",
             "caf\u00e9",
             "teahouse",
             "tea room",
@@ -3047,7 +3025,6 @@
             "vehicle renting",
             "vehicle hiring",
             "car rentals",
-            "car",
             "agency",
             "automobile",
             "leasing",
@@ -3101,8 +3078,6 @@
             "car sharing point",
             "car sharer",
             "ride",
-            "sharing",
-            "car",
             "ride sharing",
             "car sharing"
         ],
@@ -3182,7 +3157,6 @@
             "auto spa",
             "auto care",
             "auto service",
-            "car",
             "pressure",
             "washing",
             "pressure washing"
@@ -3270,26 +3244,18 @@
             "area"
         ],
         "terms": [
-            "ev",
-            "supercharger",
-            "ev charger",
-            "ev plug",
-            "ev power",
-            "ev recharge",
-            "ev refuel",
-            "ev battery",
-            "ev supply",
-            "ev energy",
-            "ev outlet",
-            "charging",
-            "ev charging station"
+            "ev charge point",
+            "charging point",
+            "rapid charger",
+            "fast charger",
+            "chargepost"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "ev_charging_station"
         ],
@@ -3866,9 +3832,6 @@
         "terms": [
             "martial arts",
             "dojang",
-            "dojo",
-            "martial",
-            "arts",
             "training",
             "training center",
             "martial arts club"
@@ -3957,7 +3920,6 @@
             "hydration station",
             "quenching spot",
             "water spout",
-            "drinking",
             "dispenser",
             "drinking water dispenser"
         ],
@@ -4127,7 +4089,6 @@
             "fast food restaurant",
             "eatery",
             "dining",
-            "food",
             "menu",
             "table service",
             "takeaway",
@@ -4175,7 +4136,6 @@
             "fire response",
             "fire prevention",
             "fire protection",
-            "fire",
             "department"
         ],
         "last_updated": "2025-09-03",
@@ -4259,9 +4219,7 @@
             "point",
             "area"
         ],
-        "terms": [
-            "fountain"
-        ],
+        "terms": [],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
         "name_required": false,
@@ -4287,26 +4245,18 @@
             "area"
         ],
         "terms": [
-            "petrol",
-            "fuel",
-            "gasoline",
-            "propane",
-            "diesel",
-            "lng",
-            "cng",
-            "biodiesel",
-            "refueling station",
             "petrol station",
-            "petrol pump",
-            "gas",
-            "pump"
+            "service station",
+            "servo",
+            "gas bar",
+            "petrol pump"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "gas_station"
         ],
@@ -4408,9 +4358,7 @@
             "point",
             "area"
         ],
-        "terms": [
-            "graveyard"
-        ],
+        "terms": [],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
         "name_required": false,
@@ -4483,7 +4431,6 @@
             "sick",
             "surgery",
             "ward",
-            "hospital",
             "hospitalist",
             "ambulance",
             "emergency",
@@ -4616,8 +4563,6 @@
             "ice cream stand",
             "ice cream stall",
             "ice cream truck",
-            "ice",
-            "cream",
             "frozen",
             "yoghurt",
             "and",
@@ -4736,9 +4681,7 @@
             "point"
         ],
         "terms": [
-            "kindergarten",
             "kindergarden",
-            "preschool",
             "preprimary",
             "nursery",
             "daycare",
@@ -4858,7 +4801,6 @@
         ],
         "terms": [
             "esl",
-            "language",
             "language courses",
             "english courses",
             "english learning",
@@ -5049,9 +4991,7 @@
         "geometry": [
             "point"
         ],
-        "terms": [
-            "lounger"
-        ],
+        "terms": [],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
         "name_required": false,
@@ -5078,7 +5018,6 @@
         "terms": [
             "cash",
             "card",
-            "payment",
             "interactive",
             "kiosk"
         ],
@@ -5161,7 +5100,6 @@
         ],
         "terms": [
             "photobooth",
-            "photo",
             "kiosk",
             "camera",
             "picture",
@@ -5407,8 +5345,7 @@
             "bike lot",
             "motorcycle bay",
             "motorbike bay",
-            "bike bay",
-            "motorcycle"
+            "bike bay"
         ],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
@@ -5447,7 +5384,6 @@
             "motorbike",
             "sidecar",
             "sportbike",
-            "motorcycle",
             "bike",
             "scooter",
             "motor",
@@ -5491,7 +5427,6 @@
             "point"
         ],
         "terms": [
-            "university",
             "college",
             "campus",
             "school",
@@ -5545,8 +5480,7 @@
             "music college",
             "music studio",
             "music tutoring",
-            "musical school",
-            "music"
+            "musical school"
         ],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
@@ -5629,7 +5563,6 @@
             "dropoff",
             "mail",
             "packstation",
-            "parcel",
             "pickup",
             "parcel drop",
             "parcel pickup",
@@ -5673,24 +5606,18 @@
             "vertex"
         ],
         "terms": [
-            "parking zone",
-            "parking spot",
-            "parking garage",
-            "parking deck",
-            "parking structure",
+            "car park",
+            "carpark",
+            "parking area",
             "parking field",
-            "parking yard",
-            "parking site",
-            "parking ground",
-            "parking location",
-            "parking"
+            "parking yard"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "parking"
         ],
@@ -6109,15 +6036,12 @@
         "terms": [
             "math",
             "reading",
-            "tutoring",
             "writing",
             "education",
             "study",
             "learning",
             "tutor",
-            "prep",
             "coaching",
-            "test",
             "preparation",
             "center",
             "test preparation",
@@ -6170,7 +6094,6 @@
             "correctional incarceration",
             "correctional penitentiary",
             "and",
-            "prison",
             "jail and prison"
         ],
         "last_updated": "2025-09-03",
@@ -6358,14 +6281,18 @@
             "area"
         ],
         "terms": [
-            "centre"
+            "recycling centre",
+            "recycling depot",
+            "resource recovery centre",
+            "civic amenity site",
+            "tip"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "recycling center",
@@ -6392,23 +6319,18 @@
             "area"
         ],
         "terms": [
-            "bin",
-            "can",
-            "bottle",
-            "glass",
-            "garbage",
-            "rubbish",
-            "scrap",
-            "trash",
-            "recycle",
-            "waste"
+            "recycling bin",
+            "bottle bank",
+            "recycling cage",
+            "recycling igloo",
+            "recycle bin"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "recycling container",
@@ -6481,8 +6403,6 @@
         ],
         "terms": [
             "research labs",
-            "research",
-            "institute",
             "research institute"
         ],
         "last_updated": "2025-09-03",
@@ -6671,7 +6591,6 @@
             "school facilities",
             "school land",
             "school territory",
-            "school",
             "public",
             "public school"
         ],
@@ -6758,7 +6677,8 @@
             "loo",
             "commode",
             "bath",
-            "shower room"
+            "shower room",
+            "wc"
         ],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
@@ -6982,7 +6902,6 @@
             "area"
         ],
         "terms": [
-            "taxi",
             "cab",
             "taxicab",
             "taxi hub",
@@ -7199,7 +7118,6 @@
             "point"
         ],
         "terms": [
-            "ticket",
             "puncher",
             "machine",
             "marker",
@@ -7241,17 +7159,19 @@
             "area"
         ],
         "terms": [
-            "toilets",
-            "public",
-            "restrooms",
-            "public restrooms"
+            "bathroom",
+            "washroom",
+            "toilet",
+            "loo",
+            "wc",
+            "lavatory"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "public_restrooms"
         ],
@@ -7289,8 +7209,7 @@
             "municipality",
             "town administration",
             "town venue",
-            "town organization",
-            "town"
+            "town organization"
         ],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
@@ -7586,19 +7505,18 @@
             "vertex"
         ],
         "terms": [
-            "waste basket",
             "trash can",
-            "rubbish",
-            "bin",
-            "litter",
-            "garbage"
+            "garbage can",
+            "rubbish bin",
+            "litter bin",
+            "dustbin"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "waste basket",
@@ -7626,36 +7544,18 @@
             "area"
         ],
         "terms": [
-            "garbage",
-            "rubbish",
-            "litter",
-            "trash",
-            "waste container",
-            "waste receptacle",
-            "garbage disposal",
-            "rubbish bin",
-            "litter bin",
-            "collection",
-            "service",
-            "septic",
-            "services",
-            "pet",
-            "waste",
-            "removal",
-            "junk",
-            "and",
-            "hauling",
-            "garbage collection service",
-            "septic services",
-            "pet waste removal",
-            "junk removal and hauling"
+            "dumpster",
+            "skip bin",
+            "skip",
+            "front load bin",
+            "commercial rubbish bin"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "garbage_collection_service",
             "septic_services",
@@ -7687,22 +7587,18 @@
             "area"
         ],
         "terms": [
-            "dump",
-            "garbage",
-            "recycling",
-            "rubbish",
-            "scrap",
-            "trash",
-            "waste site",
-            "waste recycling",
-            "waste depot"
+            "transfer station",
+            "civic amenity site",
+            "waste depot",
+            "resource recovery center",
+            "tip"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "waste transfer station",
@@ -7885,7 +7781,6 @@
             "bus intermodal",
             "coach station",
             "coach",
-            "bus",
             "coach bus"
         ],
         "last_updated": "2025-09-03",
@@ -8127,8 +8022,7 @@
             "area"
         ],
         "terms": [
-            "bike lockers",
-            "lockers"
+            "bike lockers"
         ],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
@@ -8195,9 +8089,7 @@
             "tea shop",
             "taiwanese tea",
             "tapioca tea",
-            "boba shop",
-            "bubble",
-            "tea"
+            "boba shop"
         ],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
@@ -8233,7 +8125,6 @@
             "area"
         ],
         "terms": [
-            "coffeehouse",
             "coffee shop",
             "espresso bar",
             "cafe",
@@ -8281,7 +8172,6 @@
         ],
         "terms": [
             "womens healthcare",
-            "abortion",
             "abortion services",
             "womens clinic",
             "abortion provider",
@@ -8355,9 +8245,7 @@
             "point",
             "vertex"
         ],
-        "terms": [
-            "sundial"
-        ],
+        "terms": [],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
         "name_required": false,
@@ -8462,7 +8350,6 @@
             "teen services",
             "teen programs",
             "youth venue",
-            "youth",
             "organizations",
             "youth organizations"
         ],
@@ -9147,7 +9034,6 @@
             "vertex"
         ],
         "terms": [
-            "park",
             "and",
             "rides",
             "park and rides"
@@ -9188,14 +9074,17 @@
             "vertex"
         ],
         "terms": [
-            "street-side parking"
+            "street parking",
+            "on-street parking",
+            "curbside parking",
+            "kerbside parking"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "street side parking",
@@ -9223,15 +9112,17 @@
             "vertex"
         ],
         "terms": [
-            "basement parking",
-            "subsurface parking"
+            "underground car park",
+            "subterranean car park",
+            "basement car park",
+            "below-ground parking"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "underground parking",
@@ -9291,15 +9182,18 @@
             "vertex"
         ],
         "terms": [
-            "parking for people with disabilities",
-            "handicapped parking spot"
+            "disabled parking",
+            "handicap parking",
+            "blue badge bay",
+            "accessible bay",
+            "accessible spot"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "accessible parking space",
@@ -9336,7 +9230,6 @@
             "buddhist hall",
             "buddhist monastery",
             "buddhist retreat",
-            "buddhist",
             "meditation",
             "center",
             "meditation center"
@@ -9532,7 +9425,6 @@
         "terms": [
             "kami",
             "torii",
-            "shinto",
             "temple",
             "shintoism",
             "jinja",
@@ -9608,7 +9500,6 @@
             "area"
         ],
         "terms": [
-            "taoist",
             "daoist",
             "monastery",
             "sanctuary",
@@ -10947,8 +10838,7 @@
             "homelessness support",
             "homeless housing",
             "support for homeless",
-            "homeless resource center",
-            "homeless"
+            "homeless resource center"
         ],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
@@ -10987,7 +10877,6 @@
         "terms": [
             "elderly",
             "living",
-            "nursing",
             "old",
             "senior",
             "nursing home for seniors",
@@ -11167,23 +11056,18 @@
             "vertex"
         ],
         "terms": [
-            "restroom",
-            "privy",
-            "portapot",
-            "portable facilities",
-            "portable wc",
-            "portable bathroom",
-            "mobile restroom",
-            "mobile toilet",
-            "temporary toilet",
-            "toilet"
+            "porta potty",
+            "porta john",
+            "portaloo",
+            "chemical toilet",
+            "portable loo"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "portable toilet",
@@ -11309,7 +11193,6 @@
         "terms": [
             "parking meter",
             "ticket machine",
-            "vending",
             "tickets",
             "meter",
             "parking tickets",
@@ -11457,12 +11340,10 @@
             "vertex"
         ],
         "terms": [
-            "drink",
             "soda",
             "beverage",
             "juice",
             "pop",
-            "vending",
             "drinks",
             "vendingmachine",
             "vend",
@@ -11538,9 +11419,7 @@
             "point",
             "vertex"
         ],
-        "terms": [
-            "electronics"
-        ],
+        "terms": [],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
         "name_required": false,
@@ -11574,14 +11453,11 @@
             "vertex"
         ],
         "terms": [
-            "coin",
             "crush",
             "elongated",
             "flatten",
             "penny",
             "souvenir",
-            "flat",
-            "vending",
             "coin press",
             "penny squasher"
         ],
@@ -11652,7 +11528,6 @@
             "dog",
             "animal",
             "pet",
-            "excrement",
             "bags",
             "vending machine",
             "vending"
@@ -11732,8 +11607,6 @@
             "vertex"
         ],
         "terms": [
-            "food",
-            "vending",
             "snack",
             "drink",
             "eatery",
@@ -11821,7 +11694,6 @@
             "frozen",
             "popsicle",
             "vanilla",
-            "vending",
             "sweet vending",
             "refreshment vending",
             "confectionery vending",
@@ -11860,9 +11732,7 @@
         ],
         "terms": [
             "cubes",
-            "ice",
             "vending machine",
-            "vending",
             "ice cubes",
             "ice vending",
             "vending ice",
@@ -12047,8 +11917,6 @@
             "cookie",
             "cracker",
             "sweets",
-            "snack",
-            "vending",
             "vending_machine"
         ],
         "last_updated": "2025-09-03",
@@ -12084,7 +11952,6 @@
             "area"
         ],
         "terms": [
-            "excrement",
             "waste",
             "basket",
             "can"
@@ -12189,7 +12056,6 @@
             "area"
         ],
         "terms": [
-            "quaker",
             "christian",
             "church",
             "religion",
@@ -12380,9 +12246,7 @@
             "vertex",
             "area"
         ],
-        "terms": [
-            "toilets"
-        ],
+        "terms": [],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
         "name_required": false,
@@ -12416,14 +12280,17 @@
             "area"
         ],
         "terms": [
-            "pit latrine"
+            "pit toilet",
+            "long drop",
+            "earth closet",
+            "drop toilet"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "pit latrine",
@@ -49779,8 +49646,7 @@
             "tyre shop",
             "tire",
             "repair",
-            "shop",
-            "tire_repair_shop"
+            "shop"
         ]
     },
     {
@@ -55896,9 +55762,7 @@
             "point",
             "vertex"
         ],
-        "terms": [
-            "cathedral"
-        ],
+        "terms": [],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
         "name_required": true,
@@ -56397,9 +56261,7 @@
             "point",
             "vertex"
         ],
-        "terms": [
-            "gelato"
-        ],
+        "terms": [],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
         "name_required": true,
@@ -56770,7 +56632,6 @@
             "vertex"
         ],
         "terms": [
-            "cafeteria",
             "canteen",
             "buffet",
             "coffee"
@@ -56980,9 +56841,7 @@
             "point",
             "vertex"
         ],
-        "terms": [
-            "gastropub"
-        ],
+        "terms": [],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
         "name_required": true,
@@ -59840,9 +59699,7 @@
             "point",
             "vertex"
         ],
-        "terms": [
-            "laundromat"
-        ],
+        "terms": [],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
         "name_required": true,
@@ -60069,9 +59926,7 @@
             "point",
             "vertex"
         ],
-        "terms": [
-            "pediatrician"
-        ],
+        "terms": [],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
         "name_required": true,
@@ -60983,9 +60838,7 @@
             "point",
             "vertex"
         ],
-        "terms": [
-            "fertility"
-        ],
+        "terms": [],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
         "name_required": true,
@@ -61011,9 +60864,7 @@
             "point",
             "vertex"
         ],
-        "terms": [
-            "donuts"
-        ],
+        "terms": [],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
         "name_required": true,
@@ -61572,9 +61423,7 @@
             "point",
             "vertex"
         ],
-        "terms": [
-            "prosthodontist"
-        ],
+        "terms": [],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
         "name_required": true,
@@ -62335,9 +62184,7 @@
             "point",
             "vertex"
         ],
-        "terms": [
-            "mission"
-        ],
+        "terms": [],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
         "name_required": true,
@@ -64128,9 +63975,7 @@
             "point",
             "vertex"
         ],
-        "terms": [
-            "business"
-        ],
+        "terms": [],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
         "name_required": true,
@@ -64380,9 +64225,7 @@
             "point",
             "vertex"
         ],
-        "terms": [
-            "onsen"
-        ],
+        "terms": [],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
         "name_required": true,
@@ -64839,9 +64682,7 @@
             "point",
             "vertex"
         ],
-        "terms": [
-            "auditorium"
-        ],
+        "terms": [],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
         "name_required": true,
@@ -65922,9 +65763,7 @@
             "point",
             "vertex"
         ],
-        "terms": [
-            "surgeon"
-        ],
+        "terms": [],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
         "name_required": true,
@@ -66345,9 +66184,7 @@
             "point",
             "vertex"
         ],
-        "terms": [
-            "circus"
-        ],
+        "terms": [],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
         "name_required": true,
@@ -67977,9 +67814,7 @@
             "point",
             "vertex"
         ],
-        "terms": [
-            "choir"
-        ],
+        "terms": [],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
         "name_required": true,
@@ -69622,9 +69457,7 @@
             "point",
             "vertex"
         ],
-        "terms": [
-            "bartender"
-        ],
+        "terms": [],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
         "name_required": true,
@@ -71146,9 +70979,7 @@
             "point",
             "vertex"
         ],
-        "terms": [
-            "periodontist"
-        ],
+        "terms": [],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
         "name_required": true,
@@ -71211,14 +71042,17 @@
             "vertex"
         ],
         "terms": [
-            "public toilet"
+            "public restroom",
+            "public loo",
+            "public wc",
+            "comfort station"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "public_toilet"
         ],
@@ -89402,9 +89236,7 @@
             "point",
             "vertex"
         ],
-        "terms": [
-            "friterie"
-        ],
+        "terms": [],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
         "name_required": true,
@@ -90651,9 +90483,7 @@
             "point",
             "vertex"
         ],
-        "terms": [
-            "brasserie"
-        ],
+        "terms": [],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
         "name_required": true,
@@ -91166,9 +90996,7 @@
             "point",
             "vertex"
         ],
-        "terms": [
-            "cabaret"
-        ],
+        "terms": [],
         "last_updated": "2025-09-03",
         "ds": "2025-09-03",
         "name_required": true,

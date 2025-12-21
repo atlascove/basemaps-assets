@@ -18783,14 +18783,15 @@
             "emergency water",
             "water tank",
             "water",
-            "tank"
+            "tank",
+            "reservoir"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "3",
+        "version": "4",
         "overture_categories": [],
         "natural_language_category": [
             "emergency water tank",
@@ -22251,14 +22252,15 @@
             "area"
         ],
         "terms": [
-            "artificial turf"
+            "artificial turf",
+            "grass"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "artificial_turf"
         ],
@@ -23747,19 +23749,14 @@
             "grassland",
             "rangeland",
             "prairie",
-            "greensward",
-            "sward",
-            "lealand",
-            "grass",
-            "mead",
-            "herbage"
+            "greensward"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "meadow",
@@ -23830,14 +23827,15 @@
             "area"
         ],
         "terms": [
-            "garden allotments"
+            "garden allotments",
+            "allotments"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "garden allotments",
@@ -23859,16 +23857,16 @@
         "terms": [
             "farm",
             "farms",
-            "and",
             "hatcheries",
-            "fish farms and hatcheries"
+            "fish farms",
+            "aquaculture"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "fish_farm",
             "fish_farms_and_hatcheries"
@@ -23900,20 +23898,15 @@
             "abandoned",
             "contaminated",
             "redevelopment",
-            "site",
             "vacant",
-            "unused",
-            "derelict",
-            "wasteland",
-            "plot",
-            "property"
+            "unused"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "brownfield",
@@ -23943,19 +23936,14 @@
             "columbarium",
             "graveyard",
             "mausoleum",
-            "tomb",
-            "necropolis",
-            "grave garden",
-            "burial park",
-            "grave park",
-            "cemeteries"
+            "tomb"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "cemeteries"
         ],
@@ -23986,19 +23974,14 @@
             "offices",
             "business",
             "retail",
-            "shopping",
-            "commercial hub",
-            "commercial precinct",
-            "commercial premises",
-            "commercial establishment",
-            "commercial venture"
+            "shopping"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "commercial area",
@@ -24024,14 +24007,14 @@
             "area"
         ],
         "terms": [
-            "construction area"
+            "construction"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "construction area",
@@ -24086,22 +24069,14 @@
             "campus",
             "school grounds",
             "educational facilities",
-            "school",
-            "college",
-            "university",
-            "educational grounds",
-            "academic center",
-            "educational complex",
-            "educational zone",
-            "school area",
-            "educational establishment"
+            "school"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "educational campus",
@@ -24130,17 +24105,14 @@
             "grain",
             "b2b",
             "farming",
-            "urban farm",
-            "crops production",
-            "grain production",
-            "b2b farming"
+            "urban farm"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "agriculture",
             "urban_farm",
@@ -24204,21 +24176,16 @@
         "terms": [
             "garden",
             "landscaping",
-            "vegetation area",
+            "vegetation",
             "flora display",
-            "plant display",
-            "park landscaping",
-            "botanical feature",
-            "horticultural area",
-            "green space",
-            "outdoor garden"
+            "display"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "flowerbed",
@@ -24245,14 +24212,16 @@
         "terms": [
             "trees",
             "woodlands",
-            "woods"
+            "woods",
+            "managed forest",
+            "forest"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "forest"
         ],
@@ -24280,14 +24249,15 @@
         ],
         "terms": [
             "parking",
-            "garages"
+            "garages",
+            "garage landuse"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "garage landuse",
@@ -24311,14 +24281,15 @@
             "area"
         ],
         "terms": [
-            "greenhouses"
+            "greenhouses",
+            "greenhouse horticulture"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "greenhouses"
         ],
@@ -24345,19 +24316,14 @@
             "jetty",
             "quay",
             "anchorage",
-            "harbourage",
-            "moorage",
-            "landing",
-            "shipyard",
-            "waterfront",
-            "coast"
+            "harbourage"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "harbor",
@@ -24381,14 +24347,14 @@
             "area"
         ],
         "terms": [
-            "industrial area"
+            "industrial"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "industrial area",
@@ -24466,19 +24432,14 @@
             "base",
             "depot",
             "marines",
-            "navy",
-            "security",
-            "military zone",
-            "fortress",
-            "garrison",
-            "barracks"
+            "navy"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "military area",
@@ -24507,25 +24468,14 @@
             "fruit trees",
             "fruit field",
             "fruit cultivation",
-            "fruit production",
-            "fruit harvesting",
-            "fruit picking",
-            "fruit processing",
-            "fruit industry",
-            "fruit business",
-            "pumpkin",
-            "patch",
-            "orchards",
-            "production",
-            "pumpkin patch",
-            "orchards production"
+            "fruit harvesting"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "pumpkin_patch",
             "orchards_production",
@@ -24555,14 +24505,14 @@
             "area"
         ],
         "terms": [
-            "plant nursery"
+            "nursery"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "plant nursery",
@@ -24584,14 +24534,15 @@
             "point"
         ],
         "terms": [
-            "quarries"
+            "quarries",
+            "quarry"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "quarries"
         ],
@@ -24617,17 +24568,14 @@
             "rail",
             "railway",
             "train",
-            "track",
-            "railway transportation",
-            "rail network",
-            "public transit"
+            "track"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "railway corridor",
@@ -24652,14 +24600,15 @@
             "area"
         ],
         "terms": [
-            "playing fields"
+            "playing fields",
+            "recreation ground"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "recreation ground",
@@ -24680,14 +24629,15 @@
             "taoist",
             "temple",
             "shrine",
-            "synagogue"
+            "synagogue",
+            "religious"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "religious area",
@@ -24715,19 +24665,14 @@
             "housing",
             "neighborhood",
             "subdivision",
-            "suburb",
-            "housing district",
-            "housing development",
-            "suburban area",
-            "suburban zone",
-            "suburban district"
+            "suburb"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "residential area",
@@ -24785,22 +24730,16 @@
         "terms": [
             "retail",
             "retail district",
-            "store area",
-            "commercial area",
-            "shopping hub",
-            "retail hub",
-            "retail precinct",
-            "retail establishment",
-            "retail sector",
-            "retail business",
-            "retail complex"
+            "store",
+            "commercial",
+            "shopping hub"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "retail area",
@@ -24826,25 +24765,18 @@
             "area"
         ],
         "terms": [
-            "salt_pond",
+            "salt pond",
             "evaporation",
             "saline",
             "salt",
-            "salt works",
-            "saltern",
-            "saltpan",
-            "salt farm",
-            "salt evaporation",
-            "salt field",
-            "evaporator",
-            "brine reservoir"
+            "saltern"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "salt evaporation pond",
@@ -24874,19 +24806,14 @@
             "vinyard",
             "grapes",
             "winegrowing",
-            "viticulture",
-            "viticulturist",
-            "winemaking",
-            "viniculture",
-            "viticulturism",
-            "wineries"
+            "viticulture"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "vineyard",
@@ -24913,23 +24840,16 @@
         "terms": [
             "ski mountain",
             "ski resort",
-            "snowboard area",
+            "snowboard",
             "winter sports",
-            "winter activities",
-            "skiing area",
-            "snowboarding area",
-            "snow park",
-            "ski park",
-            "snowboarding facility",
-            "skiing facility",
-            "ski"
+            "winter activities"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "ski_area"
         ],
@@ -24957,14 +24877,15 @@
             "area"
         ],
         "terms": [
-            "basin landuse"
+            "basin landuse",
+            "basin"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "basin landuse",
@@ -25016,21 +24937,16 @@
         "terms": [
             "cemetary",
             "graveyard",
-            "churchyard site",
+            "churchyard",
             "churchyard region",
-            "churchyard district",
-            "churchyard place",
-            "churchyard territory",
-            "churchyard field",
-            "churchyard ground",
-            "churchyard spot"
+            "churchyard district"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [],
         "natural_language_category": [
             "churchyard",
@@ -25058,27 +24974,17 @@
         ],
         "terms": [
             "farm",
-            "agrarian land",
-            "agronomy land",
+            "agrarian",
+            "agronomy",
             "countryside",
-            "fertile land",
-            "pasture land",
-            "grain field",
-            "agricultural zone",
-            "arable land",
-            "farming land",
-            "csa",
-            "b2b",
-            "farms",
-            "csa farm",
-            "b2b farms"
+            "fertile"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "farm",
             "csa_farm",
@@ -28231,18 +28137,18 @@
             "area"
         ],
         "terms": [
-            "works",
             "plastic",
             "processing",
             "refinery",
-            "commercial"
+            "commercial",
+            "factory"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "commercial_industrial",
             "appliance_manufacturer"
@@ -29902,7 +29808,7 @@
         ],
         "terms": [
             "hoist",
-            "construction site",
+            "construction",
             "construction project",
             "construction tool",
             "construction vehicle"
@@ -29912,7 +29818,7 @@
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "3",
+        "version": "4",
         "overture_categories": [],
         "natural_language_category": [
             "crane",
@@ -29965,14 +29871,15 @@
         ],
         "terms": [
             "cut",
-            "cutline"
+            "cutline",
+            "cut line"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "3",
+        "version": "4",
         "overture_categories": [],
         "natural_language_category": [
             "cut line",
@@ -30055,14 +29962,14 @@
             "storage",
             "container",
             "structure",
-            "facility"
+            "gasometer"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "3",
+        "version": "4",
         "overture_categories": [],
         "natural_language_category": [
             "gasometer",
@@ -30356,14 +30263,15 @@
         ],
         "terms": [
             "gps",
-            "monitoring"
+            "monitoring",
+            "monitoring station"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "3",
+        "version": "4",
         "overture_categories": [],
         "natural_language_category": [
             "monitoring station",
@@ -30598,14 +30506,15 @@
         ],
         "terms": [
             "waterworks",
-            "pumping"
+            "pumping",
+            "pumping station"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "3",
+        "version": "4",
         "overture_categories": [],
         "natural_language_category": [
             "pumping station",
@@ -30966,14 +30875,14 @@
             "area"
         ],
         "terms": [
-            "area"
+            "tunnel"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "3",
+        "version": "4",
         "overture_categories": [],
         "natural_language_category": [
             "tunnel area",
@@ -31072,18 +30981,18 @@
             "area"
         ],
         "terms": [
-            "sewage plant",
+            "sewage",
             "wastewater treatment",
             "wwtp",
-            "reclamation plant",
-            "sewer plant"
+            "reclamation",
+            "sewer"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "3",
+        "version": "4",
         "overture_categories": [],
         "natural_language_category": [
             "wastewater plant",
@@ -31243,16 +31152,15 @@
         "terms": [
             "waterworks",
             "water utilities",
-            "water plant",
-            "water system",
-            "water"
+            "water",
+            "water system"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "3",
+        "version": "4",
         "overture_categories": [],
         "natural_language_category": [
             "water works",
@@ -31567,14 +31475,16 @@
             "area"
         ],
         "terms": [
-            "floating"
+            "floating",
+            "floating pier",
+            "pier"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "3",
+        "version": "4",
         "overture_categories": [],
         "natural_language_category": [
             "floating pier",
@@ -31817,17 +31727,17 @@
         ],
         "terms": [
             "cooling",
-            "industrial",
             "factory",
             "chimney",
-            "smokestack"
+            "smokestack",
+            "cooling tower"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": false,
         "allow_add": true,
         "source": "osm",
-        "version": "3",
+        "version": "4",
         "overture_categories": [],
         "natural_language_category": [
             "cooling tower",
@@ -53224,15 +53134,14 @@
             "vertex"
         ],
         "terms": [
-            "iron steel",
-            "works"
+            "iron steel"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "iron_and_steel_industry"
         ],
@@ -55340,15 +55249,15 @@
             "vertex"
         ],
         "terms": [
-            "business manufacturing",
-            "works"
+            "business",
+            "business supply"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "business_manufacturing_and_supply"
         ],
@@ -56533,15 +56442,14 @@
         ],
         "terms": [
             "plastic fabrication",
-            "plastic manufacturer",
-            "works"
+            "plastic manufacturer"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "plastic_manufacturer",
             "plastic_fabrication_company"
@@ -58628,14 +58536,15 @@
             "vertex"
         ],
         "terms": [
-            "dairy farm"
+            "dairy farm",
+            "agricultural"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "dairy_farm"
         ],
@@ -58742,15 +58651,14 @@
             "vertex"
         ],
         "terms": [
-            "chemical plant",
-            "works"
+            "chemical"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "chemical_plant"
         ],
@@ -58771,15 +58679,14 @@
             "vertex"
         ],
         "terms": [
-            "motorcycle manufacturer",
-            "works"
+            "motorcycle manufacturer"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "motorcycle_manufacturer"
         ],
@@ -60718,15 +60625,14 @@
             "vertex"
         ],
         "terms": [
-            "auto manufacturers",
-            "works"
+            "auto manufacturers"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "auto_manufacturers_and_distributors"
         ],
@@ -61627,15 +61533,14 @@
             "vertex"
         ],
         "terms": [
-            "glass manufacturer",
-            "works"
+            "glass manufacturer"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "glass_manufacturer"
         ],
@@ -62875,14 +62780,15 @@
             "vertex"
         ],
         "terms": [
-            "poultry farm"
+            "poultry farm",
+            "farm"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "poultry_farm"
         ],
@@ -64001,14 +63907,15 @@
             "vertex"
         ],
         "terms": [
-            "mobile home park"
+            "mobile home",
+            "residential"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "mobile_home_park"
         ],
@@ -65550,15 +65457,14 @@
             "vertex"
         ],
         "terms": [
-            "mattress manufacturing",
-            "works"
+            "mattress"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "mattress_manufacturing"
         ],
@@ -66005,14 +65911,16 @@
         ],
         "terms": [
             "weather",
-            "monitoring"
+            "monitoring",
+            "weather station",
+            "monitoring station"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "weather_station"
         ],
@@ -70843,15 +70751,14 @@
             "vertex"
         ],
         "terms": [
-            "aircraft manufacturer",
-            "works"
+            "aircraft manufacturer"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "aircraft_manufacturer"
         ],
@@ -72752,14 +72659,15 @@
             "vertex"
         ],
         "terms": [
-            "pet cemetery and crematorium services"
+            "pet cemetery",
+            "cemetery"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "pet_cemetery_and_crematorium_services"
         ],
@@ -73293,15 +73201,14 @@
             "vertex"
         ],
         "terms": [
-            "leather products",
-            "works"
+            "leather products"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "leather_products_manufacturer"
         ],
@@ -73798,15 +73705,14 @@
             "vertex"
         ],
         "terms": [
-            "furniture manufacturers",
-            "works"
+            "furniture manufacturers"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "furniture_manufacturers"
         ],
@@ -73916,15 +73822,14 @@
             "vertex"
         ],
         "terms": [
-            "textile mill",
-            "works"
+            "textile mill"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "textile_mill"
         ],
@@ -77057,14 +76962,15 @@
             "vertex"
         ],
         "terms": [
-            "christmas trees"
+            "christmas trees",
+            "nursery"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "christmas_trees"
         ],
@@ -77464,14 +77370,15 @@
             "vertex"
         ],
         "terms": [
-            "metals"
+            "metals",
+            "scrap metals"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "scrap_metals",
             "metals"
@@ -80123,15 +80030,14 @@
             "vertex"
         ],
         "terms": [
-            "shoe factory",
-            "works"
+            "shoe factory"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "shoe_factory"
         ],
@@ -81767,14 +81673,15 @@
             "vertex"
         ],
         "terms": [
-            "poultry farming"
+            "poultry farming",
+            "animal keeping"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "poultry_farming"
         ],
@@ -81998,15 +81905,14 @@
             "vertex"
         ],
         "terms": [
-            "steel fabricators",
-            "works"
+            "steel fabricators"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "steel_fabricators"
         ],
@@ -82563,15 +82469,14 @@
             "vertex"
         ],
         "terms": [
-            "cotton mill",
-            "works"
+            "cotton mill"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "cotton_mill"
         ],
@@ -82707,15 +82612,14 @@
             "vertex"
         ],
         "terms": [
-            "lighting fixture",
-            "works"
+            "lighting fixture"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "lighting_fixture_manufacturers"
         ],
@@ -83060,14 +82964,14 @@
             "vertex"
         ],
         "terms": [
-            "oil and gas exploration and development"
+            "oil gas"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "oil_and_gas_exploration_and_development"
         ],
@@ -83440,14 +83344,15 @@
             "vertex"
         ],
         "terms": [
-            "pig farm"
+            "pig farm",
+            "farm"
         ],
-        "last_updated": "2025-09-03",
+        "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "2",
+        "version": "3",
         "overture_categories": [
             "pig_farm"
         ],
@@ -85676,15 +85581,14 @@
             "vertex"
         ],
         "terms": [
-            "jewelry manufacturer",
-            "works"
+            "jewelry manufacturer"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "jewelry_manufacturer"
         ],
@@ -89181,15 +89085,14 @@
             "vertex"
         ],
         "terms": [
-            "cosmetic products",
-            "works"
+            "cosmetic products"
         ],
         "last_updated": "2025-12-17",
         "ds": "2025-09-03",
         "name_required": true,
         "allow_add": true,
         "source": "overture",
-        "version": "3",
+        "version": "4",
         "overture_categories": [
             "cosmetic_products_manufacturer"
         ],

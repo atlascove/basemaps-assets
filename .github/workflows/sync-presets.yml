@@ -1,0 +1,45 @@
+name: Sync Presets to S3
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'meta/presets.json'
+
+env:
+  AWS_REGION: eu-west-1
+
+jobs:
+  sync-presets:
+    runs-on: ubuntu-latest
+    permissions:
+      id-token: write
+      contents: read
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: ${{ env.AWS_REGION }}
+
+      - name: Upload presets.json to DEV S3 bucket
+        run: |
+          aws s3 cp meta/presets.json s3://${{ secrets.S3_BUCKET_DEV }}/system/presets/presets.json
+          echo "Uploaded to DEV bucket: ${{ secrets.S3_BUCKET_DEV }}"
+
+      - name: Upload presets.json to PROD S3 bucket
+        run: |
+          aws s3 cp meta/presets.json s3://${{ secrets.S3_BUCKET_PROD }}/system/presets/presets.json
+          echo "Uploaded to PROD bucket: ${{ secrets.S3_BUCKET_PROD }}"
+
+      - name: Sync completed
+        run: |
+          echo "Presets sync completed successfully!"
+          echo "DEV bucket: ${{ secrets.S3_BUCKET_DEV }}"
+          echo "PROD bucket: ${{ secrets.S3_BUCKET_PROD }}"

@@ -1,4 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="15" height="15" viewBox="0 0 15 15" xmlns="http://www.w3.org/2000/svg" id="crossing_markings-dashes">
-  <path d="M9.0 1.5L13.5 1.5L13.5 9.0L9.0 9.0z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 15 15" width="15" height="15">
+  <g transform="translate(7.500000 7.500000) scale(0.866667) translate(-7.500000 -7.500000)"><g transform="translate(0.000000 0.000000) scale(1.000000)"><path d="M3 0.5L4.5 0.5L4.5 3L3 3z" />
+  <path d="M3 8.5L4.5 8.5L4.5 11L3 11z" />
+  <path d="M3 12.5L4.5 12.5L4.5 15L3 15z" />
+  <path d="M3 4.5L4.5 4.5L4.5 7L3 7z" />
+  <path d="M10.5 0.5L12 0.5L12 3L10.5 3z" />
+  <path d="M10.5 8.5L12 8.5L12 11L10.5 11z" />
+  <path d="M10.5 12.5L12 12.5L12 15L10.5 15z" />
+  <path d="M10.5 4.5L12 4.5L12 7L10.5 7z" />
+</g></g></svg>

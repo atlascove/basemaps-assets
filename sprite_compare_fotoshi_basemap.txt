@@ -1,0 +1,998 @@
+name	status	mismatch	basemapSize	fotoshiSize	comparedSize	basemap	fotoshi
+far-clone	different	136874	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/far-clone.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/far-clone.svg
+far-credit-card	different	170021	15x15	576x512	576x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/far-credit-card.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/far-credit-card.svg
+far-dot-circle	different	110999	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/far-dot-circle.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/far-dot-circle.svg
+far-snowflake	different	91263	15x15	448x512	448x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/far-snowflake.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/far-snowflake.svg
+far-times-circle	different	106441	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/far-times-circle.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/far-times-circle.svg
+fas-ambulance	different	135454	15x15	640x512	640x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-ambulance.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-ambulance.svg
+fas-apple-alt	different	97731	15x15	448x512	448x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-apple-alt.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-apple-alt.svg
+fas-archive	different	94060	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-archive.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-archive.svg
+fas-archway	different	94169	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-archway.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-archway.svg
+fas-baby	different	89574	15x15	448x512	448x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-baby.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-baby.svg
+fas-baby-carriage	different	87627	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-baby-carriage.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-baby-carriage.svg
+fas-balance-scale	different	167713	15x15	640x512	640x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-balance-scale.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-balance-scale.svg
+fas-bath	different	92795	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-bath.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-bath.svg
+fas-beer	different	121005	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-beer.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-beer.svg
+fas-bell	different	89037	15x15	448x512	448x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-bell.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-bell.svg
+fas-biking	different	117841	15x15	640x512	640x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-biking.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-biking.svg
+fas-blender	different	95975	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-blender.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-blender.svg
+fas-book	different	129120	15x15	448x512	448x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-book.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-book.svg
+fas-border-all	different	141193	15x15	448x512	448x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-border-all.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-border-all.svg
+fas-bowl-rice	different	72128	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-bowl-rice.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-bowl-rice.svg
+fas-box	different	58459	15x15	448x512	448x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-box.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-box.svg
+fas-box-open	different	148492	15x15	640x512	640x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-box-open.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-box-open.svg
+fas-bugs	different	83761	15x15	576x512	576x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-bugs.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-bugs.svg
+fas-building-flag	different	130835	15x15	640x512	640x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-building-flag.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-building-flag.svg
+fas-bullseye	different	129070	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-bullseye.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-bullseye.svg
+fas-burn	different	100258	15x15	384x512	384x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-burn.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-burn.svg
+fas-calendar-alt	different	71726	15x15	448x512	448x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-calendar-alt.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-calendar-alt.svg
+fas-calendar-days	different	71726	15x15	448x512	448x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-calendar-days.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-calendar-days.svg
+fas-camera-retro	different	139694	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-camera-retro.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-camera-retro.svg
+fas-cannabis	different	85107	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-cannabis.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-cannabis.svg
+fas-car-battery	different	53131	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-car-battery.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-car-battery.svg
+fas-car-crash	different	79911	15x15	640x512	640x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-car-crash.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-car-crash.svg
+fas-carrot	different	28868	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-carrot.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-carrot.svg
+fas-cat	different	91070	15x15	576x512	576x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-cat.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-cat.svg
+fas-charging-station	different	145829	15x15	576x512	576x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-charging-station.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-charging-station.svg
+fas-cheese	different	45654	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-cheese.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-cheese.svg
+fas-chess-bishop	different	59942	15x15	320x512	320x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-chess-bishop.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-chess-bishop.svg
+fas-chess-knight	different	75435	15x15	448x512	448x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-chess-knight.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-chess-knight.svg
+fas-chess-pawn	different	49245	15x15	320x512	320x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-chess-pawn.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-chess-pawn.svg
+fas-chevron-circle-up	different	102198	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-chevron-circle-up.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-chevron-circle-up.svg
+fas-child-reaching	different	51553	15x15	384x512	384x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-child-reaching.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-child-reaching.svg
+fas-church	different	120319	15x15	640x512	640x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-church.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-church.svg
+fas-cocktail	different	129946	15x15	576x512	576x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-cocktail.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-cocktail.svg
+fas-code	different	108176	15x15	640x512	640x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-code.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-code.svg
+fas-coins	different	129850	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-coins.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-coins.svg
+fas-comment	different	94469	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-comment.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-comment.svg
+fas-comments	different	123689	15x15	640x512	640x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-comments.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-comments.svg
+fas-compact-disc	different	138038	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-compact-disc.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-compact-disc.svg
+fas-compress-arrows-alt	different	132697	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-compress-arrows-alt.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-compress-arrows-alt.svg
+fas-concierge-bell	different	81337	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-concierge-bell.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-concierge-bell.svg
+fas-couch	different	97125	15x15	640x512	640x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-couch.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-couch.svg
+fas-crosshairs	different	106238	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-crosshairs.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-crosshairs.svg
+fas-crown	different	92996	15x15	576x512	576x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-crown.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-crown.svg
+fas-crutch	different	106096	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-crutch.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-crutch.svg
+fas-cube	different	137316	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-cube.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-cube.svg
+fas-cut	different	124209	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-cut.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-cut.svg
+fas-dice	different	74867	15x15	640x512	640x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-dice.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-dice.svg
+fas-directions	different	129551	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-directions.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-directions.svg
+fas-dolly	different	127925	15x15	576x512	576x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-dolly.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-dolly.svg
+fas-door-closed	different	109105	15x15	576x512	576x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-door-closed.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-door-closed.svg
+fas-door-open	different	167731	15x15	576x512	576x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-door-open.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-door-open.svg
+fas-dove	different	110803	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-dove.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-dove.svg
+fas-drafting-compass	different	108067	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-drafting-compass.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-drafting-compass.svg
+fas-dragon	different	126284	15x15	640x512	640x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-dragon.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-dragon.svg
+fas-drumstick-bite	different	123854	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-drumstick-bite.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-drumstick-bite.svg
+fas-dumbbell	different	155930	15x15	640x512	640x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-dumbbell.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-dumbbell.svg
+fas-dumpster	different	103480	15x15	576x512	576x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-dumpster.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-dumpster.svg
+fas-dumpster-fire	different	118830	15x15	640x512	640x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-dumpster-fire.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-dumpster-fire.svg
+fas-dungeon	different	132749	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-dungeon.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-dungeon.svg
+fas-eye	different	113582	15x15	576x512	576x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-eye.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-eye.svg
+fas-film	different	152874	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-film.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-film.svg
+fas-fire-extinguisher	different	101627	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-fire-extinguisher.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-fire-extinguisher.svg
+fas-fish	different	88846	15x15	576x512	576x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-fish.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-fish.svg
+fas-flask	different	84198	15x15	448x512	448x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-flask.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-flask.svg
+fas-frog	different	100319	15x15	576x512	576x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-frog.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-frog.svg
+fas-futbol	different	124188	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-futbol.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-futbol.svg
+fas-gavel	different	113888	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-gavel.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-gavel.svg
+fas-guitar	different	107552	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-guitar.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-guitar.svg
+fas-hammer	different	86955	15x15	576x512	576x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-hammer.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-hammer.svg
+fas-handshake	different	90391	15x15	640x512	640x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-handshake.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-handshake.svg
+fas-hashtag	different	106543	15x15	448x512	448x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-hashtag.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-hashtag.svg
+fas-hat-cowboy-side	different	94523	15x15	640x512	640x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-hat-cowboy-side.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-hat-cowboy-side.svg
+fas-helmet-safety	different	92916	15x15	576x512	576x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-helmet-safety.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-helmet-safety.svg
+fas-hiking	different	79279	15x15	384x512	384x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-hiking.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-hiking.svg
+fas-horse	different	109637	15x15	576x512	576x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-horse.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-horse.svg
+fas-hospital-alt	different	99299	15x15	640x512	640x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-hospital-alt.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-hospital-alt.svg
+fas-hot-tub-person	different	100250	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-hot-tub-person.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-hot-tub-person.svg
+fas-hotdog	different	136197	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-hotdog.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-hotdog.svg
+fas-hotel	different	124408	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-hotel.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-hotel.svg
+fas-house-damage	different	78344	15x15	576x512	576x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-house-damage.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-house-damage.svg
+fas-house-fire	different	137480	15x15	640x512	640x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-house-fire.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-house-fire.svg
+fas-i-cursor	different	44108	15x15	256x512	256x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-i-cursor.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-i-cursor.svg
+fas-ice-cream	different	71349	15x15	448x512	448x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-ice-cream.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-ice-cream.svg
+fas-jar	different	87397	15x15	320x512	320x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-jar.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-jar.svg
+fas-key	different	130168	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-key.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-key.svg
+fas-laptop	different	132392	15x15	640x512	640x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-laptop.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-laptop.svg
+fas-leaf	different	82739	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-leaf.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-leaf.svg
+fas-life-ring	different	126999	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-life-ring.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-life-ring.svg
+fas-lock	different	75684	15x15	448x512	448x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-lock.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-lock.svg
+fas-long-arrow-alt-right	different	102660	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-long-arrow-alt-right.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-long-arrow-alt-right.svg
+fas-mail-bulk	different	125329	15x15	640x512	640x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-mail-bulk.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-mail-bulk.svg
+fas-map	different	56717	15x15	576x512	576x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-map.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-map.svg
+fas-map-signs	different	109095	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-map-signs.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-map-signs.svg
+fas-medkit	different	107325	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-medkit.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-medkit.svg
+fas-microchip	different	105229	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-microchip.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-microchip.svg
+fas-microphone	different	65692	15x15	384x512	384x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-microphone.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-microphone.svg
+fas-mobile-alt	different	102391	15x15	384x512	384x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-mobile-alt.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-mobile-alt.svg
+fas-mosque	different	140362	15x15	640x512	640x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-mosque.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-mosque.svg
+fas-motorcycle	different	151808	15x15	640x512	640x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-motorcycle.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-motorcycle.svg
+fas-music	different	125367	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-music.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-music.svg
+fas-newspaper	different	120805	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-newspaper.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-newspaper.svg
+fas-paint-roller	different	120824	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-paint-roller.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-paint-roller.svg
+fas-paperclip	different	110884	15x15	448x512	448x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-paperclip.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-paperclip.svg
+fas-pen-ruler	different	101254	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-pen-ruler.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-pen-ruler.svg
+fas-people-carry	different	93282	15x15	640x512	640x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-people-carry.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-people-carry.svg
+fas-pepper-hot	different	32869	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-pepper-hot.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-pepper-hot.svg
+fas-person-arrow-up-from-line	different	158713	15x15	640x512	640x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-person-arrow-up-from-line.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-person-arrow-up-from-line.svg
+fas-person-booth	different	131883	15x15	576x512	576x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-person-booth.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-person-booth.svg
+fas-phone-alt	different	96129	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-phone-alt.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-phone-alt.svg
+fas-pills	different	107371	15x15	576x512	576x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-pills.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-pills.svg
+fas-plane	different	114196	15x15	576x512	576x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-plane.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-plane.svg
+fas-plane-departure	different	120436	15x15	640x512	640x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-plane-departure.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-plane-departure.svg
+fas-plate-wheat	different	108242	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-plate-wheat.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-plate-wheat.svg
+fas-plug	different	37395	15x15	384x512	384x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-plug.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-plug.svg
+fas-plug-circle-bolt	different	111666	15x15	576x512	576x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-plug-circle-bolt.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-plug-circle-bolt.svg
+fas-plus	different	81016	15x15	448x512	448x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-plus.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-plus.svg
+fas-print	different	136690	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-print.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-print.svg
+fas-procedures	different	97510	15x15	640x512	640x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-procedures.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-procedures.svg
+fas-puzzle-piece	different	102916	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-puzzle-piece.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-puzzle-piece.svg
+fas-question	different	62592	15x15	320x512	320x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-question.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-question.svg
+fas-rocket	different	101108	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-rocket.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-rocket.svg
+fas-rotate	different	126189	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-rotate.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-rotate.svg
+fas-running	different	88386	15x15	448x512	448x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-running.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-running.svg
+fas-satellite-dish	different	88700	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-satellite-dish.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-satellite-dish.svg
+fas-school	different	151820	15x15	640x512	640x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-school.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-school.svg
+fas-screwdriver	different	107364	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-screwdriver.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-screwdriver.svg
+fas-seedling	different	106646	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-seedling.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-seedling.svg
+fas-server	different	126765	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-server.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-server.svg
+fas-shapes	different	103185	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-shapes.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-shapes.svg
+fas-share-alt	different	117625	15x15	448x512	448x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-share-alt.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-share-alt.svg
+fas-shoe-prints	different	133439	15x15	640x512	640x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-shoe-prints.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-shoe-prints.svg
+fas-shopping-basket	different	76055	15x15	576x512	576x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-shopping-basket.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-shopping-basket.svg
+fas-shopping-cart	different	121776	15x15	576x512	576x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-shopping-cart.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-shopping-cart.svg
+fas-sign-hanging	different	114865	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-sign-hanging.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-sign-hanging.svg
+fas-skating	different	91209	15x15	448x512	448x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-skating.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-skating.svg
+fas-skiing	different	103581	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-skiing.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-skiing.svg
+fas-skiing-nordic	different	107728	15x15	576x512	576x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-skiing-nordic.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-skiing-nordic.svg
+fas-sleigh	different	112675	15x15	640x512	640x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-sleigh.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-sleigh.svg
+fas-smoking	different	71356	15x15	640x512	640x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-smoking.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-smoking.svg
+fas-snowboarding	different	101551	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-snowboarding.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-snowboarding.svg
+fas-solar-panel	different	158779	15x15	640x512	640x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-solar-panel.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-solar-panel.svg
+fas-sort-alpha-up	different	146892	15x15	576x512	576x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-sort-alpha-up.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-sort-alpha-up.svg
+fas-spa	different	68325	15x15	576x512	576x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-spa.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-spa.svg
+fas-space-shuttle	different	104440	15x15	640x512	640x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-space-shuttle.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-space-shuttle.svg
+fas-spoon	different	91258	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-spoon.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-spoon.svg
+fas-stamp	different	92560	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-stamp.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-stamp.svg
+fas-store	different	192237	15x15	576x512	576x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-store.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-store.svg
+fas-store-alt-slash	different	149391	15x15	640x512	640x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-store-alt-slash.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-store-alt-slash.svg
+fas-suitcase	different	87367	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-suitcase.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-suitcase.svg
+fas-suitcase-rolling	different	89497	15x15	384x512	384x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-suitcase-rolling.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-suitcase-rolling.svg
+fas-swimmer	different	108156	15x15	576x512	576x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-swimmer.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-swimmer.svg
+fas-swimming-pool	different	140824	15x15	576x512	576x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-swimming-pool.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-swimming-pool.svg
+fas-synagogue	different	119427	15x15	640x512	640x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-synagogue.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-synagogue.svg
+fas-table-tennis	different	145180	15x15	640x512	640x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-table-tennis.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-table-tennis.svg
+fas-tachometer-alt	different	109763	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-tachometer-alt.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-tachometer-alt.svg
+fas-tags	different	97427	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-tags.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-tags.svg
+fas-tape	different	102150	15x15	576x512	576x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-tape.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-tape.svg
+fas-taxi	different	122241	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-taxi.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-taxi.svg
+fas-teeth	different	162983	15x15	576x512	576x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-teeth.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-teeth.svg
+fas-th	different	137001	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-th.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-th.svg
+fas-th-list	different	148969	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-th-list.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-th-list.svg
+fas-thermometer-three-quarters	different	77228	15x15	320x512	320x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-thermometer-three-quarters.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-thermometer-three-quarters.svg
+fas-ticket-alt	different	127857	15x15	576x512	576x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-ticket-alt.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-ticket-alt.svg
+fas-tint	different	74358	15x15	384x512	384x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-tint.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-tint.svg
+fas-tint-slash	different	121441	15x15	640x512	640x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-tint-slash.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-tint-slash.svg
+fas-toilet	different	94645	15x15	448x512	448x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-toilet.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-toilet.svg
+fas-tools	different	101923	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-tools.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-tools.svg
+fas-tractor	different	149913	15x15	640x512	640x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-tractor.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-tractor.svg
+fas-tram	different	111860	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-tram.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-tram.svg
+fas-trash-restore	different	83103	15x15	448x512	448x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-trash-restore.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-trash-restore.svg
+fas-triangle-exclamation	different	107695	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-triangle-exclamation.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-triangle-exclamation.svg
+fas-trophy	different	122256	15x15	576x512	576x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-trophy.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-trophy.svg
+fas-truck-fast	different	119353	15x15	640x512	640x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-truck-fast.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-truck-fast.svg
+fas-truck-loading	different	108131	15x15	640x512	640x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-truck-loading.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-truck-loading.svg
+fas-truck-monster	different	145963	15x15	640x512	640x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-truck-monster.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-truck-monster.svg
+fas-tshirt	different	121072	15x15	640x512	640x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-tshirt.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-tshirt.svg
+fas-umbrella-beach	different	99551	15x15	576x512	576x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-umbrella-beach.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-umbrella-beach.svg
+fas-user-alt	different	69467	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-user-alt.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-user-alt.svg
+fas-user-cog	different	113839	15x15	640x512	640x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-user-cog.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-user-cog.svg
+fas-user-secret	different	89989	15x15	448x512	448x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-user-secret.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-user-secret.svg
+fas-user-tie	different	85256	15x15	448x512	448x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-user-tie.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-user-tie.svg
+fas-users	different	161032	15x15	640x512	640x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-users.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-users.svg
+fas-vector-square	different	102843	15x15	448x512	448x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-vector-square.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-vector-square.svg
+fas-vest	different	120995	15x15	448x512	448x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-vest.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-vest.svg
+fas-vial	different	105905	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-vial.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-vial.svg
+fas-video	different	106701	15x15	576x512	576x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-video.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-video.svg
+fas-vihara	different	98334	15x15	640x512	640x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-vihara.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-vihara.svg
+fas-volume-up	different	135803	15x15	640x512	640x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-volume-up.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-volume-up.svg
+fas-vote-yea	different	126958	15x15	576x512	576x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-vote-yea.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-vote-yea.svg
+fas-warehouse	different	181817	15x15	640x512	640x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-warehouse.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-warehouse.svg
+fas-weight	different	114618	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-weight.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-weight.svg
+fas-weight-hanging	different	98649	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-weight-hanging.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-weight-hanging.svg
+fas-wifi	different	124713	15x15	640x512	640x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-wifi.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-wifi.svg
+fas-wine-bottle	different	122531	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-wine-bottle.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-wine-bottle.svg
+fas-yin-yang	different	107835	15x15	512x512	512x512	/home/cbed/fotoshi-dev/basemaps-assets/icons/fas-yin-yang.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fas-yin-yang.svg
+iD-boundary	different	98	15x15	60x60	60x60	/home/cbed/fotoshi-dev/basemaps-assets/icons/iD-boundary.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/iD-boundary.svg
+iD-highway-living-street	different	612	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/iD-highway-living-street.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/iD-highway-living-street.svg
+iD-highway-motorway	different	321	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/iD-highway-motorway.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/iD-highway-motorway.svg
+iD-highway-motorway-link	different	288	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/iD-highway-motorway-link.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/iD-highway-motorway-link.svg
+iD-highway-primary	different	220	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/iD-highway-primary.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/iD-highway-primary.svg
+iD-highway-primary-link	different	192	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/iD-highway-primary-link.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/iD-highway-primary-link.svg
+iD-highway-residential	different	687	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/iD-highway-residential.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/iD-highway-residential.svg
+iD-highway-secondary	different	301	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/iD-highway-secondary.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/iD-highway-secondary.svg
+iD-highway-secondary-link	different	189	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/iD-highway-secondary-link.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/iD-highway-secondary-link.svg
+iD-highway-service	different	303	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/iD-highway-service.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/iD-highway-service.svg
+iD-highway-steps	different	363	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/iD-highway-steps.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/iD-highway-steps.svg
+iD-highway-tertiary	different	301	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/iD-highway-tertiary.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/iD-highway-tertiary.svg
+iD-highway-tertiary-link	different	173	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/iD-highway-tertiary-link.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/iD-highway-tertiary-link.svg
+iD-highway-trunk	different	253	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/iD-highway-trunk.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/iD-highway-trunk.svg
+iD-highway-trunk-link	different	195	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/iD-highway-trunk-link.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/iD-highway-trunk-link.svg
+iD-highway-unclassified	different	342	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/iD-highway-unclassified.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/iD-highway-unclassified.svg
+iD-multipolygon	different	883	15x15	60x60	60x60	/home/cbed/fotoshi-dev/basemaps-assets/icons/iD-multipolygon.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/iD-multipolygon.svg
+iD-other-line	different	341	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/iD-other-line.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/iD-other-line.svg
+iD-pipeline-line	different	221	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/iD-pipeline-line.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/iD-pipeline-line.svg
+iD-power-line	different	284	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/iD-power-line.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/iD-power-line.svg
+iD-relation	different	404	15x15	60x60	60x60	/home/cbed/fotoshi-dev/basemaps-assets/icons/iD-relation.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/iD-relation.svg
+iD-restriction	different	466	15x15	60x60	60x60	/home/cbed/fotoshi-dev/basemaps-assets/icons/iD-restriction.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/iD-restriction.svg
+iD-restriction-no-left-turn	different	530	15x15	60x60	60x60	/home/cbed/fotoshi-dev/basemaps-assets/icons/iD-restriction-no-left-turn.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/iD-restriction-no-left-turn.svg
+iD-restriction-no-right-turn	different	412	15x15	60x60	60x60	/home/cbed/fotoshi-dev/basemaps-assets/icons/iD-restriction-no-right-turn.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/iD-restriction-no-right-turn.svg
+iD-restriction-no-straight-on	different	477	15x15	60x60	60x60	/home/cbed/fotoshi-dev/basemaps-assets/icons/iD-restriction-no-straight-on.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/iD-restriction-no-straight-on.svg
+iD-restriction-no-u-turn	different	365	15x15	60x60	60x60	/home/cbed/fotoshi-dev/basemaps-assets/icons/iD-restriction-no-u-turn.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/iD-restriction-no-u-turn.svg
+iD-restriction-only-left-turn	different	422	15x15	60x60	60x60	/home/cbed/fotoshi-dev/basemaps-assets/icons/iD-restriction-only-left-turn.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/iD-restriction-only-left-turn.svg
+iD-restriction-only-right-turn	different	446	15x15	60x60	60x60	/home/cbed/fotoshi-dev/basemaps-assets/icons/iD-restriction-only-right-turn.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/iD-restriction-only-right-turn.svg
+iD-restriction-only-straight-on	different	423	15x15	60x60	60x60	/home/cbed/fotoshi-dev/basemaps-assets/icons/iD-restriction-only-straight-on.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/iD-restriction-only-straight-on.svg
+iD-restriction-only-u-turn	different	482	15x15	60x60	60x60	/home/cbed/fotoshi-dev/basemaps-assets/icons/iD-restriction-only-u-turn.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/iD-restriction-only-u-turn.svg
+iD-route	different	552	15x15	60x60	60x60	/home/cbed/fotoshi-dev/basemaps-assets/icons/iD-route.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/iD-route.svg
+iD-route-detour	different	391	15x15	60x60	60x60	/home/cbed/fotoshi-dev/basemaps-assets/icons/iD-route-detour.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/iD-route-detour.svg
+iD-route-master	different	522	15x15	60x60	60x60	/home/cbed/fotoshi-dev/basemaps-assets/icons/iD-route-master.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/iD-route-master.svg
+iD-waterway-canal	different	291	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/iD-waterway-canal.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/iD-waterway-canal.svg
+iD-waterway-ditch	different	347	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/iD-waterway-ditch.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/iD-waterway-ditch.svg
+iD-waterway-river	different	180	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/iD-waterway-river.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/iD-waterway-river.svg
+iD-waterway-stream	different	493	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/iD-waterway-stream.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/iD-waterway-stream.svg
+temaki-abseiling	different	995	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-abseiling.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-abseiling.svg
+temaki-accounting	different	1098	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-accounting.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-accounting.svg
+temaki-amusement_park	different	1062	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-amusement_park.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-amusement_park.svg
+temaki-archery	different	1038	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-archery.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-archery.svg
+temaki-atm	different	1116	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-atm.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-atm.svg
+temaki-atm2	different	97	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-atm2.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-atm2.svg
+temaki-beauty_salon	different	44	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-beauty_salon.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-beauty_salon.svg
+temaki-bicycle_box	different	55	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-bicycle_box.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-bicycle_box.svg
+temaki-bicycle_rental	different	54	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-bicycle_rental.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-bicycle_rental.svg
+temaki-bicycle_repair	different	36	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-bicycle_repair.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-bicycle_repair.svg
+temaki-bicycle_wash	different	69	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-bicycle_wash.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-bicycle_wash.svg
+temaki-blind	different	896	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-blind.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-blind.svg
+temaki-boat_ramp	different	1102	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-boat_ramp.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-boat_ramp.svg
+temaki-boat_rental	different	45	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-boat_rental.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-boat_rental.svg
+temaki-boat_repair	different	45	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-boat_repair.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-boat_repair.svg
+temaki-boat_tour	different	893	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-boat_tour.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-boat_tour.svg
+temaki-boating	different	698	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-boating.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-boating.svg
+temaki-bollard_row	different	84	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-bollard_row.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-bollard_row.svg
+temaki-bottles	different	113	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-bottles.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-bottles.svg
+temaki-bowling_alt1	different	1205	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-bowling_alt1.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-bowling_alt1.svg
+temaki-bulb3	different	15	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-bulb3.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-bulb3.svg
+temaki-cable	different	80	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-cable.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-cable.svg
+temaki-cable_device	different	28	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-cable_device.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-cable_device.svg
+temaki-cable_manhole	different	19	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-cable_manhole.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-cable_manhole.svg
+temaki-cable_meter	different	65	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-cable_meter.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-cable_meter.svg
+temaki-cable_shutoff	different	79	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-cable_shutoff.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-cable_shutoff.svg
+temaki-canoe	different	976	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-canoe.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-canoe.svg
+temaki-car_dealer	different	903	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-car_dealer.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-car_dealer.svg
+temaki-car_wash	different	1361	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-car_wash.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-car_wash.svg
+temaki-casino	different	18	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-casino.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-casino.svg
+temaki-chairlift	different	673	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-chairlift.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-chairlift.svg
+temaki-climbing	different	1134	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-climbing.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-climbing.svg
+temaki-cloth	different	4182	15x15	100x100	100x100	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-cloth.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-cloth.svg
+temaki-compass	different	999	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-compass.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-compass.svg
+temaki-courthouse	different	600	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-courthouse.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-courthouse.svg
+temaki-cross_country_skiing	different	948	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-cross_country_skiing.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-cross_country_skiing.svg
+temaki-crossing_markings-dashes	different	64	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-crossing_markings-dashes.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-crossing_markings-dashes.svg
+temaki-crossing_markings-dots	different	84	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-crossing_markings-dots.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-crossing_markings-dots.svg
+temaki-crossing_markings-ladder	different	90	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-crossing_markings-ladder.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-crossing_markings-ladder.svg
+temaki-crossing_markings-ladder_paired	different	80	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-crossing_markings-ladder_paired.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-crossing_markings-ladder_paired.svg
+temaki-crossing_markings-ladder_skewed	different	88	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-crossing_markings-ladder_skewed.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-crossing_markings-ladder_skewed.svg
+temaki-crossing_markings-lines	different	30	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-crossing_markings-lines.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-crossing_markings-lines.svg
+temaki-crossing_markings-lines_paired	different	45	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-crossing_markings-lines_paired.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-crossing_markings-lines_paired.svg
+temaki-crossing_markings-surface	different	102	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-crossing_markings-surface.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-crossing_markings-surface.svg
+temaki-crossing_markings-zebra	different	81	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-crossing_markings-zebra.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-crossing_markings-zebra.svg
+temaki-crossing_markings-zebra_bicolour	different	108	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-crossing_markings-zebra_bicolour.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-crossing_markings-zebra_bicolour.svg
+temaki-crossing_markings-zebra_double	different	92	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-crossing_markings-zebra_double.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-crossing_markings-zebra_double.svg
+temaki-crossing_markings-zebra_paired	different	72	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-crossing_markings-zebra_paired.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-crossing_markings-zebra_paired.svg
+temaki-detergent_bottle	different	107	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-detergent_bottle.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-detergent_bottle.svg
+temaki-diving	different	868	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-diving.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-diving.svg
+temaki-fashion_accessories	different	93	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-fashion_accessories.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-fashion_accessories.svg
+temaki-fighter_jet	different	831	15x15	48x48	48x48	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-fighter_jet.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-fighter_jet.svg
+temaki-fire_hydrant_underground	different	157	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-fire_hydrant_underground.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-fire_hydrant_underground.svg
+temaki-fish_cleaning	different	826	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-fish_cleaning.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-fish_cleaning.svg
+temaki-fishing_pier	different	915	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-fishing_pier.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-fishing_pier.svg
+temaki-florist	different	1155	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-florist.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-florist.svg
+temaki-food	different	693	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-food.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-food.svg
+temaki-gas_device	different	29	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-gas_device.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-gas_device.svg
+temaki-gas_manhole	different	20	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-gas_manhole.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-gas_manhole.svg
+temaki-gas_meter	different	53	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-gas_meter.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-gas_meter.svg
+temaki-gas_shutoff	different	71	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-gas_shutoff.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-gas_shutoff.svg
+temaki-golf_cart	different	97	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-golf_cart.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-golf_cart.svg
+temaki-gym	different	979	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-gym.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-gym.svg
+temaki-hair_care	different	1143	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-hair_care.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-hair_care.svg
+temaki-hang_gliding	different	883	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-hang_gliding.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-hang_gliding.svg
+temaki-hearing_aid	different	112	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-hearing_aid.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-hearing_aid.svg
+temaki-horseshoes	different	27	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-horseshoes.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-horseshoes.svg
+temaki-ice_fishing	different	734	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-ice_fishing.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-ice_fishing.svg
+temaki-ice_skating	different	881	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-ice_skating.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-ice_skating.svg
+temaki-inline_skating	different	921	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-inline_skating.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-inline_skating.svg
+temaki-jet_skiing	different	954	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-jet_skiing.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-jet_skiing.svg
+temaki-kayaking	different	1112	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-kayaking.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-kayaking.svg
+temaki-kerb-flush	different	44	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-kerb-flush.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-kerb-flush.svg
+temaki-kerb-lowered	different	44	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-kerb-lowered.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-kerb-lowered.svg
+temaki-kerb-raised	different	44	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-kerb-raised.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-kerb-raised.svg
+temaki-kerb-rolled	different	44	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-kerb-rolled.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-kerb-rolled.svg
+temaki-kerb-unspecified	different	42	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-kerb-unspecified.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-kerb-unspecified.svg
+temaki-latrine	different	648	15x15	22x48	22x48	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-latrine.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-latrine.svg
+temaki-laundry	different	1344	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-laundry.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-laundry.svg
+temaki-lawyer	different	901	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-lawyer.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-lawyer.svg
+temaki-library	different	850	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-library.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-library.svg
+temaki-lipstick	different	42	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-lipstick.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-lipstick.svg
+temaki-lock	different	1130	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-lock.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-lock.svg
+temaki-manhole	different	99	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-manhole.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-manhole.svg
+temaki-mast_lighting	different	22	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-mast_lighting.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-mast_lighting.svg
+temaki-money_hand	different	68	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-money_hand.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-money_hand.svg
+temaki-movie_rental	different	1150	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-movie_rental.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-movie_rental.svg
+temaki-perfume	different	43	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-perfume.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-perfume.svg
+temaki-pet_store	different	1188	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-pet_store.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-pet_store.svg
+temaki-pharmacy	different	635	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-pharmacy.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-pharmacy.svg
+temaki-physiotherapist	different	1088	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-physiotherapist.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-physiotherapist.svg
+temaki-pin	different	1100	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-pin.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-pin.svg
+temaki-plumber	different	15	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-plumber.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-plumber.svg
+temaki-power_cb	different	47	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-power_cb.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-power_cb.svg
+temaki-power_cb2	different	44	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-power_cb2.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-power_cb2.svg
+temaki-power_circuit	different	27	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-power_circuit.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-power_circuit.svg
+temaki-power_ct	different	67	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-power_ct.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-power_ct.svg
+temaki-power_device	different	22	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-power_device.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-power_device.svg
+temaki-power_isolator	different	45	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-power_isolator.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-power_isolator.svg
+temaki-power_la	different	62	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-power_la.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-power_la.svg
+temaki-power_manhole	different	16	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-power_manhole.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-power_manhole.svg
+temaki-power_meter	different	52	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-power_meter.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-power_meter.svg
+temaki-power_shutoff	different	66	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-power_shutoff.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-power_shutoff.svg
+temaki-power_switch	different	37	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-power_switch.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-power_switch.svg
+temaki-power_transformer	different	80	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-power_transformer.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-power_transformer.svg
+temaki-rafting	different	1025	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-rafting.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-rafting.svg
+temaki-roller_coaster	different	57	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-roller_coaster.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-roller_coaster.svg
+temaki-rope_fence	different	36	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-rope_fence.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-rope_fence.svg
+temaki-sailboat	different	767	15x15	48x48	48x48	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-sailboat.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-sailboat.svg
+temaki-sailing	different	942	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-sailing.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-sailing.svg
+temaki-sandwich	different	62	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-sandwich.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-sandwich.svg
+temaki-school	different	45	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-school.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-school.svg
+temaki-scuba_diving	different	617	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-scuba_diving.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-scuba_diving.svg
+temaki-security_camera	different	77	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-security_camera.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-security_camera.svg
+temaki-shopping_mall	different	987	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-shopping_mall.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-shopping_mall.svg
+temaki-shower	different	33	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-shower.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-shower.svg
+temaki-shuffleboard	different	90	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-shuffleboard.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-shuffleboard.svg
+temaki-skateboarding	different	749	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-skateboarding.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-skateboarding.svg
+temaki-ski_jumping	different	747	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-ski_jumping.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-ski_jumping.svg
+temaki-skiing	different	712	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-skiing.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-skiing.svg
+temaki-sledding	different	740	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-sledding.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-sledding.svg
+temaki-snow	different	878	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-snow.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-snow.svg
+temaki-snow_shoeing	different	880	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-snow_shoeing.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-snow_shoeing.svg
+temaki-snowboarding	different	826	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-snowboarding.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-snowboarding.svg
+temaki-snowmobile	different	883	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-snowmobile.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-snowmobile.svg
+temaki-spa	different	741	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-spa.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-spa.svg
+temaki-storage	different	1183	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-storage.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-storage.svg
+temaki-storage_rental	different	71	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-storage_rental.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-storage_rental.svg
+temaki-surfing	different	895	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-surfing.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-surfing.svg
+temaki-tall_gate	different	78	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-tall_gate.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-tall_gate.svg
+temaki-tanning	different	79	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-tanning.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-tanning.svg
+temaki-taxi_stand	different	1048	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-taxi_stand.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-taxi_stand.svg
+temaki-telephone	different	926	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-telephone.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-telephone.svg
+temaki-tennis	different	768	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-tennis.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-tennis.svg
+temaki-tents	different	1004	15x15	48x48	48x48	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-tents.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-tents.svg
+temaki-toolbox	different	1250	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-toolbox.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-toolbox.svg
+temaki-turnstile	different	48	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-turnstile.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-turnstile.svg
+temaki-vending_bread	different	19	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-vending_bread.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-vending_bread.svg
+temaki-vending_cigarettes	different	19	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-vending_cigarettes.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-vending_cigarettes.svg
+temaki-vending_cold_drink	different	32	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-vending_cold_drink.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-vending_cold_drink.svg
+temaki-vending_cold_drink2	different	23	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-vending_cold_drink2.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-vending_cold_drink2.svg
+temaki-vending_eggs	different	22	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-vending_eggs.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-vending_eggs.svg
+temaki-vending_flat_coin	different	47	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-vending_flat_coin.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-vending_flat_coin.svg
+temaki-vending_hot_drink	different	28	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-vending_hot_drink.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-vending_hot_drink.svg
+temaki-vending_hot_drink2	different	35	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-vending_hot_drink2.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-vending_hot_drink2.svg
+temaki-vending_ice	different	33	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-vending_ice.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-vending_ice.svg
+temaki-vending_ice_cream	different	22	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-vending_ice_cream.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-vending_ice_cream.svg
+temaki-vending_ice_cream2	different	25	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-vending_ice_cream2.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-vending_ice_cream2.svg
+temaki-vending_love	different	14	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-vending_love.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-vending_love.svg
+temaki-vending_machine	different	44	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-vending_machine.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-vending_machine.svg
+temaki-vending_medicine	different	20	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-vending_medicine.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-vending_medicine.svg
+temaki-vending_newspaper	different	20	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-vending_newspaper.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-vending_newspaper.svg
+temaki-vending_stamps	different	36	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-vending_stamps.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-vending_stamps.svg
+temaki-vending_tickets	different	32	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-vending_tickets.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-vending_tickets.svg
+temaki-vending_venus	different	28	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-vending_venus.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-vending_venus.svg
+temaki-veterinary_care	different	1099	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-veterinary_care.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-veterinary_care.svg
+temaki-wall	different	88	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-wall.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-wall.svg
+temaki-waste_device	different	39	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-waste_device.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-waste_device.svg
+temaki-waste_manhole	different	23	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-waste_manhole.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-waste_manhole.svg
+temaki-waste_meter	different	51	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-waste_meter.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-waste_meter.svg
+temaki-waste_shutoff	different	69	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-waste_shutoff.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-waste_shutoff.svg
+temaki-water_bottle	different	574	15x15	20x48	20x48	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-water_bottle.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-water_bottle.svg
+temaki-water_device	different	31	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-water_device.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-water_device.svg
+temaki-water_manhole	different	23	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-water_manhole.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-water_manhole.svg
+temaki-water_meter	different	51	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-water_meter.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-water_meter.svg
+temaki-water_shutoff	different	109	15x15	15x15	15x15	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-water_shutoff.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-water_shutoff.svg
+temaki-waterskiing	different	809	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-waterskiing.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-waterskiing.svg
+temaki-whale_watching	different	597	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-whale_watching.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-whale_watching.svg
+temaki-wheelchair	different	811	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-wheelchair.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-wheelchair.svg
+temaki-wind_surfing	different	1014	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-wind_surfing.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-wind_surfing.svg
+temaki-zoo	different	645	15x15	50x50	50x50	/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-zoo.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-zoo.svg
+fotoshi-atm	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/fotoshi-atm.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fotoshi-atm.svg
+fotoshi-book_return	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/fotoshi-book_return.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fotoshi-book_return.svg
+fotoshi-cave	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/fotoshi-cave.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fotoshi-cave.svg
+fotoshi-mud	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/fotoshi-mud.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fotoshi-mud.svg
+fotoshi-shipwreck	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/fotoshi-shipwreck.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/fotoshi-shipwreck.svg
+maki-aerialway	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-aerialway.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-aerialway.svg
+maki-airfield	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-airfield.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-airfield.svg
+maki-airport	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-airport.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-airport.svg
+maki-alcohol-shop	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-alcohol-shop.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-alcohol-shop.svg
+maki-american-football	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-american-football.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-american-football.svg
+maki-amusement-park	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-amusement-park.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-amusement-park.svg
+maki-animal-shelter	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-animal-shelter.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-animal-shelter.svg
+maki-aquarium	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-aquarium.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-aquarium.svg
+maki-arrow	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-arrow.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-arrow.svg
+maki-art-gallery	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-art-gallery.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-art-gallery.svg
+maki-attraction	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-attraction.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-attraction.svg
+maki-bakery	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-bakery.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-bakery.svg
+maki-bank	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-bank.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-bank.svg
+maki-bank-JP	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-bank-JP.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-bank-JP.svg
+maki-bar	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-bar.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-bar.svg
+maki-barrier	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-barrier.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-barrier.svg
+maki-baseball	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-baseball.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-baseball.svg
+maki-basketball	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-basketball.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-basketball.svg
+maki-bbq	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-bbq.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-bbq.svg
+maki-beach	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-beach.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-beach.svg
+maki-beer	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-beer.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-beer.svg
+maki-bicycle	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-bicycle.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-bicycle.svg
+maki-bicycle-share	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-bicycle-share.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-bicycle-share.svg
+maki-blood-bank	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-blood-bank.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-blood-bank.svg
+maki-bowling-alley	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-bowling-alley.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-bowling-alley.svg
+maki-bridge	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-bridge.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-bridge.svg
+maki-building	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-building.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-building.svg
+maki-building-alt1	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-building-alt1.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-building-alt1.svg
+maki-bus	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-bus.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-bus.svg
+maki-cafe	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-cafe.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-cafe.svg
+maki-campsite	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-campsite.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-campsite.svg
+maki-car	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-car.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-car.svg
+maki-car-rental	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-car-rental.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-car-rental.svg
+maki-car-repair	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-car-repair.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-car-repair.svg
+maki-casino	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-casino.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-casino.svg
+maki-castle	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-castle.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-castle.svg
+maki-castle-JP	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-castle-JP.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-castle-JP.svg
+maki-caution	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-caution.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-caution.svg
+maki-cemetery	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-cemetery.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-cemetery.svg
+maki-cemetery-JP	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-cemetery-JP.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-cemetery-JP.svg
+maki-charging-station	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-charging-station.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-charging-station.svg
+maki-cinema	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-cinema.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-cinema.svg
+maki-circle	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-circle.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-circle.svg
+maki-circle-stroked	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-circle-stroked.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-circle-stroked.svg
+maki-city	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-city.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-city.svg
+maki-clothing-store	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-clothing-store.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-clothing-store.svg
+maki-college	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-college.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-college.svg
+maki-college-JP	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-college-JP.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-college-JP.svg
+maki-commercial	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-commercial.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-commercial.svg
+maki-communications-tower	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-communications-tower.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-communications-tower.svg
+maki-confectionery	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-confectionery.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-confectionery.svg
+maki-construction	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-construction.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-construction.svg
+maki-convenience	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-convenience.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-convenience.svg
+maki-cricket	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-cricket.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-cricket.svg
+maki-cross	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-cross.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-cross.svg
+maki-dam	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-dam.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-dam.svg
+maki-danger	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-danger.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-danger.svg
+maki-defibrillator	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-defibrillator.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-defibrillator.svg
+maki-dentist	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-dentist.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-dentist.svg
+maki-diamond	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-diamond.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-diamond.svg
+maki-doctor	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-doctor.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-doctor.svg
+maki-dog-park	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-dog-park.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-dog-park.svg
+maki-drinking-water	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-drinking-water.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-drinking-water.svg
+maki-elevator	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-elevator.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-elevator.svg
+maki-embassy	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-embassy.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-embassy.svg
+maki-emergency-phone	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-emergency-phone.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-emergency-phone.svg
+maki-entrance	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-entrance.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-entrance.svg
+maki-entrance-alt1	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-entrance-alt1.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-entrance-alt1.svg
+maki-farm	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-farm.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-farm.svg
+maki-fast-food	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-fast-food.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-fast-food.svg
+maki-fence	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-fence.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-fence.svg
+maki-ferry	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-ferry.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-ferry.svg
+maki-ferry-JP	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-ferry-JP.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-ferry-JP.svg
+maki-fire-station	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-fire-station.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-fire-station.svg
+maki-fire-station-JP	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-fire-station-JP.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-fire-station-JP.svg
+maki-fitness-centre	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-fitness-centre.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-fitness-centre.svg
+maki-florist	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-florist.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-florist.svg
+maki-fuel	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-fuel.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-fuel.svg
+maki-furniture	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-furniture.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-furniture.svg
+maki-gaming	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-gaming.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-gaming.svg
+maki-garden	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-garden.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-garden.svg
+maki-garden-centre	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-garden-centre.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-garden-centre.svg
+maki-gate	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-gate.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-gate.svg
+maki-gift	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-gift.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-gift.svg
+maki-globe	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-globe.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-globe.svg
+maki-golf	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-golf.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-golf.svg
+maki-grocery	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-grocery.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-grocery.svg
+maki-hairdresser	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-hairdresser.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-hairdresser.svg
+maki-harbor	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-harbor.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-harbor.svg
+maki-hardware	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-hardware.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-hardware.svg
+maki-heart	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-heart.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-heart.svg
+maki-heliport	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-heliport.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-heliport.svg
+maki-highway-rest-area	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-highway-rest-area.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-highway-rest-area.svg
+maki-historic	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-historic.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-historic.svg
+maki-home	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-home.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-home.svg
+maki-horse-riding	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-horse-riding.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-horse-riding.svg
+maki-hospital	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-hospital.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-hospital.svg
+maki-hospital-JP	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-hospital-JP.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-hospital-JP.svg
+maki-hot-spring	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-hot-spring.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-hot-spring.svg
+maki-ice-cream	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-ice-cream.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-ice-cream.svg
+maki-industry	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-industry.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-industry.svg
+maki-information	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-information.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-information.svg
+maki-jewelry-store	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-jewelry-store.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-jewelry-store.svg
+maki-karaoke	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-karaoke.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-karaoke.svg
+maki-landmark	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-landmark.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-landmark.svg
+maki-landmark-JP	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-landmark-JP.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-landmark-JP.svg
+maki-landuse	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-landuse.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-landuse.svg
+maki-laundry	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-laundry.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-laundry.svg
+maki-library	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-library.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-library.svg
+maki-lift-gate	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-lift-gate.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-lift-gate.svg
+maki-lighthouse	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-lighthouse.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-lighthouse.svg
+maki-lighthouse-JP	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-lighthouse-JP.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-lighthouse-JP.svg
+maki-lodging	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-lodging.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-lodging.svg
+maki-logging	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-logging.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-logging.svg
+maki-marker	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-marker.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-marker.svg
+maki-marker-stroked	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-marker-stroked.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-marker-stroked.svg
+maki-mobile-phone	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-mobile-phone.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-mobile-phone.svg
+maki-monument	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-monument.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-monument.svg
+maki-monument-JP	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-monument-JP.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-monument-JP.svg
+maki-mountain	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-mountain.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-mountain.svg
+maki-museum	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-museum.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-museum.svg
+maki-music	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-music.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-music.svg
+maki-natural	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-natural.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-natural.svg
+maki-nightclub	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-nightclub.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-nightclub.svg
+maki-observation-tower	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-observation-tower.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-observation-tower.svg
+maki-optician	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-optician.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-optician.svg
+maki-paint	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-paint.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-paint.svg
+maki-park	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-park.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-park.svg
+maki-park-alt1	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-park-alt1.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-park-alt1.svg
+maki-parking	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-parking.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-parking.svg
+maki-parking-garage	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-parking-garage.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-parking-garage.svg
+maki-parking-paid	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-parking-paid.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-parking-paid.svg
+maki-pharmacy	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-pharmacy.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-pharmacy.svg
+maki-picnic-site	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-picnic-site.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-picnic-site.svg
+maki-pitch	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-pitch.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-pitch.svg
+maki-place-of-worship	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-place-of-worship.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-place-of-worship.svg
+maki-playground	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-playground.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-playground.svg
+maki-police	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-police.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-police.svg
+maki-police-JP	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-police-JP.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-police-JP.svg
+maki-post	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-post.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-post.svg
+maki-post-JP	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-post-JP.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-post-JP.svg
+maki-prison	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-prison.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-prison.svg
+maki-racetrack	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-racetrack.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-racetrack.svg
+maki-racetrack-boat	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-racetrack-boat.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-racetrack-boat.svg
+maki-racetrack-cycling	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-racetrack-cycling.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-racetrack-cycling.svg
+maki-racetrack-horse	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-racetrack-horse.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-racetrack-horse.svg
+maki-rail	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-rail.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-rail.svg
+maki-rail-light	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-rail-light.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-rail-light.svg
+maki-rail-metro	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-rail-metro.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-rail-metro.svg
+maki-ranger-station	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-ranger-station.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-ranger-station.svg
+maki-recycling	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-recycling.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-recycling.svg
+maki-religious-buddhist	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-religious-buddhist.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-religious-buddhist.svg
+maki-religious-christian	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-religious-christian.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-religious-christian.svg
+maki-religious-jewish	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-religious-jewish.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-religious-jewish.svg
+maki-religious-muslim	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-religious-muslim.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-religious-muslim.svg
+maki-religious-shinto	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-religious-shinto.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-religious-shinto.svg
+maki-residential-community	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-residential-community.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-residential-community.svg
+maki-restaurant	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-restaurant.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-restaurant.svg
+maki-restaurant-bbq	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-restaurant-bbq.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-restaurant-bbq.svg
+maki-restaurant-noodle	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-restaurant-noodle.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-restaurant-noodle.svg
+maki-restaurant-pizza	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-restaurant-pizza.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-restaurant-pizza.svg
+maki-restaurant-seafood	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-restaurant-seafood.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-restaurant-seafood.svg
+maki-restaurant-sushi	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-restaurant-sushi.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-restaurant-sushi.svg
+maki-road-accident	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-road-accident.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-road-accident.svg
+maki-roadblock	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-roadblock.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-roadblock.svg
+maki-rocket	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-rocket.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-rocket.svg
+maki-school	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-school.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-school.svg
+maki-school-JP	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-school-JP.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-school-JP.svg
+maki-scooter	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-scooter.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-scooter.svg
+maki-shelter	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-shelter.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-shelter.svg
+maki-shoe	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-shoe.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-shoe.svg
+maki-shop	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-shop.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-shop.svg
+maki-skateboard	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-skateboard.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-skateboard.svg
+maki-skiing	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-skiing.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-skiing.svg
+maki-slaughterhouse	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-slaughterhouse.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-slaughterhouse.svg
+maki-slipway	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-slipway.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-slipway.svg
+maki-snowmobile	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-snowmobile.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-snowmobile.svg
+maki-soccer	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-soccer.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-soccer.svg
+maki-square	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-square.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-square.svg
+maki-square-stroked	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-square-stroked.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-square-stroked.svg
+maki-stadium	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-stadium.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-stadium.svg
+maki-star	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-star.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-star.svg
+maki-star-stroked	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-star-stroked.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-star-stroked.svg
+maki-suitcase	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-suitcase.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-suitcase.svg
+maki-swimming	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-swimming.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-swimming.svg
+maki-table-tennis	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-table-tennis.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-table-tennis.svg
+maki-teahouse	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-teahouse.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-teahouse.svg
+maki-telephone	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-telephone.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-telephone.svg
+maki-tennis	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-tennis.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-tennis.svg
+maki-terminal	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-terminal.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-terminal.svg
+maki-theatre	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-theatre.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-theatre.svg
+maki-toilet	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-toilet.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-toilet.svg
+maki-toll	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-toll.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-toll.svg
+maki-town	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-town.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-town.svg
+maki-town-hall	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-town-hall.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-town-hall.svg
+maki-triangle	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-triangle.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-triangle.svg
+maki-triangle-stroked	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-triangle-stroked.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-triangle-stroked.svg
+maki-tunnel	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-tunnel.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-tunnel.svg
+maki-veterinary	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-veterinary.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-veterinary.svg
+maki-viewpoint	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-viewpoint.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-viewpoint.svg
+maki-village	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-village.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-village.svg
+maki-volcano	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-volcano.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-volcano.svg
+maki-volleyball	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-volleyball.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-volleyball.svg
+maki-warehouse	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-warehouse.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-warehouse.svg
+maki-waste-basket	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-waste-basket.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-waste-basket.svg
+maki-watch	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-watch.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-watch.svg
+maki-water	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-water.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-water.svg
+maki-waterfall	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-waterfall.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-waterfall.svg
+maki-watermill	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-watermill.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-watermill.svg
+maki-wetland	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-wetland.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-wetland.svg
+maki-wheelchair	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-wheelchair.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-wheelchair.svg
+maki-windmill	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-windmill.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-windmill.svg
+maki-zoo	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/maki-zoo.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/maki-zoo.svg
+temaki-accessible_space	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-accessible_space.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-accessible_space.svg
+temaki-adit_profile	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-adit_profile.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-adit_profile.svg
+temaki-aerialway_pole	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-aerialway_pole.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-aerialway_pole.svg
+temaki-airport	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-airport.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-airport.svg
+temaki-anchor_medal	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-anchor_medal.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-anchor_medal.svg
+temaki-antenna	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-antenna.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-antenna.svg
+temaki-anvil	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-anvil.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-anvil.svg
+temaki-anvil_and_hammer	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-anvil_and_hammer.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-anvil_and_hammer.svg
+temaki-app_terminal	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-app_terminal.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-app_terminal.svg
+temaki-army_tent	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-army_tent.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-army_tent.svg
+temaki-asterisk	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-asterisk.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-asterisk.svg
+temaki-balance_beam	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-balance_beam.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-balance_beam.svg
+temaki-balloon	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-balloon.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-balloon.svg
+temaki-barn	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-barn.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-barn.svg
+temaki-beach	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-beach.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-beach.svg
+temaki-bench	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-bench.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-bench.svg
+temaki-benchmark_disk	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-benchmark_disk.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-benchmark_disk.svg
+temaki-bicycle_locker	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-bicycle_locker.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-bicycle_locker.svg
+temaki-bicycle_parked	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-bicycle_parked.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-bicycle_parked.svg
+temaki-bicycle_shed	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-bicycle_shed.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-bicycle_shed.svg
+temaki-bicycle_structure	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-bicycle_structure.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-bicycle_structure.svg
+temaki-bikini	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-bikini.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-bikini.svg
+temaki-billboard	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-billboard.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-billboard.svg
+temaki-binoculars	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-binoculars.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-binoculars.svg
+temaki-bleachers	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-bleachers.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-bleachers.svg
+temaki-board_bus	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-board_bus.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-board_bus.svg
+temaki-board_ferry	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-board_ferry.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-board_ferry.svg
+temaki-board_gondola_lift	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-board_gondola_lift.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-board_gondola_lift.svg
+temaki-board_hanging_rail	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-board_hanging_rail.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-board_hanging_rail.svg
+temaki-board_heavy_rail	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-board_heavy_rail.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-board_heavy_rail.svg
+temaki-board_light_rail	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-board_light_rail.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-board_light_rail.svg
+temaki-board_monorail	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-board_monorail.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-board_monorail.svg
+temaki-board_school_bus	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-board_school_bus.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-board_school_bus.svg
+temaki-board_subway	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-board_subway.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-board_subway.svg
+temaki-board_train	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-board_train.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-board_train.svg
+temaki-board_train_bullet	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-board_train_bullet.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-board_train_bullet.svg
+temaki-board_train_diesel	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-board_train_diesel.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-board_train_diesel.svg
+temaki-board_train_kids	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-board_train_kids.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-board_train_kids.svg
+temaki-board_train_steam	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-board_train_steam.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-board_train_steam.svg
+temaki-board_tram	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-board_tram.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-board_tram.svg
+temaki-board_transit	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-board_transit.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-board_transit.svg
+temaki-board_trolleybus	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-board_trolleybus.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-board_trolleybus.svg
+temaki-boat	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-boat.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-boat.svg
+temaki-boat_dry_dock	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-boat_dry_dock.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-boat_dry_dock.svg
+temaki-boat_floating	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-boat_floating.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-boat_floating.svg
+temaki-bollard	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-bollard.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-bollard.svg
+temaki-book_store	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-book_store.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-book_store.svg
+temaki-boulder1	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-boulder1.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-boulder1.svg
+temaki-boulder2	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-boulder2.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-boulder2.svg
+temaki-boulder3	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-boulder3.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-boulder3.svg
+temaki-bow_and_arrow	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-bow_and_arrow.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-bow_and_arrow.svg
+temaki-bowling	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-bowling.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-bowling.svg
+temaki-bread	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-bread.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-bread.svg
+temaki-brick_trowel	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-brick_trowel.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-brick_trowel.svg
+temaki-bridge	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-bridge.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-bridge.svg
+temaki-briefcase	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-briefcase.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-briefcase.svg
+temaki-briefcase_asterisk	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-briefcase_asterisk.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-briefcase_asterisk.svg
+temaki-briefcase_bolt	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-briefcase_bolt.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-briefcase_bolt.svg
+temaki-briefcase_cross	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-briefcase_cross.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-briefcase_cross.svg
+temaki-briefcase_info	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-briefcase_info.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-briefcase_info.svg
+temaki-briefcase_shield	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-briefcase_shield.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-briefcase_shield.svg
+temaki-bubble_tea	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-bubble_tea.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-bubble_tea.svg
+temaki-buffer_stop	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-buffer_stop.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-buffer_stop.svg
+temaki-bulb	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-bulb.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-bulb.svg
+temaki-bulb2	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-bulb2.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-bulb2.svg
+temaki-bulldozer	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-bulldozer.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-bulldozer.svg
+temaki-bulletin_board	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-bulletin_board.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-bulletin_board.svg
+temaki-bunk_beds	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-bunk_beds.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-bunk_beds.svg
+temaki-bunker	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-bunker.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-bunker.svg
+temaki-bunker_silo	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-bunker_silo.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-bunker_silo.svg
+temaki-buoy	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-buoy.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-buoy.svg
+temaki-bus	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-bus.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-bus.svg
+temaki-bus_guided	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-bus_guided.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-bus_guided.svg
+temaki-cabin	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-cabin.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-cabin.svg
+temaki-cairn	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-cairn.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-cairn.svg
+temaki-camper_trailer	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-camper_trailer.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-camper_trailer.svg
+temaki-camper_trailer_dump	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-camper_trailer_dump.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-camper_trailer_dump.svg
+temaki-campfire	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-campfire.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-campfire.svg
+temaki-can	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-can.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-can.svg
+temaki-cape_landform	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-cape_landform.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-cape_landform.svg
+temaki-capitol	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-capitol.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-capitol.svg
+temaki-car_parked	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-car_parked.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-car_parked.svg
+temaki-car_pool	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-car_pool.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-car_pool.svg
+temaki-car_structure	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-car_structure.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-car_structure.svg
+temaki-carport	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-carport.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-carport.svg
+temaki-catering	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-catering.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-catering.svg
+temaki-cattle_grid	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-cattle_grid.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-cattle_grid.svg
+temaki-checkpoint	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-checkpoint.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-checkpoint.svg
+temaki-chefs_knife	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-chefs_knife.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-chefs_knife.svg
+temaki-chicane_arrow	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-chicane_arrow.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-chicane_arrow.svg
+temaki-chimney	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-chimney.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-chimney.svg
+temaki-chocolate	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-chocolate.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-chocolate.svg
+temaki-cleaver	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-cleaver.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-cleaver.svg
+temaki-cliff_falling_rocks	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-cliff_falling_rocks.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-cliff_falling_rocks.svg
+temaki-clock	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-clock.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-clock.svg
+temaki-clothes_hanger	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-clothes_hanger.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-clothes_hanger.svg
+temaki-coffee	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-coffee.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-coffee.svg
+temaki-conveyor	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-conveyor.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-conveyor.svg
+temaki-cooling_tower	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-cooling_tower.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-cooling_tower.svg
+temaki-cooling_tower_radiation	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-cooling_tower_radiation.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-cooling_tower_radiation.svg
+temaki-coral_reef	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-coral_reef.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-coral_reef.svg
+temaki-crane	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-crane.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-crane.svg
+temaki-crossing_rail_rail	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-crossing_rail_rail.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-crossing_rail_rail.svg
+temaki-crossing_rail_road	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-crossing_rail_road.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-crossing_rail_road.svg
+temaki-crossing_rail_solid	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-crossing_rail_solid.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-crossing_rail_solid.svg
+temaki-crossing_rail_striped	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-crossing_rail_striped.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-crossing_rail_striped.svg
+temaki-crossing_tram_road	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-crossing_tram_road.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-crossing_tram_road.svg
+temaki-crossing_tram_solid	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-crossing_tram_solid.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-crossing_tram_solid.svg
+temaki-crossing_tram_striped	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-crossing_tram_striped.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-crossing_tram_striped.svg
+temaki-curtains	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-curtains.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-curtains.svg
+temaki-cycle_barrier	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-cycle_barrier.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-cycle_barrier.svg
+temaki-cyclist_crosswalk	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-cyclist_crosswalk.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-cyclist_crosswalk.svg
+temaki-dagger	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-dagger.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-dagger.svg
+temaki-desk_lamp	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-desk_lamp.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-desk_lamp.svg
+temaki-diamond	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-diamond.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-diamond.svg
+temaki-dice	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-dice.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-dice.svg
+temaki-disc_golf_basket	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-disc_golf_basket.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-disc_golf_basket.svg
+temaki-dog_shelter	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-dog_shelter.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-dog_shelter.svg
+temaki-domed_tower	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-domed_tower.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-domed_tower.svg
+temaki-donut	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-donut.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-donut.svg
+temaki-drag_lift	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-drag_lift.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-drag_lift.svg
+temaki-dress	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-dress.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-dress.svg
+temaki-drink_cup	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-drink_cup.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-drink_cup.svg
+temaki-ear	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-ear.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-ear.svg
+temaki-egg	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-egg.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-egg.svg
+temaki-electronic	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-electronic.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-electronic.svg
+temaki-elevator	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-elevator.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-elevator.svg
+temaki-embassy	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-embassy.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-embassy.svg
+temaki-ferry	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-ferry.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-ferry.svg
+temaki-field_hockey	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-field_hockey.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-field_hockey.svg
+temaki-fire_hydrant	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-fire_hydrant.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-fire_hydrant.svg
+temaki-fireplace	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-fireplace.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-fireplace.svg
+temaki-fish_ladder	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-fish_ladder.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-fish_ladder.svg
+temaki-fountain	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-fountain.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-fountain.svg
+temaki-freight_car	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-freight_car.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-freight_car.svg
+temaki-furniture	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-furniture.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-furniture.svg
+temaki-garden_bed	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-garden_bed.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-garden_bed.svg
+temaki-gas	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-gas.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-gas.svg
+temaki-gate	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-gate.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-gate.svg
+temaki-golf_green	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-golf_green.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-golf_green.svg
+temaki-gondola_lift	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-gondola_lift.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-gondola_lift.svg
+temaki-goods_lift	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-goods_lift.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-goods_lift.svg
+temaki-gown	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-gown.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-gown.svg
+temaki-grapes	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-grapes.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-grapes.svg
+temaki-grass	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-grass.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-grass.svg
+temaki-guard_rail	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-guard_rail.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-guard_rail.svg
+temaki-hammer_shoe	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-hammer_shoe.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-hammer_shoe.svg
+temaki-hand	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-hand.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-hand.svg
+temaki-handbag	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-handbag.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-handbag.svg
+temaki-hangar	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-hangar.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-hangar.svg
+temaki-hanging_rail	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-hanging_rail.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-hanging_rail.svg
+temaki-heart	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-heart.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-heart.svg
+temaki-heavy_rail	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-heavy_rail.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-heavy_rail.svg
+temaki-hedge	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-hedge.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-hedge.svg
+temaki-height_restrictor	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-height_restrictor.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-height_restrictor.svg
+temaki-hinduism	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-hinduism.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-hinduism.svg
+temaki-horizontal_bar	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-horizontal_bar.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-horizontal_bar.svg
+temaki-horn_cleat	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-horn_cleat.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-horn_cleat.svg
+temaki-horse_shelter	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-horse_shelter.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-horse_shelter.svg
+temaki-horseshoe	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-horseshoe.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-horseshoe.svg
+temaki-hot_drink_cup	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-hot_drink_cup.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-hot_drink_cup.svg
+temaki-houseboat	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-houseboat.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-houseboat.svg
+temaki-hunting_blind	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-hunting_blind.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-hunting_blind.svg
+temaki-hut	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-hut.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-hut.svg
+temaki-info_board	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-info_board.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-info_board.svg
+temaki-island_trees_building	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-island_trees_building.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-island_trees_building.svg
+temaki-islet_tree	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-islet_tree.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-islet_tree.svg
+temaki-j_bar_lift	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-j_bar_lift.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-j_bar_lift.svg
+temaki-jetplane_front	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-jetplane_front.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-jetplane_front.svg
+temaki-jewelry_store	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-jewelry_store.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-jewelry_store.svg
+temaki-junction	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-junction.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-junction.svg
+temaki-junk_car	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-junk_car.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-junk_car.svg
+temaki-kitchen_sink	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-kitchen_sink.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-kitchen_sink.svg
+temaki-lawn	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-lawn.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-lawn.svg
+temaki-letter_box	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-letter_box.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-letter_box.svg
+temaki-lift_gate	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-lift_gate.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-lift_gate.svg
+temaki-light_rail	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-light_rail.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-light_rail.svg
+temaki-lounger	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-lounger.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-lounger.svg
+temaki-lounging	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-lounging.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-lounging.svg
+temaki-manufactured_home	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-manufactured_home.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-manufactured_home.svg
+temaki-mast	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-mast.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-mast.svg
+temaki-mast_communication	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-mast_communication.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-mast_communication.svg
+temaki-maze	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-maze.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-maze.svg
+temaki-meat	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-meat.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-meat.svg
+temaki-milestone	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-milestone.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-milestone.svg
+temaki-military	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-military.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-military.svg
+temaki-military_checkpoint	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-military_checkpoint.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-military_checkpoint.svg
+temaki-milk_jug	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-milk_jug.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-milk_jug.svg
+temaki-mineshaft_cage	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-mineshaft_cage.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-mineshaft_cage.svg
+temaki-mineshaft_profile	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-mineshaft_profile.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-mineshaft_profile.svg
+temaki-monorail	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-monorail.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-monorail.svg
+temaki-motorcycle	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-motorcycle.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-motorcycle.svg
+temaki-motorcycle_rental	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-motorcycle_rental.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-motorcycle_rental.svg
+temaki-motorcycle_repair	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-motorcycle_repair.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-motorcycle_repair.svg
+temaki-mountain_asterisk	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-mountain_asterisk.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-mountain_asterisk.svg
+temaki-mountain_cross	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-mountain_cross.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-mountain_cross.svg
+temaki-mountain_range	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-mountain_range.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-mountain_range.svg
+temaki-museum	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-museum.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-museum.svg
+temaki-needle_and_spool	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-needle_and_spool.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-needle_and_spool.svg
+temaki-obelisk	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-obelisk.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-obelisk.svg
+temaki-oil_well	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-oil_well.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-oil_well.svg
+temaki-os_benchmark	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-os_benchmark.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-os_benchmark.svg
+temaki-parking_space	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-parking_space.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-parking_space.svg
+temaki-passport_checkpoint	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-passport_checkpoint.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-passport_checkpoint.svg
+temaki-ped_cyclist_crosswalk	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-ped_cyclist_crosswalk.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-ped_cyclist_crosswalk.svg
+temaki-pedestrian	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-pedestrian.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-pedestrian.svg
+temaki-pedestrian_and_cyclist	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-pedestrian_and_cyclist.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-pedestrian_and_cyclist.svg
+temaki-pedestrian_crosswalk	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-pedestrian_crosswalk.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-pedestrian_crosswalk.svg
+temaki-pedestrian_walled	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-pedestrian_walled.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-pedestrian_walled.svg
+temaki-pet_grooming	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-pet_grooming.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-pet_grooming.svg
+temaki-pick_hammer	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-pick_hammer.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-pick_hammer.svg
+temaki-picnic_shelter	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-picnic_shelter.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-picnic_shelter.svg
+temaki-pier_fixed	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-pier_fixed.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-pier_fixed.svg
+temaki-pier_floating	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-pier_floating.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-pier_floating.svg
+temaki-pipe	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-pipe.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-pipe.svg
+temaki-plane_taxiing	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-plane_taxiing.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-plane_taxiing.svg
+temaki-planes	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-planes.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-planes.svg
+temaki-planes_bidirectional	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-planes_bidirectional.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-planes_bidirectional.svg
+temaki-plant	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-plant.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-plant.svg
+temaki-plaque	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-plaque.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-plaque.svg
+temaki-platter_lift	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-platter_lift.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-platter_lift.svg
+temaki-play_structure	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-play_structure.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-play_structure.svg
+temaki-police_checkpoint	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-police_checkpoint.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-police_checkpoint.svg
+temaki-police_officer	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-police_officer.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-police_officer.svg
+temaki-polished_nail	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-polished_nail.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-polished_nail.svg
+temaki-portrait	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-portrait.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-portrait.svg
+temaki-portrait_framed	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-portrait_framed.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-portrait_framed.svg
+temaki-post_box	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-post_box.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-post_box.svg
+temaki-poster_box	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-poster_box.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-poster_box.svg
+temaki-power	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-power.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-power.svg
+temaki-power_pole	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-power_pole.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-power_pole.svg
+temaki-power_tower	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-power_tower.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-power_tower.svg
+temaki-powered_pump	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-powered_pump.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-powered_pump.svg
+temaki-propane_tank	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-propane_tank.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-propane_tank.svg
+temaki-psychic	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-psychic.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-psychic.svg
+temaki-quakerism	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-quakerism.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-quakerism.svg
+temaki-quay	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-quay.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-quay.svg
+temaki-racetrack_oval	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-racetrack_oval.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-racetrack_oval.svg
+temaki-radiation	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-radiation.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-radiation.svg
+temaki-radio	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-radio.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-radio.svg
+temaki-rail_flag	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-rail_flag.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-rail_flag.svg
+temaki-rail_profile	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-rail_profile.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-rail_profile.svg
+temaki-railing	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-railing.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-railing.svg
+temaki-railway_cable_track	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-railway_cable_track.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-railway_cable_track.svg
+temaki-railway_signals	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-railway_signals.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-railway_signals.svg
+temaki-railway_track	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-railway_track.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-railway_track.svg
+temaki-railway_track_askew	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-railway_track_askew.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-railway_track_askew.svg
+temaki-railway_track_mini	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-railway_track_mini.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-railway_track_mini.svg
+temaki-railway_track_narrow	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-railway_track_narrow.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-railway_track_narrow.svg
+temaki-railway_track_partial	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-railway_track_partial.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-railway_track_partial.svg
+temaki-real_estate_agency	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-real_estate_agency.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-real_estate_agency.svg
+temaki-rigging	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-rigging.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-rigging.svg
+temaki-rocket_firework	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-rocket_firework.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-rocket_firework.svg
+temaki-room	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-room.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-room.svg
+temaki-row_houses	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-row_houses.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-row_houses.svg
+temaki-ruins	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-ruins.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-ruins.svg
+temaki-rumble_strip	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-rumble_strip.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-rumble_strip.svg
+temaki-saddle	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-saddle.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-saddle.svg
+temaki-sail	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-sail.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-sail.svg
+temaki-sandbox	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-sandbox.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-sandbox.svg
+temaki-scaffold	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-scaffold.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-scaffold.svg
+temaki-school_bus	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-school_bus.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-school_bus.svg
+temaki-sculpture	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-sculpture.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-sculpture.svg
+temaki-seesaw	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-seesaw.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-seesaw.svg
+temaki-shield	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-shield.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-shield.svg
+temaki-shinto	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-shinto.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-shinto.svg
+temaki-shrub	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-shrub.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-shrub.svg
+temaki-shrub_low	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-shrub_low.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-shrub_low.svg
+temaki-sign_and_bench	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-sign_and_bench.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-sign_and_bench.svg
+temaki-sign_and_car	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-sign_and_car.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-sign_and_car.svg
+temaki-sign_and_pedestrian	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-sign_and_pedestrian.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-sign_and_pedestrian.svg
+temaki-sikhism	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-sikhism.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-sikhism.svg
+temaki-silo	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-silo.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-silo.svg
+temaki-sleep_shelter	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-sleep_shelter.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-sleep_shelter.svg
+temaki-slide	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-slide.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-slide.svg
+temaki-social_facility	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-social_facility.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-social_facility.svg
+temaki-speaker	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-speaker.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-speaker.svg
+temaki-speed_bump	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-speed_bump.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-speed_bump.svg
+temaki-speed_dip	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-speed_dip.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-speed_dip.svg
+temaki-speed_dip_double	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-speed_dip_double.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-speed_dip_double.svg
+temaki-speed_hump	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-speed_hump.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-speed_hump.svg
+temaki-speed_table	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-speed_table.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-speed_table.svg
+temaki-speedway_8	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-speedway_8.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-speedway_8.svg
+temaki-speedway_oval	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-speedway_oval.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-speedway_oval.svg
+temaki-spice_bottle	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-spice_bottle.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-spice_bottle.svg
+temaki-spike_strip	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-spike_strip.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-spike_strip.svg
+temaki-spotting_scope	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-spotting_scope.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-spotting_scope.svg
+temaki-spring_rider	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-spring_rider.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-spring_rider.svg
+temaki-stamp	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-stamp.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-stamp.svg
+temaki-statue	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-statue.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-statue.svg
+temaki-stile_squeezer	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-stile_squeezer.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-stile_squeezer.svg
+temaki-stop	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-stop.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-stop.svg
+temaki-storage_drum	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-storage_drum.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-storage_drum.svg
+temaki-storage_fermenter	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-storage_fermenter.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-storage_fermenter.svg
+temaki-storage_tank	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-storage_tank.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-storage_tank.svg
+temaki-street_lamp_arm	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-street_lamp_arm.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-street_lamp_arm.svg
+temaki-striped_way	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-striped_way.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-striped_way.svg
+temaki-striped_zone	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-striped_zone.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-striped_zone.svg
+temaki-subway	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-subway.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-subway.svg
+temaki-suitcase	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-suitcase.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-suitcase.svg
+temaki-suitcase_key	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-suitcase_key.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-suitcase_key.svg
+temaki-suitcase_xray	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-suitcase_xray.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-suitcase_xray.svg
+temaki-swamp	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-swamp.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-swamp.svg
+temaki-t_bar_lift	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-t_bar_lift.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-t_bar_lift.svg
+temaki-tanning2	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-tanning2.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-tanning2.svg
+temaki-taoism	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-taoism.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-taoism.svg
+temaki-tattoo_machine	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-tattoo_machine.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-tattoo_machine.svg
+temaki-telescope	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-telescope.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-telescope.svg
+temaki-temaki	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-temaki.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-temaki.svg
+temaki-ticket	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-ticket.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-ticket.svg
+temaki-tiling	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-tiling.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-tiling.svg
+temaki-tire	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-tire.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-tire.svg
+temaki-tire_course	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-tire_course.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-tire_course.svg
+temaki-toll_gantry	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-toll_gantry.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-toll_gantry.svg
+temaki-tools	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-tools.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-tools.svg
+temaki-tower	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-tower.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-tower.svg
+temaki-tower_communication	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-tower_communication.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-tower_communication.svg
+temaki-town_hall	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-town_hall.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-town_hall.svg
+temaki-traffic_signals	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-traffic_signals.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-traffic_signals.svg
+temaki-train	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-train.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-train.svg
+temaki-train_bullet	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-train_bullet.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-train_bullet.svg
+temaki-train_diesel	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-train_diesel.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-train_diesel.svg
+temaki-train_kids	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-train_kids.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-train_kids.svg
+temaki-train_steam	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-train_steam.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-train_steam.svg
+temaki-train_wash	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-train_wash.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-train_wash.svg
+temaki-tram	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-tram.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-tram.svg
+temaki-tram_side	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-tram_side.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-tram_side.svg
+temaki-transit	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-transit.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-transit.svg
+temaki-transit_shelter	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-transit_shelter.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-transit_shelter.svg
+temaki-tree_and_bench	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-tree_and_bench.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-tree_and_bench.svg
+temaki-tree_broadleaved	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-tree_broadleaved.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-tree_broadleaved.svg
+temaki-tree_cactus	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-tree_cactus.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-tree_cactus.svg
+temaki-tree_leafless	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-tree_leafless.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-tree_leafless.svg
+temaki-tree_needleleaved	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-tree_needleleaved.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-tree_needleleaved.svg
+temaki-tree_palm	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-tree_palm.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-tree_palm.svg
+temaki-tree_row	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-tree_row.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-tree_row.svg
+temaki-tree_stump	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-tree_stump.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-tree_stump.svg
+temaki-trench	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-trench.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-trench.svg
+temaki-trolleybus	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-trolleybus.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-trolleybus.svg
+temaki-truck	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-truck.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-truck.svg
+temaki-tunnel	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-tunnel.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-tunnel.svg
+temaki-utility_pole	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-utility_pole.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-utility_pole.svg
+temaki-vacuum	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-vacuum.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-vacuum.svg
+temaki-vacuum_station	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-vacuum_station.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-vacuum_station.svg
+temaki-valley	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-valley.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-valley.svg
+temaki-vase	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-vase.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-vase.svg
+temaki-vending_lockers	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-vending_lockers.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-vending_lockers.svg
+temaki-vending_pet_waste	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-vending_pet_waste.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-vending_pet_waste.svg
+temaki-vertex	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-vertex.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-vertex.svg
+temaki-vertical_rotisserie	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-vertical_rotisserie.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-vertical_rotisserie.svg
+temaki-waste	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-waste.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-waste.svg
+temaki-water	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-water.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-water.svg
+temaki-water_tap	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-water_tap.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-water_tap.svg
+temaki-water_tap_drinkable	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-water_tap_drinkable.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-water_tap_drinkable.svg
+temaki-water_tower	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-water_tower.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-water_tower.svg
+temaki-well_pump_manual	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-well_pump_manual.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-well_pump_manual.svg
+temaki-well_pump_powered	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-well_pump_powered.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-well_pump_powered.svg
+temaki-wheel	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-wheel.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-wheel.svg
+temaki-wheelchair_active	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-wheelchair_active.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-wheelchair_active.svg
+temaki-wind_turbine	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-wind_turbine.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-wind_turbine.svg
+temaki-windmill	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-windmill.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-windmill.svg
+temaki-window	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-window.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-window.svg
+temaki-windpump	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-windpump.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-windpump.svg
+temaki-windsock	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-windsock.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-windsock.svg
+temaki-x_oblique	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-x_oblique.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-x_oblique.svg
+temaki-yield	match		15x15	15x15		/home/cbed/fotoshi-dev/basemaps-assets/icons/temaki-yield.svg	/home/cbed/fotoshi-dev/fotoshi_basemap/points/icons/temaki-yield.svg

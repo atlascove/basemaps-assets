@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="15" height="15" viewBox="0 0 15 15" xmlns="http://www.w3.org/2000/svg" id="speed_dip">
-  <path d="M0 7L2 7L6.37 9.98C7.05 10.45 7.95 10.45 8.63 9.98L13 7L15 7L15 13L0 13L0 7Z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 15" version="1.1" width="15" height="15">
+  <g transform="translate(7.500000 7.500000) scale(0.866667) translate(-7.500000 -10.000000)"><g transform="translate(0.000000 0.000000) scale(1.000000)"><path d="M0 7L2 7L6.37 9.98C7.05 10.45 7.95 10.45 8.63 9.98L13 7L15 7L15 13L0 13L0 7Z" />
+</g></g></svg>

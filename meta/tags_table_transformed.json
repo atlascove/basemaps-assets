@@ -2699,10 +2699,10 @@
   {
     "overture": "public_plaza",
     "osm_tags": {
-      "place": "square."
+      "place": "square"
     },
     "class": "place",
-    "subclass": "square.",
+    "subclass": "square",
     "icon": "temaki-pedestrian",
     "category": "Public Plaza"
   },

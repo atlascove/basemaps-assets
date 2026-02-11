@@ -465,8 +465,7 @@
   {
     "overture": "industrial_company",
     "osm_tags": {
-      "office": "company",
-      "office:industrial_company": "yes"
+      "office": "industrial_company"
     },
     "class": "office",
     "subclass": "industrial_company",
@@ -610,7 +609,8 @@
   {
     "overture": "web_designer",
     "osm_tags": {
-      "craft": "web_designer"
+      "office": "company",
+      "office:web_designer": "yes"
     },
     "class": "craft",
     "subclass": "web_designer",

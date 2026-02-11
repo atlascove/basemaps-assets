@@ -599,7 +599,9 @@
   {
     "overture": "prenatal_perinatal_care",
     "osm_tags": {
-      "healthcare": "prenatal_perinatal_care"
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "healthcare:speciality": "prenatal"
     },
     "class": "healthcare",
     "subclass": "prenatal_perinatal_care",
@@ -869,7 +871,8 @@
   {
     "overture": "jet_skis_rental",
     "osm_tags": {
-      "amenity": "jet_ski_rental"
+      "amenity": "boat_rental",
+      "jet_ski_rental": "yes"
     },
     "class": "amenity",
     "subclass": "jet_ski_rental",
@@ -1279,7 +1282,8 @@
   {
     "overture": "glass_and_mirror_sales_service",
     "osm_tags": {
-      "shop": "glaziery"
+      "shop": "hardware",
+      "glass": "yes"
     },
     "class": "shop",
     "subclass": "glaziery",
@@ -4178,7 +4182,7 @@
   {
     "overture": "key_and_locksmith",
     "osm_tags": {
-      "shop": "locksmith"
+      "craft": "locksmith"
     },
     "class": "shop",
     "subclass": "locksmith",
@@ -10995,7 +10999,7 @@
   {
     "overture": "builders",
     "osm_tags": {
-      "craft": "builder"
+      "office": "contractor"
     },
     "class": "craft",
     "subclass": "builder",
@@ -11058,7 +11062,7 @@
   {
     "overture": "building_contractor",
     "osm_tags": {
-      "craft": "builder"
+      "office": "contractor"
     },
     "class": "craft",
     "subclass": "builder",
@@ -12549,7 +12553,7 @@
   {
     "overture": "altering_and_remodeling_contractor",
     "osm_tags": {
-      "craft": "builder"
+      "office": "contractor"
     },
     "class": "craft",
     "subclass": "builder",
@@ -21735,7 +21739,7 @@
   {
     "overture": "builder",
     "osm_tags": {
-      "craft": "builder"
+      "office": "contractor"
     },
     "class": "craft",
     "subclass": "builder",

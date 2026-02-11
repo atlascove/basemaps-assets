@@ -311,7 +311,7 @@
   {
     "overture": "landmark_and_historical_building",
     "osm_tags": {
-      "historic": "yes"
+      "historic": "building"
     },
     "class": "historic",
     "subclass": "yes",
@@ -331,7 +331,7 @@
   {
     "overture": "pilates_studio",
     "osm_tags": {
-      "amenity": "gym",
+      "leisure": "fitness_centre",
       "sport": "pilates"
     },
     "class": "amenity",
@@ -404,7 +404,7 @@
   {
     "overture": "contractor",
     "osm_tags": {
-      "craft": "builder"
+      "office": "contractor"
     },
     "class": "craft",
     "subclass": "builder",
@@ -465,7 +465,8 @@
   {
     "overture": "industrial_company",
     "osm_tags": {
-      "office": "industrial_company"
+      "office": "company",
+      "office:industrial_company": "yes"
     },
     "class": "office",
     "subclass": "industrial_company",

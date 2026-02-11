@@ -270,7 +270,7 @@
   {
     "overture": "accommodation",
     "osm_tags": {
-      "amenity": "hotel"
+      "tourism": "hotel"
     },
     "class": "amenity",
     "subclass": "hotel",

@@ -1,0 +1,276 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>SDF Sprite Preview (MapLibre)</title>
+  <link href="https://unpkg.com/maplibre-gl@3.6.1/dist/maplibre-gl.css" rel="stylesheet" />
+  <style>
+    body { font-family: system-ui, Arial, sans-serif; background:#f7f7f7; margin:0; padding:16px; color:#111; }
+    h1 { font-size:18px; margin:0 0 12px; }
+    .layout { display:grid; grid-template-columns: 360px 1fr; gap:16px; }
+    .panel { background:#fff; border:1px solid #ddd; border-radius:8px; padding:12px; }
+    .row { display:flex; align-items:center; gap:10px; margin-bottom:10px; }
+    .row img { width:64px; height:64px; border:1px solid #ddd; background:#fff; }
+    .label { font-size:12px; color:#555; }
+    #mapSdf, #mapPng { width:100%; height:480px; border:1px solid #ddd; border-radius:8px; }
+    .stats { font-size:12px; color:#333; margin-top:6px; }
+    .metrics { font-size:12px; color:#333; display:grid; grid-template-columns: 1fr 1fr; gap:4px 12px; margin-top:6px; }
+    .metrics strong { font-weight:700; }
+    .metrics em strong { font-style:italic; }
+    .controls { display:flex; gap:8px; align-items:center; margin-bottom:10px; }
+    .controls input { flex:1; padding:6px 8px; font-size:12px; }
+    .controls button { padding:6px 10px; font-size:12px; }
+    .note { font-size:12px; color:#666; margin-top:8px; }
+    code { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size:12px; }
+  </style>
+</head>
+<body>
+  <h1>SDF Sprite Preview (MapLibre + Hosted Fotoshi Styles)</h1>
+  <div class="layout">
+    <div class="panel">
+      <div class="label">Original SVGs (reference)</div>
+      <div class="row"><img src="./icons/libreicons-parking.svg" /><div><div><strong>Parking Lot</strong></div><div class="label">id 134 • libreicons-parking</div></div></div>
+      <div class="row"><img src="./icons/temaki-museum.svg" /><div><div><strong>Museum</strong></div><div class="label">id 1309 • temaki-museum</div></div></div>
+      <div class="row"><img src="./icons/temaki-lipstick.svg" /><div><div><strong>Beauty Shop</strong></div><div class="label">id 1131 • temaki-lipstick</div></div></div>
+      <div class="row"><img src="./icons/denimao-surf.svg" /><div><div><strong>Surfing School</strong></div><div class="label">id 2060 • denimao-surf</div></div></div>
+      <div class="note">This page loads a hosted style URL, renders two maps side-by-side (SDF vs PNG); only the SDF map is scaled to 20px for comparison. PNG uses the style’s native icon-size.</div>
+    </div>
+    <div class="panel">
+      <div class="controls">
+        <input id="styleUrl" value="https://dev.api.fotoshi.com/styles/vector.json" />
+        <button id="loadBtn">Load style</button>
+      </div>
+      <div class="label">Use the hosted style URL (as referenced in fotoshi_web). You can swap to satellite if needed.</div>
+      
+      <div style="display:grid; grid-template-columns: 1fr 1fr; gap:12px;">
+        <div>
+          <div class="label">SDF Sprite</div>
+          <div id="mapSdf"></div>
+          <div class="stats" id="statsSdf">FPS: – | Avg render: – ms</div>
+          <div class="metrics" id="metricsSdf">
+            <div><strong>FPS</strong>: <span id="sdf_fps">–</span></div>
+            <div><strong>Avg render</strong>: <span id="sdf_avg">–</span> ms</div>
+            <div>P95 render: <span id="sdf_p95">–</span> ms</div>
+            <div><strong>Time to first render</strong>: <span id="sdf_tfr">–</span> ms</div>
+            <div><strong>Time to idle</strong>: <span id="sdf_tti">–</span> ms</div>
+            <div>Tiles requested: <span id="sdf_tiles">–</span></div>
+            <div>Tile errors: <span id="sdf_tile_err">–</span></div>
+            <div>Style load: <span id="sdf_style">–</span> ms</div>
+            <div><em><strong>JS heap</strong></em>: <span id="sdf_mem">–</span> MB</div>
+          </div>
+        </div>
+        <div>
+          <div class="label">Regular Sprite</div>
+          <div id="mapPng"></div>
+          <div class="stats" id="statsPng">FPS: – | Avg render: – ms</div>
+          <div class="metrics" id="metricsPng">
+            <div><strong>FPS</strong>: <span id="png_fps">–</span></div>
+            <div><strong>Avg render</strong>: <span id="png_avg">–</span> ms</div>
+            <div>P95 render: <span id="png_p95">–</span> ms</div>
+            <div><strong>Time to first render</strong>: <span id="png_tfr">–</span> ms</div>
+            <div><strong>Time to idle</strong>: <span id="png_tti">–</span> ms</div>
+            <div>Tiles requested: <span id="png_tiles">–</span></div>
+            <div>Tile errors: <span id="png_tile_err">–</span></div>
+            <div>Style load: <span id="png_style">–</span> ms</div>
+            <div><em><strong>JS heap</strong></em>: <span id="png_mem">–</span> MB</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="note">This file must be served via <code>http-server</code> from the basemaps-assets repo so the local SDF sprite can load. Opening via <code>file://</code> will fail.</div>
+    </div>
+  </div>
+
+  <script src="https://unpkg.com/maplibre-gl@3.6.1/dist/maplibre-gl.js"></script>
+  <script>
+    
+    const baseStyle = {
+      version: 8,
+      glyphs: 'https://dev.api.fotoshi.com/fonts/{fontstack}/{range}.pbf',
+      sources: {},
+      layers: [{ id: 'background', type: 'background', paint: { 'background-color': '#ffffff' } }]
+    };
+
+    const mapSdf = new maplibregl.Map({
+      container: 'mapSdf',
+      style: baseStyle,
+      center: [8.547616530662367, 47.04943593524939],
+      zoom: 18
+    });
+
+    const mapPng = new maplibregl.Map({
+      container: 'mapPng',
+      style: baseStyle,
+      center: [8.547616530662367, 47.04943593524939],
+      zoom: 18
+    });
+
+    let syncing = false;
+    function syncMaps(src, dst) {
+      src.on('move', () => {
+        if (syncing) return;
+        syncing = true;
+        const c = src.getCenter();
+        const z = src.getZoom();
+        const b = src.getBearing();
+        const p = src.getPitch();
+        dst.jumpTo({ center: c, zoom: z, bearing: b, pitch: p });
+        syncing = false;
+      });
+    }
+    syncMaps(mapSdf, mapPng);
+    syncMaps(mapPng, mapSdf);
+    async function loadStyle(url) {
+      const res = await fetch(url);
+      if (!res.ok) throw new Error(`Failed to load style: ${res.status}`);
+      const styleBase = await res.json();
+      if (!styleBase.glyphs) {
+        styleBase.glyphs = 'https://dev.api.fotoshi.com/fonts/{fontstack}/{range}.pbf';
+      }
+      const glyphsFallback = 'https://dev.api.fotoshi.com/fonts/{fontstack}/{range}.pbf';
+      const scale = 20 / 64;
+      const sdfStyle = JSON.parse(JSON.stringify(styleBase));
+      const pngStyle = JSON.parse(JSON.stringify(styleBase));
+      sdfStyle.sprite = new URL('./sprites/sprites_sdf', window.location.href).toString();
+      // keep PNG map sprite as defined by the hosted style
+
+      // Ensure glyphs URL is set for both styles
+      if (!sdfStyle.glyphs) sdfStyle.glyphs = glyphsFallback;
+      if (!pngStyle.glyphs) pngStyle.glyphs = glyphsFallback;
+      if (!pngStyle.glyphs || !sdfStyle.glyphs) {
+        console.warn('glyphs still missing', { sdf: sdfStyle.glyphs, png: pngStyle.glyphs });
+      }
+
+      // Apply SDF scaling/paint only to SDF map
+      if (Array.isArray(sdfStyle.layers)) {
+        for (const layer of sdfStyle.layers) {
+          if (layer.type === 'symbol' && layer.layout && layer.layout['icon-image']) {
+            layer.layout['icon-size'] = scale;
+            layer.paint = layer.paint || {};
+            layer.paint['icon-color'] = '#111111';
+            layer.paint['icon-halo-width'] = 0;
+            layer.paint['icon-halo-blur'] = 0;
+            layer.paint['icon-opacity'] = 1;
+          }
+        }
+      }
+
+      mapSdf.setStyle(sdfStyle, { diff: false });
+      mapPng.setStyle(pngStyle, { diff: false });
+    }
+
+    document.getElementById('loadBtn').addEventListener('click', async () => {
+      const url = document.getElementById('styleUrl').value.trim();
+      if (!url) return;
+      try {
+        await loadStyle(url);
+      } catch (err) {
+        console.error(err);
+        alert(err.message);
+      }
+    });
+
+
+    
+    
+    function attachPerf(map, prefix) {
+      const state = {
+        frames: 0,
+        lastSample: performance.now(),
+        lastRender: performance.now(),
+        avgRender: 0,
+        renderCount: 0,
+        renderTimes: [],
+        tileRequests: 0,
+        tileErrors: 0,
+        styleStart: performance.now(),
+        styleLoadMs: null,
+        firstRenderMs: null,
+        idleMs: null,
+      };
+
+      function setText(id, value) {
+        const el = document.getElementById(`${prefix}_${id}`);
+        if (el) el.textContent = value;
+      }
+
+      map.on('render', () => {
+        const now = performance.now();
+        const dt = now - state.lastRender;
+        state.lastRender = now;
+        state.renderCount += 1;
+        state.avgRender = state.avgRender + (dt - state.avgRender) / state.renderCount;
+        state.renderTimes.push(dt);
+        if (state.renderTimes.length > 120) state.renderTimes.shift();
+      });
+
+      map.on('sourcedataloading', (e) => {
+        if (e && e.dataType === 'source') {
+          state.tileRequests += 1;
+        }
+      });
+
+      map.on('error', (e) => {
+        state.tileErrors += 1;
+      });
+
+      map.once('styledata', () => {
+        state.styleLoadMs = performance.now() - state.styleStart;
+      });
+
+      map.once('render', () => {
+        state.firstRenderMs = performance.now() - state.styleStart;
+      });
+
+      map.once('idle', () => {
+        state.idleMs = performance.now() - state.styleStart;
+      });
+
+      function tick() {
+        state.frames += 1;
+        const now = performance.now();
+        if (now - state.lastSample >= 1000) {
+          const fps = state.frames;
+          const times = [...state.renderTimes].sort((a,b)=>a-b);
+          const p95 = times.length ? times[Math.floor(times.length * 0.95)] : 0;
+          setText('fps', fps.toFixed(0));
+          setText('avg', state.avgRender.toFixed(1));
+          setText('p95', p95.toFixed(1));
+          setText('tfr', state.firstRenderMs ? state.firstRenderMs.toFixed(0) : '–');
+          setText('tti', state.idleMs ? state.idleMs.toFixed(0) : '–');
+          setText('tiles', state.tileRequests.toString());
+          setText('tile_err', state.tileErrors.toString());
+          setText('style', state.styleLoadMs ? state.styleLoadMs.toFixed(0) : '–');
+          if (performance && performance.memory && performance.memory.usedJSHeapSize) {
+            setText('mem', (performance.memory.usedJSHeapSize / (1024*1024)).toFixed(1));
+          } else {
+            setText('mem', '–');
+          }
+
+          const statsEl = document.getElementById(prefix === 'sdf' ? 'statsSdf' : 'statsPng');
+          if (statsEl) {
+            statsEl.textContent = `FPS: ${fps} | Avg render: ${state.avgRender.toFixed(1)} ms`;
+          }
+
+          state.frames = 0;
+          state.lastSample = now;
+        }
+        requestAnimationFrame(tick);
+      }
+      requestAnimationFrame(tick);
+    }
+
+
+    mapSdf.on('error', (e) => { if (e?.error) console.error('SDF map error:', e.error); });
+    mapPng.on('error', (e) => { if (e?.error) console.error('PNG map error:', e.error); });
+
+    attachPerf(mapSdf, 'sdf');
+    attachPerf(mapPng, 'png');
+
+
+    loadStyle(document.getElementById('styleUrl').value).catch((err) => {
+      console.error(err);
+    });
+  </script>
+</body>
+</html>

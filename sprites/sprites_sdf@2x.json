@@ -1,0 +1,8458 @@
+{
+  "andikasyaif-plaza": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 0,
+    "y": 0,
+    "sdf": true
+  },
+  "dejonge-hangglider": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 0,
+    "y": 128,
+    "sdf": true
+  },
+  "denimao-surf": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 0,
+    "y": 256,
+    "sdf": true
+  },
+  "far-clone": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 0,
+    "y": 384,
+    "sdf": true
+  },
+  "far-credit-card": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 0,
+    "y": 512,
+    "sdf": true
+  },
+  "far-dot-circle": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 0,
+    "y": 640,
+    "sdf": true
+  },
+  "far-snowflake": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 0,
+    "y": 768,
+    "sdf": true
+  },
+  "far-times-circle": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 0,
+    "y": 896,
+    "sdf": true
+  },
+  "fas-ambulance": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 0,
+    "y": 1024,
+    "sdf": true
+  },
+  "fas-apple-alt": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 0,
+    "y": 1152,
+    "sdf": true
+  },
+  "fas-archive": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 0,
+    "y": 1280,
+    "sdf": true
+  },
+  "fas-archway": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 0,
+    "y": 1408,
+    "sdf": true
+  },
+  "fas-baby": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 0,
+    "y": 1536,
+    "sdf": true
+  },
+  "fas-baby-carriage": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 0,
+    "y": 1664,
+    "sdf": true
+  },
+  "fas-balance-scale": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 0,
+    "y": 1792,
+    "sdf": true
+  },
+  "fas-bath": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 0,
+    "y": 1920,
+    "sdf": true
+  },
+  "fas-beer": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 0,
+    "y": 2048,
+    "sdf": true
+  },
+  "fas-bell": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 0,
+    "y": 2176,
+    "sdf": true
+  },
+  "fas-biking": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 0,
+    "y": 2304,
+    "sdf": true
+  },
+  "fas-blender": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 0,
+    "y": 2432,
+    "sdf": true
+  },
+  "fas-book": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 0,
+    "y": 2560,
+    "sdf": true
+  },
+  "fas-border-all": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 0,
+    "y": 2688,
+    "sdf": true
+  },
+  "fas-bowl-rice": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 0,
+    "y": 2816,
+    "sdf": true
+  },
+  "fas-box": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 0,
+    "y": 2944,
+    "sdf": true
+  },
+  "fas-box-open": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 0,
+    "y": 3072,
+    "sdf": true
+  },
+  "fas-bugs": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 0,
+    "y": 3200,
+    "sdf": true
+  },
+  "fas-building-flag": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 0,
+    "y": 3328,
+    "sdf": true
+  },
+  "fas-bullseye": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 0,
+    "y": 3456,
+    "sdf": true
+  },
+  "fas-burn": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 0,
+    "y": 3584,
+    "sdf": true
+  },
+  "fas-calendar-alt": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 0,
+    "y": 3712,
+    "sdf": true
+  },
+  "fas-calendar-days": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 0,
+    "y": 3840,
+    "sdf": true
+  },
+  "fas-camera-retro": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 0,
+    "y": 3968,
+    "sdf": true
+  },
+  "fas-cannabis": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 128,
+    "y": 0,
+    "sdf": true
+  },
+  "fas-car": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 128,
+    "y": 128,
+    "sdf": true
+  },
+  "fas-car-battery": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 128,
+    "y": 256,
+    "sdf": true
+  },
+  "fas-car-crash": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 128,
+    "y": 384,
+    "sdf": true
+  },
+  "fas-carrot": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 128,
+    "y": 512,
+    "sdf": true
+  },
+  "fas-cat": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 128,
+    "y": 640,
+    "sdf": true
+  },
+  "fas-charging-station": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 128,
+    "y": 768,
+    "sdf": true
+  },
+  "fas-cheese": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 128,
+    "y": 896,
+    "sdf": true
+  },
+  "fas-chess-bishop": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 128,
+    "y": 1024,
+    "sdf": true
+  },
+  "fas-chess-knight": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 128,
+    "y": 1152,
+    "sdf": true
+  },
+  "fas-chess-pawn": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 128,
+    "y": 1280,
+    "sdf": true
+  },
+  "fas-chevron-circle-up": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 128,
+    "y": 1408,
+    "sdf": true
+  },
+  "fas-child": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 128,
+    "y": 1536,
+    "sdf": true
+  },
+  "fas-child-reaching": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 128,
+    "y": 1664,
+    "sdf": true
+  },
+  "fas-church": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 128,
+    "y": 1792,
+    "sdf": true
+  },
+  "fas-cocktail": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 128,
+    "y": 1920,
+    "sdf": true
+  },
+  "fas-code": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 128,
+    "y": 2048,
+    "sdf": true
+  },
+  "fas-coins": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 128,
+    "y": 2176,
+    "sdf": true
+  },
+  "fas-comment": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 128,
+    "y": 2304,
+    "sdf": true
+  },
+  "fas-comments": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 128,
+    "y": 2432,
+    "sdf": true
+  },
+  "fas-compact-disc": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 128,
+    "y": 2560,
+    "sdf": true
+  },
+  "fas-compress-arrows-alt": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 128,
+    "y": 2688,
+    "sdf": true
+  },
+  "fas-concierge-bell": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 128,
+    "y": 2816,
+    "sdf": true
+  },
+  "fas-couch": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 128,
+    "y": 2944,
+    "sdf": true
+  },
+  "fas-crosshairs": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 128,
+    "y": 3072,
+    "sdf": true
+  },
+  "fas-crown": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 128,
+    "y": 3200,
+    "sdf": true
+  },
+  "fas-crutch": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 128,
+    "y": 3328,
+    "sdf": true
+  },
+  "fas-cube": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 128,
+    "y": 3456,
+    "sdf": true
+  },
+  "fas-cut": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 128,
+    "y": 3584,
+    "sdf": true
+  },
+  "fas-dice": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 128,
+    "y": 3712,
+    "sdf": true
+  },
+  "fas-directions": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 128,
+    "y": 3840,
+    "sdf": true
+  },
+  "fas-dolly": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 128,
+    "y": 3968,
+    "sdf": true
+  },
+  "fas-door-closed": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 256,
+    "y": 0,
+    "sdf": true
+  },
+  "fas-door-open": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 256,
+    "y": 128,
+    "sdf": true
+  },
+  "fas-dove": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 256,
+    "y": 256,
+    "sdf": true
+  },
+  "fas-drafting-compass": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 256,
+    "y": 384,
+    "sdf": true
+  },
+  "fas-dragon": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 256,
+    "y": 512,
+    "sdf": true
+  },
+  "fas-drumstick-bite": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 256,
+    "y": 640,
+    "sdf": true
+  },
+  "fas-dumbbell": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 256,
+    "y": 768,
+    "sdf": true
+  },
+  "fas-dumpster": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 256,
+    "y": 896,
+    "sdf": true
+  },
+  "fas-dumpster-fire": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 256,
+    "y": 1024,
+    "sdf": true
+  },
+  "fas-dungeon": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 256,
+    "y": 1152,
+    "sdf": true
+  },
+  "fas-eye": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 256,
+    "y": 1280,
+    "sdf": true
+  },
+  "fas-film": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 256,
+    "y": 1408,
+    "sdf": true
+  },
+  "fas-fire-extinguisher": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 256,
+    "y": 1536,
+    "sdf": true
+  },
+  "fas-fish": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 256,
+    "y": 1664,
+    "sdf": true
+  },
+  "fas-flask": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 256,
+    "y": 1792,
+    "sdf": true
+  },
+  "fas-frog": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 256,
+    "y": 1920,
+    "sdf": true
+  },
+  "fas-futbol": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 256,
+    "y": 2048,
+    "sdf": true
+  },
+  "fas-gavel": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 256,
+    "y": 2176,
+    "sdf": true
+  },
+  "fas-guitar": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 256,
+    "y": 2304,
+    "sdf": true
+  },
+  "fas-hammer": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 256,
+    "y": 2432,
+    "sdf": true
+  },
+  "fas-handshake": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 256,
+    "y": 2560,
+    "sdf": true
+  },
+  "fas-hashtag": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 256,
+    "y": 2688,
+    "sdf": true
+  },
+  "fas-hat-cowboy-side": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 256,
+    "y": 2816,
+    "sdf": true
+  },
+  "fas-helmet-safety": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 256,
+    "y": 2944,
+    "sdf": true
+  },
+  "fas-hiking": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 256,
+    "y": 3072,
+    "sdf": true
+  },
+  "fas-horse": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 256,
+    "y": 3200,
+    "sdf": true
+  },
+  "fas-hospital-alt": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 256,
+    "y": 3328,
+    "sdf": true
+  },
+  "fas-hot-tub-person": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 256,
+    "y": 3456,
+    "sdf": true
+  },
+  "fas-hotdog": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 256,
+    "y": 3584,
+    "sdf": true
+  },
+  "fas-hotel": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 256,
+    "y": 3712,
+    "sdf": true
+  },
+  "fas-house-damage": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 256,
+    "y": 3840,
+    "sdf": true
+  },
+  "fas-house-fire": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 256,
+    "y": 3968,
+    "sdf": true
+  },
+  "fas-i-cursor": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 384,
+    "y": 0,
+    "sdf": true
+  },
+  "fas-ice-cream": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 384,
+    "y": 128,
+    "sdf": true
+  },
+  "fas-jar": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 384,
+    "y": 256,
+    "sdf": true
+  },
+  "fas-key": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 384,
+    "y": 384,
+    "sdf": true
+  },
+  "fas-language": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 384,
+    "y": 512,
+    "sdf": true
+  },
+  "fas-laptop": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 384,
+    "y": 640,
+    "sdf": true
+  },
+  "fas-laptop-code": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 384,
+    "y": 768,
+    "sdf": true
+  },
+  "fas-leaf": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 384,
+    "y": 896,
+    "sdf": true
+  },
+  "fas-life-ring": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 384,
+    "y": 1024,
+    "sdf": true
+  },
+  "fas-lock": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 384,
+    "y": 1152,
+    "sdf": true
+  },
+  "fas-long-arrow-alt-right": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 384,
+    "y": 1280,
+    "sdf": true
+  },
+  "fas-mail-bulk": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 384,
+    "y": 1408,
+    "sdf": true
+  },
+  "fas-map": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 384,
+    "y": 1536,
+    "sdf": true
+  },
+  "fas-map-signs": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 384,
+    "y": 1664,
+    "sdf": true
+  },
+  "fas-mask": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 384,
+    "y": 1792,
+    "sdf": true
+  },
+  "fas-medkit": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 384,
+    "y": 1920,
+    "sdf": true
+  },
+  "fas-microchip": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 384,
+    "y": 2048,
+    "sdf": true
+  },
+  "fas-microphone": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 384,
+    "y": 2176,
+    "sdf": true
+  },
+  "fas-mobile-alt": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 384,
+    "y": 2304,
+    "sdf": true
+  },
+  "fas-moped": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 384,
+    "y": 2432,
+    "sdf": true
+  },
+  "fas-mosque": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 384,
+    "y": 2560,
+    "sdf": true
+  },
+  "fas-motorcycle": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 384,
+    "y": 2688,
+    "sdf": true
+  },
+  "fas-music": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 384,
+    "y": 2816,
+    "sdf": true
+  },
+  "fas-newspaper": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 384,
+    "y": 2944,
+    "sdf": true
+  },
+  "fas-paint-roller": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 384,
+    "y": 3072,
+    "sdf": true
+  },
+  "fas-paperclip": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 384,
+    "y": 3200,
+    "sdf": true
+  },
+  "fas-pen-ruler": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 384,
+    "y": 3328,
+    "sdf": true
+  },
+  "fas-people-carry": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 384,
+    "y": 3456,
+    "sdf": true
+  },
+  "fas-pepper-hot": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 384,
+    "y": 3584,
+    "sdf": true
+  },
+  "fas-person-arrow-up-from-line": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 384,
+    "y": 3712,
+    "sdf": true
+  },
+  "fas-person-booth": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 384,
+    "y": 3840,
+    "sdf": true
+  },
+  "fas-phone-alt": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 384,
+    "y": 3968,
+    "sdf": true
+  },
+  "fas-phone-square": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 512,
+    "y": 0,
+    "sdf": true
+  },
+  "fas-pills": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 512,
+    "y": 128,
+    "sdf": true
+  },
+  "fas-plane": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 512,
+    "y": 256,
+    "sdf": true
+  },
+  "fas-plane-departure": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 512,
+    "y": 384,
+    "sdf": true
+  },
+  "fas-plate-wheat": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 512,
+    "y": 512,
+    "sdf": true
+  },
+  "fas-plug": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 512,
+    "y": 640,
+    "sdf": true
+  },
+  "fas-plug-circle-bolt": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 512,
+    "y": 768,
+    "sdf": true
+  },
+  "fas-plus": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 512,
+    "y": 896,
+    "sdf": true
+  },
+  "fas-plus-circle": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 512,
+    "y": 1024,
+    "sdf": true
+  },
+  "fas-plus-square": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 512,
+    "y": 1152,
+    "sdf": true
+  },
+  "fas-print": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 512,
+    "y": 1280,
+    "sdf": true
+  },
+  "fas-procedures": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 512,
+    "y": 1408,
+    "sdf": true
+  },
+  "fas-puzzle": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 512,
+    "y": 1536,
+    "sdf": true
+  },
+  "fas-puzzle-piece": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 512,
+    "y": 1664,
+    "sdf": true
+  },
+  "fas-question": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 512,
+    "y": 1792,
+    "sdf": true
+  },
+  "fas-rocket": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 512,
+    "y": 1920,
+    "sdf": true
+  },
+  "fas-rotate": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 512,
+    "y": 2048,
+    "sdf": true
+  },
+  "fas-running": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 512,
+    "y": 2176,
+    "sdf": true
+  },
+  "fas-satellite-dish": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 512,
+    "y": 2304,
+    "sdf": true
+  },
+  "fas-school": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 512,
+    "y": 2432,
+    "sdf": true
+  },
+  "fas-screwdriver": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 512,
+    "y": 2560,
+    "sdf": true
+  },
+  "fas-seedling": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 512,
+    "y": 2688,
+    "sdf": true
+  },
+  "fas-server": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 512,
+    "y": 2816,
+    "sdf": true
+  },
+  "fas-shapes": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 512,
+    "y": 2944,
+    "sdf": true
+  },
+  "fas-share-alt": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 512,
+    "y": 3072,
+    "sdf": true
+  },
+  "fas-shoe-prints": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 512,
+    "y": 3200,
+    "sdf": true
+  },
+  "fas-shopping-basket": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 512,
+    "y": 3328,
+    "sdf": true
+  },
+  "fas-shopping-cart": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 512,
+    "y": 3456,
+    "sdf": true
+  },
+  "fas-sign-hanging": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 512,
+    "y": 3584,
+    "sdf": true
+  },
+  "fas-skating": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 512,
+    "y": 3712,
+    "sdf": true
+  },
+  "fas-skiing": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 512,
+    "y": 3840,
+    "sdf": true
+  },
+  "fas-skiing-nordic": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 512,
+    "y": 3968,
+    "sdf": true
+  },
+  "fas-sleigh": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 640,
+    "y": 0,
+    "sdf": true
+  },
+  "fas-smoking": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 640,
+    "y": 128,
+    "sdf": true
+  },
+  "fas-snowboarding": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 640,
+    "y": 256,
+    "sdf": true
+  },
+  "fas-solar-panel": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 640,
+    "y": 384,
+    "sdf": true
+  },
+  "fas-sort-alpha-up": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 640,
+    "y": 512,
+    "sdf": true
+  },
+  "fas-spa": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 640,
+    "y": 640,
+    "sdf": true
+  },
+  "fas-space-shuttle": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 640,
+    "y": 768,
+    "sdf": true
+  },
+  "fas-spoon": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 640,
+    "y": 896,
+    "sdf": true
+  },
+  "fas-stamp": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 640,
+    "y": 1024,
+    "sdf": true
+  },
+  "fas-store": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 640,
+    "y": 1152,
+    "sdf": true
+  },
+  "fas-store-alt-slash": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 640,
+    "y": 1280,
+    "sdf": true
+  },
+  "fas-suitcase": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 640,
+    "y": 1408,
+    "sdf": true
+  },
+  "fas-suitcase-rolling": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 640,
+    "y": 1536,
+    "sdf": true
+  },
+  "fas-swimmer": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 640,
+    "y": 1664,
+    "sdf": true
+  },
+  "fas-swimming-pool": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 640,
+    "y": 1792,
+    "sdf": true
+  },
+  "fas-synagogue": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 640,
+    "y": 1920,
+    "sdf": true
+  },
+  "fas-table-tennis": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 640,
+    "y": 2048,
+    "sdf": true
+  },
+  "fas-tachometer-alt": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 640,
+    "y": 2176,
+    "sdf": true
+  },
+  "fas-tags": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 640,
+    "y": 2304,
+    "sdf": true
+  },
+  "fas-tape": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 640,
+    "y": 2432,
+    "sdf": true
+  },
+  "fas-taxi": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 640,
+    "y": 2560,
+    "sdf": true
+  },
+  "fas-teeth": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 640,
+    "y": 2688,
+    "sdf": true
+  },
+  "fas-th": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 640,
+    "y": 2816,
+    "sdf": true
+  },
+  "fas-th-list": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 640,
+    "y": 2944,
+    "sdf": true
+  },
+  "fas-thermometer-three-quarters": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 640,
+    "y": 3072,
+    "sdf": true
+  },
+  "fas-ticket-alt": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 640,
+    "y": 3200,
+    "sdf": true
+  },
+  "fas-tint": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 640,
+    "y": 3328,
+    "sdf": true
+  },
+  "fas-tint-slash": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 640,
+    "y": 3456,
+    "sdf": true
+  },
+  "fas-toilet": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 640,
+    "y": 3584,
+    "sdf": true
+  },
+  "fas-tools": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 640,
+    "y": 3712,
+    "sdf": true
+  },
+  "fas-tractor": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 640,
+    "y": 3840,
+    "sdf": true
+  },
+  "fas-tram": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 640,
+    "y": 3968,
+    "sdf": true
+  },
+  "fas-trash-restore": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 768,
+    "y": 0,
+    "sdf": true
+  },
+  "fas-triangle-exclamation": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 768,
+    "y": 128,
+    "sdf": true
+  },
+  "fas-trophy": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 768,
+    "y": 256,
+    "sdf": true
+  },
+  "fas-truck-fast": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 768,
+    "y": 384,
+    "sdf": true
+  },
+  "fas-truck-loading": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 768,
+    "y": 512,
+    "sdf": true
+  },
+  "fas-truck-monster": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 768,
+    "y": 640,
+    "sdf": true
+  },
+  "fas-tshirt": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 768,
+    "y": 768,
+    "sdf": true
+  },
+  "fas-umbrella-beach": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 768,
+    "y": 896,
+    "sdf": true
+  },
+  "fas-user-alt": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 768,
+    "y": 1024,
+    "sdf": true
+  },
+  "fas-user-cog": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 768,
+    "y": 1152,
+    "sdf": true
+  },
+  "fas-user-secret": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 768,
+    "y": 1280,
+    "sdf": true
+  },
+  "fas-user-tie": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 768,
+    "y": 1408,
+    "sdf": true
+  },
+  "fas-users": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 768,
+    "y": 1536,
+    "sdf": true
+  },
+  "fas-vector-square": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 768,
+    "y": 1664,
+    "sdf": true
+  },
+  "fas-vest": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 768,
+    "y": 1792,
+    "sdf": true
+  },
+  "fas-vial": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 768,
+    "y": 1920,
+    "sdf": true
+  },
+  "fas-video": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 768,
+    "y": 2048,
+    "sdf": true
+  },
+  "fas-vihara": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 768,
+    "y": 2176,
+    "sdf": true
+  },
+  "fas-volume-up": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 768,
+    "y": 2304,
+    "sdf": true
+  },
+  "fas-vote-yea": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 768,
+    "y": 2432,
+    "sdf": true
+  },
+  "fas-warehouse": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 768,
+    "y": 2560,
+    "sdf": true
+  },
+  "fas-weight": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 768,
+    "y": 2688,
+    "sdf": true
+  },
+  "fas-weight-hanging": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 768,
+    "y": 2816,
+    "sdf": true
+  },
+  "fas-whiskey": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 768,
+    "y": 2944,
+    "sdf": true
+  },
+  "fas-wifi": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 768,
+    "y": 3072,
+    "sdf": true
+  },
+  "fas-wine-bottle": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 768,
+    "y": 3200,
+    "sdf": true
+  },
+  "fas-yin-yang": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 768,
+    "y": 3328,
+    "sdf": true
+  },
+  "fotoshi-atm": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 768,
+    "y": 3456,
+    "sdf": true
+  },
+  "fotoshi-billiards": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 768,
+    "y": 3584,
+    "sdf": true
+  },
+  "fotoshi-book_return": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 768,
+    "y": 3712,
+    "sdf": true
+  },
+  "fotoshi-cave": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 768,
+    "y": 3840,
+    "sdf": true
+  },
+  "fotoshi-cupcake": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 768,
+    "y": 3968,
+    "sdf": true
+  },
+  "fotoshi-exit": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 896,
+    "y": 0,
+    "sdf": true
+  },
+  "fotoshi-ford": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 896,
+    "y": 128,
+    "sdf": true
+  },
+  "fotoshi-mud": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 896,
+    "y": 256,
+    "sdf": true
+  },
+  "fotoshi-shipwreck": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 896,
+    "y": 384,
+    "sdf": true
+  },
+  "fts-agave": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 896,
+    "y": 512,
+    "sdf": true
+  },
+  "fts-badminton": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 896,
+    "y": 640,
+    "sdf": true
+  },
+  "fts-billiards": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 896,
+    "y": 768,
+    "sdf": true
+  },
+  "fts-boot": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 896,
+    "y": 896,
+    "sdf": true
+  },
+  "fts-cactus": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 896,
+    "y": 1024,
+    "sdf": true
+  },
+  "fts-cage": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 896,
+    "y": 1152,
+    "sdf": true
+  },
+  "fts-carpet": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 896,
+    "y": 1280,
+    "sdf": true
+  },
+  "fts-dress": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 896,
+    "y": 1408,
+    "sdf": true
+  },
+  "fts-elephant": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 896,
+    "y": 1536,
+    "sdf": true
+  },
+  "fts-gymnastics": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 896,
+    "y": 1664,
+    "sdf": true
+  },
+  "fts-hookah": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 896,
+    "y": 1792,
+    "sdf": true
+  },
+  "fts-magic": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 896,
+    "y": 1920,
+    "sdf": true
+  },
+  "fts-pray": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 896,
+    "y": 2048,
+    "sdf": true
+  },
+  "fts-tipi": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 896,
+    "y": 2176,
+    "sdf": true
+  },
+  "fts-tree": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 896,
+    "y": 2304,
+    "sdf": true
+  },
+  "fts-whale": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 896,
+    "y": 2432,
+    "sdf": true
+  },
+  "fts-xmas": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 896,
+    "y": 2560,
+    "sdf": true
+  },
+  "game-icons-bridge": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 896,
+    "y": 2688,
+    "sdf": true
+  },
+  "game-icons-cornu": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 896,
+    "y": 2816,
+    "sdf": true
+  },
+  "game-icons-mountain-pass": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 896,
+    "y": 2944,
+    "sdf": true
+  },
+  "iD-boundary": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 896,
+    "y": 3072,
+    "sdf": true
+  },
+  "iD-highway-living-street": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 896,
+    "y": 3200,
+    "sdf": true
+  },
+  "iD-highway-motorway": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 896,
+    "y": 3328,
+    "sdf": true
+  },
+  "iD-highway-motorway-link": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 896,
+    "y": 3456,
+    "sdf": true
+  },
+  "iD-highway-primary": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 896,
+    "y": 3584,
+    "sdf": true
+  },
+  "iD-highway-primary-link": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 896,
+    "y": 3712,
+    "sdf": true
+  },
+  "iD-highway-residential": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 896,
+    "y": 3840,
+    "sdf": true
+  },
+  "iD-highway-secondary": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 896,
+    "y": 3968,
+    "sdf": true
+  },
+  "iD-highway-secondary-link": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1024,
+    "y": 0,
+    "sdf": true
+  },
+  "iD-highway-service": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1024,
+    "y": 128,
+    "sdf": true
+  },
+  "iD-highway-steps": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1024,
+    "y": 256,
+    "sdf": true
+  },
+  "iD-highway-tertiary": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1024,
+    "y": 384,
+    "sdf": true
+  },
+  "iD-highway-tertiary-link": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1024,
+    "y": 512,
+    "sdf": true
+  },
+  "iD-highway-trunk": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1024,
+    "y": 640,
+    "sdf": true
+  },
+  "iD-highway-trunk-link": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1024,
+    "y": 768,
+    "sdf": true
+  },
+  "iD-highway-unclassified": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1024,
+    "y": 896,
+    "sdf": true
+  },
+  "iD-icon-line": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1024,
+    "y": 1024,
+    "sdf": true
+  },
+  "iD-icon-point": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1024,
+    "y": 1152,
+    "sdf": true
+  },
+  "iD-multipolygon": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1024,
+    "y": 1280,
+    "sdf": true
+  },
+  "iD-other-line": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1024,
+    "y": 1408,
+    "sdf": true
+  },
+  "iD-pipeline-line": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1024,
+    "y": 1536,
+    "sdf": true
+  },
+  "iD-power-line": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1024,
+    "y": 1664,
+    "sdf": true
+  },
+  "iD-relation": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1024,
+    "y": 1792,
+    "sdf": true
+  },
+  "iD-restriction": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1024,
+    "y": 1920,
+    "sdf": true
+  },
+  "iD-restriction-no-left-turn": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1024,
+    "y": 2048,
+    "sdf": true
+  },
+  "iD-restriction-no-right-turn": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1024,
+    "y": 2176,
+    "sdf": true
+  },
+  "iD-restriction-no-straight-on": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1024,
+    "y": 2304,
+    "sdf": true
+  },
+  "iD-restriction-no-u-turn": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1024,
+    "y": 2432,
+    "sdf": true
+  },
+  "iD-restriction-only-left-turn": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1024,
+    "y": 2560,
+    "sdf": true
+  },
+  "iD-restriction-only-right-turn": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1024,
+    "y": 2688,
+    "sdf": true
+  },
+  "iD-restriction-only-straight-on": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1024,
+    "y": 2816,
+    "sdf": true
+  },
+  "iD-restriction-only-u-turn": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1024,
+    "y": 2944,
+    "sdf": true
+  },
+  "iD-route": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1024,
+    "y": 3072,
+    "sdf": true
+  },
+  "iD-route-detour": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1024,
+    "y": 3200,
+    "sdf": true
+  },
+  "iD-route-master": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1024,
+    "y": 3328,
+    "sdf": true
+  },
+  "iD-waterway-canal": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1024,
+    "y": 3456,
+    "sdf": true
+  },
+  "iD-waterway-ditch": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1024,
+    "y": 3584,
+    "sdf": true
+  },
+  "iD-waterway-river": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1024,
+    "y": 3712,
+    "sdf": true
+  },
+  "iD-waterway-stream": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1024,
+    "y": 3840,
+    "sdf": true
+  },
+  "ion-university": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1024,
+    "y": 3968,
+    "sdf": true
+  },
+  "ionicons-wine": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1152,
+    "y": 0,
+    "sdf": true
+  },
+  "libreicons-bee": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1152,
+    "y": 128,
+    "sdf": true
+  },
+  "libreicons-broom": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1152,
+    "y": 256,
+    "sdf": true
+  },
+  "libreicons-mountaineer": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1152,
+    "y": 384,
+    "sdf": true
+  },
+  "libreicons-parking": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1152,
+    "y": 512,
+    "sdf": true
+  },
+  "libreicons-playground": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1152,
+    "y": 640,
+    "sdf": true
+  },
+  "maki-aerialway": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1152,
+    "y": 768,
+    "sdf": true
+  },
+  "maki-airfield": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1152,
+    "y": 896,
+    "sdf": true
+  },
+  "maki-airport": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1152,
+    "y": 1024,
+    "sdf": true
+  },
+  "maki-alcohol-shop": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1152,
+    "y": 1152,
+    "sdf": true
+  },
+  "maki-american-football": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1152,
+    "y": 1280,
+    "sdf": true
+  },
+  "maki-amusement-park": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1152,
+    "y": 1408,
+    "sdf": true
+  },
+  "maki-animal-shelter": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1152,
+    "y": 1536,
+    "sdf": true
+  },
+  "maki-aquarium": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1152,
+    "y": 1664,
+    "sdf": true
+  },
+  "maki-arrow": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1152,
+    "y": 1792,
+    "sdf": true
+  },
+  "maki-art-gallery": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1152,
+    "y": 1920,
+    "sdf": true
+  },
+  "maki-attraction": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1152,
+    "y": 2048,
+    "sdf": true
+  },
+  "maki-bakery": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1152,
+    "y": 2176,
+    "sdf": true
+  },
+  "maki-bank": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1152,
+    "y": 2304,
+    "sdf": true
+  },
+  "maki-bank-JP": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1152,
+    "y": 2432,
+    "sdf": true
+  },
+  "maki-bar": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1152,
+    "y": 2560,
+    "sdf": true
+  },
+  "maki-barrier": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1152,
+    "y": 2688,
+    "sdf": true
+  },
+  "maki-baseball": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1152,
+    "y": 2816,
+    "sdf": true
+  },
+  "maki-basketball": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1152,
+    "y": 2944,
+    "sdf": true
+  },
+  "maki-bbq": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1152,
+    "y": 3072,
+    "sdf": true
+  },
+  "maki-beach": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1152,
+    "y": 3200,
+    "sdf": true
+  },
+  "maki-beer": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1152,
+    "y": 3328,
+    "sdf": true
+  },
+  "maki-bicycle": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1152,
+    "y": 3456,
+    "sdf": true
+  },
+  "maki-bicycle-share": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1152,
+    "y": 3584,
+    "sdf": true
+  },
+  "maki-blood-bank": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1152,
+    "y": 3712,
+    "sdf": true
+  },
+  "maki-bowling-alley": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1152,
+    "y": 3840,
+    "sdf": true
+  },
+  "maki-bridge": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1152,
+    "y": 3968,
+    "sdf": true
+  },
+  "maki-building": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1280,
+    "y": 0,
+    "sdf": true
+  },
+  "maki-building-alt1": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1280,
+    "y": 128,
+    "sdf": true
+  },
+  "maki-bus": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1280,
+    "y": 256,
+    "sdf": true
+  },
+  "maki-cafe": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1280,
+    "y": 384,
+    "sdf": true
+  },
+  "maki-campsite": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1280,
+    "y": 512,
+    "sdf": true
+  },
+  "maki-car": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1280,
+    "y": 640,
+    "sdf": true
+  },
+  "maki-car-rental": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1280,
+    "y": 768,
+    "sdf": true
+  },
+  "maki-car-repair": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1280,
+    "y": 896,
+    "sdf": true
+  },
+  "maki-casino": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1280,
+    "y": 1024,
+    "sdf": true
+  },
+  "maki-castle": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1280,
+    "y": 1152,
+    "sdf": true
+  },
+  "maki-castle-JP": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1280,
+    "y": 1280,
+    "sdf": true
+  },
+  "maki-caution": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1280,
+    "y": 1408,
+    "sdf": true
+  },
+  "maki-cemetery": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1280,
+    "y": 1536,
+    "sdf": true
+  },
+  "maki-cemetery-JP": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1280,
+    "y": 1664,
+    "sdf": true
+  },
+  "maki-charging-station": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1280,
+    "y": 1792,
+    "sdf": true
+  },
+  "maki-cinema": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1280,
+    "y": 1920,
+    "sdf": true
+  },
+  "maki-circle": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1280,
+    "y": 2048,
+    "sdf": true
+  },
+  "maki-circle-stroked": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1280,
+    "y": 2176,
+    "sdf": true
+  },
+  "maki-city": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1280,
+    "y": 2304,
+    "sdf": true
+  },
+  "maki-clothing-store": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1280,
+    "y": 2432,
+    "sdf": true
+  },
+  "maki-college": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1280,
+    "y": 2560,
+    "sdf": true
+  },
+  "maki-college-JP": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1280,
+    "y": 2688,
+    "sdf": true
+  },
+  "maki-commercial": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1280,
+    "y": 2816,
+    "sdf": true
+  },
+  "maki-communications-tower": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1280,
+    "y": 2944,
+    "sdf": true
+  },
+  "maki-confectionery": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1280,
+    "y": 3072,
+    "sdf": true
+  },
+  "maki-construction": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1280,
+    "y": 3200,
+    "sdf": true
+  },
+  "maki-convenience": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1280,
+    "y": 3328,
+    "sdf": true
+  },
+  "maki-cricket": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1280,
+    "y": 3456,
+    "sdf": true
+  },
+  "maki-cross": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1280,
+    "y": 3584,
+    "sdf": true
+  },
+  "maki-dam": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1280,
+    "y": 3712,
+    "sdf": true
+  },
+  "maki-danger": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1280,
+    "y": 3840,
+    "sdf": true
+  },
+  "maki-defibrillator": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1280,
+    "y": 3968,
+    "sdf": true
+  },
+  "maki-dentist": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1408,
+    "y": 0,
+    "sdf": true
+  },
+  "maki-diamond": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1408,
+    "y": 128,
+    "sdf": true
+  },
+  "maki-doctor": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1408,
+    "y": 256,
+    "sdf": true
+  },
+  "maki-dog-park": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1408,
+    "y": 384,
+    "sdf": true
+  },
+  "maki-drinking-water": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1408,
+    "y": 512,
+    "sdf": true
+  },
+  "maki-elevator": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1408,
+    "y": 640,
+    "sdf": true
+  },
+  "maki-embassy": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1408,
+    "y": 768,
+    "sdf": true
+  },
+  "maki-emergency-phone": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1408,
+    "y": 896,
+    "sdf": true
+  },
+  "maki-entrance": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1408,
+    "y": 1024,
+    "sdf": true
+  },
+  "maki-entrance-alt1": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1408,
+    "y": 1152,
+    "sdf": true
+  },
+  "maki-farm": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1408,
+    "y": 1280,
+    "sdf": true
+  },
+  "maki-fast-food": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1408,
+    "y": 1408,
+    "sdf": true
+  },
+  "maki-fence": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1408,
+    "y": 1536,
+    "sdf": true
+  },
+  "maki-ferry": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1408,
+    "y": 1664,
+    "sdf": true
+  },
+  "maki-ferry-JP": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1408,
+    "y": 1792,
+    "sdf": true
+  },
+  "maki-fire-station": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1408,
+    "y": 1920,
+    "sdf": true
+  },
+  "maki-fire-station-JP": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1408,
+    "y": 2048,
+    "sdf": true
+  },
+  "maki-fitness-centre": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1408,
+    "y": 2176,
+    "sdf": true
+  },
+  "maki-florist": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1408,
+    "y": 2304,
+    "sdf": true
+  },
+  "maki-fuel": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1408,
+    "y": 2432,
+    "sdf": true
+  },
+  "maki-furniture": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1408,
+    "y": 2560,
+    "sdf": true
+  },
+  "maki-gaming": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1408,
+    "y": 2688,
+    "sdf": true
+  },
+  "maki-garden": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1408,
+    "y": 2816,
+    "sdf": true
+  },
+  "maki-garden-centre": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1408,
+    "y": 2944,
+    "sdf": true
+  },
+  "maki-gate": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1408,
+    "y": 3072,
+    "sdf": true
+  },
+  "maki-gift": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1408,
+    "y": 3200,
+    "sdf": true
+  },
+  "maki-globe": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1408,
+    "y": 3328,
+    "sdf": true
+  },
+  "maki-golf": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1408,
+    "y": 3456,
+    "sdf": true
+  },
+  "maki-grocery": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1408,
+    "y": 3584,
+    "sdf": true
+  },
+  "maki-hairdresser": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1408,
+    "y": 3712,
+    "sdf": true
+  },
+  "maki-harbor": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1408,
+    "y": 3840,
+    "sdf": true
+  },
+  "maki-hardware": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1408,
+    "y": 3968,
+    "sdf": true
+  },
+  "maki-heart": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1536,
+    "y": 0,
+    "sdf": true
+  },
+  "maki-heliport": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1536,
+    "y": 128,
+    "sdf": true
+  },
+  "maki-highway-rest-area": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1536,
+    "y": 256,
+    "sdf": true
+  },
+  "maki-historic": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1536,
+    "y": 384,
+    "sdf": true
+  },
+  "maki-home": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1536,
+    "y": 512,
+    "sdf": true
+  },
+  "maki-horse-riding": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1536,
+    "y": 640,
+    "sdf": true
+  },
+  "maki-hospital": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1536,
+    "y": 768,
+    "sdf": true
+  },
+  "maki-hospital-JP": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1536,
+    "y": 896,
+    "sdf": true
+  },
+  "maki-hot-spring": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1536,
+    "y": 1024,
+    "sdf": true
+  },
+  "maki-ice-cream": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1536,
+    "y": 1152,
+    "sdf": true
+  },
+  "maki-industry": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1536,
+    "y": 1280,
+    "sdf": true
+  },
+  "maki-information": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1536,
+    "y": 1408,
+    "sdf": true
+  },
+  "maki-jewelry-store": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1536,
+    "y": 1536,
+    "sdf": true
+  },
+  "maki-karaoke": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1536,
+    "y": 1664,
+    "sdf": true
+  },
+  "maki-landmark": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1536,
+    "y": 1792,
+    "sdf": true
+  },
+  "maki-landmark-JP": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1536,
+    "y": 1920,
+    "sdf": true
+  },
+  "maki-landuse": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1536,
+    "y": 2048,
+    "sdf": true
+  },
+  "maki-laundry": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1536,
+    "y": 2176,
+    "sdf": true
+  },
+  "maki-library": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1536,
+    "y": 2304,
+    "sdf": true
+  },
+  "maki-lift-gate": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1536,
+    "y": 2432,
+    "sdf": true
+  },
+  "maki-lighthouse": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1536,
+    "y": 2560,
+    "sdf": true
+  },
+  "maki-lighthouse-JP": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1536,
+    "y": 2688,
+    "sdf": true
+  },
+  "maki-lodging": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1536,
+    "y": 2816,
+    "sdf": true
+  },
+  "maki-logging": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1536,
+    "y": 2944,
+    "sdf": true
+  },
+  "maki-marker": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1536,
+    "y": 3072,
+    "sdf": true
+  },
+  "maki-marker-stroked": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1536,
+    "y": 3200,
+    "sdf": true
+  },
+  "maki-mobile-phone": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1536,
+    "y": 3328,
+    "sdf": true
+  },
+  "maki-monument": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1536,
+    "y": 3456,
+    "sdf": true
+  },
+  "maki-monument-JP": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1536,
+    "y": 3584,
+    "sdf": true
+  },
+  "maki-mountain": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1536,
+    "y": 3712,
+    "sdf": true
+  },
+  "maki-museum": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1536,
+    "y": 3840,
+    "sdf": true
+  },
+  "maki-music": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1536,
+    "y": 3968,
+    "sdf": true
+  },
+  "maki-natural": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1664,
+    "y": 0,
+    "sdf": true
+  },
+  "maki-nightclub": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1664,
+    "y": 128,
+    "sdf": true
+  },
+  "maki-observation-tower": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1664,
+    "y": 256,
+    "sdf": true
+  },
+  "maki-optician": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1664,
+    "y": 384,
+    "sdf": true
+  },
+  "maki-paint": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1664,
+    "y": 512,
+    "sdf": true
+  },
+  "maki-park": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1664,
+    "y": 640,
+    "sdf": true
+  },
+  "maki-park-alt1": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1664,
+    "y": 768,
+    "sdf": true
+  },
+  "maki-parking": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1664,
+    "y": 896,
+    "sdf": true
+  },
+  "maki-parking-garage": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1664,
+    "y": 1024,
+    "sdf": true
+  },
+  "maki-parking-paid": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1664,
+    "y": 1152,
+    "sdf": true
+  },
+  "maki-pharmacy": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1664,
+    "y": 1280,
+    "sdf": true
+  },
+  "maki-picnic-site": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1664,
+    "y": 1408,
+    "sdf": true
+  },
+  "maki-pitch": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1664,
+    "y": 1536,
+    "sdf": true
+  },
+  "maki-place-of-worship": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1664,
+    "y": 1664,
+    "sdf": true
+  },
+  "maki-playground": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1664,
+    "y": 1792,
+    "sdf": true
+  },
+  "maki-police": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1664,
+    "y": 1920,
+    "sdf": true
+  },
+  "maki-police-JP": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1664,
+    "y": 2048,
+    "sdf": true
+  },
+  "maki-post": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1664,
+    "y": 2176,
+    "sdf": true
+  },
+  "maki-post-JP": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1664,
+    "y": 2304,
+    "sdf": true
+  },
+  "maki-prison": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1664,
+    "y": 2432,
+    "sdf": true
+  },
+  "maki-racetrack": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1664,
+    "y": 2560,
+    "sdf": true
+  },
+  "maki-racetrack-boat": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1664,
+    "y": 2688,
+    "sdf": true
+  },
+  "maki-racetrack-cycling": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1664,
+    "y": 2816,
+    "sdf": true
+  },
+  "maki-racetrack-horse": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1664,
+    "y": 2944,
+    "sdf": true
+  },
+  "maki-rail": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1664,
+    "y": 3072,
+    "sdf": true
+  },
+  "maki-rail-light": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1664,
+    "y": 3200,
+    "sdf": true
+  },
+  "maki-rail-metro": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1664,
+    "y": 3328,
+    "sdf": true
+  },
+  "maki-ranger-station": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1664,
+    "y": 3456,
+    "sdf": true
+  },
+  "maki-recycling": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1664,
+    "y": 3584,
+    "sdf": true
+  },
+  "maki-religious-buddhist": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1664,
+    "y": 3712,
+    "sdf": true
+  },
+  "maki-religious-christian": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1664,
+    "y": 3840,
+    "sdf": true
+  },
+  "maki-religious-jewish": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1664,
+    "y": 3968,
+    "sdf": true
+  },
+  "maki-religious-muslim": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1792,
+    "y": 0,
+    "sdf": true
+  },
+  "maki-religious-shinto": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1792,
+    "y": 128,
+    "sdf": true
+  },
+  "maki-residential-community": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1792,
+    "y": 256,
+    "sdf": true
+  },
+  "maki-restaurant": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1792,
+    "y": 384,
+    "sdf": true
+  },
+  "maki-restaurant-bbq": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1792,
+    "y": 512,
+    "sdf": true
+  },
+  "maki-restaurant-noodle": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1792,
+    "y": 640,
+    "sdf": true
+  },
+  "maki-restaurant-pizza": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1792,
+    "y": 768,
+    "sdf": true
+  },
+  "maki-restaurant-seafood": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1792,
+    "y": 896,
+    "sdf": true
+  },
+  "maki-restaurant-sushi": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1792,
+    "y": 1024,
+    "sdf": true
+  },
+  "maki-road-accident": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1792,
+    "y": 1152,
+    "sdf": true
+  },
+  "maki-roadblock": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1792,
+    "y": 1280,
+    "sdf": true
+  },
+  "maki-rocket": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1792,
+    "y": 1408,
+    "sdf": true
+  },
+  "maki-school": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1792,
+    "y": 1536,
+    "sdf": true
+  },
+  "maki-school-JP": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1792,
+    "y": 1664,
+    "sdf": true
+  },
+  "maki-scooter": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1792,
+    "y": 1792,
+    "sdf": true
+  },
+  "maki-shelter": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1792,
+    "y": 1920,
+    "sdf": true
+  },
+  "maki-shoe": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1792,
+    "y": 2048,
+    "sdf": true
+  },
+  "maki-shop": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1792,
+    "y": 2176,
+    "sdf": true
+  },
+  "maki-skateboard": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1792,
+    "y": 2304,
+    "sdf": true
+  },
+  "maki-skiing": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1792,
+    "y": 2432,
+    "sdf": true
+  },
+  "maki-slaughterhouse": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1792,
+    "y": 2560,
+    "sdf": true
+  },
+  "maki-slipway": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1792,
+    "y": 2688,
+    "sdf": true
+  },
+  "maki-snowmobile": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1792,
+    "y": 2816,
+    "sdf": true
+  },
+  "maki-soccer": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1792,
+    "y": 2944,
+    "sdf": true
+  },
+  "maki-square": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1792,
+    "y": 3072,
+    "sdf": true
+  },
+  "maki-square-stroked": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1792,
+    "y": 3200,
+    "sdf": true
+  },
+  "maki-stadium": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1792,
+    "y": 3328,
+    "sdf": true
+  },
+  "maki-star": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1792,
+    "y": 3456,
+    "sdf": true
+  },
+  "maki-star-stroked": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1792,
+    "y": 3584,
+    "sdf": true
+  },
+  "maki-suitcase": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1792,
+    "y": 3712,
+    "sdf": true
+  },
+  "maki-swimming": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1792,
+    "y": 3840,
+    "sdf": true
+  },
+  "maki-table-tennis": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1792,
+    "y": 3968,
+    "sdf": true
+  },
+  "maki-teahouse": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1920,
+    "y": 0,
+    "sdf": true
+  },
+  "maki-telephone": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1920,
+    "y": 128,
+    "sdf": true
+  },
+  "maki-tennis": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1920,
+    "y": 256,
+    "sdf": true
+  },
+  "maki-terminal": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1920,
+    "y": 384,
+    "sdf": true
+  },
+  "maki-theatre": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1920,
+    "y": 512,
+    "sdf": true
+  },
+  "maki-toilet": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1920,
+    "y": 640,
+    "sdf": true
+  },
+  "maki-toll": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1920,
+    "y": 768,
+    "sdf": true
+  },
+  "maki-town": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1920,
+    "y": 896,
+    "sdf": true
+  },
+  "maki-town-hall": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1920,
+    "y": 1024,
+    "sdf": true
+  },
+  "maki-triangle": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1920,
+    "y": 1152,
+    "sdf": true
+  },
+  "maki-triangle-stroked": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1920,
+    "y": 1280,
+    "sdf": true
+  },
+  "maki-tunnel": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1920,
+    "y": 1408,
+    "sdf": true
+  },
+  "maki-veterinary": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1920,
+    "y": 1536,
+    "sdf": true
+  },
+  "maki-viewpoint": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1920,
+    "y": 1664,
+    "sdf": true
+  },
+  "maki-village": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1920,
+    "y": 1792,
+    "sdf": true
+  },
+  "maki-volcano": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1920,
+    "y": 1920,
+    "sdf": true
+  },
+  "maki-volleyball": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1920,
+    "y": 2048,
+    "sdf": true
+  },
+  "maki-warehouse": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1920,
+    "y": 2176,
+    "sdf": true
+  },
+  "maki-waste-basket": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1920,
+    "y": 2304,
+    "sdf": true
+  },
+  "maki-watch": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1920,
+    "y": 2432,
+    "sdf": true
+  },
+  "maki-water": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1920,
+    "y": 2560,
+    "sdf": true
+  },
+  "maki-waterfall": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1920,
+    "y": 2688,
+    "sdf": true
+  },
+  "maki-watermill": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1920,
+    "y": 2816,
+    "sdf": true
+  },
+  "maki-wetland": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1920,
+    "y": 2944,
+    "sdf": true
+  },
+  "maki-wheelchair": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1920,
+    "y": 3072,
+    "sdf": true
+  },
+  "maki-windmill": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1920,
+    "y": 3200,
+    "sdf": true
+  },
+  "maki-zoo": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1920,
+    "y": 3328,
+    "sdf": true
+  },
+  "material-symbols-passport": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1920,
+    "y": 3456,
+    "sdf": true
+  },
+  "onlinewebfonts-cave": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1920,
+    "y": 3584,
+    "sdf": true
+  },
+  "remix-information": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1920,
+    "y": 3712,
+    "sdf": true
+  },
+  "roentgen-needleleaved_tree": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1920,
+    "y": 3840,
+    "sdf": true
+  },
+  "roentgen-pole_dancer": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 1920,
+    "y": 3968,
+    "sdf": true
+  },
+  "roundicons-whale": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2048,
+    "y": 0,
+    "sdf": true
+  },
+  "streamline-plump-food-truck": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2048,
+    "y": 128,
+    "sdf": true
+  },
+  "streamline-ultimate-bookcase": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2048,
+    "y": 256,
+    "sdf": true
+  },
+  "streamline-ultimate-coworking": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2048,
+    "y": 384,
+    "sdf": true
+  },
+  "temaki-abseiling": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2048,
+    "y": 512,
+    "sdf": true
+  },
+  "temaki-accessible_space": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2048,
+    "y": 640,
+    "sdf": true
+  },
+  "temaki-accounting": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2048,
+    "y": 768,
+    "sdf": true
+  },
+  "temaki-adit_profile": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2048,
+    "y": 896,
+    "sdf": true
+  },
+  "temaki-aerialway_pole": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2048,
+    "y": 1024,
+    "sdf": true
+  },
+  "temaki-airport": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2048,
+    "y": 1152,
+    "sdf": true
+  },
+  "temaki-amusement_park": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2048,
+    "y": 1280,
+    "sdf": true
+  },
+  "temaki-anchor_medal": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2048,
+    "y": 1408,
+    "sdf": true
+  },
+  "temaki-antenna": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2048,
+    "y": 1536,
+    "sdf": true
+  },
+  "temaki-anvil": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2048,
+    "y": 1664,
+    "sdf": true
+  },
+  "temaki-anvil_and_hammer": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2048,
+    "y": 1792,
+    "sdf": true
+  },
+  "temaki-app_terminal": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2048,
+    "y": 1920,
+    "sdf": true
+  },
+  "temaki-archery": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2048,
+    "y": 2048,
+    "sdf": true
+  },
+  "temaki-army_tent": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2048,
+    "y": 2176,
+    "sdf": true
+  },
+  "temaki-asterisk": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2048,
+    "y": 2304,
+    "sdf": true
+  },
+  "temaki-atm": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2048,
+    "y": 2432,
+    "sdf": true
+  },
+  "temaki-atm2": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2048,
+    "y": 2560,
+    "sdf": true
+  },
+  "temaki-balance_beam": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2048,
+    "y": 2688,
+    "sdf": true
+  },
+  "temaki-balloon": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2048,
+    "y": 2816,
+    "sdf": true
+  },
+  "temaki-barn": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2048,
+    "y": 2944,
+    "sdf": true
+  },
+  "temaki-beach": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2048,
+    "y": 3072,
+    "sdf": true
+  },
+  "temaki-beauty_salon": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2048,
+    "y": 3200,
+    "sdf": true
+  },
+  "temaki-bench": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2048,
+    "y": 3328,
+    "sdf": true
+  },
+  "temaki-benchmark_disk": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2048,
+    "y": 3456,
+    "sdf": true
+  },
+  "temaki-bicycle_box": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2048,
+    "y": 3584,
+    "sdf": true
+  },
+  "temaki-bicycle_locker": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2048,
+    "y": 3712,
+    "sdf": true
+  },
+  "temaki-bicycle_parked": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2048,
+    "y": 3840,
+    "sdf": true
+  },
+  "temaki-bicycle_rental": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2048,
+    "y": 3968,
+    "sdf": true
+  },
+  "temaki-bicycle_repair": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2176,
+    "y": 0,
+    "sdf": true
+  },
+  "temaki-bicycle_shed": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2176,
+    "y": 128,
+    "sdf": true
+  },
+  "temaki-bicycle_structure": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2176,
+    "y": 256,
+    "sdf": true
+  },
+  "temaki-bicycle_wash": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2176,
+    "y": 384,
+    "sdf": true
+  },
+  "temaki-bikini": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2176,
+    "y": 512,
+    "sdf": true
+  },
+  "temaki-billboard": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2176,
+    "y": 640,
+    "sdf": true
+  },
+  "temaki-binoculars": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2176,
+    "y": 768,
+    "sdf": true
+  },
+  "temaki-bleachers": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2176,
+    "y": 896,
+    "sdf": true
+  },
+  "temaki-blind": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2176,
+    "y": 1024,
+    "sdf": true
+  },
+  "temaki-board_bus": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2176,
+    "y": 1152,
+    "sdf": true
+  },
+  "temaki-board_ferry": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2176,
+    "y": 1280,
+    "sdf": true
+  },
+  "temaki-board_gondola_lift": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2176,
+    "y": 1408,
+    "sdf": true
+  },
+  "temaki-board_hanging_rail": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2176,
+    "y": 1536,
+    "sdf": true
+  },
+  "temaki-board_heavy_rail": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2176,
+    "y": 1664,
+    "sdf": true
+  },
+  "temaki-board_light_rail": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2176,
+    "y": 1792,
+    "sdf": true
+  },
+  "temaki-board_monorail": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2176,
+    "y": 1920,
+    "sdf": true
+  },
+  "temaki-board_school_bus": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2176,
+    "y": 2048,
+    "sdf": true
+  },
+  "temaki-board_subway": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2176,
+    "y": 2176,
+    "sdf": true
+  },
+  "temaki-board_train": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2176,
+    "y": 2304,
+    "sdf": true
+  },
+  "temaki-board_train_bullet": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2176,
+    "y": 2432,
+    "sdf": true
+  },
+  "temaki-board_train_diesel": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2176,
+    "y": 2560,
+    "sdf": true
+  },
+  "temaki-board_train_kids": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2176,
+    "y": 2688,
+    "sdf": true
+  },
+  "temaki-board_train_steam": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2176,
+    "y": 2816,
+    "sdf": true
+  },
+  "temaki-board_tram": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2176,
+    "y": 2944,
+    "sdf": true
+  },
+  "temaki-board_transit": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2176,
+    "y": 3072,
+    "sdf": true
+  },
+  "temaki-board_trolleybus": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2176,
+    "y": 3200,
+    "sdf": true
+  },
+  "temaki-boat": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2176,
+    "y": 3328,
+    "sdf": true
+  },
+  "temaki-boat_dry_dock": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2176,
+    "y": 3456,
+    "sdf": true
+  },
+  "temaki-boat_floating": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2176,
+    "y": 3584,
+    "sdf": true
+  },
+  "temaki-boat_ramp": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2176,
+    "y": 3712,
+    "sdf": true
+  },
+  "temaki-boat_rental": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2176,
+    "y": 3840,
+    "sdf": true
+  },
+  "temaki-boat_repair": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2176,
+    "y": 3968,
+    "sdf": true
+  },
+  "temaki-boat_tour": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2304,
+    "y": 0,
+    "sdf": true
+  },
+  "temaki-boating": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2304,
+    "y": 128,
+    "sdf": true
+  },
+  "temaki-bollard": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2304,
+    "y": 256,
+    "sdf": true
+  },
+  "temaki-bollard_row": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2304,
+    "y": 384,
+    "sdf": true
+  },
+  "temaki-book_store": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2304,
+    "y": 512,
+    "sdf": true
+  },
+  "temaki-bottles": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2304,
+    "y": 640,
+    "sdf": true
+  },
+  "temaki-boulder1": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2304,
+    "y": 768,
+    "sdf": true
+  },
+  "temaki-boulder2": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2304,
+    "y": 896,
+    "sdf": true
+  },
+  "temaki-boulder3": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2304,
+    "y": 1024,
+    "sdf": true
+  },
+  "temaki-bow_and_arrow": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2304,
+    "y": 1152,
+    "sdf": true
+  },
+  "temaki-bowling": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2304,
+    "y": 1280,
+    "sdf": true
+  },
+  "temaki-bowling_alt1": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2304,
+    "y": 1408,
+    "sdf": true
+  },
+  "temaki-bread": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2304,
+    "y": 1536,
+    "sdf": true
+  },
+  "temaki-brick_trowel": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2304,
+    "y": 1664,
+    "sdf": true
+  },
+  "temaki-bridge": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2304,
+    "y": 1792,
+    "sdf": true
+  },
+  "temaki-briefcase": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2304,
+    "y": 1920,
+    "sdf": true
+  },
+  "temaki-briefcase_asterisk": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2304,
+    "y": 2048,
+    "sdf": true
+  },
+  "temaki-briefcase_bolt": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2304,
+    "y": 2176,
+    "sdf": true
+  },
+  "temaki-briefcase_cross": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2304,
+    "y": 2304,
+    "sdf": true
+  },
+  "temaki-briefcase_info": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2304,
+    "y": 2432,
+    "sdf": true
+  },
+  "temaki-briefcase_shield": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2304,
+    "y": 2560,
+    "sdf": true
+  },
+  "temaki-bubble_tea": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2304,
+    "y": 2688,
+    "sdf": true
+  },
+  "temaki-buffer_stop": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2304,
+    "y": 2816,
+    "sdf": true
+  },
+  "temaki-bulb": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2304,
+    "y": 2944,
+    "sdf": true
+  },
+  "temaki-bulb2": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2304,
+    "y": 3072,
+    "sdf": true
+  },
+  "temaki-bulb3": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2304,
+    "y": 3200,
+    "sdf": true
+  },
+  "temaki-bulldozer": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2304,
+    "y": 3328,
+    "sdf": true
+  },
+  "temaki-bulletin_board": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2304,
+    "y": 3456,
+    "sdf": true
+  },
+  "temaki-bunk_beds": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2304,
+    "y": 3584,
+    "sdf": true
+  },
+  "temaki-bunker": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2304,
+    "y": 3712,
+    "sdf": true
+  },
+  "temaki-bunker_silo": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2304,
+    "y": 3840,
+    "sdf": true
+  },
+  "temaki-buoy": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2304,
+    "y": 3968,
+    "sdf": true
+  },
+  "temaki-bus": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2432,
+    "y": 0,
+    "sdf": true
+  },
+  "temaki-bus_guided": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2432,
+    "y": 128,
+    "sdf": true
+  },
+  "temaki-cabin": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2432,
+    "y": 256,
+    "sdf": true
+  },
+  "temaki-cable": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2432,
+    "y": 384,
+    "sdf": true
+  },
+  "temaki-cable_device": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2432,
+    "y": 512,
+    "sdf": true
+  },
+  "temaki-cable_manhole": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2432,
+    "y": 640,
+    "sdf": true
+  },
+  "temaki-cable_meter": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2432,
+    "y": 768,
+    "sdf": true
+  },
+  "temaki-cable_shutoff": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2432,
+    "y": 896,
+    "sdf": true
+  },
+  "temaki-cairn": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2432,
+    "y": 1024,
+    "sdf": true
+  },
+  "temaki-camper_trailer": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2432,
+    "y": 1152,
+    "sdf": true
+  },
+  "temaki-camper_trailer_dump": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2432,
+    "y": 1280,
+    "sdf": true
+  },
+  "temaki-campfire": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2432,
+    "y": 1408,
+    "sdf": true
+  },
+  "temaki-can": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2432,
+    "y": 1536,
+    "sdf": true
+  },
+  "temaki-canoe": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2432,
+    "y": 1664,
+    "sdf": true
+  },
+  "temaki-cape_landform": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2432,
+    "y": 1792,
+    "sdf": true
+  },
+  "temaki-capitol": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2432,
+    "y": 1920,
+    "sdf": true
+  },
+  "temaki-car_dealer": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2432,
+    "y": 2048,
+    "sdf": true
+  },
+  "temaki-car_parked": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2432,
+    "y": 2176,
+    "sdf": true
+  },
+  "temaki-car_pool": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2432,
+    "y": 2304,
+    "sdf": true
+  },
+  "temaki-car_structure": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2432,
+    "y": 2432,
+    "sdf": true
+  },
+  "temaki-car_wash": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2432,
+    "y": 2560,
+    "sdf": true
+  },
+  "temaki-carport": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2432,
+    "y": 2688,
+    "sdf": true
+  },
+  "temaki-casino": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2432,
+    "y": 2816,
+    "sdf": true
+  },
+  "temaki-catering": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2432,
+    "y": 2944,
+    "sdf": true
+  },
+  "temaki-cattle_grid": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2432,
+    "y": 3072,
+    "sdf": true
+  },
+  "temaki-chairlift": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2432,
+    "y": 3200,
+    "sdf": true
+  },
+  "temaki-checkpoint": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2432,
+    "y": 3328,
+    "sdf": true
+  },
+  "temaki-chefs_knife": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2432,
+    "y": 3456,
+    "sdf": true
+  },
+  "temaki-chicane_arrow": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2432,
+    "y": 3584,
+    "sdf": true
+  },
+  "temaki-chimney": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2432,
+    "y": 3712,
+    "sdf": true
+  },
+  "temaki-chocolate": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2432,
+    "y": 3840,
+    "sdf": true
+  },
+  "temaki-cleaver": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2432,
+    "y": 3968,
+    "sdf": true
+  },
+  "temaki-cliff_falling_rocks": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2560,
+    "y": 0,
+    "sdf": true
+  },
+  "temaki-climbing": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2560,
+    "y": 128,
+    "sdf": true
+  },
+  "temaki-clock": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2560,
+    "y": 256,
+    "sdf": true
+  },
+  "temaki-cloth": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2560,
+    "y": 384,
+    "sdf": true
+  },
+  "temaki-clothes_hanger": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2560,
+    "y": 512,
+    "sdf": true
+  },
+  "temaki-coffee": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2560,
+    "y": 640,
+    "sdf": true
+  },
+  "temaki-compass": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2560,
+    "y": 768,
+    "sdf": true
+  },
+  "temaki-conveyor": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2560,
+    "y": 896,
+    "sdf": true
+  },
+  "temaki-cooling_tower": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2560,
+    "y": 1024,
+    "sdf": true
+  },
+  "temaki-cooling_tower_radiation": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2560,
+    "y": 1152,
+    "sdf": true
+  },
+  "temaki-coral_reef": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2560,
+    "y": 1280,
+    "sdf": true
+  },
+  "temaki-courthouse": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2560,
+    "y": 1408,
+    "sdf": true
+  },
+  "temaki-crane": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2560,
+    "y": 1536,
+    "sdf": true
+  },
+  "temaki-cross_country_skiing": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2560,
+    "y": 1664,
+    "sdf": true
+  },
+  "temaki-crossing_markings-dashes": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2560,
+    "y": 1792,
+    "sdf": true
+  },
+  "temaki-crossing_markings-dots": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2560,
+    "y": 1920,
+    "sdf": true
+  },
+  "temaki-crossing_markings-ladder": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2560,
+    "y": 2048,
+    "sdf": true
+  },
+  "temaki-crossing_markings-ladder_paired": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2560,
+    "y": 2176,
+    "sdf": true
+  },
+  "temaki-crossing_markings-ladder_skewed": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2560,
+    "y": 2304,
+    "sdf": true
+  },
+  "temaki-crossing_markings-lines": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2560,
+    "y": 2432,
+    "sdf": true
+  },
+  "temaki-crossing_markings-lines_paired": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2560,
+    "y": 2560,
+    "sdf": true
+  },
+  "temaki-crossing_markings-surface": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2560,
+    "y": 2688,
+    "sdf": true
+  },
+  "temaki-crossing_markings-zebra": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2560,
+    "y": 2816,
+    "sdf": true
+  },
+  "temaki-crossing_markings-zebra_bicolour": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2560,
+    "y": 2944,
+    "sdf": true
+  },
+  "temaki-crossing_markings-zebra_double": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2560,
+    "y": 3072,
+    "sdf": true
+  },
+  "temaki-crossing_markings-zebra_paired": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2560,
+    "y": 3200,
+    "sdf": true
+  },
+  "temaki-crossing_rail_rail": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2560,
+    "y": 3328,
+    "sdf": true
+  },
+  "temaki-crossing_rail_road": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2560,
+    "y": 3456,
+    "sdf": true
+  },
+  "temaki-crossing_rail_solid": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2560,
+    "y": 3584,
+    "sdf": true
+  },
+  "temaki-crossing_rail_striped": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2560,
+    "y": 3712,
+    "sdf": true
+  },
+  "temaki-crossing_tram_road": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2560,
+    "y": 3840,
+    "sdf": true
+  },
+  "temaki-crossing_tram_solid": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2560,
+    "y": 3968,
+    "sdf": true
+  },
+  "temaki-crossing_tram_striped": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2688,
+    "y": 0,
+    "sdf": true
+  },
+  "temaki-curtains": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2688,
+    "y": 128,
+    "sdf": true
+  },
+  "temaki-cycle_barrier": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2688,
+    "y": 256,
+    "sdf": true
+  },
+  "temaki-cyclist_crosswalk": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2688,
+    "y": 384,
+    "sdf": true
+  },
+  "temaki-dagger": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2688,
+    "y": 512,
+    "sdf": true
+  },
+  "temaki-desk_lamp": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2688,
+    "y": 640,
+    "sdf": true
+  },
+  "temaki-detergent_bottle": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2688,
+    "y": 768,
+    "sdf": true
+  },
+  "temaki-diamond": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2688,
+    "y": 896,
+    "sdf": true
+  },
+  "temaki-dice": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2688,
+    "y": 1024,
+    "sdf": true
+  },
+  "temaki-disc_golf_basket": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2688,
+    "y": 1152,
+    "sdf": true
+  },
+  "temaki-diving": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2688,
+    "y": 1280,
+    "sdf": true
+  },
+  "temaki-dog_shelter": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2688,
+    "y": 1408,
+    "sdf": true
+  },
+  "temaki-domed_tower": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2688,
+    "y": 1536,
+    "sdf": true
+  },
+  "temaki-donut": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2688,
+    "y": 1664,
+    "sdf": true
+  },
+  "temaki-drag_lift": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2688,
+    "y": 1792,
+    "sdf": true
+  },
+  "temaki-dress": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2688,
+    "y": 1920,
+    "sdf": true
+  },
+  "temaki-drink_cup": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2688,
+    "y": 2048,
+    "sdf": true
+  },
+  "temaki-ear": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2688,
+    "y": 2176,
+    "sdf": true
+  },
+  "temaki-egg": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2688,
+    "y": 2304,
+    "sdf": true
+  },
+  "temaki-electronic": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2688,
+    "y": 2432,
+    "sdf": true
+  },
+  "temaki-elevator": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2688,
+    "y": 2560,
+    "sdf": true
+  },
+  "temaki-embassy": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2688,
+    "y": 2688,
+    "sdf": true
+  },
+  "temaki-fashion_accessories": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2688,
+    "y": 2816,
+    "sdf": true
+  },
+  "temaki-ferry": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2688,
+    "y": 2944,
+    "sdf": true
+  },
+  "temaki-field_hockey": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2688,
+    "y": 3072,
+    "sdf": true
+  },
+  "temaki-fighter_jet": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2688,
+    "y": 3200,
+    "sdf": true
+  },
+  "temaki-fire_hydrant": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2688,
+    "y": 3328,
+    "sdf": true
+  },
+  "temaki-fire_hydrant_underground": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2688,
+    "y": 3456,
+    "sdf": true
+  },
+  "temaki-fireplace": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2688,
+    "y": 3584,
+    "sdf": true
+  },
+  "temaki-fish_cleaning": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2688,
+    "y": 3712,
+    "sdf": true
+  },
+  "temaki-fish_ladder": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2688,
+    "y": 3840,
+    "sdf": true
+  },
+  "temaki-fishing_pier": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2688,
+    "y": 3968,
+    "sdf": true
+  },
+  "temaki-florist": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2816,
+    "y": 0,
+    "sdf": true
+  },
+  "temaki-food": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2816,
+    "y": 128,
+    "sdf": true
+  },
+  "temaki-fountain": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2816,
+    "y": 256,
+    "sdf": true
+  },
+  "temaki-freight_car": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2816,
+    "y": 384,
+    "sdf": true
+  },
+  "temaki-furniture": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2816,
+    "y": 512,
+    "sdf": true
+  },
+  "temaki-garden_bed": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2816,
+    "y": 640,
+    "sdf": true
+  },
+  "temaki-gas": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2816,
+    "y": 768,
+    "sdf": true
+  },
+  "temaki-gas_device": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2816,
+    "y": 896,
+    "sdf": true
+  },
+  "temaki-gas_manhole": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2816,
+    "y": 1024,
+    "sdf": true
+  },
+  "temaki-gas_meter": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2816,
+    "y": 1152,
+    "sdf": true
+  },
+  "temaki-gas_shutoff": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2816,
+    "y": 1280,
+    "sdf": true
+  },
+  "temaki-gate": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2816,
+    "y": 1408,
+    "sdf": true
+  },
+  "temaki-golf_cart": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2816,
+    "y": 1536,
+    "sdf": true
+  },
+  "temaki-golf_green": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2816,
+    "y": 1664,
+    "sdf": true
+  },
+  "temaki-gondola_lift": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2816,
+    "y": 1792,
+    "sdf": true
+  },
+  "temaki-goods_lift": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2816,
+    "y": 1920,
+    "sdf": true
+  },
+  "temaki-gown": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2816,
+    "y": 2048,
+    "sdf": true
+  },
+  "temaki-grapes": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2816,
+    "y": 2176,
+    "sdf": true
+  },
+  "temaki-grass": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2816,
+    "y": 2304,
+    "sdf": true
+  },
+  "temaki-guard_rail": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2816,
+    "y": 2432,
+    "sdf": true
+  },
+  "temaki-gym": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2816,
+    "y": 2560,
+    "sdf": true
+  },
+  "temaki-hair_care": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2816,
+    "y": 2688,
+    "sdf": true
+  },
+  "temaki-hammer_shoe": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2816,
+    "y": 2816,
+    "sdf": true
+  },
+  "temaki-hand": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2816,
+    "y": 2944,
+    "sdf": true
+  },
+  "temaki-handbag": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2816,
+    "y": 3072,
+    "sdf": true
+  },
+  "temaki-hang_gliding": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2816,
+    "y": 3200,
+    "sdf": true
+  },
+  "temaki-hangar": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2816,
+    "y": 3328,
+    "sdf": true
+  },
+  "temaki-hanging_rail": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2816,
+    "y": 3456,
+    "sdf": true
+  },
+  "temaki-hearing_aid": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2816,
+    "y": 3584,
+    "sdf": true
+  },
+  "temaki-heart": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2816,
+    "y": 3712,
+    "sdf": true
+  },
+  "temaki-heavy_rail": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2816,
+    "y": 3840,
+    "sdf": true
+  },
+  "temaki-hedge": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2816,
+    "y": 3968,
+    "sdf": true
+  },
+  "temaki-height_restrictor": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2944,
+    "y": 0,
+    "sdf": true
+  },
+  "temaki-hinduism": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2944,
+    "y": 128,
+    "sdf": true
+  },
+  "temaki-horizontal_bar": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2944,
+    "y": 256,
+    "sdf": true
+  },
+  "temaki-horn_cleat": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2944,
+    "y": 384,
+    "sdf": true
+  },
+  "temaki-horse_shelter": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2944,
+    "y": 512,
+    "sdf": true
+  },
+  "temaki-horseshoe": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2944,
+    "y": 640,
+    "sdf": true
+  },
+  "temaki-horseshoes": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2944,
+    "y": 768,
+    "sdf": true
+  },
+  "temaki-hot_drink_cup": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2944,
+    "y": 896,
+    "sdf": true
+  },
+  "temaki-houseboat": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2944,
+    "y": 1024,
+    "sdf": true
+  },
+  "temaki-hunting_blind": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2944,
+    "y": 1152,
+    "sdf": true
+  },
+  "temaki-hut": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2944,
+    "y": 1280,
+    "sdf": true
+  },
+  "temaki-ice_fishing": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2944,
+    "y": 1408,
+    "sdf": true
+  },
+  "temaki-ice_skating": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2944,
+    "y": 1536,
+    "sdf": true
+  },
+  "temaki-info_board": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2944,
+    "y": 1664,
+    "sdf": true
+  },
+  "temaki-inline_skating": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2944,
+    "y": 1792,
+    "sdf": true
+  },
+  "temaki-island_trees_building": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2944,
+    "y": 1920,
+    "sdf": true
+  },
+  "temaki-islet_tree": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2944,
+    "y": 2048,
+    "sdf": true
+  },
+  "temaki-j_bar_lift": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2944,
+    "y": 2176,
+    "sdf": true
+  },
+  "temaki-jet_skiing": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2944,
+    "y": 2304,
+    "sdf": true
+  },
+  "temaki-jetplane_front": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2944,
+    "y": 2432,
+    "sdf": true
+  },
+  "temaki-jewelry_store": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2944,
+    "y": 2560,
+    "sdf": true
+  },
+  "temaki-junction": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2944,
+    "y": 2688,
+    "sdf": true
+  },
+  "temaki-junk_car": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2944,
+    "y": 2816,
+    "sdf": true
+  },
+  "temaki-kayaking": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2944,
+    "y": 2944,
+    "sdf": true
+  },
+  "temaki-kerb-flush": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2944,
+    "y": 3072,
+    "sdf": true
+  },
+  "temaki-kerb-lowered": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2944,
+    "y": 3200,
+    "sdf": true
+  },
+  "temaki-kerb-raised": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2944,
+    "y": 3328,
+    "sdf": true
+  },
+  "temaki-kerb-rolled": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2944,
+    "y": 3456,
+    "sdf": true
+  },
+  "temaki-kerb-unspecified": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2944,
+    "y": 3584,
+    "sdf": true
+  },
+  "temaki-kitchen_sink": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2944,
+    "y": 3712,
+    "sdf": true
+  },
+  "temaki-latrine": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2944,
+    "y": 3840,
+    "sdf": true
+  },
+  "temaki-laundry": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 2944,
+    "y": 3968,
+    "sdf": true
+  },
+  "temaki-lawn": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3072,
+    "y": 0,
+    "sdf": true
+  },
+  "temaki-lawyer": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3072,
+    "y": 128,
+    "sdf": true
+  },
+  "temaki-letter_box": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3072,
+    "y": 256,
+    "sdf": true
+  },
+  "temaki-library": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3072,
+    "y": 384,
+    "sdf": true
+  },
+  "temaki-lift_gate": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3072,
+    "y": 512,
+    "sdf": true
+  },
+  "temaki-light_rail": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3072,
+    "y": 640,
+    "sdf": true
+  },
+  "temaki-lipstick": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3072,
+    "y": 768,
+    "sdf": true
+  },
+  "temaki-lock": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3072,
+    "y": 896,
+    "sdf": true
+  },
+  "temaki-lounger": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3072,
+    "y": 1024,
+    "sdf": true
+  },
+  "temaki-lounging": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3072,
+    "y": 1152,
+    "sdf": true
+  },
+  "temaki-manhole": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3072,
+    "y": 1280,
+    "sdf": true
+  },
+  "temaki-manufactured_home": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3072,
+    "y": 1408,
+    "sdf": true
+  },
+  "temaki-mast": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3072,
+    "y": 1536,
+    "sdf": true
+  },
+  "temaki-mast_communication": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3072,
+    "y": 1664,
+    "sdf": true
+  },
+  "temaki-mast_lighting": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3072,
+    "y": 1792,
+    "sdf": true
+  },
+  "temaki-maze": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3072,
+    "y": 1920,
+    "sdf": true
+  },
+  "temaki-meat": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3072,
+    "y": 2048,
+    "sdf": true
+  },
+  "temaki-milestone": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3072,
+    "y": 2176,
+    "sdf": true
+  },
+  "temaki-military": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3072,
+    "y": 2304,
+    "sdf": true
+  },
+  "temaki-military_checkpoint": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3072,
+    "y": 2432,
+    "sdf": true
+  },
+  "temaki-milk_jug": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3072,
+    "y": 2560,
+    "sdf": true
+  },
+  "temaki-mineshaft_cage": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3072,
+    "y": 2688,
+    "sdf": true
+  },
+  "temaki-mineshaft_profile": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3072,
+    "y": 2816,
+    "sdf": true
+  },
+  "temaki-money_hand": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3072,
+    "y": 2944,
+    "sdf": true
+  },
+  "temaki-monorail": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3072,
+    "y": 3072,
+    "sdf": true
+  },
+  "temaki-motorcycle": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3072,
+    "y": 3200,
+    "sdf": true
+  },
+  "temaki-motorcycle_rental": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3072,
+    "y": 3328,
+    "sdf": true
+  },
+  "temaki-motorcycle_repair": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3072,
+    "y": 3456,
+    "sdf": true
+  },
+  "temaki-mountain_asterisk": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3072,
+    "y": 3584,
+    "sdf": true
+  },
+  "temaki-mountain_cross": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3072,
+    "y": 3712,
+    "sdf": true
+  },
+  "temaki-mountain_range": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3072,
+    "y": 3840,
+    "sdf": true
+  },
+  "temaki-movie_rental": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3072,
+    "y": 3968,
+    "sdf": true
+  },
+  "temaki-museum": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3200,
+    "y": 0,
+    "sdf": true
+  },
+  "temaki-needle_and_spool": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3200,
+    "y": 128,
+    "sdf": true
+  },
+  "temaki-obelisk": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3200,
+    "y": 256,
+    "sdf": true
+  },
+  "temaki-oil_well": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3200,
+    "y": 384,
+    "sdf": true
+  },
+  "temaki-os_benchmark": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3200,
+    "y": 512,
+    "sdf": true
+  },
+  "temaki-parking_space": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3200,
+    "y": 640,
+    "sdf": true
+  },
+  "temaki-passport_checkpoint": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3200,
+    "y": 768,
+    "sdf": true
+  },
+  "temaki-ped_cyclist_crosswalk": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3200,
+    "y": 896,
+    "sdf": true
+  },
+  "temaki-pedestrian": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3200,
+    "y": 1024,
+    "sdf": true
+  },
+  "temaki-pedestrian_and_cyclist": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3200,
+    "y": 1152,
+    "sdf": true
+  },
+  "temaki-pedestrian_crosswalk": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3200,
+    "y": 1280,
+    "sdf": true
+  },
+  "temaki-pedestrian_walled": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3200,
+    "y": 1408,
+    "sdf": true
+  },
+  "temaki-perfume": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3200,
+    "y": 1536,
+    "sdf": true
+  },
+  "temaki-pet_grooming": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3200,
+    "y": 1664,
+    "sdf": true
+  },
+  "temaki-pet_store": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3200,
+    "y": 1792,
+    "sdf": true
+  },
+  "temaki-pharmacy": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3200,
+    "y": 1920,
+    "sdf": true
+  },
+  "temaki-physiotherapist": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3200,
+    "y": 2048,
+    "sdf": true
+  },
+  "temaki-pick_hammer": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3200,
+    "y": 2176,
+    "sdf": true
+  },
+  "temaki-picnic_shelter": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3200,
+    "y": 2304,
+    "sdf": true
+  },
+  "temaki-pier_fixed": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3200,
+    "y": 2432,
+    "sdf": true
+  },
+  "temaki-pier_floating": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3200,
+    "y": 2560,
+    "sdf": true
+  },
+  "temaki-pin": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3200,
+    "y": 2688,
+    "sdf": true
+  },
+  "temaki-pipe": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3200,
+    "y": 2816,
+    "sdf": true
+  },
+  "temaki-plane_taxiing": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3200,
+    "y": 2944,
+    "sdf": true
+  },
+  "temaki-planes": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3200,
+    "y": 3072,
+    "sdf": true
+  },
+  "temaki-planes_bidirectional": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3200,
+    "y": 3200,
+    "sdf": true
+  },
+  "temaki-plant": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3200,
+    "y": 3328,
+    "sdf": true
+  },
+  "temaki-plaque": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3200,
+    "y": 3456,
+    "sdf": true
+  },
+  "temaki-platter_lift": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3200,
+    "y": 3584,
+    "sdf": true
+  },
+  "temaki-play_structure": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3200,
+    "y": 3712,
+    "sdf": true
+  },
+  "temaki-plumber": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3200,
+    "y": 3840,
+    "sdf": true
+  },
+  "temaki-police_checkpoint": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3200,
+    "y": 3968,
+    "sdf": true
+  },
+  "temaki-police_officer": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3328,
+    "y": 0,
+    "sdf": true
+  },
+  "temaki-polished_nail": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3328,
+    "y": 128,
+    "sdf": true
+  },
+  "temaki-portrait": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3328,
+    "y": 256,
+    "sdf": true
+  },
+  "temaki-portrait_framed": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3328,
+    "y": 384,
+    "sdf": true
+  },
+  "temaki-post_box": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3328,
+    "y": 512,
+    "sdf": true
+  },
+  "temaki-poster_box": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3328,
+    "y": 640,
+    "sdf": true
+  },
+  "temaki-power": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3328,
+    "y": 768,
+    "sdf": true
+  },
+  "temaki-power_cb": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3328,
+    "y": 896,
+    "sdf": true
+  },
+  "temaki-power_cb2": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3328,
+    "y": 1024,
+    "sdf": true
+  },
+  "temaki-power_circuit": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3328,
+    "y": 1152,
+    "sdf": true
+  },
+  "temaki-power_ct": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3328,
+    "y": 1280,
+    "sdf": true
+  },
+  "temaki-power_device": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3328,
+    "y": 1408,
+    "sdf": true
+  },
+  "temaki-power_isolator": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3328,
+    "y": 1536,
+    "sdf": true
+  },
+  "temaki-power_la": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3328,
+    "y": 1664,
+    "sdf": true
+  },
+  "temaki-power_manhole": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3328,
+    "y": 1792,
+    "sdf": true
+  },
+  "temaki-power_meter": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3328,
+    "y": 1920,
+    "sdf": true
+  },
+  "temaki-power_pole": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3328,
+    "y": 2048,
+    "sdf": true
+  },
+  "temaki-power_shutoff": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3328,
+    "y": 2176,
+    "sdf": true
+  },
+  "temaki-power_switch": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3328,
+    "y": 2304,
+    "sdf": true
+  },
+  "temaki-power_tower": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3328,
+    "y": 2432,
+    "sdf": true
+  },
+  "temaki-power_transformer": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3328,
+    "y": 2560,
+    "sdf": true
+  },
+  "temaki-powered_pump": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3328,
+    "y": 2688,
+    "sdf": true
+  },
+  "temaki-propane_tank": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3328,
+    "y": 2816,
+    "sdf": true
+  },
+  "temaki-psychic": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3328,
+    "y": 2944,
+    "sdf": true
+  },
+  "temaki-quakerism": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3328,
+    "y": 3072,
+    "sdf": true
+  },
+  "temaki-quay": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3328,
+    "y": 3200,
+    "sdf": true
+  },
+  "temaki-racetrack_oval": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3328,
+    "y": 3328,
+    "sdf": true
+  },
+  "temaki-radiation": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3328,
+    "y": 3456,
+    "sdf": true
+  },
+  "temaki-radio": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3328,
+    "y": 3584,
+    "sdf": true
+  },
+  "temaki-rafting": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3328,
+    "y": 3712,
+    "sdf": true
+  },
+  "temaki-rail_flag": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3328,
+    "y": 3840,
+    "sdf": true
+  },
+  "temaki-rail_profile": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3328,
+    "y": 3968,
+    "sdf": true
+  },
+  "temaki-railing": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3456,
+    "y": 0,
+    "sdf": true
+  },
+  "temaki-railway_cable_track": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3456,
+    "y": 128,
+    "sdf": true
+  },
+  "temaki-railway_signals": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3456,
+    "y": 256,
+    "sdf": true
+  },
+  "temaki-railway_track": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3456,
+    "y": 384,
+    "sdf": true
+  },
+  "temaki-railway_track_askew": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3456,
+    "y": 512,
+    "sdf": true
+  },
+  "temaki-railway_track_mini": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3456,
+    "y": 640,
+    "sdf": true
+  },
+  "temaki-railway_track_narrow": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3456,
+    "y": 768,
+    "sdf": true
+  },
+  "temaki-railway_track_partial": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3456,
+    "y": 896,
+    "sdf": true
+  },
+  "temaki-real_estate_agency": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3456,
+    "y": 1024,
+    "sdf": true
+  },
+  "temaki-rigging": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3456,
+    "y": 1152,
+    "sdf": true
+  },
+  "temaki-rocket_firework": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3456,
+    "y": 1280,
+    "sdf": true
+  },
+  "temaki-roller_coaster": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3456,
+    "y": 1408,
+    "sdf": true
+  },
+  "temaki-room": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3456,
+    "y": 1536,
+    "sdf": true
+  },
+  "temaki-rope_fence": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3456,
+    "y": 1664,
+    "sdf": true
+  },
+  "temaki-row_houses": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3456,
+    "y": 1792,
+    "sdf": true
+  },
+  "temaki-ruins": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3456,
+    "y": 1920,
+    "sdf": true
+  },
+  "temaki-rumble_strip": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3456,
+    "y": 2048,
+    "sdf": true
+  },
+  "temaki-saddle": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3456,
+    "y": 2176,
+    "sdf": true
+  },
+  "temaki-sail": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3456,
+    "y": 2304,
+    "sdf": true
+  },
+  "temaki-sailboat": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3456,
+    "y": 2432,
+    "sdf": true
+  },
+  "temaki-sailing": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3456,
+    "y": 2560,
+    "sdf": true
+  },
+  "temaki-sandbox": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3456,
+    "y": 2688,
+    "sdf": true
+  },
+  "temaki-sandwich": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3456,
+    "y": 2816,
+    "sdf": true
+  },
+  "temaki-scaffold": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3456,
+    "y": 2944,
+    "sdf": true
+  },
+  "temaki-school": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3456,
+    "y": 3072,
+    "sdf": true
+  },
+  "temaki-school_bus": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3456,
+    "y": 3200,
+    "sdf": true
+  },
+  "temaki-scuba_diving": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3456,
+    "y": 3328,
+    "sdf": true
+  },
+  "temaki-sculpture": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3456,
+    "y": 3456,
+    "sdf": true
+  },
+  "temaki-security_camera": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3456,
+    "y": 3584,
+    "sdf": true
+  },
+  "temaki-seesaw": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3456,
+    "y": 3712,
+    "sdf": true
+  },
+  "temaki-shield": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3456,
+    "y": 3840,
+    "sdf": true
+  },
+  "temaki-shinto": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3456,
+    "y": 3968,
+    "sdf": true
+  },
+  "temaki-shopping_mall": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3584,
+    "y": 0,
+    "sdf": true
+  },
+  "temaki-shower": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3584,
+    "y": 128,
+    "sdf": true
+  },
+  "temaki-shrub": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3584,
+    "y": 256,
+    "sdf": true
+  },
+  "temaki-shrub_low": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3584,
+    "y": 384,
+    "sdf": true
+  },
+  "temaki-shuffleboard": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3584,
+    "y": 512,
+    "sdf": true
+  },
+  "temaki-sign_and_bench": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3584,
+    "y": 640,
+    "sdf": true
+  },
+  "temaki-sign_and_car": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3584,
+    "y": 768,
+    "sdf": true
+  },
+  "temaki-sign_and_pedestrian": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3584,
+    "y": 896,
+    "sdf": true
+  },
+  "temaki-sikhism": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3584,
+    "y": 1024,
+    "sdf": true
+  },
+  "temaki-silo": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3584,
+    "y": 1152,
+    "sdf": true
+  },
+  "temaki-skateboarding": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3584,
+    "y": 1280,
+    "sdf": true
+  },
+  "temaki-ski_jumping": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3584,
+    "y": 1408,
+    "sdf": true
+  },
+  "temaki-skiing": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3584,
+    "y": 1536,
+    "sdf": true
+  },
+  "temaki-sledding": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3584,
+    "y": 1664,
+    "sdf": true
+  },
+  "temaki-sleep_shelter": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3584,
+    "y": 1792,
+    "sdf": true
+  },
+  "temaki-slide": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3584,
+    "y": 1920,
+    "sdf": true
+  },
+  "temaki-snow": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3584,
+    "y": 2048,
+    "sdf": true
+  },
+  "temaki-snow_shoeing": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3584,
+    "y": 2176,
+    "sdf": true
+  },
+  "temaki-snowboarding": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3584,
+    "y": 2304,
+    "sdf": true
+  },
+  "temaki-snowmobile": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3584,
+    "y": 2432,
+    "sdf": true
+  },
+  "temaki-social_facility": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3584,
+    "y": 2560,
+    "sdf": true
+  },
+  "temaki-spa": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3584,
+    "y": 2688,
+    "sdf": true
+  },
+  "temaki-speaker": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3584,
+    "y": 2816,
+    "sdf": true
+  },
+  "temaki-speed_bump": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3584,
+    "y": 2944,
+    "sdf": true
+  },
+  "temaki-speed_dip": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3584,
+    "y": 3072,
+    "sdf": true
+  },
+  "temaki-speed_dip_double": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3584,
+    "y": 3200,
+    "sdf": true
+  },
+  "temaki-speed_hump": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3584,
+    "y": 3328,
+    "sdf": true
+  },
+  "temaki-speed_table": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3584,
+    "y": 3456,
+    "sdf": true
+  },
+  "temaki-speedway_8": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3584,
+    "y": 3584,
+    "sdf": true
+  },
+  "temaki-speedway_oval": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3584,
+    "y": 3712,
+    "sdf": true
+  },
+  "temaki-spice_bottle": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3584,
+    "y": 3840,
+    "sdf": true
+  },
+  "temaki-spike_strip": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3584,
+    "y": 3968,
+    "sdf": true
+  },
+  "temaki-spotting_scope": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3712,
+    "y": 0,
+    "sdf": true
+  },
+  "temaki-spring_rider": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3712,
+    "y": 128,
+    "sdf": true
+  },
+  "temaki-stamp": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3712,
+    "y": 256,
+    "sdf": true
+  },
+  "temaki-statue": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3712,
+    "y": 384,
+    "sdf": true
+  },
+  "temaki-stile_squeezer": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3712,
+    "y": 512,
+    "sdf": true
+  },
+  "temaki-stop": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3712,
+    "y": 640,
+    "sdf": true
+  },
+  "temaki-storage": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3712,
+    "y": 768,
+    "sdf": true
+  },
+  "temaki-storage_drum": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3712,
+    "y": 896,
+    "sdf": true
+  },
+  "temaki-storage_fermenter": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3712,
+    "y": 1024,
+    "sdf": true
+  },
+  "temaki-storage_rental": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3712,
+    "y": 1152,
+    "sdf": true
+  },
+  "temaki-storage_tank": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3712,
+    "y": 1280,
+    "sdf": true
+  },
+  "temaki-street_lamp_arm": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3712,
+    "y": 1408,
+    "sdf": true
+  },
+  "temaki-striped_way": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3712,
+    "y": 1536,
+    "sdf": true
+  },
+  "temaki-striped_zone": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3712,
+    "y": 1664,
+    "sdf": true
+  },
+  "temaki-subway": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3712,
+    "y": 1792,
+    "sdf": true
+  },
+  "temaki-suitcase": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3712,
+    "y": 1920,
+    "sdf": true
+  },
+  "temaki-suitcase_key": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3712,
+    "y": 2048,
+    "sdf": true
+  },
+  "temaki-suitcase_xray": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3712,
+    "y": 2176,
+    "sdf": true
+  },
+  "temaki-surfing": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3712,
+    "y": 2304,
+    "sdf": true
+  },
+  "temaki-swamp": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3712,
+    "y": 2432,
+    "sdf": true
+  },
+  "temaki-t_bar_lift": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3712,
+    "y": 2560,
+    "sdf": true
+  },
+  "temaki-tall_gate": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3712,
+    "y": 2688,
+    "sdf": true
+  },
+  "temaki-tanning": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3712,
+    "y": 2816,
+    "sdf": true
+  },
+  "temaki-tanning2": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3712,
+    "y": 2944,
+    "sdf": true
+  },
+  "temaki-taoism": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3712,
+    "y": 3072,
+    "sdf": true
+  },
+  "temaki-tattoo_machine": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3712,
+    "y": 3200,
+    "sdf": true
+  },
+  "temaki-taxi_stand": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3712,
+    "y": 3328,
+    "sdf": true
+  },
+  "temaki-telephone": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3712,
+    "y": 3456,
+    "sdf": true
+  },
+  "temaki-telescope": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3712,
+    "y": 3584,
+    "sdf": true
+  },
+  "temaki-temaki": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3712,
+    "y": 3712,
+    "sdf": true
+  },
+  "temaki-tennis": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3712,
+    "y": 3840,
+    "sdf": true
+  },
+  "temaki-tents": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3712,
+    "y": 3968,
+    "sdf": true
+  },
+  "temaki-ticket": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3840,
+    "y": 0,
+    "sdf": true
+  },
+  "temaki-tiling": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3840,
+    "y": 128,
+    "sdf": true
+  },
+  "temaki-tire": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3840,
+    "y": 256,
+    "sdf": true
+  },
+  "temaki-tire_course": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3840,
+    "y": 384,
+    "sdf": true
+  },
+  "temaki-toll_gantry": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3840,
+    "y": 512,
+    "sdf": true
+  },
+  "temaki-toolbox": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3840,
+    "y": 640,
+    "sdf": true
+  },
+  "temaki-tools": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3840,
+    "y": 768,
+    "sdf": true
+  },
+  "temaki-tower": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3840,
+    "y": 896,
+    "sdf": true
+  },
+  "temaki-tower_communication": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3840,
+    "y": 1024,
+    "sdf": true
+  },
+  "temaki-town_hall": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3840,
+    "y": 1152,
+    "sdf": true
+  },
+  "temaki-traffic_signals": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3840,
+    "y": 1280,
+    "sdf": true
+  },
+  "temaki-train": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3840,
+    "y": 1408,
+    "sdf": true
+  },
+  "temaki-train_bullet": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3840,
+    "y": 1536,
+    "sdf": true
+  },
+  "temaki-train_diesel": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3840,
+    "y": 1664,
+    "sdf": true
+  },
+  "temaki-train_kids": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3840,
+    "y": 1792,
+    "sdf": true
+  },
+  "temaki-train_steam": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3840,
+    "y": 1920,
+    "sdf": true
+  },
+  "temaki-train_wash": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3840,
+    "y": 2048,
+    "sdf": true
+  },
+  "temaki-tram": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3840,
+    "y": 2176,
+    "sdf": true
+  },
+  "temaki-tram_side": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3840,
+    "y": 2304,
+    "sdf": true
+  },
+  "temaki-transit": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3840,
+    "y": 2432,
+    "sdf": true
+  },
+  "temaki-transit_shelter": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3840,
+    "y": 2560,
+    "sdf": true
+  },
+  "temaki-tree_and_bench": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3840,
+    "y": 2688,
+    "sdf": true
+  },
+  "temaki-tree_broadleaved": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3840,
+    "y": 2816,
+    "sdf": true
+  },
+  "temaki-tree_cactus": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3840,
+    "y": 2944,
+    "sdf": true
+  },
+  "temaki-tree_leafless": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3840,
+    "y": 3072,
+    "sdf": true
+  },
+  "temaki-tree_needleleaved": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3840,
+    "y": 3200,
+    "sdf": true
+  },
+  "temaki-tree_palm": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3840,
+    "y": 3328,
+    "sdf": true
+  },
+  "temaki-tree_row": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3840,
+    "y": 3456,
+    "sdf": true
+  },
+  "temaki-tree_stump": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3840,
+    "y": 3584,
+    "sdf": true
+  },
+  "temaki-trench": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3840,
+    "y": 3712,
+    "sdf": true
+  },
+  "temaki-trolleybus": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3840,
+    "y": 3840,
+    "sdf": true
+  },
+  "temaki-truck": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3840,
+    "y": 3968,
+    "sdf": true
+  },
+  "temaki-tunnel": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3968,
+    "y": 0,
+    "sdf": true
+  },
+  "temaki-turnstile": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3968,
+    "y": 128,
+    "sdf": true
+  },
+  "temaki-utility_pole": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3968,
+    "y": 256,
+    "sdf": true
+  },
+  "temaki-vacuum": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3968,
+    "y": 384,
+    "sdf": true
+  },
+  "temaki-vacuum_station": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3968,
+    "y": 512,
+    "sdf": true
+  },
+  "temaki-valley": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3968,
+    "y": 640,
+    "sdf": true
+  },
+  "temaki-vase": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3968,
+    "y": 768,
+    "sdf": true
+  },
+  "temaki-vending_bread": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3968,
+    "y": 896,
+    "sdf": true
+  },
+  "temaki-vending_cigarettes": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3968,
+    "y": 1024,
+    "sdf": true
+  },
+  "temaki-vending_cold_drink": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3968,
+    "y": 1152,
+    "sdf": true
+  },
+  "temaki-vending_cold_drink2": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3968,
+    "y": 1280,
+    "sdf": true
+  },
+  "temaki-vending_eggs": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3968,
+    "y": 1408,
+    "sdf": true
+  },
+  "temaki-vending_flat_coin": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3968,
+    "y": 1536,
+    "sdf": true
+  },
+  "temaki-vending_hot_drink": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3968,
+    "y": 1664,
+    "sdf": true
+  },
+  "temaki-vending_hot_drink2": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3968,
+    "y": 1792,
+    "sdf": true
+  },
+  "temaki-vending_ice": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3968,
+    "y": 1920,
+    "sdf": true
+  },
+  "temaki-vending_ice_cream": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3968,
+    "y": 2048,
+    "sdf": true
+  },
+  "temaki-vending_ice_cream2": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3968,
+    "y": 2176,
+    "sdf": true
+  },
+  "temaki-vending_lockers": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3968,
+    "y": 2304,
+    "sdf": true
+  },
+  "temaki-vending_love": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3968,
+    "y": 2432,
+    "sdf": true
+  },
+  "temaki-vending_machine": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3968,
+    "y": 2560,
+    "sdf": true
+  },
+  "temaki-vending_medicine": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3968,
+    "y": 2688,
+    "sdf": true
+  },
+  "temaki-vending_newspaper": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3968,
+    "y": 2816,
+    "sdf": true
+  },
+  "temaki-vending_pet_waste": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3968,
+    "y": 2944,
+    "sdf": true
+  },
+  "temaki-vending_stamps": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3968,
+    "y": 3072,
+    "sdf": true
+  },
+  "temaki-vending_tickets": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3968,
+    "y": 3200,
+    "sdf": true
+  },
+  "temaki-vending_venus": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3968,
+    "y": 3328,
+    "sdf": true
+  },
+  "temaki-vertex": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3968,
+    "y": 3456,
+    "sdf": true
+  },
+  "temaki-vertical_rotisserie": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3968,
+    "y": 3584,
+    "sdf": true
+  },
+  "temaki-veterinary_care": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3968,
+    "y": 3712,
+    "sdf": true
+  },
+  "temaki-wall": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3968,
+    "y": 3840,
+    "sdf": true
+  },
+  "temaki-waste": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 3968,
+    "y": 3968,
+    "sdf": true
+  },
+  "temaki-waste_device": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 4096,
+    "y": 0,
+    "sdf": true
+  },
+  "temaki-waste_manhole": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 4224,
+    "y": 0,
+    "sdf": true
+  },
+  "temaki-waste_meter": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 4352,
+    "y": 0,
+    "sdf": true
+  },
+  "temaki-waste_shutoff": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 4480,
+    "y": 0,
+    "sdf": true
+  },
+  "temaki-water": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 4608,
+    "y": 0,
+    "sdf": true
+  },
+  "temaki-water_bottle": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 4736,
+    "y": 0,
+    "sdf": true
+  },
+  "temaki-water_device": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 4864,
+    "y": 0,
+    "sdf": true
+  },
+  "temaki-water_manhole": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 4992,
+    "y": 0,
+    "sdf": true
+  },
+  "temaki-water_meter": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 5120,
+    "y": 0,
+    "sdf": true
+  },
+  "temaki-water_shutoff": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 5248,
+    "y": 0,
+    "sdf": true
+  },
+  "temaki-water_tap": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 5376,
+    "y": 0,
+    "sdf": true
+  },
+  "temaki-water_tap_drinkable": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 5504,
+    "y": 0,
+    "sdf": true
+  },
+  "temaki-water_tower": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 5632,
+    "y": 0,
+    "sdf": true
+  },
+  "temaki-waterskiing": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 5760,
+    "y": 0,
+    "sdf": true
+  },
+  "temaki-well_pump_manual": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 5888,
+    "y": 0,
+    "sdf": true
+  },
+  "temaki-well_pump_powered": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 6016,
+    "y": 0,
+    "sdf": true
+  },
+  "temaki-whale_watching": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 6144,
+    "y": 0,
+    "sdf": true
+  },
+  "temaki-wheel": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 6272,
+    "y": 0,
+    "sdf": true
+  },
+  "temaki-wheelchair": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 6400,
+    "y": 0,
+    "sdf": true
+  },
+  "temaki-wheelchair_active": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 6528,
+    "y": 0,
+    "sdf": true
+  },
+  "temaki-wind_surfing": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 6656,
+    "y": 0,
+    "sdf": true
+  },
+  "temaki-wind_turbine": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 6784,
+    "y": 0,
+    "sdf": true
+  },
+  "temaki-windmill": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 6912,
+    "y": 0,
+    "sdf": true
+  },
+  "temaki-window": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 7040,
+    "y": 0,
+    "sdf": true
+  },
+  "temaki-windpump": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 7168,
+    "y": 0,
+    "sdf": true
+  },
+  "temaki-windsock": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 7296,
+    "y": 0,
+    "sdf": true
+  },
+  "temaki-x_oblique": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 7424,
+    "y": 0,
+    "sdf": true
+  },
+  "temaki-yield": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 7552,
+    "y": 0,
+    "sdf": true
+  },
+  "temaki-zoo": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 7680,
+    "y": 0,
+    "sdf": true
+  },
+  "triangle": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 7808,
+    "y": 0,
+    "sdf": true
+  },
+  "windows8-bear": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 7936,
+    "y": 0,
+    "sdf": true
+  },
+  "windows8-mb": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 8064,
+    "y": 0,
+    "sdf": true
+  },
+  "wishforge-milkshake": {
+    "height": 128,
+    "pixelRatio": 2,
+    "width": 128,
+    "x": 4096,
+    "y": 128,
+    "sdf": true
+  }
+}

@@ -1,24 +1,48 @@
-# Basemaps Assets Context
+# Basemaps Assets AI Context
 
-## Icon rules
-- Default icon size is 15x15 (set `width="15" height="15"` on the `<svg>` element).
-- Keep a proper `viewBox` so scaling is consistent.
-- Default color is solid black (`#000000`) with a transparent background.
-- Only use non-black colors when explicitly requested (e.g. `fts-tree.svg`).
-- Avoid embedded bitmaps; use pure vector paths.
-- Keep SVGs simple (single path where possible) and remove unnecessary metadata.
-- Ensure there are no duplicate `id` values inside SVGs.
-- Filename (without `.svg`) must match the sprite icon name.
+This repo contains the icon SVGs, presets, and sprite build pipeline for Fotoshi basemaps.
+Use this as the point-of-entry for any AI or contributor.
 
-## Sprites
-- Rebuild sprites after any icon or preset change:
+## Mission
+- Keep the icon set clean, consistent, and correctly rendered in sprites.
+- Ensure presets reference valid icons and map cleanly to OSM/Overture tags.
+- Avoid breaking sprite builds or map rendering.
+
+## Always Run
+- **After any icon or preset changes, run:**
   - `make`
   - `make retina`
-- Sprite sheets are generated from `icons/`.
-- Check `sprites/sprites.json` for unexpected large sizes; anything bigger than 15x15 is usually a mistake.
- - Quick check: `scripts/check-icon-sizes.sh`
 
-## Presets & tags
-- Preset `icon` value must match the SVG filename.
-- Keep presets and tags consistent with OSM tags and overture categories.
-- Use ASCII for new edits unless the file already uses Unicode.
+The 2x sprites are required for production parity. Do not skip.
+
+## Icon Rules
+- **Size:** all icons are **15x15**.
+- **Color:** black (`#000000`) unless explicitly specified (e.g., custom tree icon).
+- **ViewBox:** normalized and clean. If an SVG is malformed (duplicate xmlns, etc.), fix it.
+- **Output:** SVGs live in `icons/`, sprites in `sprites/`.
+
+## Sprite Build
+- Uses `spreet` to build sprites and JSON.
+- `make` builds 1x sprites.
+- `make retina` builds 2x sprites.
+
+## Presets
+- Presets live in `meta/presets.json`.
+- Every preset **must** reference a valid icon name (without `.svg`).
+- Keep IDs stable. Only append new IDs.
+
+## Common Tasks
+- **Add or replace an icon:**
+  1) Add SVG under `icons/` with correct size/color.
+  2) Update the preset icon reference if needed.
+  3) Run `make` and `make retina`.
+
+- **New preset:**
+  1) Decide tags + icon.
+  2) Add to `meta/presets.json` with next ID.
+  3) Run `make` and `make retina`.
+
+## Notes
+- If sprites look wrong, verify SVG sizing first.
+- If MapLibre reports missing images, check the icon name in presets and sprite JSON.
+- Avoid keeping temporary or staging icon folders in the repo.

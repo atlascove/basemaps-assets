@@ -38708,7 +38708,9 @@
     ],
     "terms": [
       "transportation",
-      "depot"
+      "depot",
+      "railway station",
+      "rail station"
     ],
     "last_updated": "2025-12-17",
     "ds": "2025-09-03",
@@ -38749,7 +38751,10 @@
     "terms": [
       "transportation",
       "halt",
-      "request"
+      "request",
+      "whistle stop",
+      "flag stop",
+      "request halt"
     ],
     "last_updated": "2025-12-17",
     "ds": "2025-09-03",
@@ -41056,7 +41061,11 @@
       "vertex",
       "area"
     ],
-    "terms": [],
+    "terms": [
+      "rail station",
+      "train depot",
+      "rail hub"
+    ],
     "last_updated": "2025-09-03",
     "ds": "2025-09-03",
     "name_required": true,
@@ -44542,7 +44551,9 @@
       "cosmetics",
       "styling",
       "accessories",
-      "hairdresser"
+      "hairdresser",
+      "barber supply",
+      "barber supply store"
     ],
     "last_updated": "2025-12-17",
     "ds": "2025-09-03",
@@ -90068,7 +90079,11 @@
       "point",
       "vertex"
     ],
-    "terms": [],
+    "terms": [
+      "railway station",
+      "subway station",
+      "light rail station"
+    ],
     "last_updated": "2025-09-03",
     "ds": "2025-09-03",
     "name_required": true,

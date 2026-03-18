@@ -91242,5 +91242,42 @@
       "transit station"
     ],
     "matchScore": 1
+  },
+  {
+    "id": 2694,
+    "name": "Baha'i Temple",
+    "icon": "fas-bahai",
+    "tags": {
+      "amenity": "place_of_worship",
+      "religion": "bahai"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "bahai",
+      "baha'i",
+      "bahai temple",
+      "bahai house of worship",
+      "mashriqu'l-adhkar"
+    ],
+    "last_updated": "2026-03-18",
+    "ds": "2025-09-03",
+    "name_required": true,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "baha'i temple",
+      "bahai temple",
+      "bahá'í temple",
+      "bahai house of worship",
+      "bahá'í house of worship",
+      "mashriqu'l-adhkar",
+      "house of worship"
+    ],
+    "matchScore": 1
   }
 ]

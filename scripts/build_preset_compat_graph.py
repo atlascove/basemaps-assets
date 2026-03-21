@@ -35,7 +35,9 @@ FORCED_ALLOW_PAIRS: Set[Tuple[int, int]] = {
     (72, 36),     # Cafe <-> Community Center
     (189, 970),   # Embassy <-> Embassy Others
     (416, 659),   # Sports Club <-> Bowling Alley
+    (503, 603),   # Driving Range <-> Golf Course
     (731, 1201),  # Yoga Studio <-> Sporting Goods Store
+    (1174, 1449), # Electronics Store <-> Event Photography
     (1144, 1461), # Cannabis Shop <-> Cannabis Clinic
 }
 

@@ -42,6 +42,13 @@ FORCED_ALLOW_PAIRS: Set[Tuple[int, int]] = {
     (62, 583),    # Bar <-> Dance Hall
     (969, 189),   # Consulate <-> Embassy
     (971, 189),   # Liaison Office <-> Embassy
+    (1157, 72),   # Coffee Store <-> Cafe
+    (1221, 962),  # Mobile Phone Store <-> Telecom Office
+    (703, 1411),  # Garden <-> Landmark and Historical Building
+    (81, 1477),   # Clinic <-> Physical Therapy
+    (62, 1575),   # Bar <-> Jazz and Blues
+    (712, 1298),  # Park <-> Tourist Attraction
+    (712, 988),   # Park <-> Square
     (132, 583),   # Nightclub <-> Dance Hall
     (158, 933),   # School Grounds <-> Educational Institution
     (1154, 76),   # Drugstore <-> Pharmacy Counter

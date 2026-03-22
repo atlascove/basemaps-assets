@@ -1642,6 +1642,19 @@ FORCED_ALLOW_PAIRS: Set[Tuple[int, int]] = {
     (2023, 2076),  # auto sem-all Environmental Testing <-> Paternity Tests and Services
     (2062, 2124),  # auto sem-all Veterans Organization <-> Foster Care Services
     (2124, 2197),  # auto sem-all Foster Care Services <-> Department Of Social Service
+    (615, 1411),  # last-pass sel#2 Commemorative Plaque <-> Landmark and Historical Building
+    (588, 1411),  # last-pass sel#4 Ruins <-> Landmark and Historical Building
+    (704, 1180),  # last-pass sel#5 Hackerspace <-> Artwork
+    (246, 988),  # last-pass sel#6 Pedestrian Area <-> Square
+    (626, 988),  # last-pass sel#7 Memorial <-> Square
+    (1401, 365),  # last-pass sel#8 Building <-> Apartment Building
+    (62, 690),  # last-pass sel#10 Bar <-> Amusement Arcade
+    (744, 676),  # last-pass sel#12 Community Garden <-> Farm
+    (1150, 177),  # last-pass sel#13 Car Repair Shop <-> Vehicle Inspection
+    (1401, 1421),  # last-pass sel#14 Building <-> Cathedral
+    (1202, 514),  # last-pass sel#22 Hearing Aids Store <-> Audiologist
+    (1401, 101),  # last-pass sel#24 Building <-> Fountain
+    (1401, 1575),  # last-pass sel#25 Building <-> Jazz and Blues
 }
 
 

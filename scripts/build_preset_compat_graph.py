@@ -40,6 +40,8 @@ FORCED_ALLOW_PAIRS: Set[Tuple[int, int]] = {
     (1174, 1449), # Electronics Store <-> Event Photography
     (1144, 1461), # Cannabis Shop <-> Cannabis Clinic
     (62, 583),    # Bar <-> Dance Hall
+    (969, 189),   # Consulate <-> Embassy
+    (971, 189),   # Liaison Office <-> Embassy
     (132, 583),   # Nightclub <-> Dance Hall
     (158, 933),   # School Grounds <-> Educational Institution
     (1154, 76),   # Drugstore <-> Pharmacy Counter
@@ -136,6 +138,8 @@ def classify(p: PresetInfo) -> Semantic:
             f.add("office_knowledge")
         if off in {"government", "administrative", "diplomatic", "ngo", "association"}:
             f.add("civic")
+        if off in {"religious_organization"} or "religious" in off:
+            f.add("religion")
         if off in {"bus_service", "transport", "travel_agent"}:
             f.add("transit_service")
 

@@ -44,6 +44,13 @@ FORCED_ALLOW_PAIRS: Set[Tuple[int, int]] = {
     (971, 189),   # Liaison Office <-> Embassy
     (1157, 72),   # Coffee Store <-> Cafe
     (1155, 1504), # Chocolate Store <-> Desserts
+    (155, 1155),  # Restaurant <-> Chocolate Store
+    (1504, 1736), # Desserts <-> Cupcake Shop
+    (933, 145),   # Educational Institution <-> Test Prep / Tutoring School
+    (1028, 1463), # Subway Entrance <-> Transportation
+    (221, 134),   # Underground Parking <-> Parking Lot
+    (124, 1255),  # Marketplace <-> Supermarket
+    (135, 134),   # Parking Garage Entrance / Exit <-> Parking Lot
     (1306, 1411), # Hotel <-> Landmark and Historical Building
     (933, 1132),  # Educational Institution <-> Elementary School
     (81, 517),    # Clinic <-> Counselling Center

@@ -105,6 +105,60 @@ FORCED_ALLOW_PAIRS: Set[Tuple[int, int]] = {
     (1067, 1463), # Tram & Bus Stop <-> Transportation
     (1061, 1463), # Tram Stopping Location <-> Transportation
     (1064, 1463), # Bus Platform <-> Transportation
+    (928, 170),   # Nonprofit Office <-> Theater
+    (115, 1132),  # Language School <-> Elementary School
+    (1008, 1463), # Bus Stopping Location <-> Transportation
+    (704, 1118),  # Hackerspace <-> Event Planning
+    (1174, 2385), # Electronics Store <-> Domestic Business and Trade Organizations
+    (1194, 1406), # Gift Shop <-> Professional Services
+    (1276, 155),  # Wine Shop <-> Restaurant
+    (1401, 592),  # Building <-> Monument
+    (1401, 140),  # Building <-> Police
+    (498, 1309),  # Main Entrance <-> Museum
+    (1131, 91),   # Beauty Shop <-> Doctor
+    (1044, 1463), # Light Rail Station <-> Transportation
+    (1298, 1421), # Tourist Attraction <-> Cathedral
+    (426, 1255),  # Caterer <-> Supermarket
+    (448, 926),   # Photographic Laboratory <-> Advertising Agency
+    (448, 1719),  # Photographic Laboratory <-> Business Management Services
+    (931, 1766),  # Consultancy Office <-> Occupational Safety
+    (1401, 1484), # Building <-> Flowers and Gifts Shop
+    (1327, 943),  # Visitor Center <-> Government Office
+    (645, 943),   # Cemetery <-> Government Office
+    (513, 1280),  # Alternative Medicine <-> Shop
+    (933, 2033),  # Educational Institution <-> Adult Education
+    (956, 87),    # Quasi-NGO Office <-> Courthouse
+    (2549, 1230), # Retina Specialist <-> Optician
+    (155, 431),   # Restaurant <-> Distillery
+    (1159, 1570), # Computer Store <-> Computer Hardware Company
+    (2446, 519),  # Diagnostic Imaging <-> Medical Laboratory
+    (147, 423),   # Pub <-> Brewery
+    (626, 592),   # Memorial <-> Monument
+    (2035, 517),  # Volunteer Association <-> Counselling Center
+    (928, 416),   # Nonprofit Office <-> Sports Club
+    (1947, 517),  # Psychiatrist <-> Counselling Center
+    (416, 1437),  # Sports Club <-> Martial Arts Club
+    (264, 1306),  # Nursing Facility <-> Hotel
+    (714, 1522),  # Sport Pitch <-> Rock Climbing Spot
+    (928, 1180),  # Nonprofit Office <-> Artwork
+    (132, 170),   # Nightclub <-> Theater
+    (930, 1174),  # Corporate Office <-> Electronics Store
+    (158, 131),   # School Grounds <-> Music School
+    (915, 163),   # Charity Office <-> Social Facility
+    (522, 1477),  # Physiotherapist <-> Physical Therapy
+    (190, 1492),  # Nursing Home <-> Retirement Home
+    (147, 1637),  # Pub <-> Pool Billiards
+    (1133, 1674), # Bedding/Mattress Store <-> Business To Business Services
+    (935, 2412),  # Energy Supplier Office <-> Electrical Wholesaler
+    (2446, 1828), # Diagnostic Imaging <-> Radiologist
+    (780, 1522),  # Climbing Gym <-> Rock Climbing Spot
+    (59, 1604),   # Arts Center <-> Masonry Concrete
+    (36, 2668),   # Community Center <-> Religious Organization
+    (76, 1219),   # Pharmacy Counter <-> Medical Supply Store
+    (1066, 1180), # Art Store <-> Artwork
+    (434, 1756),  # Electrician <-> Energy Equipment and Solution
+    (76, 2581),   # Pharmacy Counter <-> Pharmaceutical Products Wholesaler
+    (1401, 62),   # Building <-> Bar
 }
 
 

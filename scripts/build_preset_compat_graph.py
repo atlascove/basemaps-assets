@@ -159,6 +159,7 @@ FORCED_ALLOW_PAIRS: Set[Tuple[int, int]] = {
     (434, 1756),  # Electrician <-> Energy Equipment and Solution
     (76, 2581),   # Pharmacy Counter <-> Pharmaceutical Products Wholesaler
     (1401, 62),   # Building <-> Bar
+    (190, 2509),  # Nursing Home <-> Memory Care
     (1, 793),  # auto sem>=0.95 Bridge <-> Bridge Area
     (65, 175),  # auto sem>=0.95 Bicycle Parking <-> Bicycle Parking Garage
     (82, 178),  # auto sem>=0.95 Bread Vending Machine <-> Vending Machine

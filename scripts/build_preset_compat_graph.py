@@ -1737,7 +1737,7 @@ def classify(p: PresetInfo) -> Semantic:
     # Amenity.
     am = tag(p, "amenity")
     if am:
-        if am in {"restaurant", "cafe", "fast_food", "bar", "pub", "biergarten", "food_court", "ice_cream"}:
+        if am in {"restaurant", "cafe", "internet_cafe", "fast_food", "bar", "pub", "biergarten", "food_court", "ice_cream"}:
             f.add("food_service")
         if am in {"school", "kindergarten", "college", "university", "library", "childcare"}:
             f.add("education")

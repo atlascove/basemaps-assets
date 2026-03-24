@@ -3717,7 +3717,7 @@
     "overture": "vegetarian_restaurant",
     "osm_tags": {
       "amenity": "restaurant",
-      "diet:vegetarian": "yes"
+      "cuisine": "vegetarian"
     },
     "class": "amenity",
     "subclass": "restaurant",

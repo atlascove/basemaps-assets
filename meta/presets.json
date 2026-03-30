@@ -3996,7 +3996,7 @@
   {
     "id": 107,
     "name": "Hospital Grounds",
-    "icon": "maki-doctor",
+    "icon": "fas-plus-circle",
     "tags": {
       "amenity": "hospital"
     },
@@ -12501,7 +12501,7 @@
   {
     "id": 331,
     "name": "Bungalow",
-    "icon": "maki-home",
+    "icon": "remixicon-building",
     "tags": {
       "building": "bungalow"
     },
@@ -13898,7 +13898,7 @@
   {
     "id": 369,
     "name": "Hospital Building",
-    "icon": "fas-plus-circle",
+    "icon": "material-design-hospital",
     "tags": {
       "building": "hospital"
     },

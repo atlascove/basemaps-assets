@@ -91284,5 +91284,40 @@
       "house of worship"
     ],
     "matchScore": 1
+  },
+  {
+    "id": 2695,
+    "name": "Scuba Diving Spot",
+    "icon": "temaki-scuba_diving",
+    "tags": {
+      "sport": "scuba_diving",
+      "scuba_diving:divespot": "yes"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "scuba diving spot",
+      "dive spot",
+      "dive site",
+      "scuba diving",
+      "diving"
+    ],
+    "last_updated": "2026-03-30",
+    "ds": "2026-03-30",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "1",
+    "overture_categories": [],
+    "natural_language_category": [
+      "scuba diving spot",
+      "dive spot",
+      "dive site",
+      "scuba",
+      "diving"
+    ],
+    "matchScore": 1
   }
 ]

@@ -139,6 +139,8 @@ FORCED_ALLOW_PAIRS: Set[Tuple[int, int]] = {
     (1947, 517),  # Psychiatrist <-> Counselling Center
     (416, 1437),  # Sports Club <-> Martial Arts Club
     (264, 1306),  # Nursing Facility <-> Hotel
+    (2696, 1306), # Hotel & Restaurant <-> Hotel
+    (2696, 155),  # Hotel & Restaurant <-> Restaurant
     (714, 1522),  # Sport Pitch <-> Rock Climbing Spot
     (928, 1180),  # Nonprofit Office <-> Artwork
     (132, 170),   # Nightclub <-> Theater

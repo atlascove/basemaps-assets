@@ -1142,39 +1142,6 @@
     "matchScore": 1
   },
   {
-    "id": 1961,
-    "name": "Costume Museum",
-    "icon": "temaki-museum",
-    "tags": {
-      "museum": "costume",
-      "tourism": "museum"
-    },
-    "geometry": [
-      "point",
-      "vertex"
-    ],
-    "terms": [
-      "costume",
-      "fashion museum",
-      "dress museum",
-      "textile museum",
-      "garment museum"
-    ],
-    "last_updated": "2025-12-17",
-    "ds": "2025-09-03",
-    "name_required": true,
-    "allow_add": true,
-    "source": "osm",
-    "version": "3",
-    "overture_categories": [
-      "costume_museum"
-    ],
-    "natural_language_category": [
-      "costume museum"
-    ],
-    "matchScore": 1
-  },
-  {
     "id": 35,
     "name": "T-Bar Lift",
     "icon": "temaki-t_bar_lift",
@@ -4030,39 +3997,6 @@
       "sanitarium"
     ],
     "matchScore": 0.1
-  },
-  {
-    "id": 1962,
-    "name": "Molecular Gastronomy Restaurant",
-    "icon": "maki-restaurant",
-    "tags": {
-      "amenity": "restaurant",
-      "cuisine": "molecular_gastronomy"
-    },
-    "geometry": [
-      "point",
-      "vertex"
-    ],
-    "terms": [
-      "eatery",
-      "dining",
-      "food",
-      "menu",
-      "table"
-    ],
-    "last_updated": "2025-12-17",
-    "ds": "2025-09-03",
-    "name_required": true,
-    "allow_add": true,
-    "source": "overture",
-    "version": "3",
-    "overture_categories": [
-      "molecular_gastronomy_restaurant"
-    ],
-    "natural_language_category": [
-      "molecular gastronomy restaurant"
-    ],
-    "matchScore": 1
   },
   {
     "id": 108,
@@ -7633,39 +7567,6 @@
       "gardener",
       "landscaper",
       "grounds keeper"
-    ],
-    "matchScore": 1
-  },
-  {
-    "id": 1963,
-    "name": "Singaporean Restaurant",
-    "icon": "maki-restaurant-noodle",
-    "tags": {
-      "amenity": "restaurant",
-      "cuisine": "singaporean"
-    },
-    "geometry": [
-      "point",
-      "vertex"
-    ],
-    "terms": [
-      "eatery",
-      "dining",
-      "food",
-      "menu",
-      "table"
-    ],
-    "last_updated": "2025-12-17",
-    "ds": "2025-09-03",
-    "name_required": true,
-    "allow_add": true,
-    "source": "overture",
-    "version": "3",
-    "overture_categories": [
-      "singaporean_restaurant"
-    ],
-    "natural_language_category": [
-      "singaporean restaurant"
     ],
     "matchScore": 1
   },
@@ -13718,35 +13619,6 @@
     "matchScore": 1
   },
   {
-    "id": 1964,
-    "name": "Logging Contractor",
-    "icon": "maki-logging",
-    "tags": {
-      "craft": "logger"
-    },
-    "geometry": [
-      "point",
-      "vertex"
-    ],
-    "terms": [
-      "logging contractor",
-      "logger"
-    ],
-    "last_updated": "2025-12-17",
-    "ds": "2025-09-03",
-    "name_required": true,
-    "allow_add": true,
-    "source": "overture",
-    "version": "3",
-    "overture_categories": [
-      "logging_contractor"
-    ],
-    "natural_language_category": [
-      "logging contractor"
-    ],
-    "matchScore": 1
-  },
-  {
     "id": 365,
     "name": "Apartment Building",
     "icon": "maki-building",
@@ -17376,39 +17248,6 @@
     "matchScore": 1
   },
   {
-    "id": 1965,
-    "name": "Gluten Free Restaurant",
-    "icon": "maki-restaurant",
-    "tags": {
-      "amenity": "restaurant",
-      "diet:gluten_free": "yes"
-    },
-    "geometry": [
-      "point",
-      "vertex"
-    ],
-    "terms": [
-      "eatery",
-      "dining",
-      "food",
-      "menu",
-      "table"
-    ],
-    "last_updated": "2025-12-17",
-    "ds": "2025-09-03",
-    "name_required": true,
-    "allow_add": true,
-    "source": "overture",
-    "version": "3",
-    "overture_categories": [
-      "gluten_free_restaurant"
-    ],
-    "natural_language_category": [
-      "gluten free restaurant"
-    ],
-    "matchScore": 1
-  },
-  {
     "id": 470,
     "name": "Disc Golf Hole",
     "icon": "temaki-disc_golf_basket",
@@ -17942,37 +17781,6 @@
       "med kit",
       "emergency kit",
       "emergency supply"
-    ],
-    "matchScore": 1
-  },
-  {
-    "id": 1966,
-    "name": "Architectural Tours",
-    "icon": "temaki-ruins",
-    "tags": {
-      "guide": "architecture",
-      "office": "guide"
-    },
-    "geometry": [
-      "point",
-      "vertex"
-    ],
-    "terms": [
-      "architectural tours",
-      "guide"
-    ],
-    "last_updated": "2025-12-17",
-    "ds": "2025-09-03",
-    "name_required": true,
-    "allow_add": true,
-    "source": "overture",
-    "version": "3",
-    "overture_categories": [
-      "architectural_tours"
-    ],
-    "natural_language_category": [
-      "architectural tours",
-      "architectural tour"
     ],
     "matchScore": 1
   },
@@ -19940,35 +19748,6 @@
     "matchScore": 1
   },
   {
-    "id": 1967,
-    "name": "Desert",
-    "icon": "temaki-sandbox",
-    "tags": {
-      "natural": "desert"
-    },
-    "geometry": [
-      "point",
-      "vertex"
-    ],
-    "terms": [
-      "desert",
-      "natural"
-    ],
-    "last_updated": "2025-12-17",
-    "ds": "2025-09-03",
-    "name_required": true,
-    "allow_add": true,
-    "source": "overture",
-    "version": "3",
-    "overture_categories": [
-      "desert"
-    ],
-    "natural_language_category": [
-      "desert"
-    ],
-    "matchScore": 1
-  },
-  {
     "id": 542,
     "name": "Indoor Corridor",
     "icon": "temaki-pedestrian",
@@ -20529,39 +20308,6 @@
       "minor road",
       "connecting road",
       "adjacent road"
-    ],
-    "matchScore": 1
-  },
-  {
-    "id": 1968,
-    "name": "Irish Restaurant",
-    "icon": "maki-restaurant",
-    "tags": {
-      "amenity": "restaurant",
-      "cuisine": "irish"
-    },
-    "geometry": [
-      "point",
-      "vertex"
-    ],
-    "terms": [
-      "eatery",
-      "dining",
-      "food",
-      "menu",
-      "table"
-    ],
-    "last_updated": "2025-12-17",
-    "ds": "2025-09-03",
-    "name_required": true,
-    "allow_add": true,
-    "source": "overture",
-    "version": "3",
-    "overture_categories": [
-      "irish_restaurant"
-    ],
-    "natural_language_category": [
-      "irish restaurant"
     ],
     "matchScore": 1
   },
@@ -21178,37 +20924,6 @@
       "land use"
     ],
     "matchScore": 0.9
-  },
-  {
-    "id": 1969,
-    "name": "Nudist Clubs",
-    "icon": "maki-pitch",
-    "tags": {
-      "club": "nudism"
-    },
-    "geometry": [
-      "point",
-      "vertex"
-    ],
-    "terms": [
-      "nudist clubs",
-      "nudism",
-      "club"
-    ],
-    "last_updated": "2025-12-17",
-    "ds": "2025-09-03",
-    "name_required": true,
-    "allow_add": true,
-    "source": "overture",
-    "version": "3",
-    "overture_categories": [
-      "nudist_clubs"
-    ],
-    "natural_language_category": [
-      "nudist clubs",
-      "nudist club"
-    ],
-    "matchScore": 1
   },
   {
     "id": 578,
@@ -22939,38 +22654,6 @@
       "epitaph",
       "remember",
       "remembrance"
-    ],
-    "matchScore": 1
-  },
-  {
-    "id": 2644,
-    "name": "Memorial Statue",
-    "icon": "temaki-statue",
-    "tags": {
-      "historic": "memorial",
-      "memorial": "statue"
-    },
-    "geometry": [
-      "point",
-      "vertex",
-      "area"
-    ],
-    "terms": [
-      "statue",
-      "commemorative statue",
-      "tribute statue"
-    ],
-    "last_updated": "2025-12-17",
-    "ds": "2025-09-03",
-    "name_required": false,
-    "allow_add": true,
-    "source": "osm",
-    "version": "2",
-    "overture_categories": [],
-    "natural_language_category": [
-      "memorial statue",
-      "commemorative statue",
-      "memorial monument"
     ],
     "matchScore": 1
   },
@@ -28254,39 +27937,6 @@
     "matchScore": 1
   },
   {
-    "id": 1970,
-    "name": "Venezuelan Restaurant",
-    "icon": "maki-restaurant",
-    "tags": {
-      "amenity": "restaurant",
-      "cuisine": "venezuelan"
-    },
-    "geometry": [
-      "point",
-      "vertex"
-    ],
-    "terms": [
-      "eatery",
-      "dining",
-      "food",
-      "menu",
-      "table"
-    ],
-    "last_updated": "2025-12-17",
-    "ds": "2025-09-03",
-    "name_required": true,
-    "allow_add": true,
-    "source": "overture",
-    "version": "3",
-    "overture_categories": [
-      "venezuelan_restaurant"
-    ],
-    "natural_language_category": [
-      "venezuelan restaurant"
-    ],
-    "matchScore": 1
-  },
-  {
     "id": 773,
     "name": "Softball Field",
     "icon": "maki-baseball",
@@ -28397,320 +28047,6 @@
       "ping pong location"
     ],
     "matchScore": 1
-  },
-  {
-    "id": 2641,
-    "name": "Ping Pong Venue",
-    "icon": "fas-table-tennis",
-    "tags": {
-      "sport": "table_tennis"
-    },
-    "geometry": [
-      "point",
-      "area"
-    ],
-    "terms": [
-      "ping pong",
-      "table tennis",
-      "ping pong hall",
-      "table tennis club",
-      "ping pong lounge"
-    ],
-    "last_updated": "2025-12-17",
-    "ds": "2025-09-03",
-    "name_required": false,
-    "allow_add": true,
-    "source": "osm",
-    "version": "2",
-    "overture_categories": [],
-    "natural_language_category": [
-      "ping pong",
-      "table tennis"
-    ],
-    "matchScore": 1
-  },
-  {
-    "id": 2645,
-    "name": "Climbing",
-    "icon": "temaki-climbing",
-    "tags": {
-      "sport": "climbing"
-    },
-    "geometry": [
-      "point",
-      "area"
-    ],
-    "terms": [
-      "climbing gym",
-      "climbing meetup"
-    ],
-    "last_updated": "2025-09-03",
-    "ds": "2025-09-03",
-    "name_required": false,
-    "allow_add": false,
-    "source": "osm",
-    "version": "1",
-    "overture_categories": [],
-    "natural_language_category": [
-      "climbing",
-      "climbing venue"
-    ],
-    "matchScore": 1
-  },
-  {
-    "id": 2646,
-    "name": "Billiards",
-    "icon": "fts-billiards",
-    "tags": {
-      "sport": "billiards"
-    },
-    "geometry": [
-      "point",
-      "area"
-    ],
-    "terms": [
-      "pool hall",
-      "billiards hall"
-    ],
-    "last_updated": "2025-09-03",
-    "ds": "2025-09-03",
-    "name_required": false,
-    "allow_add": false,
-    "source": "osm",
-    "version": "1",
-    "overture_categories": [],
-    "natural_language_category": [
-      "billiards",
-      "billiards venue"
-    ],
-    "matchScore": 1
-  },
-  {
-    "id": 2647,
-    "name": "Soccer",
-    "icon": "maki-soccer",
-    "tags": {
-      "sport": "soccer"
-    },
-    "geometry": [
-      "point",
-      "area"
-    ],
-    "terms": [
-      "soccer meetup",
-      "soccer training"
-    ],
-    "last_updated": "2025-09-03",
-    "ds": "2025-09-03",
-    "name_required": false,
-    "allow_add": false,
-    "source": "osm",
-    "version": "1",
-    "overture_categories": [],
-    "natural_language_category": [
-      "soccer",
-      "soccer venue"
-    ],
-    "matchScore": 1
-  },
-  {
-    "id": 2648,
-    "name": "Tennis",
-    "icon": "maki-tennis",
-    "tags": {
-      "sport": "tennis"
-    },
-    "geometry": [
-      "point",
-      "area"
-    ],
-    "terms": [
-      "tennis meetup",
-      "tennis practice"
-    ],
-    "last_updated": "2025-09-03",
-    "ds": "2025-09-03",
-    "name_required": false,
-    "allow_add": false,
-    "source": "osm",
-    "version": "1",
-    "overture_categories": [],
-    "natural_language_category": [
-      "tennis",
-      "tennis venue"
-    ],
-    "matchScore": 1
-  },
-  {
-    "id": 2649,
-    "name": "Swimming",
-    "icon": "maki-swimming",
-    "tags": {
-      "sport": "swimming"
-    },
-    "geometry": [
-      "point",
-      "area"
-    ],
-    "terms": [
-      "swim practice",
-      "swimming meetup"
-    ],
-    "last_updated": "2025-09-03",
-    "ds": "2025-09-03",
-    "name_required": false,
-    "allow_add": false,
-    "source": "osm",
-    "version": "1",
-    "overture_categories": [],
-    "natural_language_category": [
-      "swimming",
-      "swim venue"
-    ],
-    "matchScore": 1
-  },
-  {
-    "id": 2650,
-    "name": "Badminton",
-    "icon": "fts-badminton",
-    "tags": {
-      "sport": "badminton"
-    },
-    "geometry": [
-      "point",
-      "area"
-    ],
-    "terms": [
-      "badminton meetup",
-      "badminton space"
-    ],
-    "last_updated": "2025-09-03",
-    "ds": "2025-09-03",
-    "name_required": false,
-    "allow_add": false,
-    "source": "osm",
-    "version": "1",
-    "overture_categories": [],
-    "natural_language_category": [
-      "badminton",
-      "badminton venue"
-    ],
-    "matchScore": 1
-  },
-  {
-    "id": 2651,
-    "name": "Gymnastics",
-    "icon": "fts-gymnastics",
-    "tags": {
-      "sport": "gymnastics"
-    },
-    "geometry": [
-      "point",
-      "area"
-    ],
-    "terms": [
-      "gymnastics meetup",
-      "gymnastics practice"
-    ],
-    "last_updated": "2025-09-03",
-    "ds": "2025-09-03",
-    "name_required": false,
-    "allow_add": false,
-    "source": "osm",
-    "version": "1",
-    "overture_categories": [],
-    "natural_language_category": [
-      "gymnastics",
-      "gymnastics venue"
-    ],
-    "matchScore": 1
-  },
-  {
-    "id": 2652,
-    "name": "Volleyball",
-    "icon": "maki-volleyball",
-    "tags": {
-      "sport": "volleyball"
-    },
-    "geometry": [
-      "point",
-      "area"
-    ],
-    "terms": [
-      "volleyball meetup",
-      "volleyball practice"
-    ],
-    "last_updated": "2025-09-03",
-    "ds": "2025-09-03",
-    "name_required": false,
-    "allow_add": false,
-    "source": "osm",
-    "version": "1",
-    "overture_categories": [],
-    "natural_language_category": [
-      "volleyball",
-      "volleyball venue"
-    ],
-    "matchScore": 1
-  },
-  {
-    "id": 2642,
-    "name": "Proposed Railway",
-    "icon": "temaki-railway_track",
-    "tags": {
-      "railway": "proposed"
-    },
-    "geometry": [
-      "line",
-      "point"
-    ],
-    "terms": [
-      "future",
-      "planned",
-      "proposal",
-      "proposed"
-    ],
-    "last_updated": "2025-12-17",
-    "ds": "2025-09-03",
-    "name_required": false,
-    "allow_add": true,
-    "source": "osm",
-    "version": "2",
-    "overture_categories": [],
-    "natural_language_category": [
-      "proposed railway",
-      "future railway"
-    ],
-    "matchScore": 1
-  },
-  {
-    "id": 2643,
-    "name": "Traffic Calming",
-    "icon": "temaki-speed_bump",
-    "tags": {
-      "traffic_calming": "yes"
-    },
-    "geometry": [
-      "point",
-      "vertex"
-    ],
-    "terms": [
-      "speed bump",
-      "speed hump",
-      "traffic calming device"
-    ],
-    "last_updated": "2025-09-03",
-    "ds": "2025-09-03",
-    "name_required": false,
-    "allow_add": false,
-    "source": "osm",
-    "version": "1",
-    "overture_categories": [],
-    "natural_language_category": [
-      "traffic calming",
-      "speed calming feature"
-    ],
-    "matchScore": 0.5
   },
   {
     "id": 776,
@@ -29928,36 +29264,6 @@
     "matchScore": 1
   },
   {
-    "id": 1971,
-    "name": "Tai Chi Studio",
-    "icon": "maki-pitch",
-    "tags": {
-      "leisure": "fitness_centre",
-      "fitness_centre:type": "tai_chi"
-    },
-    "geometry": [
-      "point",
-      "vertex"
-    ],
-    "terms": [
-      "tai chi",
-      "fitness"
-    ],
-    "last_updated": "2025-12-17",
-    "ds": "2025-09-03",
-    "name_required": true,
-    "allow_add": true,
-    "source": "overture",
-    "version": "3",
-    "overture_categories": [
-      "tai_chi_studio"
-    ],
-    "natural_language_category": [
-      "tai chi studio"
-    ],
-    "matchScore": 1
-  },
-  {
     "id": 810,
     "name": "Manhole",
     "icon": "temaki-manhole",
@@ -30609,39 +29915,6 @@
       "traditional gate",
       "japanese entrance",
       "entrance gate"
-    ],
-    "matchScore": 1
-  },
-  {
-    "id": 1972,
-    "name": "Haitian Restaurant",
-    "icon": "maki-restaurant",
-    "tags": {
-      "amenity": "restaurant",
-      "cuisine": "haitian"
-    },
-    "geometry": [
-      "point",
-      "vertex"
-    ],
-    "terms": [
-      "eatery",
-      "dining",
-      "food",
-      "menu",
-      "table"
-    ],
-    "last_updated": "2025-12-17",
-    "ds": "2025-09-03",
-    "name_required": true,
-    "allow_add": true,
-    "source": "overture",
-    "version": "3",
-    "overture_categories": [
-      "haitian_restaurant"
-    ],
-    "natural_language_category": [
-      "haitian restaurant"
     ],
     "matchScore": 1
   },
@@ -31889,39 +31162,6 @@
       "television tower",
       "transmission mast",
       "transmission tower"
-    ],
-    "matchScore": 1
-  },
-  {
-    "id": 1973,
-    "name": "Uzbek Restaurant",
-    "icon": "maki-restaurant-noodle",
-    "tags": {
-      "amenity": "restaurant",
-      "cuisine": "uzbek"
-    },
-    "geometry": [
-      "point",
-      "vertex"
-    ],
-    "terms": [
-      "eatery",
-      "dining",
-      "food",
-      "menu",
-      "table"
-    ],
-    "last_updated": "2025-12-17",
-    "ds": "2025-09-03",
-    "name_required": true,
-    "allow_add": true,
-    "source": "overture",
-    "version": "3",
-    "overture_categories": [
-      "uzbek_restaurant"
-    ],
-    "natural_language_category": [
-      "uzbek restaurant"
     ],
     "matchScore": 1
   },
@@ -38132,69 +37372,6 @@
     "matchScore": 1
   },
   {
-    "id": 1974,
-    "name": "Asian Art Museum",
-    "icon": "temaki-museum",
-    "tags": {
-      "museum": "art",
-      "tourism": "museum",
-      "artwork_type": "asian"
-    },
-    "geometry": [
-      "point",
-      "vertex"
-    ],
-    "terms": [
-      "asian art"
-    ],
-    "last_updated": "2025-12-17",
-    "ds": "2025-09-03",
-    "name_required": true,
-    "allow_add": true,
-    "source": "overture",
-    "version": "4",
-    "overture_categories": [
-      "asian_art_museum"
-    ],
-    "natural_language_category": [
-      "asian art museum"
-    ],
-    "matchScore": 1
-  },
-  {
-    "id": 1975,
-    "name": "Dominican Restaurant",
-    "icon": "maki-restaurant",
-    "tags": {
-      "amenity": "restaurant",
-      "cuisine": "dominican"
-    },
-    "geometry": [
-      "point",
-      "vertex"
-    ],
-    "terms": [
-      "eatery",
-      "dining",
-      "food",
-      "menu",
-      "table"
-    ],
-    "last_updated": "2025-12-17",
-    "ds": "2025-09-03",
-    "name_required": true,
-    "allow_add": true,
-    "source": "overture",
-    "version": "3",
-    "overture_categories": [
-      "dominican_restaurant"
-    ],
-    "natural_language_category": [
-      "dominican restaurant"
-    ],
-    "matchScore": 1
-  },
-  {
     "id": 1033,
     "name": "Solar Farm",
     "icon": "fas-solar-panel",
@@ -39250,37 +38427,6 @@
       "tram",
       "trolley",
       "transit"
-    ],
-    "matchScore": 1
-  },
-  {
-    "id": 1976,
-    "name": "Food Banks",
-    "icon": "maki-warehouse",
-    "tags": {
-      "amenity": "food_bank"
-    },
-    "geometry": [
-      "point",
-      "vertex"
-    ],
-    "terms": [
-      "food banks",
-      "food bank",
-      "amenity"
-    ],
-    "last_updated": "2025-12-17",
-    "ds": "2025-09-03",
-    "name_required": true,
-    "allow_add": true,
-    "source": "overture",
-    "version": "3",
-    "overture_categories": [
-      "food_banks"
-    ],
-    "natural_language_category": [
-      "food banks",
-      "food_bank"
     ],
     "matchScore": 1
   },
@@ -40374,38 +39520,6 @@
     "matchScore": 1
   },
   {
-    "id": 1977,
-    "name": "Seaplane Bases",
-    "icon": "temaki-airport",
-    "tags": {
-      "aeroway": "seaplane_base"
-    },
-    "geometry": [
-      "point",
-      "vertex"
-    ],
-    "terms": [
-      "seaplane bases",
-      "seaplane base",
-      "seaplane",
-      "base"
-    ],
-    "last_updated": "2025-12-17",
-    "ds": "2025-09-03",
-    "name_required": true,
-    "allow_add": true,
-    "source": "overture",
-    "version": "3",
-    "overture_categories": [
-      "seaplane_bases"
-    ],
-    "natural_language_category": [
-      "seaplane bases",
-      "seaplane base"
-    ],
-    "matchScore": 1
-  },
-  {
     "id": 1092,
     "name": "Light Rail Track",
     "icon": "temaki-light_rail",
@@ -40960,36 +40074,6 @@
       "freight hub",
       "logistics hub",
       "cargo hub"
-    ],
-    "matchScore": 1
-  },
-  {
-    "id": 1978,
-    "name": "Decorative Arts Museum",
-    "icon": "temaki-museum",
-    "tags": {
-      "museum": "art",
-      "tourism": "museum",
-      "arts_type": "decorative"
-    },
-    "geometry": [
-      "point",
-      "vertex"
-    ],
-    "terms": [
-      "decorative arts"
-    ],
-    "last_updated": "2025-12-17",
-    "ds": "2025-09-03",
-    "name_required": true,
-    "allow_add": true,
-    "source": "overture",
-    "version": "4",
-    "overture_categories": [
-      "decorative_arts_museum"
-    ],
-    "natural_language_category": [
-      "decorative arts museum"
     ],
     "matchScore": 1
   },
@@ -43858,36 +42942,6 @@
     "matchScore": 1
   },
   {
-    "id": 1979,
-    "name": "Contemporary Art Museum",
-    "icon": "temaki-museum",
-    "tags": {
-      "museum": "art",
-      "tourism": "museum",
-      "artwork_type": "contemporary"
-    },
-    "geometry": [
-      "point",
-      "vertex"
-    ],
-    "terms": [
-      "contemporary art"
-    ],
-    "last_updated": "2025-12-17",
-    "ds": "2025-09-03",
-    "name_required": true,
-    "allow_add": true,
-    "source": "overture",
-    "version": "4",
-    "overture_categories": [
-      "contemporary_art_museum"
-    ],
-    "natural_language_category": [
-      "contemporary art museum"
-    ],
-    "matchScore": 1
-  },
-  {
     "id": 1181,
     "name": "Flooring Supply Shop",
     "icon": "temaki-tools",
@@ -44508,39 +43562,6 @@
     "matchScore": 1
   },
   {
-    "id": 1980,
-    "name": "Israeli Restaurant",
-    "icon": "maki-restaurant",
-    "tags": {
-      "amenity": "restaurant",
-      "cuisine": "israeli"
-    },
-    "geometry": [
-      "point",
-      "vertex"
-    ],
-    "terms": [
-      "eatery",
-      "dining",
-      "food",
-      "menu",
-      "table"
-    ],
-    "last_updated": "2025-12-17",
-    "ds": "2025-09-03",
-    "name_required": true,
-    "allow_add": true,
-    "source": "overture",
-    "version": "3",
-    "overture_categories": [
-      "israeli_restaurant"
-    ],
-    "natural_language_category": [
-      "israeli restaurant"
-    ],
-    "matchScore": 1
-  },
-  {
     "id": 1197,
     "name": "Hairdresser Supply Store",
     "icon": "temaki-hair_care",
@@ -45108,35 +44129,6 @@
     "matchScore": 1
   },
   {
-    "id": 1981,
-    "name": "Photography Museum",
-    "icon": "temaki-museum",
-    "tags": {
-      "museum": "photography",
-      "tourism": "museum"
-    },
-    "geometry": [
-      "point",
-      "vertex"
-    ],
-    "terms": [
-      "photography"
-    ],
-    "last_updated": "2025-12-17",
-    "ds": "2025-09-03",
-    "name_required": true,
-    "allow_add": true,
-    "source": "overture",
-    "version": "4",
-    "overture_categories": [
-      "photography_museum"
-    ],
-    "natural_language_category": [
-      "photography museum"
-    ],
-    "matchScore": 1
-  },
-  {
     "id": 1211,
     "name": "Laundry",
     "icon": "temaki-laundry",
@@ -45213,6 +44205,48 @@
       "leather item",
       "leather accessory",
       "buy leather"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 1213,
+    "name": "Lighting Store",
+    "icon": "temaki-desk_lamp",
+    "tags": {
+      "shop": "lighting"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "lamps",
+      "leds",
+      "light fixtures",
+      "lightbulbs",
+      "fixtures"
+    ],
+    "last_updated": "2025-12-17",
+    "ds": "2025-09-03",
+    "name_required": true,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [
+      "lighting_store",
+      "lighting_fixtures_and_equipment"
+    ],
+    "natural_language_category": [
+      "lighting store",
+      "store",
+      "fluorescent lighting",
+      "light fixture",
+      "lamp",
+      "led",
+      "lightbulb",
+      "shop",
+      "lighting",
+      "fixture"
     ],
     "matchScore": 1
   },
@@ -46823,69 +45857,6 @@
     "matchScore": 1
   },
   {
-    "id": 1982,
-    "name": "Syrian Restaurant",
-    "icon": "maki-restaurant",
-    "tags": {
-      "amenity": "restaurant",
-      "cuisine": "syrian"
-    },
-    "geometry": [
-      "point",
-      "vertex"
-    ],
-    "terms": [
-      "eatery",
-      "dining",
-      "food",
-      "menu",
-      "table"
-    ],
-    "last_updated": "2025-12-17",
-    "ds": "2025-09-03",
-    "name_required": true,
-    "allow_add": true,
-    "source": "overture",
-    "version": "3",
-    "overture_categories": [
-      "syrian_restaurant"
-    ],
-    "natural_language_category": [
-      "syrian restaurant"
-    ],
-    "matchScore": 1
-  },
-  {
-    "id": 1983,
-    "name": "Paddleboarding Center",
-    "icon": "maki-pitch",
-    "tags": {
-      "sport": "paddleboarding",
-      "leisure": "sports_centre"
-    },
-    "geometry": [
-      "point",
-      "vertex"
-    ],
-    "terms": [
-      "paddleboarding",
-      "sports"
-    ],
-    "last_updated": "2025-12-17",
-    "ds": "2025-09-03",
-    "name_required": true,
-    "allow_add": true,
-    "source": "overture",
-    "version": "3",
-    "overture_categories": [
-      "paddleboarding_center"
-    ],
-    "natural_language_category": [
-      "paddleboarding center"
-    ],
-    "matchScore": 1
-  },
-  {
     "id": 1255,
     "name": "Supermarket",
     "icon": "maki-grocery",
@@ -48079,34 +47050,6 @@
     "matchScore": 1
   },
   {
-    "id": 1984,
-    "name": "Magician",
-    "icon": "fts-magic",
-    "tags": {
-      "craft": "magician"
-    },
-    "geometry": [
-      "point",
-      "vertex"
-    ],
-    "terms": [
-      "magician"
-    ],
-    "last_updated": "2025-12-17",
-    "ds": "2025-09-03",
-    "name_required": true,
-    "allow_add": true,
-    "source": "overture",
-    "version": "3",
-    "overture_categories": [
-      "magician"
-    ],
-    "natural_language_category": [
-      "magician"
-    ],
-    "matchScore": 1
-  },
-  {
     "id": 1286,
     "name": "Underwear Store",
     "icon": "temaki-bikini",
@@ -48659,36 +47602,6 @@
       "camping area",
       "tent camping",
       "rv camping"
-    ],
-    "matchScore": 1
-  },
-  {
-    "id": 1985,
-    "name": "Media Critic",
-    "icon": "maki-suitcase",
-    "tags": {
-      "office": "media_critic"
-    },
-    "geometry": [
-      "point",
-      "vertex"
-    ],
-    "terms": [
-      "media critic",
-      "media",
-      "critic"
-    ],
-    "last_updated": "2025-12-17",
-    "ds": "2025-09-03",
-    "name_required": true,
-    "allow_add": true,
-    "source": "overture",
-    "version": "3",
-    "overture_categories": [
-      "media_critic"
-    ],
-    "natural_language_category": [
-      "media critic"
     ],
     "matchScore": 1
   },
@@ -69940,6 +68853,789 @@
     "matchScore": 1
   },
   {
+    "id": 1961,
+    "name": "Costume Museum",
+    "icon": "temaki-museum",
+    "tags": {
+      "museum": "costume",
+      "tourism": "museum"
+    },
+    "geometry": [
+      "point",
+      "vertex"
+    ],
+    "terms": [
+      "costume",
+      "fashion museum",
+      "dress museum",
+      "textile museum",
+      "garment museum"
+    ],
+    "last_updated": "2025-12-17",
+    "ds": "2025-09-03",
+    "name_required": true,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [
+      "costume_museum"
+    ],
+    "natural_language_category": [
+      "costume museum"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 1962,
+    "name": "Molecular Gastronomy Restaurant",
+    "icon": "maki-restaurant",
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "molecular_gastronomy"
+    },
+    "geometry": [
+      "point",
+      "vertex"
+    ],
+    "terms": [
+      "eatery",
+      "dining",
+      "food",
+      "menu",
+      "table"
+    ],
+    "last_updated": "2025-12-17",
+    "ds": "2025-09-03",
+    "name_required": true,
+    "allow_add": true,
+    "source": "overture",
+    "version": "3",
+    "overture_categories": [
+      "molecular_gastronomy_restaurant"
+    ],
+    "natural_language_category": [
+      "molecular gastronomy restaurant"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 1963,
+    "name": "Singaporean Restaurant",
+    "icon": "maki-restaurant-noodle",
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "singaporean"
+    },
+    "geometry": [
+      "point",
+      "vertex"
+    ],
+    "terms": [
+      "eatery",
+      "dining",
+      "food",
+      "menu",
+      "table"
+    ],
+    "last_updated": "2025-12-17",
+    "ds": "2025-09-03",
+    "name_required": true,
+    "allow_add": true,
+    "source": "overture",
+    "version": "3",
+    "overture_categories": [
+      "singaporean_restaurant"
+    ],
+    "natural_language_category": [
+      "singaporean restaurant"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 1964,
+    "name": "Logging Contractor",
+    "icon": "maki-logging",
+    "tags": {
+      "craft": "logger"
+    },
+    "geometry": [
+      "point",
+      "vertex"
+    ],
+    "terms": [
+      "logging contractor",
+      "logger"
+    ],
+    "last_updated": "2025-12-17",
+    "ds": "2025-09-03",
+    "name_required": true,
+    "allow_add": true,
+    "source": "overture",
+    "version": "3",
+    "overture_categories": [
+      "logging_contractor"
+    ],
+    "natural_language_category": [
+      "logging contractor"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 1965,
+    "name": "Gluten Free Restaurant",
+    "icon": "maki-restaurant",
+    "tags": {
+      "amenity": "restaurant",
+      "diet:gluten_free": "yes"
+    },
+    "geometry": [
+      "point",
+      "vertex"
+    ],
+    "terms": [
+      "eatery",
+      "dining",
+      "food",
+      "menu",
+      "table"
+    ],
+    "last_updated": "2025-12-17",
+    "ds": "2025-09-03",
+    "name_required": true,
+    "allow_add": true,
+    "source": "overture",
+    "version": "3",
+    "overture_categories": [
+      "gluten_free_restaurant"
+    ],
+    "natural_language_category": [
+      "gluten free restaurant"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 1966,
+    "name": "Architectural Tours",
+    "icon": "temaki-ruins",
+    "tags": {
+      "guide": "architecture",
+      "office": "guide"
+    },
+    "geometry": [
+      "point",
+      "vertex"
+    ],
+    "terms": [
+      "architectural tours",
+      "guide"
+    ],
+    "last_updated": "2025-12-17",
+    "ds": "2025-09-03",
+    "name_required": true,
+    "allow_add": true,
+    "source": "overture",
+    "version": "3",
+    "overture_categories": [
+      "architectural_tours"
+    ],
+    "natural_language_category": [
+      "architectural tours",
+      "architectural tour"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 1967,
+    "name": "Desert",
+    "icon": "temaki-sandbox",
+    "tags": {
+      "natural": "desert"
+    },
+    "geometry": [
+      "point",
+      "vertex"
+    ],
+    "terms": [
+      "desert",
+      "natural"
+    ],
+    "last_updated": "2025-12-17",
+    "ds": "2025-09-03",
+    "name_required": true,
+    "allow_add": true,
+    "source": "overture",
+    "version": "3",
+    "overture_categories": [
+      "desert"
+    ],
+    "natural_language_category": [
+      "desert"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 1968,
+    "name": "Irish Restaurant",
+    "icon": "maki-restaurant",
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "irish"
+    },
+    "geometry": [
+      "point",
+      "vertex"
+    ],
+    "terms": [
+      "eatery",
+      "dining",
+      "food",
+      "menu",
+      "table"
+    ],
+    "last_updated": "2025-12-17",
+    "ds": "2025-09-03",
+    "name_required": true,
+    "allow_add": true,
+    "source": "overture",
+    "version": "3",
+    "overture_categories": [
+      "irish_restaurant"
+    ],
+    "natural_language_category": [
+      "irish restaurant"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 1969,
+    "name": "Nudist Clubs",
+    "icon": "maki-pitch",
+    "tags": {
+      "club": "nudism"
+    },
+    "geometry": [
+      "point",
+      "vertex"
+    ],
+    "terms": [
+      "nudist clubs",
+      "nudism",
+      "club"
+    ],
+    "last_updated": "2025-12-17",
+    "ds": "2025-09-03",
+    "name_required": true,
+    "allow_add": true,
+    "source": "overture",
+    "version": "3",
+    "overture_categories": [
+      "nudist_clubs"
+    ],
+    "natural_language_category": [
+      "nudist clubs",
+      "nudist club"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 1970,
+    "name": "Venezuelan Restaurant",
+    "icon": "maki-restaurant",
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "venezuelan"
+    },
+    "geometry": [
+      "point",
+      "vertex"
+    ],
+    "terms": [
+      "eatery",
+      "dining",
+      "food",
+      "menu",
+      "table"
+    ],
+    "last_updated": "2025-12-17",
+    "ds": "2025-09-03",
+    "name_required": true,
+    "allow_add": true,
+    "source": "overture",
+    "version": "3",
+    "overture_categories": [
+      "venezuelan_restaurant"
+    ],
+    "natural_language_category": [
+      "venezuelan restaurant"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 1971,
+    "name": "Tai Chi Studio",
+    "icon": "maki-pitch",
+    "tags": {
+      "leisure": "fitness_centre",
+      "fitness_centre:type": "tai_chi"
+    },
+    "geometry": [
+      "point",
+      "vertex"
+    ],
+    "terms": [
+      "tai chi",
+      "fitness"
+    ],
+    "last_updated": "2025-12-17",
+    "ds": "2025-09-03",
+    "name_required": true,
+    "allow_add": true,
+    "source": "overture",
+    "version": "3",
+    "overture_categories": [
+      "tai_chi_studio"
+    ],
+    "natural_language_category": [
+      "tai chi studio"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 1972,
+    "name": "Haitian Restaurant",
+    "icon": "maki-restaurant",
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "haitian"
+    },
+    "geometry": [
+      "point",
+      "vertex"
+    ],
+    "terms": [
+      "eatery",
+      "dining",
+      "food",
+      "menu",
+      "table"
+    ],
+    "last_updated": "2025-12-17",
+    "ds": "2025-09-03",
+    "name_required": true,
+    "allow_add": true,
+    "source": "overture",
+    "version": "3",
+    "overture_categories": [
+      "haitian_restaurant"
+    ],
+    "natural_language_category": [
+      "haitian restaurant"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 1973,
+    "name": "Uzbek Restaurant",
+    "icon": "maki-restaurant-noodle",
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "uzbek"
+    },
+    "geometry": [
+      "point",
+      "vertex"
+    ],
+    "terms": [
+      "eatery",
+      "dining",
+      "food",
+      "menu",
+      "table"
+    ],
+    "last_updated": "2025-12-17",
+    "ds": "2025-09-03",
+    "name_required": true,
+    "allow_add": true,
+    "source": "overture",
+    "version": "3",
+    "overture_categories": [
+      "uzbek_restaurant"
+    ],
+    "natural_language_category": [
+      "uzbek restaurant"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 1974,
+    "name": "Asian Art Museum",
+    "icon": "temaki-museum",
+    "tags": {
+      "museum": "art",
+      "tourism": "museum",
+      "artwork_type": "asian"
+    },
+    "geometry": [
+      "point",
+      "vertex"
+    ],
+    "terms": [
+      "asian art"
+    ],
+    "last_updated": "2025-12-17",
+    "ds": "2025-09-03",
+    "name_required": true,
+    "allow_add": true,
+    "source": "overture",
+    "version": "4",
+    "overture_categories": [
+      "asian_art_museum"
+    ],
+    "natural_language_category": [
+      "asian art museum"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 1975,
+    "name": "Dominican Restaurant",
+    "icon": "maki-restaurant",
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "dominican"
+    },
+    "geometry": [
+      "point",
+      "vertex"
+    ],
+    "terms": [
+      "eatery",
+      "dining",
+      "food",
+      "menu",
+      "table"
+    ],
+    "last_updated": "2025-12-17",
+    "ds": "2025-09-03",
+    "name_required": true,
+    "allow_add": true,
+    "source": "overture",
+    "version": "3",
+    "overture_categories": [
+      "dominican_restaurant"
+    ],
+    "natural_language_category": [
+      "dominican restaurant"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 1976,
+    "name": "Food Banks",
+    "icon": "maki-warehouse",
+    "tags": {
+      "amenity": "food_bank"
+    },
+    "geometry": [
+      "point",
+      "vertex"
+    ],
+    "terms": [
+      "food banks",
+      "food bank",
+      "amenity"
+    ],
+    "last_updated": "2025-12-17",
+    "ds": "2025-09-03",
+    "name_required": true,
+    "allow_add": true,
+    "source": "overture",
+    "version": "3",
+    "overture_categories": [
+      "food_banks"
+    ],
+    "natural_language_category": [
+      "food banks",
+      "food_bank"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 1977,
+    "name": "Seaplane Bases",
+    "icon": "temaki-airport",
+    "tags": {
+      "aeroway": "seaplane_base"
+    },
+    "geometry": [
+      "point",
+      "vertex"
+    ],
+    "terms": [
+      "seaplane bases",
+      "seaplane base",
+      "seaplane",
+      "base"
+    ],
+    "last_updated": "2025-12-17",
+    "ds": "2025-09-03",
+    "name_required": true,
+    "allow_add": true,
+    "source": "overture",
+    "version": "3",
+    "overture_categories": [
+      "seaplane_bases"
+    ],
+    "natural_language_category": [
+      "seaplane bases",
+      "seaplane base"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 1978,
+    "name": "Decorative Arts Museum",
+    "icon": "temaki-museum",
+    "tags": {
+      "museum": "art",
+      "tourism": "museum",
+      "arts_type": "decorative"
+    },
+    "geometry": [
+      "point",
+      "vertex"
+    ],
+    "terms": [
+      "decorative arts"
+    ],
+    "last_updated": "2025-12-17",
+    "ds": "2025-09-03",
+    "name_required": true,
+    "allow_add": true,
+    "source": "overture",
+    "version": "4",
+    "overture_categories": [
+      "decorative_arts_museum"
+    ],
+    "natural_language_category": [
+      "decorative arts museum"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 1979,
+    "name": "Contemporary Art Museum",
+    "icon": "temaki-museum",
+    "tags": {
+      "museum": "art",
+      "tourism": "museum",
+      "artwork_type": "contemporary"
+    },
+    "geometry": [
+      "point",
+      "vertex"
+    ],
+    "terms": [
+      "contemporary art"
+    ],
+    "last_updated": "2025-12-17",
+    "ds": "2025-09-03",
+    "name_required": true,
+    "allow_add": true,
+    "source": "overture",
+    "version": "4",
+    "overture_categories": [
+      "contemporary_art_museum"
+    ],
+    "natural_language_category": [
+      "contemporary art museum"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 1980,
+    "name": "Israeli Restaurant",
+    "icon": "maki-restaurant",
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "israeli"
+    },
+    "geometry": [
+      "point",
+      "vertex"
+    ],
+    "terms": [
+      "eatery",
+      "dining",
+      "food",
+      "menu",
+      "table"
+    ],
+    "last_updated": "2025-12-17",
+    "ds": "2025-09-03",
+    "name_required": true,
+    "allow_add": true,
+    "source": "overture",
+    "version": "3",
+    "overture_categories": [
+      "israeli_restaurant"
+    ],
+    "natural_language_category": [
+      "israeli restaurant"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 1981,
+    "name": "Photography Museum",
+    "icon": "temaki-museum",
+    "tags": {
+      "museum": "photography",
+      "tourism": "museum"
+    },
+    "geometry": [
+      "point",
+      "vertex"
+    ],
+    "terms": [
+      "photography"
+    ],
+    "last_updated": "2025-12-17",
+    "ds": "2025-09-03",
+    "name_required": true,
+    "allow_add": true,
+    "source": "overture",
+    "version": "4",
+    "overture_categories": [
+      "photography_museum"
+    ],
+    "natural_language_category": [
+      "photography museum"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 1982,
+    "name": "Syrian Restaurant",
+    "icon": "maki-restaurant",
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "syrian"
+    },
+    "geometry": [
+      "point",
+      "vertex"
+    ],
+    "terms": [
+      "eatery",
+      "dining",
+      "food",
+      "menu",
+      "table"
+    ],
+    "last_updated": "2025-12-17",
+    "ds": "2025-09-03",
+    "name_required": true,
+    "allow_add": true,
+    "source": "overture",
+    "version": "3",
+    "overture_categories": [
+      "syrian_restaurant"
+    ],
+    "natural_language_category": [
+      "syrian restaurant"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 1983,
+    "name": "Paddleboarding Center",
+    "icon": "maki-pitch",
+    "tags": {
+      "sport": "paddleboarding",
+      "leisure": "sports_centre"
+    },
+    "geometry": [
+      "point",
+      "vertex"
+    ],
+    "terms": [
+      "paddleboarding",
+      "sports"
+    ],
+    "last_updated": "2025-12-17",
+    "ds": "2025-09-03",
+    "name_required": true,
+    "allow_add": true,
+    "source": "overture",
+    "version": "3",
+    "overture_categories": [
+      "paddleboarding_center"
+    ],
+    "natural_language_category": [
+      "paddleboarding center"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 1984,
+    "name": "Magician",
+    "icon": "fts-magic",
+    "tags": {
+      "craft": "magician"
+    },
+    "geometry": [
+      "point",
+      "vertex"
+    ],
+    "terms": [
+      "magician"
+    ],
+    "last_updated": "2025-12-17",
+    "ds": "2025-09-03",
+    "name_required": true,
+    "allow_add": true,
+    "source": "overture",
+    "version": "3",
+    "overture_categories": [
+      "magician"
+    ],
+    "natural_language_category": [
+      "magician"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 1985,
+    "name": "Media Critic",
+    "icon": "maki-suitcase",
+    "tags": {
+      "office": "media_critic"
+    },
+    "geometry": [
+      "point",
+      "vertex"
+    ],
+    "terms": [
+      "media critic",
+      "media",
+      "critic"
+    ],
+    "last_updated": "2025-12-17",
+    "ds": "2025-09-03",
+    "name_required": true,
+    "allow_add": true,
+    "source": "overture",
+    "version": "3",
+    "overture_categories": [
+      "media_critic"
+    ],
+    "natural_language_category": [
+      "media critic"
+    ],
+    "matchScore": 1
+  },
+  {
     "id": 1986,
     "name": "Proctologist",
     "icon": "maki-doctor",
@@ -89952,224 +89648,348 @@
     "matchScore": 1
   },
   {
-    "id": 2675,
-    "name": "Cabaret",
-    "icon": "fas-music",
+    "id": 2641,
+    "name": "Ping Pong Venue",
+    "icon": "fas-table-tennis",
     "tags": {
-      "amenity": "theatre",
-      "theatre:genre": "cabaret"
-    },
-    "geometry": [
-      "point",
-      "vertex"
-    ],
-    "terms": [
-      "cabaret",
-      "nightclub",
-      "show"
-    ],
-    "last_updated": "2025-12-17",
-    "ds": "2025-09-03",
-    "name_required": true,
-    "allow_add": true,
-    "source": "overture",
-    "version": "4",
-    "overture_categories": [
-      "cabaret"
-    ],
-    "natural_language_category": [
-      "cabaret"
-    ],
-    "matchScore": 1
-  },
-  {
-    "id": 2676,
-    "name": "Pet Transportation",
-    "icon": "maki-veterinary",
-    "tags": {
-      "office": "pet_transportation"
-    },
-    "geometry": [
-      "point",
-      "vertex"
-    ],
-    "terms": [
-      "pet transportation",
-      "pet",
-      "transportation"
-    ],
-    "last_updated": "2025-12-17",
-    "ds": "2025-09-03",
-    "name_required": true,
-    "allow_add": true,
-    "source": "overture",
-    "version": "3",
-    "overture_categories": [
-      "pet_transportation"
-    ],
-    "natural_language_category": [
-      "pet transportation"
-    ],
-    "matchScore": 1
-  },
-  {
-    "id": 2677,
-    "name": "Sledding Rental",
-    "icon": "temaki-sledding",
-    "tags": {
-      "shop": "rental",
-      "rental": "sledding"
-    },
-    "geometry": [
-      "point",
-      "vertex"
-    ],
-    "terms": [
-      "sledding rental",
-      "rental"
-    ],
-    "last_updated": "2025-12-17",
-    "ds": "2025-09-03",
-    "name_required": true,
-    "allow_add": true,
-    "source": "overture",
-    "version": "3",
-    "overture_categories": [
-      "sledding_rental"
-    ],
-    "natural_language_category": [
-      "sledding rental"
-    ],
-    "matchScore": 1
-  },
-  {
-    "id": 2678,
-    "name": "Chimney Cake Shop",
-    "icon": "maki-bakery",
-    "tags": {
-      "shop": "pastry",
-      "cuisine": "chimney_cake"
-    },
-    "geometry": [
-      "point",
-      "vertex"
-    ],
-    "terms": [
-      "chimney cake",
-      "pastry"
-    ],
-    "last_updated": "2025-12-17",
-    "ds": "2025-09-03",
-    "name_required": true,
-    "allow_add": true,
-    "source": "overture",
-    "version": "3",
-    "overture_categories": [
-      "chimney_cake_shop"
-    ],
-    "natural_language_category": [
-      "chimney cake shop"
-    ],
-    "matchScore": 1
-  },
-  {
-    "id": 2679,
-    "name": "Train Station",
-    "icon": "temaki-train",
-    "tags": {
-      "railway": "station",
-      "public_transport": "station"
-    },
-    "geometry": [
-      "point",
-      "vertex"
-    ],
-    "terms": [
-      "railway station",
-      "subway station",
-      "light rail station"
-    ],
-    "last_updated": "2025-09-03",
-    "ds": "2025-09-03",
-    "name_required": true,
-    "allow_add": false,
-    "source": "overture",
-    "version": "2",
-    "overture_categories": [
-      "light_rail_and_subway_stations"
-    ],
-    "natural_language_category": [
-      "light rail and subway stations",
-      "light_rail_and_subway_station"
-    ],
-    "matchScore": 1
-  },
-  {
-    "id": 2680,
-    "name": "Billiards",
-    "icon": "fts-billiards",
-    "tags": {
-      "club": "sport",
-      "sport": "lawn_bowling"
-    },
-    "geometry": [
-      "point",
-      "vertex"
-    ],
-    "terms": [],
-    "last_updated": "2025-09-03",
-    "ds": "2025-09-03",
-    "name_required": true,
-    "allow_add": false,
-    "source": "overture",
-    "version": "2",
-    "overture_categories": [
-      "lawn_bowling_club"
-    ],
-    "natural_language_category": [
-      "lawn bowling club"
-    ],
-    "matchScore": 1
-  },
-  {
-    "id": 1213,
-    "name": "Lighting Store",
-    "icon": "temaki-desk_lamp",
-    "tags": {
-      "shop": "lighting"
+      "sport": "table_tennis"
     },
     "geometry": [
       "point",
       "area"
     ],
     "terms": [
-      "lamps",
-      "leds",
-      "light fixtures",
-      "lightbulbs",
-      "fixtures"
+      "ping pong",
+      "table tennis",
+      "ping pong hall",
+      "table tennis club",
+      "ping pong lounge"
     ],
     "last_updated": "2025-12-17",
     "ds": "2025-09-03",
-    "name_required": true,
+    "name_required": false,
     "allow_add": true,
     "source": "osm",
-    "version": "3",
-    "overture_categories": [
-      "lighting_store",
-      "lighting_fixtures_and_equipment"
-    ],
+    "version": "2",
+    "overture_categories": [],
     "natural_language_category": [
-      "lighting store",
-      "store",
-      "fluorescent lighting",
-      "light fixture",
-      "lamp",
-      "led",
-      "lightbulb",
-      "shop",
-      "lighting",
-      "fixture"
+      "ping pong",
+      "table tennis"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2642,
+    "name": "Proposed Railway",
+    "icon": "temaki-railway_track",
+    "tags": {
+      "railway": "proposed"
+    },
+    "geometry": [
+      "line",
+      "point"
+    ],
+    "terms": [
+      "future",
+      "planned",
+      "proposal",
+      "proposed"
+    ],
+    "last_updated": "2025-12-17",
+    "ds": "2025-09-03",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "2",
+    "overture_categories": [],
+    "natural_language_category": [
+      "proposed railway",
+      "future railway"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2643,
+    "name": "Traffic Calming",
+    "icon": "temaki-speed_bump",
+    "tags": {
+      "traffic_calming": "yes"
+    },
+    "geometry": [
+      "point",
+      "vertex"
+    ],
+    "terms": [
+      "speed bump",
+      "speed hump",
+      "traffic calming device"
+    ],
+    "last_updated": "2025-09-03",
+    "ds": "2025-09-03",
+    "name_required": false,
+    "allow_add": false,
+    "source": "osm",
+    "version": "1",
+    "overture_categories": [],
+    "natural_language_category": [
+      "traffic calming",
+      "speed calming feature"
+    ],
+    "matchScore": 0.5
+  },
+  {
+    "id": 2644,
+    "name": "Memorial Statue",
+    "icon": "temaki-statue",
+    "tags": {
+      "historic": "memorial",
+      "memorial": "statue"
+    },
+    "geometry": [
+      "point",
+      "vertex",
+      "area"
+    ],
+    "terms": [
+      "statue",
+      "commemorative statue",
+      "tribute statue"
+    ],
+    "last_updated": "2025-12-17",
+    "ds": "2025-09-03",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "2",
+    "overture_categories": [],
+    "natural_language_category": [
+      "memorial statue",
+      "commemorative statue",
+      "memorial monument"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2645,
+    "name": "Climbing",
+    "icon": "temaki-climbing",
+    "tags": {
+      "sport": "climbing"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "climbing gym",
+      "climbing meetup"
+    ],
+    "last_updated": "2025-09-03",
+    "ds": "2025-09-03",
+    "name_required": false,
+    "allow_add": false,
+    "source": "osm",
+    "version": "1",
+    "overture_categories": [],
+    "natural_language_category": [
+      "climbing",
+      "climbing venue"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2646,
+    "name": "Billiards",
+    "icon": "fts-billiards",
+    "tags": {
+      "sport": "billiards"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "pool hall",
+      "billiards hall"
+    ],
+    "last_updated": "2025-09-03",
+    "ds": "2025-09-03",
+    "name_required": false,
+    "allow_add": false,
+    "source": "osm",
+    "version": "1",
+    "overture_categories": [],
+    "natural_language_category": [
+      "billiards",
+      "billiards venue"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2647,
+    "name": "Soccer",
+    "icon": "maki-soccer",
+    "tags": {
+      "sport": "soccer"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "soccer meetup",
+      "soccer training"
+    ],
+    "last_updated": "2025-09-03",
+    "ds": "2025-09-03",
+    "name_required": false,
+    "allow_add": false,
+    "source": "osm",
+    "version": "1",
+    "overture_categories": [],
+    "natural_language_category": [
+      "soccer",
+      "soccer venue"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2648,
+    "name": "Tennis",
+    "icon": "maki-tennis",
+    "tags": {
+      "sport": "tennis"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "tennis meetup",
+      "tennis practice"
+    ],
+    "last_updated": "2025-09-03",
+    "ds": "2025-09-03",
+    "name_required": false,
+    "allow_add": false,
+    "source": "osm",
+    "version": "1",
+    "overture_categories": [],
+    "natural_language_category": [
+      "tennis",
+      "tennis venue"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2649,
+    "name": "Swimming",
+    "icon": "maki-swimming",
+    "tags": {
+      "sport": "swimming"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "swim practice",
+      "swimming meetup"
+    ],
+    "last_updated": "2025-09-03",
+    "ds": "2025-09-03",
+    "name_required": false,
+    "allow_add": false,
+    "source": "osm",
+    "version": "1",
+    "overture_categories": [],
+    "natural_language_category": [
+      "swimming",
+      "swim venue"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2650,
+    "name": "Badminton",
+    "icon": "fts-badminton",
+    "tags": {
+      "sport": "badminton"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "badminton meetup",
+      "badminton space"
+    ],
+    "last_updated": "2025-09-03",
+    "ds": "2025-09-03",
+    "name_required": false,
+    "allow_add": false,
+    "source": "osm",
+    "version": "1",
+    "overture_categories": [],
+    "natural_language_category": [
+      "badminton",
+      "badminton venue"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2651,
+    "name": "Gymnastics",
+    "icon": "fts-gymnastics",
+    "tags": {
+      "sport": "gymnastics"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "gymnastics meetup",
+      "gymnastics practice"
+    ],
+    "last_updated": "2025-09-03",
+    "ds": "2025-09-03",
+    "name_required": false,
+    "allow_add": false,
+    "source": "osm",
+    "version": "1",
+    "overture_categories": [],
+    "natural_language_category": [
+      "gymnastics",
+      "gymnastics venue"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2652,
+    "name": "Volleyball",
+    "icon": "maki-volleyball",
+    "tags": {
+      "sport": "volleyball"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "volleyball meetup",
+      "volleyball practice"
+    ],
+    "last_updated": "2025-09-03",
+    "ds": "2025-09-03",
+    "name_required": false,
+    "allow_add": false,
+    "source": "osm",
+    "version": "1",
+    "overture_categories": [],
+    "natural_language_category": [
+      "volleyball",
+      "volleyball venue"
     ],
     "matchScore": 1
   },
@@ -90822,6 +90642,186 @@
     "matchScore": 1
   },
   {
+    "id": 2675,
+    "name": "Cabaret",
+    "icon": "fas-music",
+    "tags": {
+      "amenity": "theatre",
+      "theatre:genre": "cabaret"
+    },
+    "geometry": [
+      "point",
+      "vertex"
+    ],
+    "terms": [
+      "cabaret",
+      "nightclub",
+      "show"
+    ],
+    "last_updated": "2025-12-17",
+    "ds": "2025-09-03",
+    "name_required": true,
+    "allow_add": true,
+    "source": "overture",
+    "version": "4",
+    "overture_categories": [
+      "cabaret"
+    ],
+    "natural_language_category": [
+      "cabaret"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2676,
+    "name": "Pet Transportation",
+    "icon": "maki-veterinary",
+    "tags": {
+      "office": "pet_transportation"
+    },
+    "geometry": [
+      "point",
+      "vertex"
+    ],
+    "terms": [
+      "pet transportation",
+      "pet",
+      "transportation"
+    ],
+    "last_updated": "2025-12-17",
+    "ds": "2025-09-03",
+    "name_required": true,
+    "allow_add": true,
+    "source": "overture",
+    "version": "3",
+    "overture_categories": [
+      "pet_transportation"
+    ],
+    "natural_language_category": [
+      "pet transportation"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2677,
+    "name": "Sledding Rental",
+    "icon": "temaki-sledding",
+    "tags": {
+      "shop": "rental",
+      "rental": "sledding"
+    },
+    "geometry": [
+      "point",
+      "vertex"
+    ],
+    "terms": [
+      "sledding rental",
+      "rental"
+    ],
+    "last_updated": "2025-12-17",
+    "ds": "2025-09-03",
+    "name_required": true,
+    "allow_add": true,
+    "source": "overture",
+    "version": "3",
+    "overture_categories": [
+      "sledding_rental"
+    ],
+    "natural_language_category": [
+      "sledding rental"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2678,
+    "name": "Chimney Cake Shop",
+    "icon": "maki-bakery",
+    "tags": {
+      "shop": "pastry",
+      "cuisine": "chimney_cake"
+    },
+    "geometry": [
+      "point",
+      "vertex"
+    ],
+    "terms": [
+      "chimney cake",
+      "pastry"
+    ],
+    "last_updated": "2025-12-17",
+    "ds": "2025-09-03",
+    "name_required": true,
+    "allow_add": true,
+    "source": "overture",
+    "version": "3",
+    "overture_categories": [
+      "chimney_cake_shop"
+    ],
+    "natural_language_category": [
+      "chimney cake shop"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2679,
+    "name": "Train Station",
+    "icon": "temaki-train",
+    "tags": {
+      "railway": "station",
+      "public_transport": "station"
+    },
+    "geometry": [
+      "point",
+      "vertex"
+    ],
+    "terms": [
+      "railway station",
+      "subway station",
+      "light rail station"
+    ],
+    "last_updated": "2025-09-03",
+    "ds": "2025-09-03",
+    "name_required": true,
+    "allow_add": false,
+    "source": "overture",
+    "version": "2",
+    "overture_categories": [
+      "light_rail_and_subway_stations"
+    ],
+    "natural_language_category": [
+      "light rail and subway stations",
+      "light_rail_and_subway_station"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2680,
+    "name": "Billiards",
+    "icon": "fts-billiards",
+    "tags": {
+      "club": "sport",
+      "sport": "lawn_bowling"
+    },
+    "geometry": [
+      "point",
+      "vertex"
+    ],
+    "terms": [],
+    "last_updated": "2025-09-03",
+    "ds": "2025-09-03",
+    "name_required": true,
+    "allow_add": false,
+    "source": "overture",
+    "version": "2",
+    "overture_categories": [
+      "lawn_bowling_club"
+    ],
+    "natural_language_category": [
+      "lawn bowling club"
+    ],
+    "matchScore": 1
+  },
+  {
     "id": 2681,
     "name": "Agave",
     "icon": "fts-agave",
@@ -91317,6 +91317,44 @@
       "dive site",
       "scuba",
       "diving"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2696,
+    "name": "Hotel & Restaurant",
+    "icon": "fas-concierge-bell",
+    "tags": {
+      "amenity": "restaurant",
+      "tourism": "hotel"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "hotel restaurant",
+      "inn restaurant",
+      "lodging restaurant"
+    ],
+    "last_updated": "2026-04-04",
+    "ds": "2026-04-04",
+    "name_required": true,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [
+      "hotel",
+      "inn",
+      "accommodation",
+      "restaurant",
+      "eat_and_drink",
+      "food"
+    ],
+    "natural_language_category": [
+      "hotel restaurant",
+      "inn restaurant",
+      "lodging and dining"
     ],
     "matchScore": 1
   }

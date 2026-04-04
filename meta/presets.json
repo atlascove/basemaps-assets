@@ -51326,7 +51326,7 @@
   {
     "id": 1401,
     "name": "Building",
-    "icon": "maki-home",
+    "icon": "remixicon-building",
     "tags": {
       "building": "yes"
     },

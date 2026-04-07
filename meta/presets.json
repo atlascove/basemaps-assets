@@ -1791,7 +1791,7 @@
   {
     "id": 52,
     "name": "Airport Terminal",
-    "icon": "maki-airport",
+    "icon": "chanut-airport-terminal",
     "tags": {
       "aeroway": "terminal"
     },
@@ -59597,7 +59597,7 @@
   {
     "id": 1663,
     "name": "Airline",
-    "icon": "maki-airport",
+    "icon": "carbon-airline",
     "tags": {
       "office": "airline"
     },

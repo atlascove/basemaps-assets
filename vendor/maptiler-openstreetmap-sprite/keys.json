@@ -16,5 +16,6 @@
   "road_tertiary",
   "road_trunk",
   "square_train",
-  "volcano"
+  "volcano",
+  "oneway-cycleway"
 ]

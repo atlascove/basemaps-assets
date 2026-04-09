@@ -1,0 +1,5440 @@
+{
+  "version": "v1",
+  "format": "webp",
+  "source": "sprites/sprites@2x",
+  "generated_from": {
+    "presets": "meta/presets.json",
+    "sprite_json": "sprites/sprites@2x.json",
+    "sprite_png": "sprites/sprites@2x.png"
+  },
+  "icon_count": 775,
+  "missing_count": 0,
+  "collisions": {},
+  "icons": [
+    {
+      "icon": "andikasyaif-plaza",
+      "file": "icons/andikasyaif-plaza.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "a1fa661197d31c4f42713aa209464589cf1b81172fb7995117829c8271a9d7e6"
+    },
+    {
+      "icon": "carbon-airline",
+      "file": "icons/carbon-airline.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "f59319ce539daa34c5d2f6eac579b34c5e06b6f4db46e03a0bc606d6e56beb73"
+    },
+    {
+      "icon": "chanut-airport-terminal",
+      "file": "icons/chanut-airport-terminal.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "1a1051c8fda2663b49d77faf502c8c939b6d0130d57bb5b1f865a21001cba6a9"
+    },
+    {
+      "icon": "dejonge-hangglider",
+      "file": "icons/dejonge-hangglider.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "051d2e092b8976539156d49e03142d43498362d1773139f17a56808197cc9ff9"
+    },
+    {
+      "icon": "denimao-surf",
+      "file": "icons/denimao-surf.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "a59130bca51fbd43d2b6e05d04b21166749d4e015d4b14149e15bca430464cd0"
+    },
+    {
+      "icon": "far-credit-card",
+      "file": "icons/far-credit-card.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "b09b33c94923ed2bf7590bfbee7babedd1df900209a5d2aca3d9f2178e0a9fc1"
+    },
+    {
+      "icon": "far-snowflake",
+      "file": "icons/far-snowflake.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "ef2fd23e1fcfd04c9acb5f3de87ffdc697129268f5603d340ec03bafea93e7da"
+    },
+    {
+      "icon": "fas-ambulance",
+      "file": "icons/fas-ambulance.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "9ebf8e1f7fa91fd42973f455da0fd40793ec4f1210124a10176fe8b5833e80c3"
+    },
+    {
+      "icon": "fas-apple-alt",
+      "file": "icons/fas-apple-alt.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "1b0a30eb21f0fca54be1646d5964b52a981480341890dc245403c658a5eb2049"
+    },
+    {
+      "icon": "fas-archive",
+      "file": "icons/fas-archive.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "bc1d69276a45dd8008ee0e44f9acc788bb6927baa57b47ccecd887e16c4ac9d4"
+    },
+    {
+      "icon": "fas-archway",
+      "file": "icons/fas-archway.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "ca707bc9c539cb800649499c6750513403893fe4eaa94dc6c67844e451cd50fa"
+    },
+    {
+      "icon": "fas-baby",
+      "file": "icons/fas-baby.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "125b4739632d786cc69083cfabb247391d4c889973756f075e3b52d1e85415b3"
+    },
+    {
+      "icon": "fas-baby-carriage",
+      "file": "icons/fas-baby-carriage.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "614b49a55d38fb2f61dca3a8da12762c0ca2fd1afe4ae104fb59909420fcb1a2"
+    },
+    {
+      "icon": "fas-bahai",
+      "file": "icons/fas-bahai.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "eacebc362a2750e400e15e4fff07519ea7481b330e14073567e30ed80e06b55e"
+    },
+    {
+      "icon": "fas-balance-scale",
+      "file": "icons/fas-balance-scale.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "796490c11429c58e0096e264ad14b98ce7fdbc56cefc5403cfa639054298e7fb"
+    },
+    {
+      "icon": "fas-bath",
+      "file": "icons/fas-bath.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "6a2c5a623ebb30e3d3a13b58d98e74676cacdaafacc9391c3caada81538b8e15"
+    },
+    {
+      "icon": "fas-beer",
+      "file": "icons/fas-beer.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "e64948d99ba8f9731f08cdd6a2da68597d28d98ad4592fd1ae43ac6635c42e14"
+    },
+    {
+      "icon": "fas-bell",
+      "file": "icons/fas-bell.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "45abb203ffd41b81234166232c164f0bb1d0a9c54f2f067bea5e48b7936aef00"
+    },
+    {
+      "icon": "fas-biking",
+      "file": "icons/fas-biking.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "ee3071ed40408ab9811cdb2fe9eaea5f39e9299744bac103ed69648886fd139e"
+    },
+    {
+      "icon": "fas-blender",
+      "file": "icons/fas-blender.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "83083d14fd64950505fe25b226b4d3b88a0f05a57cd567c5770b7ca039f468f4"
+    },
+    {
+      "icon": "fas-book",
+      "file": "icons/fas-book.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "f22b2499067b0bb98a18210b16267ad34cb15a885688662cc6732541a49732b9"
+    },
+    {
+      "icon": "fas-box",
+      "file": "icons/fas-box.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "3a2f625cd6d0385411178c67d9b1301d20bb6aa69d127c32b2bfbe8002ecbea7"
+    },
+    {
+      "icon": "fas-box-open",
+      "file": "icons/fas-box-open.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "1b763f874e35de4316e5d11a89a25290d9d3e9ff8b535a5ac7cd76aab4d9441a"
+    },
+    {
+      "icon": "fas-bullseye",
+      "file": "icons/fas-bullseye.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "ae8f5245ecaaabb49f74876c8ac221649970b8c0bc4fd3b38b0eaef042ec1824"
+    },
+    {
+      "icon": "fas-burn",
+      "file": "icons/fas-burn.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "cc7106af0a50df5416d608d3738ffed8e69d2cada4cb17b5035bdd42dcf1f8f1"
+    },
+    {
+      "icon": "fas-camera-retro",
+      "file": "icons/fas-camera-retro.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "a641d41de13de33e8818eb5ccf2c022fde42dfb9ff9066039c17db4a4a8c0edc"
+    },
+    {
+      "icon": "fas-cannabis",
+      "file": "icons/fas-cannabis.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "bb94b2b776a96a1d9177f3d66e1eb1389789b1951c4e2fec2db9c9ce4962f6cf"
+    },
+    {
+      "icon": "fas-car",
+      "file": "icons/fas-car.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "146e67769f095096943f928739eb0118ae96a280e9f760b662511348df38a900"
+    },
+    {
+      "icon": "fas-car-battery",
+      "file": "icons/fas-car-battery.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "6beac69d84072ec772aef5d43473dc1967e6eaab8d9f4dbe5cf1a89708b517bf"
+    },
+    {
+      "icon": "fas-car-crash",
+      "file": "icons/fas-car-crash.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "b0eaed09a866ea21b8f5c93e6d8c1d6b14c64030ffd20293d9ef8e0004a7bd09"
+    },
+    {
+      "icon": "fas-carrot",
+      "file": "icons/fas-carrot.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "e4c4f0cca7a404dda28bbb7e599396e42befa93791e21e5b607a8e05244dd42f"
+    },
+    {
+      "icon": "fas-cat",
+      "file": "icons/fas-cat.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "d79e9e2fc7e07ab3bee4573fddc5311abe9d9f506bdebf6cc85cdb8c9c3ac594"
+    },
+    {
+      "icon": "fas-charging-station",
+      "file": "icons/fas-charging-station.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "6bf00e03cb7b1cce2bf771249ccb62b37eae4a68ab83a75cfbd90568d0f83933"
+    },
+    {
+      "icon": "fas-cheese",
+      "file": "icons/fas-cheese.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "9ef7ab914d2497426aaa127fc58854467f8cfe28b2ce94fd9cf096d3a3ed4b3f"
+    },
+    {
+      "icon": "fas-chess-bishop",
+      "file": "icons/fas-chess-bishop.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "492c0eb25862b33fa121227cb4e76e4171a433fa1c9baccfe51ce8434f0fbee6"
+    },
+    {
+      "icon": "fas-chess-knight",
+      "file": "icons/fas-chess-knight.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "90ec34fdd31e71576c5646bb5b6cd1112a560bc0540214260cd25463750c183b"
+    },
+    {
+      "icon": "fas-chess-pawn",
+      "file": "icons/fas-chess-pawn.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "daa893b83edc35f743009454f89947bd6d24876cdc9adcaada7928634d77cc76"
+    },
+    {
+      "icon": "fas-chevron-circle-up",
+      "file": "icons/fas-chevron-circle-up.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "855a6a02750207319bad87a8c479e2092bd2dfe9f9bc134eabbd47d2f87c2f21"
+    },
+    {
+      "icon": "fas-child",
+      "file": "icons/fas-child.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "4ea63f54e7cb0686fef9cfe56b5e7a504afc63605780efc356859e34bf1550f1"
+    },
+    {
+      "icon": "fas-child-reaching",
+      "file": "icons/fas-child-reaching.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "119dcce805bc74074186b983020347578d0f59da4327ee5472c9d818912efdcb"
+    },
+    {
+      "icon": "fas-church",
+      "file": "icons/fas-church.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "934ddbd1e4aab22738ffdc68164ba6de7e6d412c6c9a859e1a62cdd920e45ad1"
+    },
+    {
+      "icon": "fas-cocktail",
+      "file": "icons/fas-cocktail.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "7b0a508555821df2ebcfad4e50bed78ddc23c7e009d2854634ca1c7ec2ecabdc"
+    },
+    {
+      "icon": "fas-code",
+      "file": "icons/fas-code.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "7993ec1ece34f649f8ccc335b4de84175b1f185130510b560da9372bcf7ac2f3"
+    },
+    {
+      "icon": "fas-coins",
+      "file": "icons/fas-coins.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "f95f88e3a5b11fc9cb250eadfc71dcfe0f58b55e8c63c72316575c22872227a5"
+    },
+    {
+      "icon": "fas-comment",
+      "file": "icons/fas-comment.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "672f5ecb4e1ea47487590a6734832d6145a028de238afe80d0d0782df06d6148"
+    },
+    {
+      "icon": "fas-comments",
+      "file": "icons/fas-comments.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "156e288cf855d4cd6fe09e41233ad10ffb25d45b57bae07d864927fc3244119a"
+    },
+    {
+      "icon": "fas-compact-disc",
+      "file": "icons/fas-compact-disc.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "32f0f82031666560bccd24c0e5245a91c7f2679d988b98564fce09dec3ad7695"
+    },
+    {
+      "icon": "fas-compress-arrows-alt",
+      "file": "icons/fas-compress-arrows-alt.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "65fb5b759c2d707bcc70cfd8c1c4994db9140721feaf5d3a6d2d5b695a7ca2b7"
+    },
+    {
+      "icon": "fas-concierge-bell",
+      "file": "icons/fas-concierge-bell.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "46d0eded94b9e7d4afa1a1bcceb31c7bfe843e06697c0e2b8d143c3ae42cd00a"
+    },
+    {
+      "icon": "fas-couch",
+      "file": "icons/fas-couch.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "6cdd8ffe7f101cf2f78f8b7426e2bee1239567bff20abfa56651770360e534a3"
+    },
+    {
+      "icon": "fas-crosshairs",
+      "file": "icons/fas-crosshairs.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "035b17efcd5e68f9e311bd50cfb653f26cdc497e3bb1aed2dbf3fef5c4777143"
+    },
+    {
+      "icon": "fas-crown",
+      "file": "icons/fas-crown.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "37f118da5d7c50177dcc2908ddf5f459b7902e7337f5fdbc29db43efc6907430"
+    },
+    {
+      "icon": "fas-crutch",
+      "file": "icons/fas-crutch.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "86cbee815d5d9eb8f8f0631db9949c55b4cbac3ffb0a680ea56636dff1597adf"
+    },
+    {
+      "icon": "fas-cube",
+      "file": "icons/fas-cube.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "35741ed40e43e1b830697349a95742aff8fa1a7edab531550042cbc8b230c1f7"
+    },
+    {
+      "icon": "fas-cut",
+      "file": "icons/fas-cut.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "9a6834e4cae51e6b64e5b2a05e632b21d7879a1eae63618205a9d01c01d9ccfa"
+    },
+    {
+      "icon": "fas-dice",
+      "file": "icons/fas-dice.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "d1fba959a68d462c63f23368f8d1719bb55057c6bd0233990d5838b9824c3b86"
+    },
+    {
+      "icon": "fas-dolly",
+      "file": "icons/fas-dolly.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "cdc75ea444b0134b220219a6a3ff96b599c56ad4847999bc131cba88da645866"
+    },
+    {
+      "icon": "fas-door-closed",
+      "file": "icons/fas-door-closed.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "91fbdbb769d13951a611fedf7deebe54eaeffefad8a0dc4d4f4d48daa7074a4e"
+    },
+    {
+      "icon": "fas-door-open",
+      "file": "icons/fas-door-open.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "25cec8f5af9cf62079f37af334ea57b0ee638fd1b972615da000dbe9b879e8e8"
+    },
+    {
+      "icon": "fas-dove",
+      "file": "icons/fas-dove.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "7f7894cf30f8ba04955a7f0906c7ee945b9a8cccdf5031e3e0d8331826a0c454"
+    },
+    {
+      "icon": "fas-drafting-compass",
+      "file": "icons/fas-drafting-compass.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "75747dd0d2cb97f453886ec3e4bf262a9fdda255616f462a6c83ad9100385cdd"
+    },
+    {
+      "icon": "fas-dragon",
+      "file": "icons/fas-dragon.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "f4f051e57e803eb16aa712acad57057fd1e5c538aa56184429ec7e624c30b26d"
+    },
+    {
+      "icon": "fas-drumstick-bite",
+      "file": "icons/fas-drumstick-bite.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "e7d47923cbcef01abff8649802fd6b16612963e6f4cf990abdafee499276c1cc"
+    },
+    {
+      "icon": "fas-dumbbell",
+      "file": "icons/fas-dumbbell.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "a5adbf66a3b6a1634457cb46ae352aea0c555005283d6e54a748235b08d8278c"
+    },
+    {
+      "icon": "fas-dumpster",
+      "file": "icons/fas-dumpster.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "22e46bbee77b6ae5e5fc5189d8a94d63305dc1875062e59bf7152bced72bd75d"
+    },
+    {
+      "icon": "fas-dumpster-fire",
+      "file": "icons/fas-dumpster-fire.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "6db4d5e1b2b0e67f83957ab88672ced6cf1f608182456cb87d770f29d9572abd"
+    },
+    {
+      "icon": "fas-dungeon",
+      "file": "icons/fas-dungeon.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "a457609f34414713a070f7f119fcb3e862ade08a6e89aac71d3af1fa4f168c16"
+    },
+    {
+      "icon": "fas-eye",
+      "file": "icons/fas-eye.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "7820dfe30df02916278b8427b8f269a8c52bec0dd09c2243690c254cc6bf5e45"
+    },
+    {
+      "icon": "fas-film",
+      "file": "icons/fas-film.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "ec31834379d710694639a90d168247ff89f9637880e753ca722f7ae0dbddd58e"
+    },
+    {
+      "icon": "fas-fire-extinguisher",
+      "file": "icons/fas-fire-extinguisher.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "0de31679d5b07404bcd00a2e630f91c58302f044c6b22ea49993dd4409699401"
+    },
+    {
+      "icon": "fas-fish",
+      "file": "icons/fas-fish.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "d65d1362ec0898eedd94ba8635a455e269833eec8b0e8bc15595678c33a8b13d"
+    },
+    {
+      "icon": "fas-flask",
+      "file": "icons/fas-flask.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "f47629e5b158cd158a4c10f2323e4ec248017861e8fad4c8cfbcd53d6a144d3c"
+    },
+    {
+      "icon": "fas-futbol",
+      "file": "icons/fas-futbol.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "40256d69a2a2b450dcca69d18a35cc9f4e68537c39bcd7c86eac2dfb63a515ee"
+    },
+    {
+      "icon": "fas-gavel",
+      "file": "icons/fas-gavel.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "0f164c2b82ab78b9b6772949f4fa59bba3994f00b9b197dc61d64588c10c5deb"
+    },
+    {
+      "icon": "fas-guitar",
+      "file": "icons/fas-guitar.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "6f731347049447a10ae778de2ffc19c9594f62114cb3095f5e41e8e5c57aa188"
+    },
+    {
+      "icon": "fas-hammer",
+      "file": "icons/fas-hammer.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "79b5ad8ebea6af68486c0d745ea80912eb36bbe759564697fd731f910f1f649a"
+    },
+    {
+      "icon": "fas-handshake",
+      "file": "icons/fas-handshake.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "9331e2ebc351afcf0274c80796f3543d0ed82bd9c0432d7f44bf59d61d37bec1"
+    },
+    {
+      "icon": "fas-hat-cowboy-side",
+      "file": "icons/fas-hat-cowboy-side.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "a29456ae630388ee87134abb3295ad1133be9f0bf0205149ed0e1f0a972e968f"
+    },
+    {
+      "icon": "fas-helmet-safety",
+      "file": "icons/fas-helmet-safety.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "6961ce444990bc846f7c905ee5a218cd655e13e19832f4d39a9d007744b7a7de"
+    },
+    {
+      "icon": "fas-hiking",
+      "file": "icons/fas-hiking.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "4a54ffc1d677dbb069f9b28d2b64e1c194441ab5db9f58f00d24161767d99b5c"
+    },
+    {
+      "icon": "fas-horse",
+      "file": "icons/fas-horse.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "56e0755a08139539f14ef3b7a1116bc884572e0d19aa180e70aee6be92d1f61f"
+    },
+    {
+      "icon": "fas-hot-tub-person",
+      "file": "icons/fas-hot-tub-person.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "f8efa5bba579a8ac10bdf1dd00de3057674836509d11e4c589d054166ff60ecf"
+    },
+    {
+      "icon": "fas-hotdog",
+      "file": "icons/fas-hotdog.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "474cfe11535df5bff21752b71e5b54a968d7dc33522e70ee1b66f0ff4cf7170d"
+    },
+    {
+      "icon": "fas-hotel",
+      "file": "icons/fas-hotel.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "fef4efb6e98ecf98fb747d01682b9f009dc4220201200d9958e5a3813ffd9e16"
+    },
+    {
+      "icon": "fas-house-damage",
+      "file": "icons/fas-house-damage.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "1517d095cab01a38bea44ac4e9e29cab80b333d2f584727ccea3e8b6fa326210"
+    },
+    {
+      "icon": "fas-ice-cream",
+      "file": "icons/fas-ice-cream.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "1b3455114ac399c1dfdff7c334bad0fa583ff4c6548e051e5a45533685d2eb30"
+    },
+    {
+      "icon": "fas-key",
+      "file": "icons/fas-key.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "0926a9a5c90d58f5db97703b9fd6f4b8fc7108aee177312ff742fb1167732501"
+    },
+    {
+      "icon": "fas-language",
+      "file": "icons/fas-language.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "f95848c526144cd70ef62580d4e2232b3b1e2817af1ba25763b8a14a849a468e"
+    },
+    {
+      "icon": "fas-laptop",
+      "file": "icons/fas-laptop.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "7bfb3e4d5e02eb65c628b324721ff3cc8532403fdf12ea9c572b80284dd7d60b"
+    },
+    {
+      "icon": "fas-laptop-code",
+      "file": "icons/fas-laptop-code.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "c5874138ae86223502d7128227897e7649d24e8ee2df68855cfec4c4f73d12bd"
+    },
+    {
+      "icon": "fas-leaf",
+      "file": "icons/fas-leaf.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "64d39a0fcd13ae9dec70cb18b4d41d0a039c02d2fb806985cde512e5bafe2d11"
+    },
+    {
+      "icon": "fas-life-ring",
+      "file": "icons/fas-life-ring.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "936e7afa67244942f8b99386f6637377c8a41c4852e178cd063e2910d2bcb7b9"
+    },
+    {
+      "icon": "fas-mail-bulk",
+      "file": "icons/fas-mail-bulk.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "f83119bf34fc67cfcf2887e871a5b5870d38c9359e70b2f3a2829fb578869adc"
+    },
+    {
+      "icon": "fas-map",
+      "file": "icons/fas-map.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "4eebb9b9550652d0c01033ba85efad64bf806de02915a9fe08bfac2a92cb30db"
+    },
+    {
+      "icon": "fas-map-signs",
+      "file": "icons/fas-map-signs.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "102873ee74e196e3085a8e4fc86da4ceb457ffc8928c40de499812acad03e1a9"
+    },
+    {
+      "icon": "fas-mask",
+      "file": "icons/fas-mask.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "2d8f53b151457926c43c75543783d68980b9f4c2f3cddbbdd6bc39a2dbe7b92d"
+    },
+    {
+      "icon": "fas-medkit",
+      "file": "icons/fas-medkit.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "4ea7faab5fe3ba003cf8d478a660da541a94eb09a45e09aca091fca7d5ab1b04"
+    },
+    {
+      "icon": "fas-microchip",
+      "file": "icons/fas-microchip.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "494a45bba2c54eb2028d223024c38c71a20b0f691fa680f4fbd7f193f56976bd"
+    },
+    {
+      "icon": "fas-microphone",
+      "file": "icons/fas-microphone.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "abf1433b46678976ec2b563c4e05154c63edbae3a2e510d7448542b6e7e12e38"
+    },
+    {
+      "icon": "fas-mobile-alt",
+      "file": "icons/fas-mobile-alt.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "72f57a53a89c758faa260fea7b20c16baf5e05f2ede14d1f5fc824e4212ce0db"
+    },
+    {
+      "icon": "fas-moped",
+      "file": "icons/fas-moped.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "5e5d3c366cc51721b4681d941d9ccd1bb3f5628299109de2083a0297847febf3"
+    },
+    {
+      "icon": "fas-mosque",
+      "file": "icons/fas-mosque.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "531770114b2315f74f8b5f0749349c4e31b65e8160ea117b7522ad42c561b94a"
+    },
+    {
+      "icon": "fas-motorcycle",
+      "file": "icons/fas-motorcycle.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "79c987597ebfe697b99f06c723393820b946db35d66312e47336611ee54eb188"
+    },
+    {
+      "icon": "fas-music",
+      "file": "icons/fas-music.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "4949a0a878468618336e5a39648dd97d7fc7e7b6439989a7a3fbb2040fb54c47"
+    },
+    {
+      "icon": "fas-newspaper",
+      "file": "icons/fas-newspaper.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "8124358321b8475239e699a40ebd306c73dcfd0eb8bba16ad76b2d48fbe41699"
+    },
+    {
+      "icon": "fas-paint-roller",
+      "file": "icons/fas-paint-roller.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "2b48e09e314324e4df7edd4f958dfd122c59d707e545520ccb66c351b29f0097"
+    },
+    {
+      "icon": "fas-paperclip",
+      "file": "icons/fas-paperclip.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "516f9b72c28bf9ef6e92e62884b5df42a354c71842093ef67ada9a321bc8c2c6"
+    },
+    {
+      "icon": "fas-people-carry",
+      "file": "icons/fas-people-carry.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "9b0976c361b574a1e70931e30469321ae39569de6829614205f605abadc849f6"
+    },
+    {
+      "icon": "fas-pepper-hot",
+      "file": "icons/fas-pepper-hot.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "566a9448909512e43fff64f524922b2b54e00aa2adf500886ff52a9e60b0ecf0"
+    },
+    {
+      "icon": "fas-person-booth",
+      "file": "icons/fas-person-booth.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "cffbd3068fb4e717a449c3e7bebe236bd32770e96905703a20a545ded95c25df"
+    },
+    {
+      "icon": "fas-phone-square",
+      "file": "icons/fas-phone-square.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "4d03c78f7188f09b5de8dd4c1f610934f66214cd9a4ef0e4c4898543d8c66f9b"
+    },
+    {
+      "icon": "fas-pills",
+      "file": "icons/fas-pills.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "9c27ec81124877b45f80240b53865198554a6b3c93381d342b0edad1503abb90"
+    },
+    {
+      "icon": "fas-plane",
+      "file": "icons/fas-plane.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "ab0a0abaa394f50c2a343f3bd2f5e108158c833a389f06eb13438edfc82471f8"
+    },
+    {
+      "icon": "fas-plane-departure",
+      "file": "icons/fas-plane-departure.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "e9f6dc928d3bfdf05aafffb16c9c74ada7f00a5347377ef7cb5431d29c4666de"
+    },
+    {
+      "icon": "fas-plug",
+      "file": "icons/fas-plug.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "982e73f8fef4b9af584fd8a2b6eff552a130495b1e0cf25f266bae8dc2000699"
+    },
+    {
+      "icon": "fas-plus-circle",
+      "file": "icons/fas-plus-circle.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "5cbfea321174c5076d684417f40e42bb5fdf819bf9d1222aff41c4ddb8115d24"
+    },
+    {
+      "icon": "fas-print",
+      "file": "icons/fas-print.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "b7cdfb0feb4d22e31987fbd26a294ae66783f6448a63b7eb2610e51d95955c07"
+    },
+    {
+      "icon": "fas-procedures",
+      "file": "icons/fas-procedures.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "07a962939ffa62cb7fca32d8613a11f15516d129b14b26c8a6b332012b86f347"
+    },
+    {
+      "icon": "fas-puzzle",
+      "file": "icons/fas-puzzle.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "65a28785a7ed49673ca141473bfc8e7637a19e8545cf70e2f5b1dcbfb8938248"
+    },
+    {
+      "icon": "fas-puzzle-piece",
+      "file": "icons/fas-puzzle-piece.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "8bbd12ea14412b6255ae753144f2e9bd2e0de0d6536199326fa53ce58625f4b7"
+    },
+    {
+      "icon": "fas-satellite-dish",
+      "file": "icons/fas-satellite-dish.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "372b9cae446a77f77ea01339f46112082d279f2ceb32cbf6bdba93a8401799f1"
+    },
+    {
+      "icon": "fas-school",
+      "file": "icons/fas-school.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "c363c04577aba780a6f3715ade598564796340efd854c29a289ae481bcb0fd04"
+    },
+    {
+      "icon": "fas-screwdriver",
+      "file": "icons/fas-screwdriver.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "ffd5328202b688e79f61c7d9282d254f168a6ee935684ff97747e3249aed2956"
+    },
+    {
+      "icon": "fas-seedling",
+      "file": "icons/fas-seedling.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "6a61fae2beeb64ad5f4b0c45f73e5b352ddc7875d85760f389fa7708ece19e3a"
+    },
+    {
+      "icon": "fas-server",
+      "file": "icons/fas-server.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "2fe2d8a3ab02b7520de0319fdb5667325d670e693aafb81a27ae7a555098633a"
+    },
+    {
+      "icon": "fas-shapes",
+      "file": "icons/fas-shapes.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "9558ec1ae1ef75dbc316fb2fa1434757ba674c2e8dcaac2de6812b2bbfa7de29"
+    },
+    {
+      "icon": "fas-shoe-prints",
+      "file": "icons/fas-shoe-prints.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "6517637b8304879aa1713d4223c0cc51712184088a871b7a74c87a547a340b9b"
+    },
+    {
+      "icon": "fas-shopping-basket",
+      "file": "icons/fas-shopping-basket.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "596edbcb6ff11cabb22a916bd1770472c9d31fe3936ce5b9d8e726ea639c13cb"
+    },
+    {
+      "icon": "fas-shopping-cart",
+      "file": "icons/fas-shopping-cart.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "814a6afbd229e90d223ea30d0aa38b5b5e80081a97cbb2ef1ca98ed4d28cc68c"
+    },
+    {
+      "icon": "fas-skating",
+      "file": "icons/fas-skating.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "e43af0953518ea42b137de7ae02138bfe08afb3d793f0d86433db628fce479da"
+    },
+    {
+      "icon": "fas-skiing",
+      "file": "icons/fas-skiing.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "04781962b5e3baeb5309a738732a28b4b8b359d5ee1f44b092d1883465aa6e8d"
+    },
+    {
+      "icon": "fas-skiing-nordic",
+      "file": "icons/fas-skiing-nordic.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "f5ac3b01f0ae52d7a64648bc03d16bab0fa80d9d46560c75493ed4a647beae18"
+    },
+    {
+      "icon": "fas-sleigh",
+      "file": "icons/fas-sleigh.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "13cd4bf82b97d7b32421dc12578bb90b9556e36f64a6697a01ed848a83d78cc0"
+    },
+    {
+      "icon": "fas-smoking",
+      "file": "icons/fas-smoking.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "d777bf23242c0d16c71af5c90ad1a266fbf32709566168a2615f8c8b785200a0"
+    },
+    {
+      "icon": "fas-snowboarding",
+      "file": "icons/fas-snowboarding.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "7d65fcc922b28d44a0af6af007b7aade51455220663c39a09dc3d2c0527fc14f"
+    },
+    {
+      "icon": "fas-solar-panel",
+      "file": "icons/fas-solar-panel.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "dd1bddd7368e2d017fa7dc70fed33e1b49ef987d41b017cc8bb8fee2609d7183"
+    },
+    {
+      "icon": "fas-spa",
+      "file": "icons/fas-spa.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "a8924e7a4056dec63923fac92e72d01cf1d0ac06c0bcd0a961b03770b1a37c4f"
+    },
+    {
+      "icon": "fas-space-shuttle",
+      "file": "icons/fas-space-shuttle.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "fbe6a5c723b8d63dffc8c054231ef7526d2f886ca9490d38107d39bbffd5661b"
+    },
+    {
+      "icon": "fas-stamp",
+      "file": "icons/fas-stamp.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "d7350f6c7442700ac6d53b4e6ac2b177f99a843b73d83bc95a902dae58a606a1"
+    },
+    {
+      "icon": "fas-store",
+      "file": "icons/fas-store.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "6191d35e89dab378489bcc1ec480fd213af7bcc84cc4d1b8f518310e55f13ab3"
+    },
+    {
+      "icon": "fas-store-alt-slash",
+      "file": "icons/fas-store-alt-slash.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "351bcfd36e8b201c5d61a586ba0bb0f5e2404a70d0e83567c752d9dcc3077886"
+    },
+    {
+      "icon": "fas-suitcase",
+      "file": "icons/fas-suitcase.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "d63a4013b704bd08bf396edf3986b526888498b80d256ee0226db46e42fb2628"
+    },
+    {
+      "icon": "fas-suitcase-rolling",
+      "file": "icons/fas-suitcase-rolling.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "3ed9b23d38bfdb2f21e390ca6108e840e31d03e93865f8758dcf6850520506a9"
+    },
+    {
+      "icon": "fas-swimmer",
+      "file": "icons/fas-swimmer.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "a9367ddd90379d7e824baed19ae4d04a2faeb1ef82b4d86c18233d4edd6e3e43"
+    },
+    {
+      "icon": "fas-swimming-pool",
+      "file": "icons/fas-swimming-pool.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "3b5d11057eb28abfe0463a56b1cb1589e28b2bbabbb61914d2e1b22500a720c7"
+    },
+    {
+      "icon": "fas-synagogue",
+      "file": "icons/fas-synagogue.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "83f6b63bf50ec833fd82c32f87ce0fb5687735ec560c32611a9a3baa4be19e64"
+    },
+    {
+      "icon": "fas-table-tennis",
+      "file": "icons/fas-table-tennis.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "d5fb33b6541c18a67cfadfe32fce47787f2161873f9887246ec4510e84bf73fe"
+    },
+    {
+      "icon": "fas-tachometer-alt",
+      "file": "icons/fas-tachometer-alt.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "6e3af6b83c3b4b38bf2829859576d026fc3af30ad613bd5b88297da97b181b36"
+    },
+    {
+      "icon": "fas-tape",
+      "file": "icons/fas-tape.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "d2dce3e05bb6728762935afce4715f12bfc045749c9cacaffc653fc2e19c635b"
+    },
+    {
+      "icon": "fas-taxi",
+      "file": "icons/fas-taxi.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "a79a119fb419f39bfb69dd123f90cee559c69bf05fe06562fd0c0553aa2b4097"
+    },
+    {
+      "icon": "fas-teeth",
+      "file": "icons/fas-teeth.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "6572dc660e39f8e98b3a152068bf59aae0b85f99e4b3e3314b7f0b19bfefde30"
+    },
+    {
+      "icon": "fas-th",
+      "file": "icons/fas-th.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "82587ec60601c95396ba05317bdb680f83584986dc598968985250be8df76d62"
+    },
+    {
+      "icon": "fas-thermometer-three-quarters",
+      "file": "icons/fas-thermometer-three-quarters.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "0a4449c164b863a775b6095aa96e7cb4b0187d1fd7706463137e4c61151bf7e5"
+    },
+    {
+      "icon": "fas-ticket-alt",
+      "file": "icons/fas-ticket-alt.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "165cd0bfda71d571845b611f517cbd03045ea7264317c64a1d8b35a8d864a694"
+    },
+    {
+      "icon": "fas-tint",
+      "file": "icons/fas-tint.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "df65f98296904e03529235095a1b04c6895fa37cd2914dce21de476925a28887"
+    },
+    {
+      "icon": "fas-toilet",
+      "file": "icons/fas-toilet.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "138cb0e0b015a569a41205dc6d5e32b72c0efaf8f218d2a27ad2d79be696621d"
+    },
+    {
+      "icon": "fas-tools",
+      "file": "icons/fas-tools.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "f288d6d4b3f115ca67f1ee65c58ec0c1154266f9bb0e17598dd1d927b775b6c6"
+    },
+    {
+      "icon": "fas-tractor",
+      "file": "icons/fas-tractor.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "d500e3a564afbac23cc91f369080b18e68e12f68adaae1f1213c2e04206f3d8e"
+    },
+    {
+      "icon": "fas-tram",
+      "file": "icons/fas-tram.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "652b0b1ab88367fdbde7890f811ea86bce2ee6502ce01274cbe1abce256781a8"
+    },
+    {
+      "icon": "fas-trash-restore",
+      "file": "icons/fas-trash-restore.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "fd0ed4f33ea71b181e8562ff5dd080e506ed9b68b7021ee63ec31b0c7b94cb4d"
+    },
+    {
+      "icon": "fas-trophy",
+      "file": "icons/fas-trophy.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "7db6dda309c616fcf3a2b2a77bc7818d005fc1b3c21ef0a088bdc02872896212"
+    },
+    {
+      "icon": "fas-truck-loading",
+      "file": "icons/fas-truck-loading.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "cc0096b29020597c358d0681399904f0afe4a0f823e0c7d5d45bba626218ebae"
+    },
+    {
+      "icon": "fas-truck-monster",
+      "file": "icons/fas-truck-monster.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "39154fc7abc0d2d514b3a088fb8ea83e8da744fe5587142f510e1236b3ebce5f"
+    },
+    {
+      "icon": "fas-tshirt",
+      "file": "icons/fas-tshirt.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "7f130d1553555dab68938d63efd60340ddc63070a7863a5c8235d99837013311"
+    },
+    {
+      "icon": "fas-umbrella-beach",
+      "file": "icons/fas-umbrella-beach.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "303a10ae1388ee9b22b298b913cfb45b0e92565eda298e6f7bee65ce1bebb28b"
+    },
+    {
+      "icon": "fas-user-alt",
+      "file": "icons/fas-user-alt.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "c3b1f76e40667bccfd34da3cf7c522c2c177465de95ea51a3c379dd4c74e7cf3"
+    },
+    {
+      "icon": "fas-user-secret",
+      "file": "icons/fas-user-secret.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "55ed897f868dbafdb8b7636397eb9fcc0c60917ccdb4e1f86aea29020a4e03ce"
+    },
+    {
+      "icon": "fas-user-tie",
+      "file": "icons/fas-user-tie.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "ef4a9bf6963a291bf953674030539abb9d6b5af72ef6eaa738d6129b1dc4dc71"
+    },
+    {
+      "icon": "fas-users",
+      "file": "icons/fas-users.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "140d1fd8cb9ce518be8832e212154476dd69f28acfafbc8979145ed5dd602c35"
+    },
+    {
+      "icon": "fas-vector-square",
+      "file": "icons/fas-vector-square.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "699083e17890e0c330ce0ab713415793f6d3c8db770b874298594216987d1c54"
+    },
+    {
+      "icon": "fas-vest",
+      "file": "icons/fas-vest.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "a1216dc1c9da146d3bc92b5c02be5f5e8851158a97058bf3d866021836fe7132"
+    },
+    {
+      "icon": "fas-vial",
+      "file": "icons/fas-vial.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "122d50b0f8309544acffe0783f94c9b4cdb7185340995c6ed62c7d59cb984a61"
+    },
+    {
+      "icon": "fas-video",
+      "file": "icons/fas-video.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "aa282960de504c929657ecd19059189f5ee408927122651faf1837c0cdf78497"
+    },
+    {
+      "icon": "fas-vihara",
+      "file": "icons/fas-vihara.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "55acb7c74697058dca7da511b31af294ecfa1837828908897ded84b0bd71cb4b"
+    },
+    {
+      "icon": "fas-volume-up",
+      "file": "icons/fas-volume-up.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "1ec03c3ac423a888d6a9074f3451829ac6887a1bf92132b0e5b0178be18fbf81"
+    },
+    {
+      "icon": "fas-vote-yea",
+      "file": "icons/fas-vote-yea.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "4aefffecdb47ac333564fa298b864ea78cfb3d6c4699bdb130dd66415509872a"
+    },
+    {
+      "icon": "fas-warehouse",
+      "file": "icons/fas-warehouse.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "df99cb12176274e56973ba2a398cb5b50599975372cc3a4543d79244d715cd77"
+    },
+    {
+      "icon": "fas-weight",
+      "file": "icons/fas-weight.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "a5a323910eb59e154fd000e0e7c1da2acf75d6c88c6bf7d0516fb2217d3fbfd7"
+    },
+    {
+      "icon": "fas-whiskey",
+      "file": "icons/fas-whiskey.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "f48caf0cd70d2e7efd443666b3955edfc11b823f69902e938fb89875ab4aa3e9"
+    },
+    {
+      "icon": "fas-wifi",
+      "file": "icons/fas-wifi.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "671b66f1468e8dcd63ce61f77ff415841a5c3041d111070af8be03c9ecb988d4"
+    },
+    {
+      "icon": "fas-wine-bottle",
+      "file": "icons/fas-wine-bottle.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "f64255257b9c1c9aa5cefe33929e546b3118536ff462b5460dd4f07b4f184a4b"
+    },
+    {
+      "icon": "fotoshi-cupcake",
+      "file": "icons/fotoshi-cupcake.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "4d26472e38c2b08c9eb9b82aa47124f1ec84597d6e0184f5bbb0f74baa5fd1eb"
+    },
+    {
+      "icon": "fotoshi-ford",
+      "file": "icons/fotoshi-ford.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "61db964f0050456ba345e7171db5fd227394f5ef73a0dee1b756ba0ba7df1b70"
+    },
+    {
+      "icon": "fts-agave",
+      "file": "icons/fts-agave.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "62c9047131ec24118cf6ff080457b16ff10c51be0f2efd4a0f3d526f228874e5"
+    },
+    {
+      "icon": "fts-atm",
+      "file": "icons/fts-atm.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "3589256f15f36388342d76180afb218c267467679954b8452b8c60a172a1a87d"
+    },
+    {
+      "icon": "fts-badminton",
+      "file": "icons/fts-badminton.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "8a6a70ba75aecd52c4fceba8e55f397bfd9ea21ecd63cd2ea5bace93aa8d1e7b"
+    },
+    {
+      "icon": "fts-billiards",
+      "file": "icons/fts-billiards.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "0ce793ecad7f6addc485e7bcc8366251fe0b6d7124b392dd0efbd4530f48d155"
+    },
+    {
+      "icon": "fts-boot",
+      "file": "icons/fts-boot.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "1662c5db6beb5ef3eed63f07dc76f130ef9f6b28e8a67b447826623fba529d19"
+    },
+    {
+      "icon": "fts-cactus",
+      "file": "icons/fts-cactus.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "bc0098e3ea2a52a13657910aba90353bc17ba264677855e72111391a82af8283"
+    },
+    {
+      "icon": "fts-cage",
+      "file": "icons/fts-cage.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "5888eafd9d03055f84cdda09466c3316cf752bc463bf30fa29a0e99935f981d9"
+    },
+    {
+      "icon": "fts-carpet",
+      "file": "icons/fts-carpet.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "839025cc3f14800a2486c8b448e1de8bb9a0f4e56429d9d13c13359e693109a2"
+    },
+    {
+      "icon": "fts-dress",
+      "file": "icons/fts-dress.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "a052f70679f09fdc0ab23f93970eae40bf6fecbaf0e8986964bbc6d6ce7a6233"
+    },
+    {
+      "icon": "fts-elephant",
+      "file": "icons/fts-elephant.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "5d4a91bada07c7c7c794aa41aedfd928b72cfee4b107b0a2134b70547e628245"
+    },
+    {
+      "icon": "fts-gymnastics",
+      "file": "icons/fts-gymnastics.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "aacd6013d070d11922a193759fd91b2788a69007151cc27f8ab7a6fd1a77ff27"
+    },
+    {
+      "icon": "fts-hookah",
+      "file": "icons/fts-hookah.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "6c5e384364dfc4b349c9ce1ac935e3db912e27199cb73176a83c98cc38080988"
+    },
+    {
+      "icon": "fts-magic",
+      "file": "icons/fts-magic.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "c48072972a4eeadead6b488c9ff7d2d2954aa36d40cf843a932ad31003c25e44"
+    },
+    {
+      "icon": "fts-paw",
+      "file": "icons/fts-paw.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "d6af1b84aa4820ceb4ce922dfa19c1dfca440fda158790afebb68fdce4da49d1"
+    },
+    {
+      "icon": "fts-pray",
+      "file": "icons/fts-pray.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "4d56b3f0894916804f58f5883fcd26602bc545c89e0ba506693c282ff1b2ef33"
+    },
+    {
+      "icon": "fts-tipi",
+      "file": "icons/fts-tipi.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "36be6998bd8db98bcc16baf3c62a05c6a927bea93d46edae9f6c431debacd635"
+    },
+    {
+      "icon": "fts-whale",
+      "file": "icons/fts-whale.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "07e79697e9819d898f6fdc6749c3dccf09cd5d1fb0224945e48f9bc0dd06cd1f"
+    },
+    {
+      "icon": "fts-xmas",
+      "file": "icons/fts-xmas.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "b8544e7dfa27a25fb5b32da44ed92dcd839d50382494c1d6c5883c46ebea2d30"
+    },
+    {
+      "icon": "game-icons-cornu",
+      "file": "icons/game-icons-cornu.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "b360685ed0abc5f3e8388dde0dec1d7d938ef539ad565af87017a7f6d3a32eae"
+    },
+    {
+      "icon": "game-icons-mountain-pass",
+      "file": "icons/game-icons-mountain-pass.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "f6002d7e3863dce7e1aba728ca3ec07d1c63d69960e975dd3dc1bffd72e29dbc"
+    },
+    {
+      "icon": "iD-boundary",
+      "file": "icons/id-boundary.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "a55207851677da62ff2a23058ba8ee76b1cc3ba7289c613c7da63c7bb72eda34"
+    },
+    {
+      "icon": "iD-highway-living-street",
+      "file": "icons/id-highway-living-street.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "19030908de0c784e6c67179fd620daf24237814bd413076dd0b2805f8f835d26"
+    },
+    {
+      "icon": "iD-highway-motorway",
+      "file": "icons/id-highway-motorway.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "479262c85ef3a1c05149fbb8182d18d9cdbc8d1e6a13e2229cc5a42a00cf1275"
+    },
+    {
+      "icon": "iD-highway-motorway-link",
+      "file": "icons/id-highway-motorway-link.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "bc92136b6f2757a1edb22ea8c189bb713c0dd92eb570e16f4d9553b36494c558"
+    },
+    {
+      "icon": "iD-highway-primary",
+      "file": "icons/id-highway-primary.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "8f4541995a6a700b988c1d628b0b0bc17fe3ea70e41744bdad2922d8c83a49e1"
+    },
+    {
+      "icon": "iD-highway-primary-link",
+      "file": "icons/id-highway-primary-link.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "f2b66cd1f429642c014eeb443c9251721b45d67af9f45012381e35ddc28aaa6e"
+    },
+    {
+      "icon": "iD-highway-residential",
+      "file": "icons/id-highway-residential.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "0557fc8037214397e97a8c4066273737804672ab82144272c778d54b18958339"
+    },
+    {
+      "icon": "iD-highway-secondary",
+      "file": "icons/id-highway-secondary.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "0cd6c54556587e21cfe6bbf5057cf543c9d697232b85d8425bd071cee528f2d4"
+    },
+    {
+      "icon": "iD-highway-secondary-link",
+      "file": "icons/id-highway-secondary-link.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "1cdc8fd35043fd16008a6ae70772b97cfb2fcb8cf77411788bd9802632024da2"
+    },
+    {
+      "icon": "iD-highway-service",
+      "file": "icons/id-highway-service.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "20fb117900b724b406e840f5e013352ec5fb266f1ed9546a4b112e8abd95f103"
+    },
+    {
+      "icon": "iD-highway-steps",
+      "file": "icons/id-highway-steps.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "b0880c580b94a402f81a543b994451070085b81401f8a5defe8f083bdedcb96c"
+    },
+    {
+      "icon": "iD-highway-tertiary",
+      "file": "icons/id-highway-tertiary.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "568d1fc9c86b891ba9c7dc3263e64c615e3c6ba757e11688adea3b9f42d806b2"
+    },
+    {
+      "icon": "iD-highway-tertiary-link",
+      "file": "icons/id-highway-tertiary-link.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "1feacda902be9bddb53a6c1f9fec6601b01bb0a0eb32e0c6663a7be0ba7b0cff"
+    },
+    {
+      "icon": "iD-highway-trunk",
+      "file": "icons/id-highway-trunk.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "2ae9be8deee40c03f07b85654c7d9fecc3e8e33ab5d9f12e9e2770ef5d5c81c7"
+    },
+    {
+      "icon": "iD-highway-trunk-link",
+      "file": "icons/id-highway-trunk-link.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "5e029f58ef668d0a2eb64185836af3c3316a0e2fd130668d30d8d2a1bc46d7b7"
+    },
+    {
+      "icon": "iD-highway-unclassified",
+      "file": "icons/id-highway-unclassified.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "39837ec1e936389a1e18744c36dab626e3331f129ae7087d18f12c3462287acd"
+    },
+    {
+      "icon": "iD-icon-line",
+      "file": "icons/id-icon-line.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "6b7bc1cc67c3e7257abb812dfc3bd7c7b933df8e74edb8ec956c5c4bd96a045b"
+    },
+    {
+      "icon": "iD-icon-point",
+      "file": "icons/id-icon-point.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "8fb6079eaf0f7b3d225d0a8c15ee52cdd9c844f1fc9f27eb3c596adb4cc1bc13"
+    },
+    {
+      "icon": "iD-other-line",
+      "file": "icons/id-other-line.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "9a72a6fc3b050a11c19baa816be3d9e10ec9f5efed1b143c1d3c8cde23e313bf"
+    },
+    {
+      "icon": "iD-pipeline-line",
+      "file": "icons/id-pipeline-line.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "f8139bac27a5aecc76e9a2736165ad8cedd3bae1cf47ca1879de7d4a729fe788"
+    },
+    {
+      "icon": "iD-power-line",
+      "file": "icons/id-power-line.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "00e60d063c5237c046ea8624fd9369996d20b53ad734a4d80ae77e76618f6672"
+    },
+    {
+      "icon": "iD-relation",
+      "file": "icons/id-relation.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "c3f20c083ad591203362dfe96131187f7b4ec18c42d5d67818ea5847d6f318b0"
+    },
+    {
+      "icon": "iD-restriction",
+      "file": "icons/id-restriction.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "328b195c7869c4907029ce85d3f87039ed691d7a24be41fdd6e145ebf1d128d7"
+    },
+    {
+      "icon": "iD-restriction-no-left-turn",
+      "file": "icons/id-restriction-no-left-turn.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "df2d85025092e36e287bc3e9c824df2cc29b8bdb21df1cb63d3965757766511f"
+    },
+    {
+      "icon": "iD-restriction-no-right-turn",
+      "file": "icons/id-restriction-no-right-turn.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "5a174cf83ad9725d48693fbe9adf866540e0ebe2ecaeb4c3af1f0f065fa7b0b5"
+    },
+    {
+      "icon": "iD-restriction-no-straight-on",
+      "file": "icons/id-restriction-no-straight-on.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "48e5be442dd144a4c04f6a1c8e8eeb67c9fc4be8234535580753867c2bef7b9f"
+    },
+    {
+      "icon": "iD-restriction-no-u-turn",
+      "file": "icons/id-restriction-no-u-turn.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "f776888a842bc4ea1c927203b9f95520e2cacfe2f3a331c8190978bc49a61f5d"
+    },
+    {
+      "icon": "iD-restriction-only-left-turn",
+      "file": "icons/id-restriction-only-left-turn.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "49cc6bddb81c3a6b35c1328099bef806711b9be726e459ea6911710a25f185eb"
+    },
+    {
+      "icon": "iD-restriction-only-right-turn",
+      "file": "icons/id-restriction-only-right-turn.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "33953a53aeabf27706a4e2b27c073ccba310b36807ff64e995c42eea56d5db84"
+    },
+    {
+      "icon": "iD-restriction-only-straight-on",
+      "file": "icons/id-restriction-only-straight-on.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "014ee2f488f6eb49a4bb65d5f726fc539a6b0159095495590bcc8accd22c1ea6"
+    },
+    {
+      "icon": "iD-restriction-only-u-turn",
+      "file": "icons/id-restriction-only-u-turn.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "16417b3da6351c9e9528ed2bee8d2c11ceb24fee51300a4b650d1a450e948e70"
+    },
+    {
+      "icon": "iD-route",
+      "file": "icons/id-route.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "7a67631ad6806e36ccb00f54aef9d1c82f86a526f396a2c4f780bd1bcc88e25b"
+    },
+    {
+      "icon": "iD-route-detour",
+      "file": "icons/id-route-detour.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "f09d59753f50863ece67896de1b7ad7eb7a15bd4a37d275bb3cba2c5dd67cb18"
+    },
+    {
+      "icon": "iD-route-master",
+      "file": "icons/id-route-master.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "26d6e4efee190398a3c4064125a96c4cb7da37070641f73581d205f554e7a749"
+    },
+    {
+      "icon": "iD-waterway-canal",
+      "file": "icons/id-waterway-canal.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "d2e0a417f50a27990085233bfef692af686e73d599f8dd589e1ce96906d71b92"
+    },
+    {
+      "icon": "iD-waterway-ditch",
+      "file": "icons/id-waterway-ditch.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "6b86b929ec63099cbf92a51d297294f01384b4808f13a9f95727d7aba095de03"
+    },
+    {
+      "icon": "iD-waterway-river",
+      "file": "icons/id-waterway-river.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "599631186ffbe19d8694a3194a51e0b3d0f9bc952e71689b4fbc81701f098ea8"
+    },
+    {
+      "icon": "iD-waterway-stream",
+      "file": "icons/id-waterway-stream.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "8eb5b3f0467388b4bf70c38dbb500713041f2834e44f738be3abfa994148f3e6"
+    },
+    {
+      "icon": "ion-university",
+      "file": "icons/ion-university.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "f6002d7e3863dce7e1aba728ca3ec07d1c63d69960e975dd3dc1bffd72e29dbc"
+    },
+    {
+      "icon": "ionicons-wine",
+      "file": "icons/ionicons-wine.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "d9cb6b8663d927247e3b168fc1b6762053d754d4010729f20936481591cb4be0"
+    },
+    {
+      "icon": "libreicons-bee",
+      "file": "icons/libreicons-bee.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "237fca7a1ddca35b68d1be31eb5448b1cdca060af407f743434556f90e6b591d"
+    },
+    {
+      "icon": "libreicons-broom",
+      "file": "icons/libreicons-broom.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "c748c8813eededfeae31e7f4618a34766362d8348f5946e838595f7772978103"
+    },
+    {
+      "icon": "libreicons-mountaineer",
+      "file": "icons/libreicons-mountaineer.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "dec7eb9b95a31e5e80bd714eeaf8000f42e7253c2faaafedb874c1fa474a35b2"
+    },
+    {
+      "icon": "libreicons-parking",
+      "file": "icons/libreicons-parking.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "1f32ccf6bfaafe11ab460fa465334bb2875c7dd498395d7309601e57cb933120"
+    },
+    {
+      "icon": "libreicons-playground",
+      "file": "icons/libreicons-playground.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "325c5d2d04ef8ee1704f11dfa23226cdf12237114e4a72a2e6f7b4f8f528a330"
+    },
+    {
+      "icon": "maki-aerialway",
+      "file": "icons/maki-aerialway.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "4cf97ef6dc4dbcae1d13f5dc615f5cf574a5c68e1d27ebd5efe350c108cde32d"
+    },
+    {
+      "icon": "maki-airport",
+      "file": "icons/maki-airport.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "6fc0bf0560712d234380a0a0a48a16db561bda5fd92cb5b96e34cb99c9b962e9"
+    },
+    {
+      "icon": "maki-alcohol-shop",
+      "file": "icons/maki-alcohol-shop.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "4562b2f798ea19fb7a8e71d3569dfdfc3a2ff020f87db75302dce864ef302fdc"
+    },
+    {
+      "icon": "maki-american-football",
+      "file": "icons/maki-american-football.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "2305d64445dee494977ff4a1831bb3d36e76e039986fca9f82639a4a3cfdf6c8"
+    },
+    {
+      "icon": "maki-amusement-park",
+      "file": "icons/maki-amusement-park.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "70c87f93184b9c652d1db58623f914e93dc22d733989fbbe05ad45d80e4a79f4"
+    },
+    {
+      "icon": "maki-aquarium",
+      "file": "icons/maki-aquarium.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "287ac289b48ef1eb343336fe94f00c6e8312ff588fc54f909444d5c8520b81c9"
+    },
+    {
+      "icon": "maki-art-gallery",
+      "file": "icons/maki-art-gallery.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "1d4798f5993923dd2aae5d9624c7f2156b582878de13e0b1e429760d84c348bb"
+    },
+    {
+      "icon": "maki-attraction",
+      "file": "icons/maki-attraction.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "95eb8f116534ea43eddd1825d44cf7c5cc9e04a7fd3d0f48617b52fc98e7580a"
+    },
+    {
+      "icon": "maki-bakery",
+      "file": "icons/maki-bakery.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "16b342420a8e8ff66a5139898b3c6645f1cdd2901c9471043a5808ccff8e7ea9"
+    },
+    {
+      "icon": "maki-bank",
+      "file": "icons/maki-bank.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "0a6ad27f912464f98a3f40a5339bbe00b3d85b64617db734580dbe8182977558"
+    },
+    {
+      "icon": "maki-bar",
+      "file": "icons/maki-bar.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "6a1fba788795e6f452e9e83a561e0e5186b8848eb988656e3be5f2936d2af8e6"
+    },
+    {
+      "icon": "maki-barrier",
+      "file": "icons/maki-barrier.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "e0d62ec470040a892c9250a2c8727b081ec233e012ef4688f86e93b7dbb1354d"
+    },
+    {
+      "icon": "maki-baseball",
+      "file": "icons/maki-baseball.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "9cb3d2cb92f943fa5f588b224ab7e726e2eb4d972b940a78a67df4ebaf4c1804"
+    },
+    {
+      "icon": "maki-basketball",
+      "file": "icons/maki-basketball.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "dd519a54742d3e5f27a491f4e41026b96f8cdbeaa372668f3cc322fa81f943c9"
+    },
+    {
+      "icon": "maki-bbq",
+      "file": "icons/maki-bbq.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "25539a5372f03389ffa9be8b0ae6c27710220f8da1e277a8895ff722b2c87ad7"
+    },
+    {
+      "icon": "maki-beer",
+      "file": "icons/maki-beer.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "19d69092e65f2bbc987493e94fadfa09a15f7f760b4fe57fba6b2bb454f181f8"
+    },
+    {
+      "icon": "maki-bicycle",
+      "file": "icons/maki-bicycle.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "9f17f5a8a8c128fd0c11ea9e762048f0dbc35f0d67afd42f5b64107af043ef8a"
+    },
+    {
+      "icon": "maki-blood-bank",
+      "file": "icons/maki-blood-bank.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "5a222df4db2f5b2db987d0e0e677f3726c96916010f2ab48d24d0200b71b97d8"
+    },
+    {
+      "icon": "maki-bridge",
+      "file": "icons/maki-bridge.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "11e0a41f328b4a2ecb81f173ea1c293b399af364158ae9a587f02d3b20955c90"
+    },
+    {
+      "icon": "maki-building",
+      "file": "icons/maki-building.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "82be304c36b38d584ee3125c63945b4e74c31a28fac4b2eebf7d1ef5399b4fd8"
+    },
+    {
+      "icon": "maki-cafe",
+      "file": "icons/maki-cafe.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "35cf52d766395818195d3ac07bbfce5e29b2d6efba8fe0d521f6955b74354197"
+    },
+    {
+      "icon": "maki-campsite",
+      "file": "icons/maki-campsite.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "16e57d27cd21d7c89f05a65fa842e58cfaca50179c307c340983d61fbf5870cf"
+    },
+    {
+      "icon": "maki-car",
+      "file": "icons/maki-car.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "2659f625088c280fee4728ff2cb7f6530074cc5b81c8df0e7a022ab5408ae9db"
+    },
+    {
+      "icon": "maki-car-rental",
+      "file": "icons/maki-car-rental.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "78a54cd1bbd30fd5415d551ac814219e2869625426960e2cc5d89f1ee154b13e"
+    },
+    {
+      "icon": "maki-car-repair",
+      "file": "icons/maki-car-repair.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "25ad8e12da6c6afd28c351b42035bb8d5e1019a1085be997935ba10ed7a81b3a"
+    },
+    {
+      "icon": "maki-casino",
+      "file": "icons/maki-casino.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "cfeca638cd25daf0761789ded750a03b9cffd9b553add58f6f5382c0c719b762"
+    },
+    {
+      "icon": "maki-castle",
+      "file": "icons/maki-castle.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "dcccde77b02419496e9395ee20f807ecae5a971bd7428f8b9b98478caa8170fa"
+    },
+    {
+      "icon": "maki-caution",
+      "file": "icons/maki-caution.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "c418e84755cd0d0fbb43eced8dcfea915678b3932880c47e04ff5365c8c9f35e"
+    },
+    {
+      "icon": "maki-cemetery",
+      "file": "icons/maki-cemetery.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "4a2c3630718fc2b0319b6c3a63b51d5b68a38a8eedf454e3875a3cfc8bf524f0"
+    },
+    {
+      "icon": "maki-cinema",
+      "file": "icons/maki-cinema.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "d059c991a312fd0c084b3e76ad6c0cee388b3cce71746da6a637edb7c18fd6bc"
+    },
+    {
+      "icon": "maki-circle",
+      "file": "icons/maki-circle.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "0bcbb5be5931a3072c569def7a5244fb0b75bc89c8ba73adce358e6f3bf851b2"
+    },
+    {
+      "icon": "maki-circle-stroked",
+      "file": "icons/maki-circle-stroked.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "9a8e5b44c109ec8b33d64cef25f960af8c47273ab9683385acc8d098b6ab4523"
+    },
+    {
+      "icon": "maki-city",
+      "file": "icons/maki-city.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "70caa6e77ef84de2c61c6d149cc032d2e03f2836e095dc2e75aa75858c0d3c72"
+    },
+    {
+      "icon": "maki-clothing-store",
+      "file": "icons/maki-clothing-store.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "a68d7ce6e4d5fd8fca94fa843374ea49cf158b53a774caf7f8831328ee75fe07"
+    },
+    {
+      "icon": "maki-college",
+      "file": "icons/maki-college.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "a2f05b8d343fccb27fd51ce05e220972436d96272baea8de4d234d16e41c1f90"
+    },
+    {
+      "icon": "maki-commercial",
+      "file": "icons/maki-commercial.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "4862f854b82f3cc7d58c1ed16034bf323980831ce44554c99002c9e5f471e045"
+    },
+    {
+      "icon": "maki-communications-tower",
+      "file": "icons/maki-communications-tower.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "eb17402b7c690cc71d2edf502e22466e87bdafabb8b0fd8a024dec60788db76e"
+    },
+    {
+      "icon": "maki-confectionery",
+      "file": "icons/maki-confectionery.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "006b7483d381be0feb4311307bfdd9c9395964aa9c5b4989a415f53cead1c5f3"
+    },
+    {
+      "icon": "maki-cricket",
+      "file": "icons/maki-cricket.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "e0ba11af847b8f1e1bdbbb4f9defe19d283e485cf1a29162ec88f22ff1c5f6ee"
+    },
+    {
+      "icon": "maki-cross",
+      "file": "icons/maki-cross.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "3f55cd7827a4e494677ea73cdf8f3b0929cd95df0699dcf06f8be970e243e75d"
+    },
+    {
+      "icon": "maki-dam",
+      "file": "icons/maki-dam.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "74f341da379ae1e45117b17953aa18a4668f5ce4a59b331a55821745a4642075"
+    },
+    {
+      "icon": "maki-danger",
+      "file": "icons/maki-danger.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "c68b6a0f12bc43b69091473a304cbb6b6bd548a8f57990858d940021e400f53a"
+    },
+    {
+      "icon": "maki-defibrillator",
+      "file": "icons/maki-defibrillator.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "118a47f56e256ee611fb7a2d7b302d75aad2c043ef81a897e1f971487510db89"
+    },
+    {
+      "icon": "maki-dentist",
+      "file": "icons/maki-dentist.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "e80522ecb31bf0699f63f2c97e226b38076dfbde1581359922f77547d7d20a01"
+    },
+    {
+      "icon": "maki-doctor",
+      "file": "icons/maki-doctor.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "e2e49928d75cddbbbfd0dd8dd64864c638590f40168bacac307f56ac7118b8df"
+    },
+    {
+      "icon": "maki-dog-park",
+      "file": "icons/maki-dog-park.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "18ccff81b8034a3e71e6d628aba744bf21979eae72c969595d417b417bffe95e"
+    },
+    {
+      "icon": "maki-drinking-water",
+      "file": "icons/maki-drinking-water.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "a086afa956d226faecee8351fb0bfda1466ecd64adbad0c8b604cbd1ba45af75"
+    },
+    {
+      "icon": "maki-embassy",
+      "file": "icons/maki-embassy.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "17a61597751335273585936c633f509cc1f65cb89b143d6b7d4fcf15de75e0cc"
+    },
+    {
+      "icon": "maki-emergency-phone",
+      "file": "icons/maki-emergency-phone.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "f854cbf7ee8fe36e757ac03af1bac4a95cda6f2feaecdb68c361908ecdf8f3f0"
+    },
+    {
+      "icon": "maki-entrance",
+      "file": "icons/maki-entrance.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "b3db1cad3e0a2a5cb88eceda599d3038835ec9a4786d79b7da6f4516e40a9219"
+    },
+    {
+      "icon": "maki-entrance-alt1",
+      "file": "icons/maki-entrance-alt1.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "434337b1cc5a5bf860d768f280e3c65362c4da6b2e24c62ca533032d63ecf54f"
+    },
+    {
+      "icon": "maki-farm",
+      "file": "icons/maki-farm.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "5b9a3df9bcd14b5ea79ecc7e0da9b47dae324ba7f21c76b51ee3f9096255d200"
+    },
+    {
+      "icon": "maki-fast-food",
+      "file": "icons/maki-fast-food.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "d905bc4ffaefe84f915d3ba5a10bc9fd33c29ff6ba88ad5d62592579e5f7d0b4"
+    },
+    {
+      "icon": "maki-fence",
+      "file": "icons/maki-fence.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "99497efc364efd70b025f27dd2d5be55ad2581e7262c0eb0c4a0218513878446"
+    },
+    {
+      "icon": "maki-ferry",
+      "file": "icons/maki-ferry.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "d34df7b107d3fe0abda0924c5d9f8eccbbfdad00e1f218907645d374a1cb0c9f"
+    },
+    {
+      "icon": "maki-fire-station",
+      "file": "icons/maki-fire-station.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "742001b75b2be35fcb67e30b4e734da1ac985459f95b60eeda6a9854c059c7e1"
+    },
+    {
+      "icon": "maki-florist",
+      "file": "icons/maki-florist.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "1494b5cefd9cc01eccdb21fbdc206a148ac6b1123ed348cbe7a010c5307bfa62"
+    },
+    {
+      "icon": "maki-fuel",
+      "file": "icons/maki-fuel.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "92ffef7d6b58879a3623098be43344dacf825063fc614f77691db29d4eebe46a"
+    },
+    {
+      "icon": "maki-gaming",
+      "file": "icons/maki-gaming.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "2c3b9a14a8651805159972687b9c37358eb06c3be89fde702152c2638177aa84"
+    },
+    {
+      "icon": "maki-garden",
+      "file": "icons/maki-garden.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "4310cf434fc61fd68bad529c584182d719e60727523744c2bb0b0d77bc6eb19c"
+    },
+    {
+      "icon": "maki-garden-centre",
+      "file": "icons/maki-garden-centre.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "5e826ea50a756abe7e234eab46eb53500e9e51d3106fbda81ed411dcabe64ead"
+    },
+    {
+      "icon": "maki-gate",
+      "file": "icons/maki-gate.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "7e65826694fab4cefa3e07b5c933debd6aa7e794ac15d07bd430d05f7b4206b1"
+    },
+    {
+      "icon": "maki-gift",
+      "file": "icons/maki-gift.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "c4b17b587438c8c19c0530baf057d2389d8d58f37cc6f87af8410270139e611e"
+    },
+    {
+      "icon": "maki-globe",
+      "file": "icons/maki-globe.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "28058be652c9611208ecaed579c6677d2b9f6557722fbe8c324ce425941d25c8"
+    },
+    {
+      "icon": "maki-golf",
+      "file": "icons/maki-golf.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "0b87f5939d02b4d9508a2dfa2b4925a826034c8f13aad9a59a1c1175f2a0b30e"
+    },
+    {
+      "icon": "maki-grocery",
+      "file": "icons/maki-grocery.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "d25e1434fdb9769ad837fa639f7462995f552d52b9af5b16e6834ca6a57ce251"
+    },
+    {
+      "icon": "maki-harbor",
+      "file": "icons/maki-harbor.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "84cd7a81312430a0f5933dc7c26013a17ed7a5d3cc52d0de609fdb5b982dc85b"
+    },
+    {
+      "icon": "maki-heart",
+      "file": "icons/maki-heart.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "b5c90b6c638833627c4e398d2d331223cd78ed7ccbd52098a345d133a4376072"
+    },
+    {
+      "icon": "maki-heliport",
+      "file": "icons/maki-heliport.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "3b92defe34023a0697a4b6a715e0eb3be27399c990d10a0f8b39e95b180fde41"
+    },
+    {
+      "icon": "maki-home",
+      "file": "icons/maki-home.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "691bdedd03a30fd96bc43fa1802110b0bf17cfb16d9df9e67a8ad6a76302339d"
+    },
+    {
+      "icon": "maki-horse-riding",
+      "file": "icons/maki-horse-riding.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "2f502bc909e0aaa7e62137a7e5dc80f6c4bb6b94827287e8c683eeac0a313be0"
+    },
+    {
+      "icon": "maki-industry",
+      "file": "icons/maki-industry.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "fdf72090a5a6420749a97fa57302826287b79a71dc8ae0e17239e118acb3be0a"
+    },
+    {
+      "icon": "maki-information",
+      "file": "icons/maki-information.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "d5eda09e0d59f82b76095ad0f446cdf9f9a5fa05b4351009f277f3052d36740b"
+    },
+    {
+      "icon": "maki-jewelry-store",
+      "file": "icons/maki-jewelry-store.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "9ce53876b0befacff655f6818cf9d7a91b01a67bda94e0ef9ef167713f383ed5"
+    },
+    {
+      "icon": "maki-karaoke",
+      "file": "icons/maki-karaoke.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "fbacaa25fa795003cafbaf62e5fdf48cc620150769110d017c2d909785881ebe"
+    },
+    {
+      "icon": "maki-landmark",
+      "file": "icons/maki-landmark.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "2df19b9e6707a50050c64894603c89afeee7abc60583676a1256d52f033a6791"
+    },
+    {
+      "icon": "maki-library",
+      "file": "icons/maki-library.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "e441220b0d9d8a0bca03dacf5b8a55e96a8dbb656e293ed40bfca98e3a185506"
+    },
+    {
+      "icon": "maki-lighthouse",
+      "file": "icons/maki-lighthouse.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "b1b2ab56caf778a4c8338926de55819ff402e082b638a23725f1676df9792fd9"
+    },
+    {
+      "icon": "maki-lodging",
+      "file": "icons/maki-lodging.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "1cc72ab3cea1532c19ec74e7b7a5ccfbf848ea3d5b15c9716ceb53d7ad9ea858"
+    },
+    {
+      "icon": "maki-logging",
+      "file": "icons/maki-logging.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "16021c2c5bece560e17185786873f04a2e2ee3bfaea158eb05fb25466df83bf2"
+    },
+    {
+      "icon": "maki-marker",
+      "file": "icons/maki-marker.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "278e3c9f050e21b5baa40c7daadb4ce5fe19467df314173bb3cd41d409bacfa1"
+    },
+    {
+      "icon": "maki-marker-stroked",
+      "file": "icons/maki-marker-stroked.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "01599b4db6cd7176355f2b883a07e2650b00bb258b54b86145ce93a8779480ff"
+    },
+    {
+      "icon": "maki-monument",
+      "file": "icons/maki-monument.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "e97ba52d354498b7389905411cae926e55ef579ab0d287f8da42af7156f82972"
+    },
+    {
+      "icon": "maki-mountain",
+      "file": "icons/maki-mountain.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "ec14efcce811f9ace6721239dea2c60553f4f94551b4682922132725c1c3e7ad"
+    },
+    {
+      "icon": "maki-optician",
+      "file": "icons/maki-optician.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "8a64803b5457a14087a4a3073e9356d44031c575f46980a7170e17612b3d7669"
+    },
+    {
+      "icon": "maki-park",
+      "file": "icons/maki-park.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "a12d2d5069653a64bf7cedc78cab1be88cb49f27bd7181788b501758d4ec78b9"
+    },
+    {
+      "icon": "maki-park-alt1",
+      "file": "icons/maki-park-alt1.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "9db517c810bc227f2c0acd0b91c10e7bb06c8496bcdf8952c379ac4e6fa624ef"
+    },
+    {
+      "icon": "maki-pharmacy",
+      "file": "icons/maki-pharmacy.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "88011642eae60c6d22048ffee541834fd4a0529567d4066dc3110d81709ce0ef"
+    },
+    {
+      "icon": "maki-picnic-site",
+      "file": "icons/maki-picnic-site.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "93546ef82e2619fccf87b76ce29df249d6a25e0bcf09abf6945724d44547dd8b"
+    },
+    {
+      "icon": "maki-pitch",
+      "file": "icons/maki-pitch.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "716083cb3910d5592301d345d06f00082d82f4bd00fb6f6f980ab7c291dc8014"
+    },
+    {
+      "icon": "maki-place-of-worship",
+      "file": "icons/maki-place-of-worship.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "a7bc5db6ef8eee62e9bc14c62bd1125a146e9f56b527e54290e7451f3f5aaa01"
+    },
+    {
+      "icon": "maki-playground",
+      "file": "icons/maki-playground.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "b357bb8079f7398ef3898d3b81d3a4d85c13c388b8714ab2f425b837be58d4cf"
+    },
+    {
+      "icon": "maki-post",
+      "file": "icons/maki-post.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "a09f5463026e6c4e3f26c4ebb627d10434906a609c50340fd742d0c337c4b007"
+    },
+    {
+      "icon": "maki-prison",
+      "file": "icons/maki-prison.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "95b7220ab6eca8544e8cf4a77718150987dcd79bf53b96af9312494d37fcecb4"
+    },
+    {
+      "icon": "maki-rail-metro",
+      "file": "icons/maki-rail-metro.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "db763bd057410e4f712936c97107b48bcfb1865678a5c49d723cba4415ef1181"
+    },
+    {
+      "icon": "maki-ranger-station",
+      "file": "icons/maki-ranger-station.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "6e2181be3142a28443c3d91f5ff14bcebf80ef13a055356447529cb1cda309e3"
+    },
+    {
+      "icon": "maki-recycling",
+      "file": "icons/maki-recycling.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "d26cf16f3c9f3cdf6d97eb50fb60eeaacf263d1a3970e276f8b27ce34fb624bc"
+    },
+    {
+      "icon": "maki-religious-buddhist",
+      "file": "icons/maki-religious-buddhist.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "14c463132344b12c629ba50f8f3449ddc9235f956e611c8d3d7ca47de675e00d"
+    },
+    {
+      "icon": "maki-religious-christian",
+      "file": "icons/maki-religious-christian.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "08eb74e798e888ec108682f31c114d0f3f92f437f7fdc3eab01f93a4cbe05f0d"
+    },
+    {
+      "icon": "maki-religious-jewish",
+      "file": "icons/maki-religious-jewish.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "29e5d8eedba1f06edb1742f036af5f45ca6b343373e5fac8e5c8e154f2b74de1"
+    },
+    {
+      "icon": "maki-religious-muslim",
+      "file": "icons/maki-religious-muslim.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "169c8696d894bacbcee25c5a9db2cb1ecfe5bf64d1745cfb760db15e9d381fa0"
+    },
+    {
+      "icon": "maki-residential-community",
+      "file": "icons/maki-residential-community.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "744c884a58dced7ed6cfe2c6abaf24664c9d86f5f8e523f75c21e2bf6b97413f"
+    },
+    {
+      "icon": "maki-restaurant",
+      "file": "icons/maki-restaurant.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "c62d7021140e7184cc7e8c181efd6c1cb410ea83e0721ac5b4fd360c0cd92b58"
+    },
+    {
+      "icon": "maki-restaurant-bbq",
+      "file": "icons/maki-restaurant-bbq.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "80dfb7715ee8381e0706aef11edd1e59c364bf3e05b947552e7996f7e1ca70ac"
+    },
+    {
+      "icon": "maki-restaurant-noodle",
+      "file": "icons/maki-restaurant-noodle.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "a450121b2a39635f12b21241353996ac7287b4fa0a8eb4f1b2623d92fef48978"
+    },
+    {
+      "icon": "maki-restaurant-pizza",
+      "file": "icons/maki-restaurant-pizza.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "2663f06e8c605d33ae768db13f41dc9f2c7f8feb5e87424d5b5331887344c10f"
+    },
+    {
+      "icon": "maki-restaurant-seafood",
+      "file": "icons/maki-restaurant-seafood.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "f07334edb101a17a197f39e4c576ef50a936cd6a1e23073ac10e8a6abab24b60"
+    },
+    {
+      "icon": "maki-roadblock",
+      "file": "icons/maki-roadblock.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "39272da9438f07d1ffdb82c668a240ec105d231b97828391356a45a5cd808d8d"
+    },
+    {
+      "icon": "maki-school",
+      "file": "icons/maki-school.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "7f16b75d41a4f297a8dc9371c0c0e4dc7c9e528679c032703c091f00c432760d"
+    },
+    {
+      "icon": "maki-shelter",
+      "file": "icons/maki-shelter.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "7bf25b227fcea363a44e0e4804abf830c69db04568fbcea8ced50d772d92e0ad"
+    },
+    {
+      "icon": "maki-shoe",
+      "file": "icons/maki-shoe.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "b72d586fabf0b6d0ebf7bb0e655879a33009125db4c94c4d48b6afa8a2ce2f98"
+    },
+    {
+      "icon": "maki-shop",
+      "file": "icons/maki-shop.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "4239b7abddf4ca8fa826f10faf1721dbf4d8aeeed89bb99807944649430cffe7"
+    },
+    {
+      "icon": "maki-skateboard",
+      "file": "icons/maki-skateboard.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "2cb9283b4bf59e0ee2609db3ab963d5afd04b79b9480ad03a4fcdc4b5fc7b055"
+    },
+    {
+      "icon": "maki-slaughterhouse",
+      "file": "icons/maki-slaughterhouse.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "1c80f558f70830e8f4004811eab2e193365d5bd41d3198c5765b1a5ded7298f2"
+    },
+    {
+      "icon": "maki-slipway",
+      "file": "icons/maki-slipway.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "17c718651a2f4d02599472f3bf5a5764cf08e3b441be164bc3ce6b1345456cd0"
+    },
+    {
+      "icon": "maki-soccer",
+      "file": "icons/maki-soccer.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "110b8fc8d63cfd56195118026c6c0386704e42bbfe412ede1a4507db79dbe889"
+    },
+    {
+      "icon": "maki-square-stroked",
+      "file": "icons/maki-square-stroked.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "a97402f45150de281cc1534e3e81428f80a5baf517e6db39a07251382eed019e"
+    },
+    {
+      "icon": "maki-stadium",
+      "file": "icons/maki-stadium.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "e9d9440e943c2a18ee926c787d07b55dbc63bd0542f449fc61b75abd7809d07d"
+    },
+    {
+      "icon": "maki-star",
+      "file": "icons/maki-star.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "4c5c5bb1dcfc06745b01732435dc8d1d9acc099a118876dbf09179835efaa057"
+    },
+    {
+      "icon": "maki-suitcase",
+      "file": "icons/maki-suitcase.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "9b3f677b78f260f77e06a6087b4894f03829cf2c17bb1ca13446205fcd056882"
+    },
+    {
+      "icon": "maki-swimming",
+      "file": "icons/maki-swimming.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "02df49785d44dc8f126e8a1470b1b9fc177ca26addd91a7b77bc03c10c741d40"
+    },
+    {
+      "icon": "maki-teahouse",
+      "file": "icons/maki-teahouse.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "676c1c8a4f007d5fb0615ad5c5159a0b8aaee06e5e8a0de55df9975d26742c4f"
+    },
+    {
+      "icon": "maki-tennis",
+      "file": "icons/maki-tennis.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "aae76b9afe3358a3caeb0bd595e563a231159c1f5888d80f2e04f28069589910"
+    },
+    {
+      "icon": "maki-theatre",
+      "file": "icons/maki-theatre.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "39b751cfbb5e0b4d9129bd9198a0e3398221551795951b88a5aaf6b99ab2d25a"
+    },
+    {
+      "icon": "maki-toilet",
+      "file": "icons/maki-toilet.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "d04ff2723ace2ea05937177ca0a04aa539c0ce4f3cf532f1f836dcdf693a4f0a"
+    },
+    {
+      "icon": "maki-town",
+      "file": "icons/maki-town.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "896a2b05a741df827857c15c4331598f9393d9587ee3ea5abb1ce80bced612ea"
+    },
+    {
+      "icon": "maki-town-hall",
+      "file": "icons/maki-town-hall.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "010c22a40ae0202f3accfa1101d1e5a027455a470575b83f3733d6ca7eee8ab1"
+    },
+    {
+      "icon": "maki-triangle-stroked",
+      "file": "icons/maki-triangle-stroked.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "2ede8029b47fb1b9553c01bb0c378191523b3e7772d682956369f90c93f0b0e9"
+    },
+    {
+      "icon": "maki-veterinary",
+      "file": "icons/maki-veterinary.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "b2207dce27028b0e1e366dbdf35a6d5dc8ad52566845b4fe021f6764a891b5f5"
+    },
+    {
+      "icon": "maki-village",
+      "file": "icons/maki-village.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "842c6c6183d7ddb1f4ec10ce0c8272eb0bf2db39621e6db8cff0f200f22f93c3"
+    },
+    {
+      "icon": "maki-volcano",
+      "file": "icons/maki-volcano.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "3c31b1843730b548ed4e6b788b01eb797edc1a2a1f02b42005138b59eac375b0"
+    },
+    {
+      "icon": "maki-volleyball",
+      "file": "icons/maki-volleyball.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "561c6863dfdbcf7498ffb5c191261d5e98d5d235fe90d2435321c3e9f2905ac6"
+    },
+    {
+      "icon": "maki-warehouse",
+      "file": "icons/maki-warehouse.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "54865605ec00b23242a09fd62f7bdc3a38d01105e6085556489f76552fbb120e"
+    },
+    {
+      "icon": "maki-waste-basket",
+      "file": "icons/maki-waste-basket.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "13ff00403fbb4d840352c36c44f64d8ce2893a38740f9ddc117c867e2328a20a"
+    },
+    {
+      "icon": "maki-watch",
+      "file": "icons/maki-watch.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "81b1c08e2bae304d38b3798de84b8499785a2f325300fba86dc0a4b2425fdd7a"
+    },
+    {
+      "icon": "maki-water",
+      "file": "icons/maki-water.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "613504da8ff193b1f152be255829057f2b6c4f652b7779c1a5caab80f9b51937"
+    },
+    {
+      "icon": "maki-waterfall",
+      "file": "icons/maki-waterfall.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "cae4263622e40bc099cc8db584a1de5951c6b22e7f4b650b014976c96138472b"
+    },
+    {
+      "icon": "maki-watermill",
+      "file": "icons/maki-watermill.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "b310e332923f4ce3bea5bacc9f22b69bf77bcf98aa7368174f1a2e70bab5055d"
+    },
+    {
+      "icon": "maki-wetland",
+      "file": "icons/maki-wetland.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "4c60300f5e595a02d83c201c68a5ac3132d509ad2e4a8a48d3d7c39cd37767ac"
+    },
+    {
+      "icon": "maki-wheelchair",
+      "file": "icons/maki-wheelchair.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "d651b32281fda0f4ae317b24d626588c69aae16e422e8e0974ebd7812d56a206"
+    },
+    {
+      "icon": "maki-windmill",
+      "file": "icons/maki-windmill.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "a1702beb323a5c0fab4ad2b40787d1514ed2150bf390bc53c071ae213e69fcde"
+    },
+    {
+      "icon": "maki-zoo",
+      "file": "icons/maki-zoo.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "5332cfa3e6d581e8981d5ac89c87af338c626ca653b4d3820a29e198f18a48bd"
+    },
+    {
+      "icon": "material-design-hospital",
+      "file": "icons/material-design-hospital.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "172d22194307ddff6da7b09b6b19e9321e092ea9e79762d0d9f8022a8d899b77"
+    },
+    {
+      "icon": "material-symbols-passport",
+      "file": "icons/material-symbols-passport.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "8a4f9df9102905e3af33edf30d7840a675a93cf8b1f627893552e312e4c07c0a"
+    },
+    {
+      "icon": "onlinewebfonts-cave",
+      "file": "icons/onlinewebfonts-cave.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "060c1d8a09a11beb6a5f2afa425177368178a2f3ccf1e39cec07930f3feb9b22"
+    },
+    {
+      "icon": "remix-information",
+      "file": "icons/remix-information.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "5cbfea321174c5076d684417f40e42bb5fdf819bf9d1222aff41c4ddb8115d24"
+    },
+    {
+      "icon": "remixicon-building",
+      "file": "icons/remixicon-building.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "442e75f94d6daafb1fbca49e8b6d8d0c5a49f469b5b83793052dbed2ef1bdb9e"
+    },
+    {
+      "icon": "roentgen-needleleaved_tree",
+      "file": "icons/roentgen-needleleaved-tree.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "dd571c6174f07fc97a7d22e7d82a2038c61040109c95e235bda2cd9b245db163"
+    },
+    {
+      "icon": "roentgen-pole_dancer",
+      "file": "icons/roentgen-pole-dancer.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "07b37860889ec2ec79c351a616760ffbc4c836a7f841d605bf05182e5c3c3859"
+    },
+    {
+      "icon": "streamline-plump-food-truck",
+      "file": "icons/streamline-plump-food-truck.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "c6a3ae52e74d618f4e4f45cac3654ccf0575a1a252255c719d118d1712882daf"
+    },
+    {
+      "icon": "streamline-ultimate-bookcase",
+      "file": "icons/streamline-ultimate-bookcase.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "0364b702ca921fac1b070b198f9afe96929bf3d3250197ed832eac53a42a6c3a"
+    },
+    {
+      "icon": "streamline-ultimate-coworking",
+      "file": "icons/streamline-ultimate-coworking.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "6883a13fdfc75ad350088a2b98bd6cf06803b6440efcdcf087a4da1f79970d12"
+    },
+    {
+      "icon": "temaki-abseiling",
+      "file": "icons/temaki-abseiling.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "1f08afb18bd4976c1e2466fa22eb01f44c806a6d856d26cfca0a7cbe1f448e29"
+    },
+    {
+      "icon": "temaki-accessible_space",
+      "file": "icons/temaki-accessible-space.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "76174708574b55c925b1beb9c54386bf24ce82a3d6e4008f0ffc47369c57c0e5"
+    },
+    {
+      "icon": "temaki-accounting",
+      "file": "icons/temaki-accounting.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "2387a808be35c5af28e8736ee1ea0ded80d0d94343d3a8a7276cb334e21289a6"
+    },
+    {
+      "icon": "temaki-adit_profile",
+      "file": "icons/temaki-adit-profile.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "8a9d40176331aff89f7bdec501534ffa9ff1b5226999b29ed0907f568ce7f254"
+    },
+    {
+      "icon": "temaki-aerialway_pole",
+      "file": "icons/temaki-aerialway-pole.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "5a486599895df52dac538903f89b9e2b1e1b7ab5c1b113309906a4a0cb1e1fec"
+    },
+    {
+      "icon": "temaki-airport",
+      "file": "icons/temaki-airport.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "619fe1d80a98435a9d8d293c0f02a7c53d2e2bf298cf4ba4025d64276aa779d6"
+    },
+    {
+      "icon": "temaki-amusement_park",
+      "file": "icons/temaki-amusement-park.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "3445d7ff0f2a82e86bede94b62012980762fd32842f10bea57c249d1b119bfa3"
+    },
+    {
+      "icon": "temaki-anchor_medal",
+      "file": "icons/temaki-anchor-medal.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "cc93ad675e4a423815fbae5d396017c3971d0765e63fc003a4bce069de67c995"
+    },
+    {
+      "icon": "temaki-antenna",
+      "file": "icons/temaki-antenna.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "7c970912618f464c5b0b7f348b90987f9fe234d6bce8d8de6cd7057f6d96dcd4"
+    },
+    {
+      "icon": "temaki-anvil_and_hammer",
+      "file": "icons/temaki-anvil-and-hammer.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "8c6e81ef11fdde140a24dd20fea6d024c863ac8bc0383802949d1955458cf3e1"
+    },
+    {
+      "icon": "temaki-app_terminal",
+      "file": "icons/temaki-app-terminal.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "f751b364711c545d9f45fc25ac6215821991e14223e2647f7e78176338150548"
+    },
+    {
+      "icon": "temaki-archery",
+      "file": "icons/temaki-archery.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "968308bc7ca0fb7313046c6c5054e13aa899dc48731c1b3f6d9af4db150c0478"
+    },
+    {
+      "icon": "temaki-army_tent",
+      "file": "icons/temaki-army-tent.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "d7e19f1ef44aa68c128f51a5ff82feda20286485d75436bf0beea3a07665b698"
+    },
+    {
+      "icon": "temaki-balance_beam",
+      "file": "icons/temaki-balance-beam.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "244f959174266b705a6e63686cc6e2e20bf9329cbc883542c174d870940ef4aa"
+    },
+    {
+      "icon": "temaki-balloon",
+      "file": "icons/temaki-balloon.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "e417d5cc9991e9e6756625bab39e3e1179a80a12a4cca4eaaaa54b5546b49ac2"
+    },
+    {
+      "icon": "temaki-barn",
+      "file": "icons/temaki-barn.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "dee9a4e9d924f07ed168ee9aceb13676808d20f3dce6f821070b41d6353f1a4d"
+    },
+    {
+      "icon": "temaki-beach",
+      "file": "icons/temaki-beach.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "e28c233ff552922f6c76df5a33cf13c29a97d909b4b1a9378d555e83d72ad810"
+    },
+    {
+      "icon": "temaki-beauty_salon",
+      "file": "icons/temaki-beauty-salon.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "ab096b2e6e3e1d1a78accc928faa5c3b5176a223c5fe525740b16cef025e834a"
+    },
+    {
+      "icon": "temaki-bench",
+      "file": "icons/temaki-bench.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "ebb9eea74e4ec13a0e68a3bafcd769dc695b7ca989d9868bc708f25f7611fdae"
+    },
+    {
+      "icon": "temaki-benchmark_disk",
+      "file": "icons/temaki-benchmark-disk.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "3cb10c19c44629527fdc0a817c7eed66223583e3670e5e5329a2a5850e14f66d"
+    },
+    {
+      "icon": "temaki-bicycle_locker",
+      "file": "icons/temaki-bicycle-locker.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "ebcf5f849a94c3278b90287ba121cff9aa881300c376d272632bc4cea28669cc"
+    },
+    {
+      "icon": "temaki-bicycle_parked",
+      "file": "icons/temaki-bicycle-parked.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "3af875c532e6d55164d13fd5fe40ab05237f04953bb811c0bc939989d3b583e0"
+    },
+    {
+      "icon": "temaki-bicycle_rental",
+      "file": "icons/temaki-bicycle-rental.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "3040c9ac0547775e1fa1dfc27d596e644455b1d248cb41bda2503867e68b315c"
+    },
+    {
+      "icon": "temaki-bicycle_repair",
+      "file": "icons/temaki-bicycle-repair.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "8b283384b624cbb973f8493831659236840daf8b18d8330284aa5698ce451cae"
+    },
+    {
+      "icon": "temaki-bicycle_shed",
+      "file": "icons/temaki-bicycle-shed.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "188f9b942863a556a1e16a5a7fad5ad86fbff4bd4e7cfafd8396da606d066814"
+    },
+    {
+      "icon": "temaki-bicycle_structure",
+      "file": "icons/temaki-bicycle-structure.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "78e13357d990495f379227db9727dccb3c915b05b5581fa74278625b6ce68257"
+    },
+    {
+      "icon": "temaki-bikini",
+      "file": "icons/temaki-bikini.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "1e003813be0ecbd2e1892e55c2281de9e6cda203b69db9e945256231742a2fcc"
+    },
+    {
+      "icon": "temaki-billboard",
+      "file": "icons/temaki-billboard.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "b5e5b506b30e08777224d806a4b278029687291887968fb68515ab72532a22aa"
+    },
+    {
+      "icon": "temaki-binoculars",
+      "file": "icons/temaki-binoculars.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "e6b0ec94963bf6aa9a02bd7c879bcb484adaa755c9690a04fa3764338e48555c"
+    },
+    {
+      "icon": "temaki-bleachers",
+      "file": "icons/temaki-bleachers.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "d087187f6ce66093144c26dfa1c94bc1dd9ea90b1e700022a69457545cffc2ff"
+    },
+    {
+      "icon": "temaki-board_bus",
+      "file": "icons/temaki-board-bus.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "a78d0f83fee3fcf99233e97acf9a2137c020bcb7d3e0b7f3ac2ea80ea9ab1b7d"
+    },
+    {
+      "icon": "temaki-board_ferry",
+      "file": "icons/temaki-board-ferry.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "4f59623effa53304eced1df8c4ad140b49e7e37cc1e2d2bc55eed9c6812f08a4"
+    },
+    {
+      "icon": "temaki-board_gondola_lift",
+      "file": "icons/temaki-board-gondola-lift.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "130c36719d106a0a6b81fc4f2b671e31dc9eaa3526bc987fed4ba5cbc8a38442"
+    },
+    {
+      "icon": "temaki-board_light_rail",
+      "file": "icons/temaki-board-light-rail.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "a6b47498da59201500a41fef5eab9adb69a6add48292d7e5f4d184d86fe72950"
+    },
+    {
+      "icon": "temaki-board_monorail",
+      "file": "icons/temaki-board-monorail.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "69fc6b27db3bf0b33b2ccf67c44cf98ee4bfb3849fbf3cc31963827bfb3d6ca2"
+    },
+    {
+      "icon": "temaki-board_subway",
+      "file": "icons/temaki-board-subway.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "268ad837995d268281fe541313733148810735e0c12df2411b7d507eac661555"
+    },
+    {
+      "icon": "temaki-board_train",
+      "file": "icons/temaki-board-train.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "f89003f9fab9d34eba0f601164a100f2a22b226b9038f4345d0e8a773a630d02"
+    },
+    {
+      "icon": "temaki-board_tram",
+      "file": "icons/temaki-board-tram.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "c8fcb225535c50d426d824f92e45f5776c639d9aa5df05d382716446d3f1f06e"
+    },
+    {
+      "icon": "temaki-board_transit",
+      "file": "icons/temaki-board-transit.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "e6991fe62101db6d26368c64dd5b94f904f045dbcc1dcaa1eb1ab4c5a8b0db67"
+    },
+    {
+      "icon": "temaki-board_trolleybus",
+      "file": "icons/temaki-board-trolleybus.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "5477196679e9aec88dbf3771b83aace0b701dcc9355011a96362b1e1eff930fe"
+    },
+    {
+      "icon": "temaki-boat",
+      "file": "icons/temaki-boat.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "bd9de78919c5fc9563f53deccd89a75241447ee456538d115323189297e2db39"
+    },
+    {
+      "icon": "temaki-boat_dry_dock",
+      "file": "icons/temaki-boat-dry-dock.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "5c47d62d4348b66bea61b7c7ed494e562565b869e2db841bb23c6de5e796f0fe"
+    },
+    {
+      "icon": "temaki-boat_rental",
+      "file": "icons/temaki-boat-rental.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "ef3e262e4abd26a7b2b0fdae6f94ca9eedd037bd5d92456c203f99a5a2ae07c2"
+    },
+    {
+      "icon": "temaki-boat_repair",
+      "file": "icons/temaki-boat-repair.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "e3b0f97211095e7a42843d1dca1053a2b91465026aa837db4838ce70b4b51996"
+    },
+    {
+      "icon": "temaki-boat_tour",
+      "file": "icons/temaki-boat-tour.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "b903f1596195d7bd769a4624d5d5092790be52085495fa67d6f30836b0a97ccc"
+    },
+    {
+      "icon": "temaki-bollard",
+      "file": "icons/temaki-bollard.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "c3d4d072310ba01250e04d873ed6e18e54795e3b7b22b2e2009cee61d58d11a1"
+    },
+    {
+      "icon": "temaki-bollard_row",
+      "file": "icons/temaki-bollard-row.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "4751263c2910e0c4f694ff93c2cc6c30385d733abbe11753ba3f8db030dc1b73"
+    },
+    {
+      "icon": "temaki-bottles",
+      "file": "icons/temaki-bottles.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "6ab5954433e2ef1d9d2781498c88deced29ad22aad43b0e151d465e967eefed9"
+    },
+    {
+      "icon": "temaki-boulder1",
+      "file": "icons/temaki-boulder1.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "d8dac2037b112d06fe20e06616e9eb46578f1a9d39fb9eaabb943a92dfe02645"
+    },
+    {
+      "icon": "temaki-boulder2",
+      "file": "icons/temaki-boulder2.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "d9e58679870c58e06a8ce7df6f8f6920668c5711f3fb58a65a718a2b998fde54"
+    },
+    {
+      "icon": "temaki-boulder3",
+      "file": "icons/temaki-boulder3.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "823d728add60e92d65a87d255dcf53d1ef086b3030c0f9665f943a115dd7e210"
+    },
+    {
+      "icon": "temaki-bow_and_arrow",
+      "file": "icons/temaki-bow-and-arrow.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "a912d9a8bfa2c761e1a2eb2aabef707bbacf91dca384a60974ddfd017de69c21"
+    },
+    {
+      "icon": "temaki-bowling",
+      "file": "icons/temaki-bowling.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "68a8d7a6547c8e152e9d4b1ee0c017eb5e88a70860a6889dd03716b0bc0a0456"
+    },
+    {
+      "icon": "temaki-brick_trowel",
+      "file": "icons/temaki-brick-trowel.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "688fa3f75fbb885cd5f533df19f84c3ecf77a791d010edc050e3ea7c18ef4195"
+    },
+    {
+      "icon": "temaki-briefcase",
+      "file": "icons/temaki-briefcase.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "ea844ead9af68917b617e157426cd35172946221386db332dac06e05172f310c"
+    },
+    {
+      "icon": "temaki-briefcase_bolt",
+      "file": "icons/temaki-briefcase-bolt.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "09b7b9b8abc5d6f2d7af65d0d9fe930e37bcbf0422a84bcbd8cdc9ab6df8b048"
+    },
+    {
+      "icon": "temaki-briefcase_shield",
+      "file": "icons/temaki-briefcase-shield.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "5b79a697505dd0b0e37249bb58303cc241e913fa2693139fe92e3bc7e9868ccb"
+    },
+    {
+      "icon": "temaki-bubble_tea",
+      "file": "icons/temaki-bubble-tea.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "3d074fbdc410d27b08dd1cf793ed1a8dd23bfeb67a3138a0326f87512589fcf0"
+    },
+    {
+      "icon": "temaki-buffer_stop",
+      "file": "icons/temaki-buffer-stop.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "8a5e1da4b23cb7999db90a5bc0e20261411acb9645781947c0e8edf05b0ecc70"
+    },
+    {
+      "icon": "temaki-bulldozer",
+      "file": "icons/temaki-bulldozer.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "c87fc7e18647eff00e7a3886d697229739bd05c8e2c191437b78a6610e8f00d5"
+    },
+    {
+      "icon": "temaki-bulletin_board",
+      "file": "icons/temaki-bulletin-board.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "b0639a615574dc51666e00f0de5fec19fba308eaea4be2dacb2c6e4ffd77b73b"
+    },
+    {
+      "icon": "temaki-bunk_beds",
+      "file": "icons/temaki-bunk-beds.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "ddafc5e6a312d534a3e0072dc4c7efca284726c1e1ceed53a3f6f5733dea3c0f"
+    },
+    {
+      "icon": "temaki-bunker",
+      "file": "icons/temaki-bunker.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "4240b195213ed2690d657dcd9ea1cfbedccd4e0a975ef6a4c189292d36a6c1f5"
+    },
+    {
+      "icon": "temaki-bunker_silo",
+      "file": "icons/temaki-bunker-silo.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "75e21ce4f186807f5a1e3425fa0965fa0d96b0dffb62b211d27d1849a71a15b8"
+    },
+    {
+      "icon": "temaki-buoy",
+      "file": "icons/temaki-buoy.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "6de3d1a5f7a854518840cca134daf8e4be83c542d88cdd3eec15087c1180b91b"
+    },
+    {
+      "icon": "temaki-bus",
+      "file": "icons/temaki-bus.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "b22d549dedd16f8bb14b8e6aedf0e2c04f6954ea9a1095969450393ed57eabf9"
+    },
+    {
+      "icon": "temaki-bus_guided",
+      "file": "icons/temaki-bus-guided.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "93bcd68df37b3ef75bd4132e81e097b3e357b514c1f5ee187b10a41f63dbafc2"
+    },
+    {
+      "icon": "temaki-cabin",
+      "file": "icons/temaki-cabin.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "05596cba169fd176b524328af09708955f50e175dfa3f5c18aac586eb55699ff"
+    },
+    {
+      "icon": "temaki-cable",
+      "file": "icons/temaki-cable.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "003afbd495d2ec5bb222272a666bbeeb0bec661dfdc5181464606d3ffcb1539a"
+    },
+    {
+      "icon": "temaki-cable_manhole",
+      "file": "icons/temaki-cable-manhole.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "75309c753523f687f23016e57a26fd09e21922e40145faf09ca0008ff57a2a43"
+    },
+    {
+      "icon": "temaki-cairn",
+      "file": "icons/temaki-cairn.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "113b7710fb010a8183de6ade4b90c750be12a9aa809baa421aa7c6fb851d7662"
+    },
+    {
+      "icon": "temaki-camper_trailer",
+      "file": "icons/temaki-camper-trailer.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "0d50c5bf8b42d1c362c49d55f8c5b38d60ae01427c59daa946757e4beb4fef2d"
+    },
+    {
+      "icon": "temaki-camper_trailer_dump",
+      "file": "icons/temaki-camper-trailer-dump.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "96ac1808bbf59701ab50aed7a620ddda4b2a5273505987411af7391c0d2a87c1"
+    },
+    {
+      "icon": "temaki-campfire",
+      "file": "icons/temaki-campfire.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "21ee9e2ea075aa88a66b8734a05d58cac527d0458b4408cc2b7d58dd4af9d7db"
+    },
+    {
+      "icon": "temaki-cape_landform",
+      "file": "icons/temaki-cape-landform.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "ed83be0c068d85eae4e0b126804b9130720efe792f8887a85bf6f8ae014c1781"
+    },
+    {
+      "icon": "temaki-capitol",
+      "file": "icons/temaki-capitol.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "5eff469fe9e5f1cb47f98d53be38510c77751d679c59b938277cd536e7a4f68b"
+    },
+    {
+      "icon": "temaki-car_pool",
+      "file": "icons/temaki-car-pool.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "d445cbbf46a424db865030aa950bec265906198ac25afa3c4f094e5ccbb75c02"
+    },
+    {
+      "icon": "temaki-car_structure",
+      "file": "icons/temaki-car-structure.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "b43acc962673411b0edcda88c0e24111c8adfe57882a7b6951f1c0b61ad129b7"
+    },
+    {
+      "icon": "temaki-car_wash",
+      "file": "icons/temaki-car-wash.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "c7ea062166ec212cec97e494de6fdfc110e75693beaec881b82deabc3cf9a5e5"
+    },
+    {
+      "icon": "temaki-carport",
+      "file": "icons/temaki-carport.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "92997abddfd11d72d01a286e5951d3da81e0de3e854c47c726e43bf05058e345"
+    },
+    {
+      "icon": "temaki-casino",
+      "file": "icons/temaki-casino.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "700eb9c8baa4c165f7146186dfc7067da6d3a84fac087395f20d0bbe0441ac25"
+    },
+    {
+      "icon": "temaki-catering",
+      "file": "icons/temaki-catering.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "58b04d779d144c065ffd2861f541b33ece58cec54585feca14fdd9941c9ef3b2"
+    },
+    {
+      "icon": "temaki-cattle_grid",
+      "file": "icons/temaki-cattle-grid.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "f6859448ce4ed549aad03bf9fbfff79e3ac729c03844e8793870f075d0a4571c"
+    },
+    {
+      "icon": "temaki-chairlift",
+      "file": "icons/temaki-chairlift.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "3fcbfb832ebac6c619a74c581a77677a027e7c4fd6608ddde924084fbd79c4b5"
+    },
+    {
+      "icon": "temaki-chefs_knife",
+      "file": "icons/temaki-chefs-knife.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "a3aa8df20d608509018c1631abe6ec9b613fe8461e34291f9f837a1edb952bc3"
+    },
+    {
+      "icon": "temaki-chicane_arrow",
+      "file": "icons/temaki-chicane-arrow.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "22567d15586799bc764deeb459ee2c20f7def7cb87bb8b09358ab0a32295601b"
+    },
+    {
+      "icon": "temaki-chimney",
+      "file": "icons/temaki-chimney.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "a7b0f1ab6a2be59dcad931051f9219fa0dc5bca5622dcc43a2021f08cfd11c77"
+    },
+    {
+      "icon": "temaki-cleaver",
+      "file": "icons/temaki-cleaver.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "d6da49cb4df58c32faa6c7bc4682fbbf28b8781f466ebfd8e03430d1b80878e8"
+    },
+    {
+      "icon": "temaki-cliff_falling_rocks",
+      "file": "icons/temaki-cliff-falling-rocks.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "2ae14310fd8b939fa32f5fa45b8234d7facc286d8b7072abe746836fd6f7a018"
+    },
+    {
+      "icon": "temaki-climbing",
+      "file": "icons/temaki-climbing.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "153202aa353928ff1d4670cdb2fe50be4258a9a07532d525233d43fac00da39e"
+    },
+    {
+      "icon": "temaki-clock",
+      "file": "icons/temaki-clock.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "53acfd66d8359c94455392aa867853049b0b7c26c167205a88c783b86a48a2c6"
+    },
+    {
+      "icon": "temaki-cloth",
+      "file": "icons/temaki-cloth.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "9f16705dcecd32c593ef6ebf47f7e4df95c7fc8f275e3d9aba61302d78f58e08"
+    },
+    {
+      "icon": "temaki-clothes_hanger",
+      "file": "icons/temaki-clothes-hanger.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "de3322455fd6ecb92be12b07e23ac23d0501ef0356d1b19d38afc9e1a1979d1f"
+    },
+    {
+      "icon": "temaki-coffee",
+      "file": "icons/temaki-coffee.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "bba43d55137e22f90a08cff59eed8b873d84a6ae5c67f6b5d532aa3d0937f4e7"
+    },
+    {
+      "icon": "temaki-compass",
+      "file": "icons/temaki-compass.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "14a0b2fd89273a53e453406e3a5617f1a53333bdcde3991516b1cce8d2adcbf1"
+    },
+    {
+      "icon": "temaki-conveyor",
+      "file": "icons/temaki-conveyor.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "8d52271e401303ee61553e4d290c658ee41b909bf958d00fd26609c56ed80322"
+    },
+    {
+      "icon": "temaki-cooling_tower",
+      "file": "icons/temaki-cooling-tower.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "4dce348770320c9e1be7157c38cefeec12bc4bc47d5a009653817072f9ac0848"
+    },
+    {
+      "icon": "temaki-coral_reef",
+      "file": "icons/temaki-coral-reef.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "05294bebd199cab7efbbbd2561979e3499efb6da59c9cf9e5be0d437461c4f9d"
+    },
+    {
+      "icon": "temaki-crane",
+      "file": "icons/temaki-crane.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "c9a83e7030c249d95a91b289ae66abcfc72b2cf5e8f7b95794b2e35018763a1c"
+    },
+    {
+      "icon": "temaki-crossing_tram_solid",
+      "file": "icons/temaki-crossing-tram-solid.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "dc2c334ec2c504cd7a53d61407efff1f18f4c5827997245484fe7cf6d27bd93b"
+    },
+    {
+      "icon": "temaki-crossing_tram_striped",
+      "file": "icons/temaki-crossing-tram-striped.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "756fa40b1cdd672c1e265a7ee4386ec7904dff9e33c5841d4a0e793aaa0a407b"
+    },
+    {
+      "icon": "temaki-curtains",
+      "file": "icons/temaki-curtains.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "4935b2263263cfc6af850385ee990da5ce4f1bf8d338b0344b4d4583f476c207"
+    },
+    {
+      "icon": "temaki-cycle_barrier",
+      "file": "icons/temaki-cycle-barrier.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "2044507a43c8b673c63331d926f69bd8dc4aa05719e59f32406f6edc4ca45499"
+    },
+    {
+      "icon": "temaki-cyclist_crosswalk",
+      "file": "icons/temaki-cyclist-crosswalk.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "0135bc9c71fa99890dd79e76bbdc5fbf756ee8df37871597b0da24bc191438fb"
+    },
+    {
+      "icon": "temaki-dagger",
+      "file": "icons/temaki-dagger.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "1f4aa9a8d44acb6f71a6eb76a7737921301028cf9ec1a858f4971d110c27baa0"
+    },
+    {
+      "icon": "temaki-desk_lamp",
+      "file": "icons/temaki-desk-lamp.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "329459d24750cc5b2ecfd7c81acd289627c382d343ff110f505d1d11023a5b33"
+    },
+    {
+      "icon": "temaki-detergent_bottle",
+      "file": "icons/temaki-detergent-bottle.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "3f481fb40868b329c6fa52ded23edee673941fb24c317a7f0d26588a26bebd09"
+    },
+    {
+      "icon": "temaki-diamond",
+      "file": "icons/temaki-diamond.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "f00fbb6e48706841bc8c55b273986a7fd82e8c1b99b581f4af7900c2d6aabf61"
+    },
+    {
+      "icon": "temaki-disc_golf_basket",
+      "file": "icons/temaki-disc-golf-basket.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "7a3de85e1b82c49e23db90214388593769917e28c89ab84e632442044178601f"
+    },
+    {
+      "icon": "temaki-domed_tower",
+      "file": "icons/temaki-domed-tower.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "4c7786162398ea14bcfec132fb4079a8f4cb94166d1ddf0345193adea3d1e64d"
+    },
+    {
+      "icon": "temaki-donut",
+      "file": "icons/temaki-donut.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "a2c0f45c11646170b858e55d8ffe82b57946fd0eda217a21ad96d7142a5ff0a1"
+    },
+    {
+      "icon": "temaki-drag_lift",
+      "file": "icons/temaki-drag-lift.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "a7d1c5bc254ac3db059ce53c575a782aa2604063d28d617a52d822510c7f5312"
+    },
+    {
+      "icon": "temaki-dress",
+      "file": "icons/temaki-dress.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "5eb7e349c8959225ff48caac832634726ce1ba6aed540c968518ae4032df1d02"
+    },
+    {
+      "icon": "temaki-drink_cup",
+      "file": "icons/temaki-drink-cup.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "a17f1a06c7e7c248a0c23dc239c68fe174be51331767aab35b31e966ccb160bb"
+    },
+    {
+      "icon": "temaki-elevator",
+      "file": "icons/temaki-elevator.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "ba86933d097e5986916550c264c19c330a936551316a4d8d9a59061dcddb900d"
+    },
+    {
+      "icon": "temaki-embassy",
+      "file": "icons/temaki-embassy.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "325fba02a615e9c4d888147cd1ff49036066b8474b5eb20bd4f2d4b043a7a9d3"
+    },
+    {
+      "icon": "temaki-fashion_accessories",
+      "file": "icons/temaki-fashion-accessories.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "1adf9cdf5933a5aca21137659fdd6519d1a23ffc4d3bcbdd2fb6cca10f71d1a1"
+    },
+    {
+      "icon": "temaki-ferry",
+      "file": "icons/temaki-ferry.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "5c47b300b74a6532546c8cbe79646f773bca7108a64ed1caa5e517be14bc9c32"
+    },
+    {
+      "icon": "temaki-field_hockey",
+      "file": "icons/temaki-field-hockey.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "10980513cbad21f2d722f79fa3775a3dd56798dd1051c635410cc18b79ae632a"
+    },
+    {
+      "icon": "temaki-fighter_jet",
+      "file": "icons/temaki-fighter-jet.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "d23d8aab20cd8fe663ce71bf29e224450d6625eea8faf68339afbde59334c4cd"
+    },
+    {
+      "icon": "temaki-fire_hydrant",
+      "file": "icons/temaki-fire-hydrant.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "0d5d7206c80629732ebaefe0daf99bab197f5aeb3527423683dc3a69e9b3ea22"
+    },
+    {
+      "icon": "temaki-fireplace",
+      "file": "icons/temaki-fireplace.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "86fd759675f486be865815bcf4c20ce839a1774f9cd4f3b3aba2ce359164ddde"
+    },
+    {
+      "icon": "temaki-fish_cleaning",
+      "file": "icons/temaki-fish-cleaning.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "235ed4d38f7968d2cf19fdc7f7f452fb1e01ca55b0b7603c43e10c1996a3ba8b"
+    },
+    {
+      "icon": "temaki-fish_ladder",
+      "file": "icons/temaki-fish-ladder.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "1e11badc9354c988211b4fd9db4e509973a29f6db7cb342833449e54ca3e6298"
+    },
+    {
+      "icon": "temaki-food",
+      "file": "icons/temaki-food.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "bb66245f1d1768e2c96e175536273cbbfbfe394d2d085773d9d700dd95ca7cb2"
+    },
+    {
+      "icon": "temaki-fountain",
+      "file": "icons/temaki-fountain.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "32164b3a9167e070cac6c6245327dc9cc3c21ec164a0e76d3a578cc68a4cedcf"
+    },
+    {
+      "icon": "temaki-freight_car",
+      "file": "icons/temaki-freight-car.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "3b21ee2c1a99698c9cd17aa226ff410d054d9213dc244c2c88cdc5c4881936b4"
+    },
+    {
+      "icon": "temaki-furniture",
+      "file": "icons/temaki-furniture.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "d78920903c86016c5dff84b4d61cd6599acf0da24bf3e28684ee86c246ef786e"
+    },
+    {
+      "icon": "temaki-garden_bed",
+      "file": "icons/temaki-garden-bed.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "76e0b409fbf62038a19808a878ab0a7daf4a20671759d79a41d766b4f4a2a8e0"
+    },
+    {
+      "icon": "temaki-gas",
+      "file": "icons/temaki-gas.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "050b84ce54cefa0fda09ad56c8b2b072efbf72aa789b097f2bc0e5d913469c67"
+    },
+    {
+      "icon": "temaki-gas_manhole",
+      "file": "icons/temaki-gas-manhole.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "17e4638b507b2d0102ecff9509eefb09560fde2e7a448ee1f353ae0c697a96fa"
+    },
+    {
+      "icon": "temaki-gate",
+      "file": "icons/temaki-gate.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "f61207babfe1124dc805877d7424bd0ae74ff59278f8cbe5ef1c8df9ca706f8b"
+    },
+    {
+      "icon": "temaki-golf_cart",
+      "file": "icons/temaki-golf-cart.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "fa2542c6981e5ed892b9afaeee0a49966816334822de4d6251239a8fad809df0"
+    },
+    {
+      "icon": "temaki-golf_green",
+      "file": "icons/temaki-golf-green.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "23d8cbadf0049d8a6433c03e723842be86c7ce55db3c7dedb85102161ff4568d"
+    },
+    {
+      "icon": "temaki-gondola_lift",
+      "file": "icons/temaki-gondola-lift.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "ad8d88fbeef266c77a8d633c5ba956ec9b8298f0a8d514077cd4078af1ed9e2c"
+    },
+    {
+      "icon": "temaki-goods_lift",
+      "file": "icons/temaki-goods-lift.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "a9e596e5fa1f573cc166d6492cbf508a00191c3a2a066ae44c2a6d43de8bd1e5"
+    },
+    {
+      "icon": "temaki-gown",
+      "file": "icons/temaki-gown.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "0be11d4da475f690960e1860ce01c52bd8affeda3251ce58cfdae23d3f9c4ca1"
+    },
+    {
+      "icon": "temaki-grapes",
+      "file": "icons/temaki-grapes.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "3fd6e553f787beed38ee235ad8af363a883595fcd3d0f56591c69acf1c0537e3"
+    },
+    {
+      "icon": "temaki-grass",
+      "file": "icons/temaki-grass.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "5d5e342a382702262276a2f9e74fbb552f6a182836e891f7d3ea21cad8901970"
+    },
+    {
+      "icon": "temaki-guard_rail",
+      "file": "icons/temaki-guard-rail.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "9ce5b5e534ce7cb4ef4793b3ab6e66ec802c5d95b0f936780c058ef5d6d259e5"
+    },
+    {
+      "icon": "temaki-hair_care",
+      "file": "icons/temaki-hair-care.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "8f0b2c5ecede878937026536069f9c4e4d01230fa8948411ae086c50cc47997d"
+    },
+    {
+      "icon": "temaki-hammer_shoe",
+      "file": "icons/temaki-hammer-shoe.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "887b44252718605bde3e757f395f35e5b682c9a878d6d9d888a2d38260558258"
+    },
+    {
+      "icon": "temaki-handbag",
+      "file": "icons/temaki-handbag.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "bfa9e79a5c2564e464eaafca7f08d0ddbe4fc31049fc9488f7dc22bcc905e4bb"
+    },
+    {
+      "icon": "temaki-hangar",
+      "file": "icons/temaki-hangar.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "7d023be3de240c2b4f490ffb64b602d6aa28755e11af931d2f92898df1f01c91"
+    },
+    {
+      "icon": "temaki-hanging_rail",
+      "file": "icons/temaki-hanging-rail.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "80b70c4ce4478cad42c619bf83afae275ef58b9ed629dfb34be56fc8335c5edf"
+    },
+    {
+      "icon": "temaki-hearing_aid",
+      "file": "icons/temaki-hearing-aid.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "69b99659b8a6483fb925b7c41421c1327f8a81229016987e1087964ff10611a8"
+    },
+    {
+      "icon": "temaki-hedge",
+      "file": "icons/temaki-hedge.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "306da2b1ab19a5809781c52a931137cdd503308f5631835692754ee161ea1887"
+    },
+    {
+      "icon": "temaki-height_restrictor",
+      "file": "icons/temaki-height-restrictor.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "b38ec072fd2561ff0b0de56d817679254ea9502efe52693ec6a664798fc0ccae"
+    },
+    {
+      "icon": "temaki-hinduism",
+      "file": "icons/temaki-hinduism.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "1eb60190ea44a0883dfea205a3bc9d32ec26b7cfd17673ae9045539508a49bd5"
+    },
+    {
+      "icon": "temaki-horizontal_bar",
+      "file": "icons/temaki-horizontal-bar.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "2c123a70945974ff1570fabc796e000bc2f871b7b2a2c0105d85df9dc5fb19d0"
+    },
+    {
+      "icon": "temaki-horn_cleat",
+      "file": "icons/temaki-horn-cleat.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "6292ff153d1b417bd6465cbfb2863b468b8d1dcc4e479dda19ac00d1318bba79"
+    },
+    {
+      "icon": "temaki-horse_shelter",
+      "file": "icons/temaki-horse-shelter.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "37b529174d256294195498b89a76c40aa49182efab11f96e2bebd02234a2e10e"
+    },
+    {
+      "icon": "temaki-horseshoes",
+      "file": "icons/temaki-horseshoes.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "0b2ca01d1c0334365b0b24f114026012d05d05188998d2916e39285f6227a5b4"
+    },
+    {
+      "icon": "temaki-hot_drink_cup",
+      "file": "icons/temaki-hot-drink-cup.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "8c149e51f9e9bc3fd3eab1a7961f926ec9c7fa27e66601d292e4a8fc5d0da2cb"
+    },
+    {
+      "icon": "temaki-houseboat",
+      "file": "icons/temaki-houseboat.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "c511c7ba1b236d083d3861cda6011f7cf362eb02cb3a254c7ca4f5884ba36378"
+    },
+    {
+      "icon": "temaki-hunting_blind",
+      "file": "icons/temaki-hunting-blind.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "d6f74bcf88f5dd5867ef555d03083b439503d070e5e5e73373178097f8cdf912"
+    },
+    {
+      "icon": "temaki-hut",
+      "file": "icons/temaki-hut.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "3d39c1918210fe0714940a413d4563593b2e2f0131ab5e0001e394ea633ecaa4"
+    },
+    {
+      "icon": "temaki-ice_fishing",
+      "file": "icons/temaki-ice-fishing.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "0063a3979fc94a963a9fbe4040ea09b7ce34912d174b1efffa332f7465f36a1c"
+    },
+    {
+      "icon": "temaki-info_board",
+      "file": "icons/temaki-info-board.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "a8e02d6060cf90a27e11a5db86558da0d012983dac1f9be5a5474898cbd1577e"
+    },
+    {
+      "icon": "temaki-island_trees_building",
+      "file": "icons/temaki-island-trees-building.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "934a52cc63418ba9b287fe31472028ce13d00256aedb1b8341d369b34dea6d89"
+    },
+    {
+      "icon": "temaki-islet_tree",
+      "file": "icons/temaki-islet-tree.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "1ef7db6ff6879fa489091f9edc7af20d4d1d306467ea51dc8fb8aac7fdc67e29"
+    },
+    {
+      "icon": "temaki-j_bar_lift",
+      "file": "icons/temaki-j-bar-lift.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "0d9fd5219495624151e03733490eaf3cbf0fcdc20088180c4bf66aadfa074adf"
+    },
+    {
+      "icon": "temaki-junction",
+      "file": "icons/temaki-junction.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "1bd21a0c90a2e7e06841581c2293bb1e0fe48afc0a62b15547b7d608036490f5"
+    },
+    {
+      "icon": "temaki-junk_car",
+      "file": "icons/temaki-junk-car.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "9fb36d12d808b34c0eaceaa57fd03e50809fcc00021f6987b992c1c307686691"
+    },
+    {
+      "icon": "temaki-kerb-flush",
+      "file": "icons/temaki-kerb-flush.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "eb37037a38e68709ca1bf66da1d0711dd05f2124af79e1f2930416221beb0a71"
+    },
+    {
+      "icon": "temaki-kerb-lowered",
+      "file": "icons/temaki-kerb-lowered.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "df473f0650f4dc4bad4eaeb5547018d3c34f20fda10dfa751d603028e4bf40c9"
+    },
+    {
+      "icon": "temaki-kerb-raised",
+      "file": "icons/temaki-kerb-raised.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "2728936fad70af9147cc20d4ff72e7f3d60bd605abf058ff90ae2bc08cba28d4"
+    },
+    {
+      "icon": "temaki-kerb-rolled",
+      "file": "icons/temaki-kerb-rolled.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "a145b938cd71e75361294e1ec576cd9dda7258bca08fcbcd2a4307dfbb0303ae"
+    },
+    {
+      "icon": "temaki-kitchen_sink",
+      "file": "icons/temaki-kitchen-sink.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "c210ba402ceba6570eed5ed85e99ff3912d8309e58f802480025f8d6d2b1116e"
+    },
+    {
+      "icon": "temaki-latrine",
+      "file": "icons/temaki-latrine.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "882680d7ccd8b7bac38d35be9ed0fec3213205e0c333e479fc1345325641fa35"
+    },
+    {
+      "icon": "temaki-laundry",
+      "file": "icons/temaki-laundry.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "92a2ee0e8680c65c6825cae129ab1dad5bd1d1651e507c43a72003d12672cb8e"
+    },
+    {
+      "icon": "temaki-lawn",
+      "file": "icons/temaki-lawn.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "8ed42ba3d12e22c0217e4aa81f08bf81e977ce76dd1e2b47f5eec77d8bac5fd7"
+    },
+    {
+      "icon": "temaki-letter_box",
+      "file": "icons/temaki-letter-box.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "7267cb7b284c2f86a200aff90330fdd3c53cb6ff4227f34bdce7340450e80faa"
+    },
+    {
+      "icon": "temaki-lift_gate",
+      "file": "icons/temaki-lift-gate.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "0d3ad55924c0824a302540450151c7cbf7868279240eb2655534808961c9b00f"
+    },
+    {
+      "icon": "temaki-light_rail",
+      "file": "icons/temaki-light-rail.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "09541d77d91820097b1aa50ad04070babe8379c9385deb2f0e535a730854fbe1"
+    },
+    {
+      "icon": "temaki-lipstick",
+      "file": "icons/temaki-lipstick.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "04f213afd42d82d36936421bbb74068e5235eb50748fe6c049c140e53659c9c9"
+    },
+    {
+      "icon": "temaki-lounger",
+      "file": "icons/temaki-lounger.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "079f5d02e35482b769979a1f710ebbfc5bcec35872419a5af0553a61c398dfa5"
+    },
+    {
+      "icon": "temaki-manhole",
+      "file": "icons/temaki-manhole.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "36399f73638aa918760351dab65bcf8558f485e8ad3e43fa8df5ee11e8022143"
+    },
+    {
+      "icon": "temaki-manufactured_home",
+      "file": "icons/temaki-manufactured-home.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "d511ad18ac2aa8c022c31ac6f22cdb12ab920a155e7f208c898d12afeeca5e00"
+    },
+    {
+      "icon": "temaki-mast",
+      "file": "icons/temaki-mast.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "083d6abcc29bc8557734fedd24fd2954e9dc1395e17170a43509c92482643668"
+    },
+    {
+      "icon": "temaki-mast_communication",
+      "file": "icons/temaki-mast-communication.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "bf23cf072518aeb368da616579d9764fbe1eefe0f56bb40a80d507425e3a7157"
+    },
+    {
+      "icon": "temaki-mast_lighting",
+      "file": "icons/temaki-mast-lighting.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "ecd89ced05012ec8189c18d7474204c534cb3a8be3588de1cd2b3477f2bacce0"
+    },
+    {
+      "icon": "temaki-maze",
+      "file": "icons/temaki-maze.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "0a78f3ec73d54e2db292b4090ca56b44126b61ed38d617e729a465845489f537"
+    },
+    {
+      "icon": "temaki-meat",
+      "file": "icons/temaki-meat.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "9c3ae9500f2aa9d0750e93b384cb6083679ba6fedcb2a3fb96ee4f4d2ba53b0b"
+    },
+    {
+      "icon": "temaki-milestone",
+      "file": "icons/temaki-milestone.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "2ba1ac661adf9310b3f23cb8d477437061d822430bceca0c871286024673b370"
+    },
+    {
+      "icon": "temaki-military",
+      "file": "icons/temaki-military.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "ff833fd9e1cf7f829b31704fd1a73c9178f931deb5c9511f591d763655cf6563"
+    },
+    {
+      "icon": "temaki-military_checkpoint",
+      "file": "icons/temaki-military-checkpoint.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "302213b74eb3ff8995becfe07bf2f0b8dfa03a49d60350b752e46f1fe24fa55a"
+    },
+    {
+      "icon": "temaki-mineshaft_cage",
+      "file": "icons/temaki-mineshaft-cage.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "eb8b23c8417d5c681189c1555880c6cd66f910ead5cb43c824aa16e64096b6e5"
+    },
+    {
+      "icon": "temaki-money_hand",
+      "file": "icons/temaki-money-hand.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "008e4efd2b3947f182c56a17e599bc36c15df13d3f68b937e7663e671f342196"
+    },
+    {
+      "icon": "temaki-monorail",
+      "file": "icons/temaki-monorail.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "6c28740196131ffb41cfc6702d0bdb48801a94c623432a9683be836a5e15c010"
+    },
+    {
+      "icon": "temaki-motorcycle_rental",
+      "file": "icons/temaki-motorcycle-rental.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "1085fd8ed39e867da4d2a5373781e771c711f3e870b843ae323dc5957f8b9a25"
+    },
+    {
+      "icon": "temaki-motorcycle_repair",
+      "file": "icons/temaki-motorcycle-repair.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "e88dd23bf0ae21b03af23a82aaa8c7393f5cdb4f4ca946ab366286b8a7f035e9"
+    },
+    {
+      "icon": "temaki-mountain_cross",
+      "file": "icons/temaki-mountain-cross.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "3a0623330d4b6d9e71b686ddc67522439a05a56b48e580b52eeb678d4e354f20"
+    },
+    {
+      "icon": "temaki-mountain_range",
+      "file": "icons/temaki-mountain-range.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "bcc230146bf9d85556beeea3c2a64c141928cb6c3fe4e1a1dc7ea95050fd8651"
+    },
+    {
+      "icon": "temaki-movie_rental",
+      "file": "icons/temaki-movie-rental.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "5f41aba8ef7737107aad8508802338c5c112d70b77c98de4f6d6af4e57b0ee10"
+    },
+    {
+      "icon": "temaki-museum",
+      "file": "icons/temaki-museum.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "0d80bc6f233218e4ecb87b95c6a088c9cf948d9df9a968a998611e567e84c827"
+    },
+    {
+      "icon": "temaki-needle_and_spool",
+      "file": "icons/temaki-needle-and-spool.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "b2d72df423f42290be1653b6b6ddfd9d112105b5e9fd60c8e461735933b070a0"
+    },
+    {
+      "icon": "temaki-obelisk",
+      "file": "icons/temaki-obelisk.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "2c0ed31b8610a119814ded10cf1e793c2ced1243dcba09548816ae373a78caeb"
+    },
+    {
+      "icon": "temaki-oil_well",
+      "file": "icons/temaki-oil-well.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "a840813d52ec83249ec6f83f6e41bf203e56f8888ddc2e6b81c9745031ce66c3"
+    },
+    {
+      "icon": "temaki-parking_space",
+      "file": "icons/temaki-parking-space.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "9a96d7a0b5c27e3a4e1dfc64806598309ffd7b9acf150d4420ec49148ecdf4c2"
+    },
+    {
+      "icon": "temaki-passport_checkpoint",
+      "file": "icons/temaki-passport-checkpoint.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "8326270ff25b092d54e25fed676f025243ad7cd06b3899a4b575999345c71571"
+    },
+    {
+      "icon": "temaki-ped_cyclist_crosswalk",
+      "file": "icons/temaki-ped-cyclist-crosswalk.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "f1f1a11efecb3c299c6f90069ef5b2a7eb87055a933974d0f8b1e7ebfcdacc15"
+    },
+    {
+      "icon": "temaki-pedestrian",
+      "file": "icons/temaki-pedestrian.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "79715f4d787e7bed521db6780dc4975a7f07774ca198c27a47a06d097bf613d0"
+    },
+    {
+      "icon": "temaki-pedestrian_and_cyclist",
+      "file": "icons/temaki-pedestrian-and-cyclist.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "52985b40ef162e32280e4e530930303d759e57dfa7c91f66ec5775988a4774b7"
+    },
+    {
+      "icon": "temaki-pedestrian_crosswalk",
+      "file": "icons/temaki-pedestrian-crosswalk.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "8d642ed5b487b400e126dce6abfb2f7c9353930f5a5d50c959b2539cf18d4356"
+    },
+    {
+      "icon": "temaki-pedestrian_walled",
+      "file": "icons/temaki-pedestrian-walled.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "efb865c10f9e3bd4e27e5078f5f1abdf92bc1ae470ecb3d38a5a83406d74d8e8"
+    },
+    {
+      "icon": "temaki-perfume",
+      "file": "icons/temaki-perfume.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "e8e3c3e975cce3c88e2713d263d235d6131659087f73e9d6dfce337996e40a8f"
+    },
+    {
+      "icon": "temaki-pet_grooming",
+      "file": "icons/temaki-pet-grooming.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "fa25920b99eab6b658583f7d689394f1beae901f11b0f0c3a5e047deda6ade35"
+    },
+    {
+      "icon": "temaki-physiotherapist",
+      "file": "icons/temaki-physiotherapist.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "b7bf10d97c578c8ccaade5e72fb63e5e03dee3fc38f971cf3f0f264a0f9acf54"
+    },
+    {
+      "icon": "temaki-pick_hammer",
+      "file": "icons/temaki-pick-hammer.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "1aadfc9ba8e81fb6d75d1feb194352ec290f77c1623346a5a666febd5b29dbe0"
+    },
+    {
+      "icon": "temaki-picnic_shelter",
+      "file": "icons/temaki-picnic-shelter.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "77dbad796d2e60ad187533232031708b729c8af366d316881d85c0e076d5939e"
+    },
+    {
+      "icon": "temaki-pier_fixed",
+      "file": "icons/temaki-pier-fixed.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "b977c623a9ca592f58959f516821a5dd53dd5f1767401738e07eed6668f2e619"
+    },
+    {
+      "icon": "temaki-pier_floating",
+      "file": "icons/temaki-pier-floating.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "9718d4146a53c552d97d16f79e5feab94c595d629cbb5d252b1a076d273c0411"
+    },
+    {
+      "icon": "temaki-pipe",
+      "file": "icons/temaki-pipe.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "b8248743c1f6d5f7867b9a624bcc60937f47cc151314e62548564d6b1963921b"
+    },
+    {
+      "icon": "temaki-plane_taxiing",
+      "file": "icons/temaki-plane-taxiing.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "0b055096066a675939c4d2a64b2e24d27feb1f140cde4663d2b01cc93439fe80"
+    },
+    {
+      "icon": "temaki-planes",
+      "file": "icons/temaki-planes.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "54aefb6d503c6bc0ad1447457f503ce25a716f396a0d4586513abd5ff49be325"
+    },
+    {
+      "icon": "temaki-plaque",
+      "file": "icons/temaki-plaque.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "54c4e3842b049a27c1c1c4ed2a4304c62a23b0ad159ca765a5e88dbf38f372b4"
+    },
+    {
+      "icon": "temaki-platter_lift",
+      "file": "icons/temaki-platter-lift.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "1dd0f46e713184da931ace4ef6e89efe2ca8c93ccc11ecec3bb412e411fce5a7"
+    },
+    {
+      "icon": "temaki-play_structure",
+      "file": "icons/temaki-play-structure.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "1bae994c44066da3f0fa3110da6c2becdab443ee5045ec66fdadcf31e3135504"
+    },
+    {
+      "icon": "temaki-plumber",
+      "file": "icons/temaki-plumber.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "b0db6dac83b2d62c7b917a1b7bb67e04234bf3e1f7fd5a013cd528fa4fbb52e5"
+    },
+    {
+      "icon": "temaki-police_officer",
+      "file": "icons/temaki-police-officer.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "80501310493ae76d725a7190fbf0dbf9fa9b6a2f571d5e30f348e0e49e24b735"
+    },
+    {
+      "icon": "temaki-polished_nail",
+      "file": "icons/temaki-polished-nail.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "38555da9af8107492ad438e4657b32f3fa3e2c25aa14972da385d7ecd13574b2"
+    },
+    {
+      "icon": "temaki-post_box",
+      "file": "icons/temaki-post-box.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "84b1f9d35511f42bf915b2dd7d4d4d9f6f5383c4496debc4e8c98712d396fcc2"
+    },
+    {
+      "icon": "temaki-poster_box",
+      "file": "icons/temaki-poster-box.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "088e825a1035d6de30ad2a90f58b972ea43b881bf3b9e61229afcc5a18b9bb7e"
+    },
+    {
+      "icon": "temaki-power",
+      "file": "icons/temaki-power.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "d8f506eda5f6be17bbc9f315f11c6cf173ac2553ef82e62b8b9672f44909f4ba"
+    },
+    {
+      "icon": "temaki-power_manhole",
+      "file": "icons/temaki-power-manhole.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "b46778be577d5767058623ef9cf0771ae68e8bbb67af8fa3cf225abdd25aa41f"
+    },
+    {
+      "icon": "temaki-power_pole",
+      "file": "icons/temaki-power-pole.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "e0cb84b57f48b90d24514155f7cc54ffc9b772fd96f874fe63783acbde209cb7"
+    },
+    {
+      "icon": "temaki-power_switch",
+      "file": "icons/temaki-power-switch.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "76f351635c85ac50b542f16a106ba8703ffcf3f5e010a7f3723a03029a46bbbe"
+    },
+    {
+      "icon": "temaki-power_tower",
+      "file": "icons/temaki-power-tower.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "f9576de5931ca869e57827624ee5fafa102f84016d6ca6e37af4dac3b8e477f1"
+    },
+    {
+      "icon": "temaki-power_transformer",
+      "file": "icons/temaki-power-transformer.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "06eb8717e9ff1fdb066f678134f16060a7e9cec4406fbdf02cc3fa73ef20e7d9"
+    },
+    {
+      "icon": "temaki-powered_pump",
+      "file": "icons/temaki-powered-pump.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "a698b560b061caa66ebfbc3d17f5fd9337960a7e5cfb9cd5a22f594a70646798"
+    },
+    {
+      "icon": "temaki-propane_tank",
+      "file": "icons/temaki-propane-tank.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "d5317d6a1f13d960cd873bca53291e6a549128390063a59f2c6567a9445c9731"
+    },
+    {
+      "icon": "temaki-psychic",
+      "file": "icons/temaki-psychic.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "c894a8298a56b0aa4721b7ce034f1dcbd74fe0680dd21b40d86dced39035ff8f"
+    },
+    {
+      "icon": "temaki-quakerism",
+      "file": "icons/temaki-quakerism.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "edfdd127d0f85b2918f008fcb93f69186d7b171780880251762721247e81b2b1"
+    },
+    {
+      "icon": "temaki-quay",
+      "file": "icons/temaki-quay.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "ebc3b0848179ba37f6f77b2c06f63c84fe2cfee372b9d8085bb095f484734b9a"
+    },
+    {
+      "icon": "temaki-racetrack_oval",
+      "file": "icons/temaki-racetrack-oval.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "be3fca56f267482adc822f7bdb8b907551aec500e5238b9ad796b6fffaaa34fd"
+    },
+    {
+      "icon": "temaki-radiation",
+      "file": "icons/temaki-radiation.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "494d33cbd7950e6e83f31f1fdcfe018cf58389b9a379bca384b75a01426b103a"
+    },
+    {
+      "icon": "temaki-rail_flag",
+      "file": "icons/temaki-rail-flag.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "8a70223c8ce5592393f23eb5ee78a4d48f1772e5a5d4ebb97e9e2fca4833529b"
+    },
+    {
+      "icon": "temaki-rail_profile",
+      "file": "icons/temaki-rail-profile.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "faf5c9df394da0e0f0a7bbe2dbb1a709eb7285eca281948a40eb0520d21d3763"
+    },
+    {
+      "icon": "temaki-railing",
+      "file": "icons/temaki-railing.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "a2e9307433d791c2437e1f02f8c5ebcfc1d122a662c2cfe4170b7509fb0df462"
+    },
+    {
+      "icon": "temaki-railway_cable_track",
+      "file": "icons/temaki-railway-cable-track.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "2cb054bef765c656825ebb930ba0ad4926d8248b519a705ace7eedce6059dd9b"
+    },
+    {
+      "icon": "temaki-railway_signals",
+      "file": "icons/temaki-railway-signals.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "955dfbcfec46af894ead4aa0ff83e3605269cf4d34f1b67c9b81889e0392e878"
+    },
+    {
+      "icon": "temaki-railway_track",
+      "file": "icons/temaki-railway-track.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "3396530589ace1272c7f5350abe58cf7f18dd7772adab9306d6ce247fa95bd84"
+    },
+    {
+      "icon": "temaki-railway_track_askew",
+      "file": "icons/temaki-railway-track-askew.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "d3c741053acee147a2d544b837320af030186ef69e9218c68cbb8e8b8f4d3106"
+    },
+    {
+      "icon": "temaki-railway_track_mini",
+      "file": "icons/temaki-railway-track-mini.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "1086157dd7fd6f419b92a415e19c9c94d19aebf44ae0ec1d904e436573af1098"
+    },
+    {
+      "icon": "temaki-railway_track_narrow",
+      "file": "icons/temaki-railway-track-narrow.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "d4c0bb4b79ee47cc9fcf27bdd9932415a505d16ecf06bbcb9813c0d0b9eed6a9"
+    },
+    {
+      "icon": "temaki-railway_track_partial",
+      "file": "icons/temaki-railway-track-partial.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "bb57d03aaad4c137a54612626043dfa32ffb94ecb4b4fe7f1fc5f73de3ecb5f9"
+    },
+    {
+      "icon": "temaki-real_estate_agency",
+      "file": "icons/temaki-real-estate-agency.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "ab146c8627d3458ac029dada5986b2bcbab55b037fe7f92c28b564f587d618e9"
+    },
+    {
+      "icon": "temaki-rocket_firework",
+      "file": "icons/temaki-rocket-firework.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "2e3893f48744c0bed8a29d7ff1339d43ba92bd914b7b9d7082f02b16d77f6d99"
+    },
+    {
+      "icon": "temaki-roller_coaster",
+      "file": "icons/temaki-roller-coaster.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "e21f01a80d185843a670269f1f6a2e87d2841c80b987cfaac2efab92caa78131"
+    },
+    {
+      "icon": "temaki-room",
+      "file": "icons/temaki-room.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "47fcba28e876b5a6918e7c3aaecb52520f2b7002559026c74c534538736ac3e1"
+    },
+    {
+      "icon": "temaki-rope_fence",
+      "file": "icons/temaki-rope-fence.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "ebcae9d3e9377d35c4eee0c4f0038bba064ff9d071f23d300255c429ec2c9d44"
+    },
+    {
+      "icon": "temaki-row_houses",
+      "file": "icons/temaki-row-houses.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "32cb06f063f704f0d015266e424968eea6614fe6c9c9a63c9012e8dab462f7a0"
+    },
+    {
+      "icon": "temaki-ruins",
+      "file": "icons/temaki-ruins.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "647824209497c013fff4c2c504f599e9b3a96018203885cdee8e2527c009cda7"
+    },
+    {
+      "icon": "temaki-rumble_strip",
+      "file": "icons/temaki-rumble-strip.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "c7b2a97458dd4ae0a8392490be2d30749e4231978a8f4998bc82dd73fa45fced"
+    },
+    {
+      "icon": "temaki-saddle",
+      "file": "icons/temaki-saddle.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "957485e754ca66232d528b53126ba3764f4074d89f1c1e82922181378c82ed10"
+    },
+    {
+      "icon": "temaki-sailboat",
+      "file": "icons/temaki-sailboat.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "eb90fd59999a5daa008b7708f164cee656c86c6c224366808c069eb8f39254c4"
+    },
+    {
+      "icon": "temaki-sandbox",
+      "file": "icons/temaki-sandbox.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "e5a5d859bfb9ac4bb3fc21bb8d9642f9b2878c91e81c301acb83018e449531d4"
+    },
+    {
+      "icon": "temaki-sandwich",
+      "file": "icons/temaki-sandwich.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "216c2e6d0e5b35954ce101ec32bd2edc09b71aff11764e618215b091fffe9b7b"
+    },
+    {
+      "icon": "temaki-scaffold",
+      "file": "icons/temaki-scaffold.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "fd0ce1238ab74aa804ddae4c86f9cc34870300ba0f4433b570c584f5f28667f4"
+    },
+    {
+      "icon": "temaki-school",
+      "file": "icons/temaki-school.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "dc198b67ba9ef6a2e59405c682db202fdfb418b22c69c9e411a24b150b978f24"
+    },
+    {
+      "icon": "temaki-scuba_diving",
+      "file": "icons/temaki-scuba-diving.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "404a489012f967f9d53e1b5cec70644bf5f17b52ac64544b488819fa6d800e6d"
+    },
+    {
+      "icon": "temaki-sculpture",
+      "file": "icons/temaki-sculpture.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "25160f89e2eb1818f67fb26bac3398912a91f772f2f23106a5e45cc9bc13e5c6"
+    },
+    {
+      "icon": "temaki-security_camera",
+      "file": "icons/temaki-security-camera.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "d451e6bb0f3ba1227832e8c2d40620115c8a917aeb97d7c7528e470c68c847b0"
+    },
+    {
+      "icon": "temaki-seesaw",
+      "file": "icons/temaki-seesaw.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "44c4fb8be12057181e131b58ccc0ee9511e5d1bb742c4201c0f89ea7f211dee9"
+    },
+    {
+      "icon": "temaki-shinto",
+      "file": "icons/temaki-shinto.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "327b9a6805197542cc32879755acf1dbe409965b62ae581fc19ea8108e7266c9"
+    },
+    {
+      "icon": "temaki-shower",
+      "file": "icons/temaki-shower.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "a7b7cbbe7353b331a8149e2d8152554f97451cb41ee7cf86694e7066683b178b"
+    },
+    {
+      "icon": "temaki-shrub",
+      "file": "icons/temaki-shrub.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "69561fd503301267a20ba1831092d50dcf9b3fe3e282a5426b43efffb56307f3"
+    },
+    {
+      "icon": "temaki-shrub_low",
+      "file": "icons/temaki-shrub-low.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "f45e844a6f7b1e2743f31755a672fd9bb096d08fc83d69a73f086083a39fd551"
+    },
+    {
+      "icon": "temaki-shuffleboard",
+      "file": "icons/temaki-shuffleboard.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "e82b18c92eb75bd5bad542178e8f0809ffc959827d6acbe27fde3d94257b6562"
+    },
+    {
+      "icon": "temaki-sign_and_bench",
+      "file": "icons/temaki-sign-and-bench.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "4993ea895294fdc90454327e18507ab70b83b654c660bcc6fca0aecbc177a87e"
+    },
+    {
+      "icon": "temaki-sign_and_car",
+      "file": "icons/temaki-sign-and-car.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "afa3fc1c2ff49e04996614802dfe66659d2740ed24c2a33d29e15c8a81fbf5c5"
+    },
+    {
+      "icon": "temaki-sikhism",
+      "file": "icons/temaki-sikhism.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "374f1c58362dca7688eaa0e708b81362c55038da41779af989de93705eaf2fb7"
+    },
+    {
+      "icon": "temaki-silo",
+      "file": "icons/temaki-silo.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "4d1119b0e5a2bdd350c812620ed0c83d4907dae95bb2568534d73b84e89a006a"
+    },
+    {
+      "icon": "temaki-skiing",
+      "file": "icons/temaki-skiing.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "319714134980e23fc5efabfd1a62765693310673665ce74bfa6bf49900ad7d02"
+    },
+    {
+      "icon": "temaki-sledding",
+      "file": "icons/temaki-sledding.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "46ad9e63e7f84fcee289c2a5ce904c760a0675bdd0c44357499c4f30d001e86c"
+    },
+    {
+      "icon": "temaki-sleep_shelter",
+      "file": "icons/temaki-sleep-shelter.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "3ceb21dcbfca3bf1eb4ae9a5bc90fd4a9ad1591a319519f79dc4015a26ad88a6"
+    },
+    {
+      "icon": "temaki-slide",
+      "file": "icons/temaki-slide.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "16e17dde1560ec3ed297b066ae4661fb61c38517caa5bc8df2c6536bbe00c104"
+    },
+    {
+      "icon": "temaki-snow",
+      "file": "icons/temaki-snow.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "d022109f32e4324495e51cfc24b6b809358d12746aa900718aa9bfea3fe011b6"
+    },
+    {
+      "icon": "temaki-snow_shoeing",
+      "file": "icons/temaki-snow-shoeing.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "02e4831f05f255e38295c9620e5dcf6a09101cace2e95e0a079011b7399f6e52"
+    },
+    {
+      "icon": "temaki-social_facility",
+      "file": "icons/temaki-social-facility.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "e0f3f634b0083ca161c3702a0c95286a435e9af90554fc2966c4f2b42431a992"
+    },
+    {
+      "icon": "temaki-spa",
+      "file": "icons/temaki-spa.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "455bd6e9af35fbd675e263c0ce233a3b79b71a0dfc876086859ebe6e3e05016c"
+    },
+    {
+      "icon": "temaki-speaker",
+      "file": "icons/temaki-speaker.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "bcfe50b6735b126e8c3b8f7524ab90f1f346a12f867a550476cdee1b63b43d15"
+    },
+    {
+      "icon": "temaki-speed_bump",
+      "file": "icons/temaki-speed-bump.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "993c6cec9920b1c2d25ab391be4f44406330165a719b8cd84c027d1115aaf0b5"
+    },
+    {
+      "icon": "temaki-speed_dip",
+      "file": "icons/temaki-speed-dip.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "b35f6379069b09279c13336ff19939a49d9efea5a333a2bc6dc8b996f7a60e3e"
+    },
+    {
+      "icon": "temaki-speed_hump",
+      "file": "icons/temaki-speed-hump.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "8223babf2842625c0e345c9134ea762f6b44afb921d723d1342156a2aeb5dcba"
+    },
+    {
+      "icon": "temaki-speed_table",
+      "file": "icons/temaki-speed-table.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "a6a9b667588f2de50f8ce14fa56aa6c4ae127a09db1b34c73d571ede5bd0b184"
+    },
+    {
+      "icon": "temaki-speedway_8",
+      "file": "icons/temaki-speedway-8.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "42ba4c9f453ff88441b88dbab76e3c88964a7504b84bc0f6e30522fb6a9f6f71"
+    },
+    {
+      "icon": "temaki-speedway_oval",
+      "file": "icons/temaki-speedway-oval.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "660a9d3b8d305f52d338b37851ccd2da3ddad793978748ba91f3a174c3171ec8"
+    },
+    {
+      "icon": "temaki-spice_bottle",
+      "file": "icons/temaki-spice-bottle.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "4154530deedc6a896d402fcbf1928c51aa9b8c6af5e2b7477ee343752d5e6924"
+    },
+    {
+      "icon": "temaki-spike_strip",
+      "file": "icons/temaki-spike-strip.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "a69209e2bd39aa7d54bb809c8ac9cc45de6cb7b8366901b02558a3baab6431db"
+    },
+    {
+      "icon": "temaki-spotting_scope",
+      "file": "icons/temaki-spotting-scope.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "915c1365158bb22541ab4d722a95528e01d75e815d55728831fca72a09a3fbea"
+    },
+    {
+      "icon": "temaki-spring_rider",
+      "file": "icons/temaki-spring-rider.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "c37785e34292d8a21a76b3452a6c8ad99a0d1a939ede031a87e9387517b2c86e"
+    },
+    {
+      "icon": "temaki-statue",
+      "file": "icons/temaki-statue.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "0a6280a8adcdc3c11fab8e3ae4e79ce8e560d7406ae2f991b0a71479a7895c3a"
+    },
+    {
+      "icon": "temaki-stile_squeezer",
+      "file": "icons/temaki-stile-squeezer.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "5701f9c0e034f5a5eebcabdb6d2e60c505cd50efad52634b825a26f121eb9077"
+    },
+    {
+      "icon": "temaki-stop",
+      "file": "icons/temaki-stop.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "b8bcbcbdf45d5b68278ec37e94c10c014c4908829da71f5274d1ab2476885c0c"
+    },
+    {
+      "icon": "temaki-storage_fermenter",
+      "file": "icons/temaki-storage-fermenter.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "56a7c59fdcbeb68a84aa38af7cd2ed3e715d157459866ef91fc34e32834484ba"
+    },
+    {
+      "icon": "temaki-storage_rental",
+      "file": "icons/temaki-storage-rental.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "30fbad7216ed1b4e09dc6e748fba8695ad5beb7364f849fd6f1f346743023271"
+    },
+    {
+      "icon": "temaki-storage_tank",
+      "file": "icons/temaki-storage-tank.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "0d7b178775acea638dd410bb5f0aaaefc62d323c1d1037c3a443c3cf4af53175"
+    },
+    {
+      "icon": "temaki-street_lamp_arm",
+      "file": "icons/temaki-street-lamp-arm.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "0c3e67c93dab0bb7979ce3cd27012e08bbad0b023cdbcd01ca0c17559413c8f8"
+    },
+    {
+      "icon": "temaki-striped_zone",
+      "file": "icons/temaki-striped-zone.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "ed0b3cef415cd54803db5fc1bfe98c99553791ea0011396cdcb40d748270769a"
+    },
+    {
+      "icon": "temaki-subway",
+      "file": "icons/temaki-subway.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "aa4cb8bb19ea7796d843adb43cbb127a4e5806f83034f9051b936e321494ab44"
+    },
+    {
+      "icon": "temaki-suitcase_key",
+      "file": "icons/temaki-suitcase-key.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "12a42ea4c47789056ab80660fd6309ecdecb4e24500752441cb6d8a91b861e15"
+    },
+    {
+      "icon": "temaki-swamp",
+      "file": "icons/temaki-swamp.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "465449681901d5e5b35ef2122d9af662cc6fd10fc8e41ed9b8b31628712ba58f"
+    },
+    {
+      "icon": "temaki-t_bar_lift",
+      "file": "icons/temaki-t-bar-lift.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "dcb22480c3e2106973e29f8b0903c33df353359e94d47c4b38ac38ff7b440abc"
+    },
+    {
+      "icon": "temaki-tanning",
+      "file": "icons/temaki-tanning.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "17015897d76606d04c57c06095b59c3b834c1c008465e4d340d42e46f69236d8"
+    },
+    {
+      "icon": "temaki-taoism",
+      "file": "icons/temaki-taoism.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "e5ba085d2ccba7c4619f316276890643f79d963f1a9bfc80e857d4c24f5eecb7"
+    },
+    {
+      "icon": "temaki-tattoo_machine",
+      "file": "icons/temaki-tattoo-machine.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "2d7b276792d4d414a99066522c5dd41e6364f839e2bf10e70e72bc77f1b18d9f"
+    },
+    {
+      "icon": "temaki-telephone",
+      "file": "icons/temaki-telephone.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "65f164c1ef8db33d394977375eb6268ba3377103d5e65cf0267ed174cd4b9288"
+    },
+    {
+      "icon": "temaki-telescope",
+      "file": "icons/temaki-telescope.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "4795f151fbab5549e40656f52a106242605709fb6be79fa1fc0c7866bf9c6208"
+    },
+    {
+      "icon": "temaki-temaki",
+      "file": "icons/temaki-temaki.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "4ce4f5b665c34386b9a82f8a8893d24cc21c89cee5aed4a0fb4c2036b47e703b"
+    },
+    {
+      "icon": "temaki-tents",
+      "file": "icons/temaki-tents.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "d837b654fc26f5de34818dec758e2d0aae76dd9100e1588b236fac1f8b727ea9"
+    },
+    {
+      "icon": "temaki-tiling",
+      "file": "icons/temaki-tiling.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "d3f2a4df48259cb02429b7fc96e2768c8f2b6aca55081fa1ccb1fafd8d30194e"
+    },
+    {
+      "icon": "temaki-tire",
+      "file": "icons/temaki-tire.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "c8447bde2c5a56d04432e36231a424b750b04014aa7d3beac41627ff7ae2bb3e"
+    },
+    {
+      "icon": "temaki-tire_course",
+      "file": "icons/temaki-tire-course.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "1d33df2ef94decf62dc2d628f58af86374096199cc2dbdb167d7115ffad7ec62"
+    },
+    {
+      "icon": "temaki-toll_gantry",
+      "file": "icons/temaki-toll-gantry.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "1c33a073692dfc6eeb4714098a8dec59db22b0fa7635c7fc6a61070a9aa26b76"
+    },
+    {
+      "icon": "temaki-tools",
+      "file": "icons/temaki-tools.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "b41d8a05838b78eba1de93a648c4edca97bca01ea1363f217663d3b7aca1328d"
+    },
+    {
+      "icon": "temaki-tower",
+      "file": "icons/temaki-tower.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "4c21617cc1384987de0e8ad492894f944bacccccc3b1cedb8f6ee9539ecd8ac3"
+    },
+    {
+      "icon": "temaki-tower_communication",
+      "file": "icons/temaki-tower-communication.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "e477b711dd66094d7c8404e80adaacd9b9f2ff6cc9e2ae6537605a32b9dfa490"
+    },
+    {
+      "icon": "temaki-town_hall",
+      "file": "icons/temaki-town-hall.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "b7836c62829a1a7d4c1d6900ed25147a0bd29ad0531144b8d56abbef40518306"
+    },
+    {
+      "icon": "temaki-traffic_signals",
+      "file": "icons/temaki-traffic-signals.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "a19a62339fcf7a09a40bb81ac54be925733278db248c7b2793d5079a952e6ede"
+    },
+    {
+      "icon": "temaki-train",
+      "file": "icons/temaki-train.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "3e76c09f3ac0a243e720fcc15fd7a4c7a329e16975b86c2c88a2a91b8736bcad"
+    },
+    {
+      "icon": "temaki-train_bullet",
+      "file": "icons/temaki-train-bullet.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "1d25eff56ccc5f697f57fb5966dfb72a11ba31a7716b7fbad8b676378c3b13e8"
+    },
+    {
+      "icon": "temaki-train_kids",
+      "file": "icons/temaki-train-kids.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "44b76e979d65b0f80d15f948587720912653844b95e73fea4584e95b28df41aa"
+    },
+    {
+      "icon": "temaki-train_steam",
+      "file": "icons/temaki-train-steam.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "b2c8f7533cbfdcc0f278c5475a33246114daa9faf9bf458f8741019610add667"
+    },
+    {
+      "icon": "temaki-train_wash",
+      "file": "icons/temaki-train-wash.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "4357caa38d1287f30836d269659cd4ccd28bf8c3990a83873151a271d55b111e"
+    },
+    {
+      "icon": "temaki-tram",
+      "file": "icons/temaki-tram.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "b2ce10c49e2273413fff41a734702802503d6f03d3793b4516df74d855bc4186"
+    },
+    {
+      "icon": "temaki-transit",
+      "file": "icons/temaki-transit.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "3f85809c547804184dfba7d4a2524cbe60f3f0855e0be1437b5cba7bed6d148b"
+    },
+    {
+      "icon": "temaki-transit_shelter",
+      "file": "icons/temaki-transit-shelter.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "35eebf76415d38e4e6056d78fba1ff8b911ed18d916f3d17cd6c86c123225c25"
+    },
+    {
+      "icon": "temaki-tree_and_bench",
+      "file": "icons/temaki-tree-and-bench.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "44b2bbddc313c6a241fd48c9c80c06ca5a6516245e8d3fddc3a480123b713ef3"
+    },
+    {
+      "icon": "temaki-tree_row",
+      "file": "icons/temaki-tree-row.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "dd955a616d0e481078352307de8e85c9429fe81f223b02e29d7231f13e183519"
+    },
+    {
+      "icon": "temaki-trench",
+      "file": "icons/temaki-trench.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "ba1aafb0996b6b38cd16b23a53fd36bfa0675b7a72ab2e26b5f35fe0d8e11deb"
+    },
+    {
+      "icon": "temaki-trolleybus",
+      "file": "icons/temaki-trolleybus.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "ca2b385d4aa114ebf580624e6928120ca55f47c31c7d34923b1c21a17d10cd44"
+    },
+    {
+      "icon": "temaki-tunnel",
+      "file": "icons/temaki-tunnel.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "80f2b8e73c84dcb7672c7424d09c4d6c3c3771bd285345d8965ad58903b7871c"
+    },
+    {
+      "icon": "temaki-turnstile",
+      "file": "icons/temaki-turnstile.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "fcc1bfa2f69b4b3a922faedd7207f0fb4bde624441f17c3d54d5f638956f7bcd"
+    },
+    {
+      "icon": "temaki-utility_pole",
+      "file": "icons/temaki-utility-pole.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "38d950058509185f5c53f526b6ed3d35b57da5fec3f8fe4d28105121c3ea5fc3"
+    },
+    {
+      "icon": "temaki-vacuum_station",
+      "file": "icons/temaki-vacuum-station.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "6e9e65bf1d469b9e852a1ddb693637e0717341c9c49722804048d7e2d6eb011d"
+    },
+    {
+      "icon": "temaki-valley",
+      "file": "icons/temaki-valley.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "7f7ff39ccf2ece533be8afc12d01dc70cce7c0980e187ee46610f1e0202db873"
+    },
+    {
+      "icon": "temaki-vase",
+      "file": "icons/temaki-vase.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "aadcf5f95bc28d48416f06c80737cf976df14de32e9732f5e8d056d4d3044cc2"
+    },
+    {
+      "icon": "temaki-vending_bread",
+      "file": "icons/temaki-vending-bread.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "4a2da5562dad1dda53064f5a9b2fe7f565af65daafe4c48bd5f3aa8666fa432d"
+    },
+    {
+      "icon": "temaki-vending_cigarettes",
+      "file": "icons/temaki-vending-cigarettes.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "f7170bbbf861d8a2cb9f6788e3df4bcda7f142acda408962401174d99c1b0de7"
+    },
+    {
+      "icon": "temaki-vending_cold_drink",
+      "file": "icons/temaki-vending-cold-drink.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "0aa14c632d9c11b15d20779d2b275087cf11cb06c0c026c62526e015bc81725d"
+    },
+    {
+      "icon": "temaki-vending_eggs",
+      "file": "icons/temaki-vending-eggs.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "59cd523efef2fd88abb777921b6647144812d10c24447095f6c60edb05fed339"
+    },
+    {
+      "icon": "temaki-vending_flat_coin",
+      "file": "icons/temaki-vending-flat-coin.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "b249a76b814c0af9a960793ee676b9e64d2d589fecb63dd8b93e7f3c8173fd35"
+    },
+    {
+      "icon": "temaki-vending_hot_drink",
+      "file": "icons/temaki-vending-hot-drink.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "3ddf2268ba02abfc15913377ead216ecfa6acb5e1c24e68d96ac476ac79e9433"
+    },
+    {
+      "icon": "temaki-vending_ice",
+      "file": "icons/temaki-vending-ice.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "1884f0cca281d9fa6ccd9cc291516953c3c542807197112e677d719aec8c898a"
+    },
+    {
+      "icon": "temaki-vending_ice_cream",
+      "file": "icons/temaki-vending-ice-cream.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "b60bb9ecebc73372b0b49449d1bb9e2722d839084e9bb89aa2cec77905c7d263"
+    },
+    {
+      "icon": "temaki-vending_lockers",
+      "file": "icons/temaki-vending-lockers.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "df6e7a421859f4c51dc83c6469dad6bef531e00053570300bf4fae35f23e663e"
+    },
+    {
+      "icon": "temaki-vending_love",
+      "file": "icons/temaki-vending-love.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "31a45cd0af1d226f66f09cf436baaf73dc74a2fd1af29b5be86d0ed73492219f"
+    },
+    {
+      "icon": "temaki-vending_machine",
+      "file": "icons/temaki-vending-machine.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "f1eff903c18c43541c27102174ee7f279321290341569b01680add43e774d94a"
+    },
+    {
+      "icon": "temaki-vending_newspaper",
+      "file": "icons/temaki-vending-newspaper.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "c3e0b5bba85d8534d17e451147295300959da4add446f59097396bedfc986f8f"
+    },
+    {
+      "icon": "temaki-vending_pet_waste",
+      "file": "icons/temaki-vending-pet-waste.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "23e2771289fd4f79ff724fa4731b6dffc3b4cd0779fa55a803f6d792be538c63"
+    },
+    {
+      "icon": "temaki-vending_stamps",
+      "file": "icons/temaki-vending-stamps.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "dd0431d0b8ba80e129f29bebeb4bc9fd8be2260d3c1fdbb04b9051eb77c56f1b"
+    },
+    {
+      "icon": "temaki-vending_tickets",
+      "file": "icons/temaki-vending-tickets.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "5907043a8dacfddf01cb8d59f5d3d37a5d3cb4f4ff5c57c3c7eecc2dbd607dda"
+    },
+    {
+      "icon": "temaki-vending_venus",
+      "file": "icons/temaki-vending-venus.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "30756f556468c971b3295aaf224347cedd0ccb69a24151ee8c5696b21182db4f"
+    },
+    {
+      "icon": "temaki-vertical_rotisserie",
+      "file": "icons/temaki-vertical-rotisserie.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "4ba88d91f381b72d12a44b0b13f5317cd2c89b5fdc5ad12d81e66302f6f8b3af"
+    },
+    {
+      "icon": "temaki-veterinary_care",
+      "file": "icons/temaki-veterinary-care.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "67c7b5ada614fc9508553db944a37fcd07f7db2d2903439ea951635af4abdf55"
+    },
+    {
+      "icon": "temaki-wall",
+      "file": "icons/temaki-wall.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "bbd2cf64594414ee5e9a2f89525192c1ceeda2d3ff0189003044df74977e655f"
+    },
+    {
+      "icon": "temaki-waste",
+      "file": "icons/temaki-waste.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "8ab8c8c50a16e3cfb96400cfacd39568f9c6141078a897ee71bdc321462eef20"
+    },
+    {
+      "icon": "temaki-waste_manhole",
+      "file": "icons/temaki-waste-manhole.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "4d02df01367c21494ec1a06f4e490d40b90f3155925bfdfceb082969be5af587"
+    },
+    {
+      "icon": "temaki-water_bottle",
+      "file": "icons/temaki-water-bottle.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "b7c5872af63f2f5ac916f6d9e91549c3bd3f7c0903b4490f0d893a69cf64a281"
+    },
+    {
+      "icon": "temaki-water_tap",
+      "file": "icons/temaki-water-tap.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "547b1e6a4a5d70d44a2aa6b1d550d9a3d7eaefe69320086b4ee8f89dbad12ab4"
+    },
+    {
+      "icon": "temaki-water_tower",
+      "file": "icons/temaki-water-tower.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "f0b8d0f4745f9316a886b7091857a08f925077c8c287ad55c4dfcdc427bc6346"
+    },
+    {
+      "icon": "temaki-well_pump_manual",
+      "file": "icons/temaki-well-pump-manual.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "a6a4ebffc6631eff8cd69f2c2b5722ee72c9a2f61e7e5e6a217587ec7df655f1"
+    },
+    {
+      "icon": "temaki-wheel",
+      "file": "icons/temaki-wheel.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "fcf6f2a0c00f5e7fc8ef16526d593f66c9da82af6c64141570f8351a27e81976"
+    },
+    {
+      "icon": "temaki-wind_surfing",
+      "file": "icons/temaki-wind-surfing.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "d0d738635baf157ef8712b2203f85c711be3464be2c1ce105abd005bf25c3353"
+    },
+    {
+      "icon": "temaki-wind_turbine",
+      "file": "icons/temaki-wind-turbine.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "3c26c0b18cc923977639c26b03abc58fcba82554d7766699a659ec0bbc96309e"
+    },
+    {
+      "icon": "temaki-window",
+      "file": "icons/temaki-window.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "f7127635cc02ae6fa86d756634e8269be3c633722c31c3a3c71dd0798c40fbf1"
+    },
+    {
+      "icon": "temaki-windpump",
+      "file": "icons/temaki-windpump.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "266d65731f1e236f2616f40bd0bd3943de0820585ae73b5a34b70e1515f9a473"
+    },
+    {
+      "icon": "temaki-windsock",
+      "file": "icons/temaki-windsock.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "f46e4f66cc3925a2af9af579b8b8b2c112d708b0fe6b091915d8643fe6b544ef"
+    },
+    {
+      "icon": "temaki-x_oblique",
+      "file": "icons/temaki-x-oblique.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "c5720b4c31db38cd0f9dde0d320d0e75f6189c1330fb79e1b532a066942cefaf"
+    },
+    {
+      "icon": "temaki-yield",
+      "file": "icons/temaki-yield.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "175fea3f66c37cc0fd4c6f11d4d65746919264b5718e290f1a2921db79df88b1"
+    },
+    {
+      "icon": "temaki-zoo",
+      "file": "icons/temaki-zoo.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "534af320cfbfe700fbf582bd873121c6781907753c33e57316be64a065239056"
+    },
+    {
+      "icon": "windows8-mb",
+      "file": "icons/windows8-mb.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "290c1fb3b8cb5a8e17244a9687394f36ad4c8264ddb0e2b965a2c095d87902d6"
+    },
+    {
+      "icon": "wishforge-milkshake",
+      "file": "icons/wishforge-milkshake.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "5fed9fdfc6e58f1b9c451097dd26da9badabcf188b7b8394b1da7547f3da6cf8"
+    }
+  ]
+}

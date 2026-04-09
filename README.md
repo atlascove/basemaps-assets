@@ -39,3 +39,16 @@ Build flow now is:
 2. `scripts/merge_vendor_sprite_keys.py` appends missing vendor keys
 
 Rollback is straightforward: revert the commit that added the overlay and merge step.
+
+## Runtime Icon Pack
+
+Build a per-icon runtime pack (WebP + manifest), useful for Android fallback loading:
+
+```bash
+make runtime-icon-pack
+```
+
+Output is written to:
+
+- `runtime/icon-pack/v1/icons/*.webp`
+- `runtime/icon-pack/v1/manifest.json`

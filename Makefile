@@ -8,6 +8,12 @@ retina:
 	./scripts/check-icon-sizes.sh
 	spreet --retina ./icons ./sprites/sprites@2x
 	./scripts/merge_vendor_sprite_keys.py --ratio 2
+	./scripts/build_runtime_icon_pack.py
+
+sprites-build: icon retina
+
+runtime-icon-pack:
+	./scripts/build_runtime_icon_pack.py
 
 	#serve static files
 serve:

@@ -25,3 +25,17 @@ The license for each group of assets is contained within that directory:
 
 * `fonts/`: [SIL Open Font License](fonts/OFL.txt)
 * `sprites/`: derived from [MIT-licensed tangrams/icons](https://github.com/tangrams/icons/blob/master/LICENSE.md)
+
+## Vendor Sprite Overlay
+
+Some style-referenced sprite keys are not available as local SVG icons.  
+Those keys are stored as a vendor raster overlay under:
+
+- `vendor/maptiler-openstreetmap-sprite/`
+
+Build flow now is:
+
+1. `spreet` builds from `icons/` (SVG pipeline)
+2. `scripts/merge_vendor_sprite_keys.py` appends missing vendor keys
+
+Rollback is straightforward: revert the commit that added the overlay and merge step.

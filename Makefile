@@ -15,6 +15,9 @@ sprites-build: icon retina
 runtime-icon-pack:
 	./scripts/build_runtime_icon_pack.py
 
+refresh-assets:
+	./scripts/refresh_sprites_and_runtime.py
+
 	#serve static files
 serve:
 	http-server

@@ -33,8 +33,13 @@ for path in icons_dir.rglob('*.svg'):
     except ValueError:
         bad.append((path, 'invalid width/height'))
         continue
-    if width != 15 or height != 15:
-        bad.append((path, f'width={width} height={height}'))
+    is_big_variant = path.stem.endswith('-big')
+    if is_big_variant:
+        if width != 30 or height != 30:
+            bad.append((path, f'expected 30x30 for -big variant, got width={width} height={height}'))
+    else:
+        if width != 15 or height != 15:
+            bad.append((path, f'width={width} height={height}'))
 
 if bad:
     print('Non-15x15 icons:')

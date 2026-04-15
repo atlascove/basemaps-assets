@@ -7,7 +7,7 @@
     "sprite_json": "sprites/sprites@2x.json",
     "sprite_png": "sprites/sprites@2x.png"
   },
-  "icon_count": 775,
+  "icon_count": 800,
   "missing_count": 0,
   "collisions": {},
   "icons": [
@@ -171,6 +171,20 @@
       "width": 30,
       "height": 30,
       "sha256": "1b763f874e35de4316e5d11a89a25290d9d3e9ff8b535a5ac7cd76aab4d9441a"
+    },
+    {
+      "icon": "fas-bugs",
+      "file": "icons/fas-bugs.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "507cfbc58927cea69e82694e2cf72c19979269fcf908eb8c835209818e41592d"
+    },
+    {
+      "icon": "fas-building-flag",
+      "file": "icons/fas-building-flag.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "75b6cbe8b4ac6aa7a2a47496ba096ae8321541878381d13927dcfdb1982b3455"
     },
     {
       "icon": "fas-bullseye",
@@ -607,11 +621,25 @@
       "sha256": "1517d095cab01a38bea44ac4e9e29cab80b333d2f584727ccea3e8b6fa326210"
     },
     {
+      "icon": "fas-house-fire",
+      "file": "icons/fas-house-fire.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "111972d06d28f9f80fa29b9fed5e145b21f11a3074a2835a85298c5cf482e490"
+    },
+    {
       "icon": "fas-ice-cream",
       "file": "icons/fas-ice-cream.webp",
       "width": 30,
       "height": 30,
       "sha256": "1b3455114ac399c1dfdff7c334bad0fa583ff4c6548e051e5a45533685d2eb30"
+    },
+    {
+      "icon": "fas-jar",
+      "file": "icons/fas-jar.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "9a26ec637675a154d83dfb5b423fbe7dea4a4222a0ce7b379abc2f7106d9b880"
     },
     {
       "icon": "fas-key",
@@ -761,6 +789,13 @@
       "sha256": "516f9b72c28bf9ef6e92e62884b5df42a354c71842093ef67ada9a321bc8c2c6"
     },
     {
+      "icon": "fas-pen-ruler",
+      "file": "icons/fas-pen-ruler.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "cc796808e9d6c71804436d6f4f53e8d2f911d768e2d90b511c83db103618dbc6"
+    },
+    {
       "icon": "fas-people-carry",
       "file": "icons/fas-people-carry.webp",
       "width": 30,
@@ -773,6 +808,13 @@
       "width": 30,
       "height": 30,
       "sha256": "566a9448909512e43fff64f524922b2b54e00aa2adf500886ff52a9e60b0ecf0"
+    },
+    {
+      "icon": "fas-person-arrow-up-from-line",
+      "file": "icons/fas-person-arrow-up-from-line.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "ded1a90921bda0c7d3f68852a4126b87b15d4d7e04a2284c276b547d2ab700d1"
     },
     {
       "icon": "fas-person-booth",
@@ -817,6 +859,13 @@
       "sha256": "982e73f8fef4b9af584fd8a2b6eff552a130495b1e0cf25f266bae8dc2000699"
     },
     {
+      "icon": "fas-plug-circle-bolt",
+      "file": "icons/fas-plug-circle-bolt.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "b14b8ae501c91da8dc6303fb8ae103d1d13fe845c0d4c6fa698a096daf58d6a7"
+    },
+    {
       "icon": "fas-plus-circle",
       "file": "icons/fas-plus-circle.webp",
       "width": 30,
@@ -850,6 +899,13 @@
       "width": 30,
       "height": 30,
       "sha256": "8bbd12ea14412b6255ae753144f2e9bd2e0de0d6536199326fa53ce58625f4b7"
+    },
+    {
+      "icon": "fas-running",
+      "file": "icons/fas-running.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "59c919518ebb4b9b12c44446d62d52c7a2fdce9290eec87916a36122c6759eb8"
     },
     {
       "icon": "fas-satellite-dish",
@@ -913,6 +969,13 @@
       "width": 30,
       "height": 30,
       "sha256": "814a6afbd229e90d223ea30d0aa38b5b5e80081a97cbb2ef1ca98ed4d28cc68c"
+    },
+    {
+      "icon": "fas-sign-hanging",
+      "file": "icons/fas-sign-hanging.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "a03150cb1e6c5e17233f6bd736ac2e005349c1303e81e212c35ed2a37e62e59d"
     },
     {
       "icon": "fas-skating",
@@ -1132,11 +1195,25 @@
       "sha256": "fd0ed4f33ea71b181e8562ff5dd080e506ed9b68b7021ee63ec31b0c7b94cb4d"
     },
     {
+      "icon": "fas-triangle-exclamation",
+      "file": "icons/fas-triangle-exclamation.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "789a6c0c099c3012935fcfab0c787d6041746b822a031166d62424414d101cec"
+    },
+    {
       "icon": "fas-trophy",
       "file": "icons/fas-trophy.webp",
       "width": 30,
       "height": 30,
       "sha256": "7db6dda309c616fcf3a2b2a77bc7818d005fc1b3c21ef0a088bdc02872896212"
+    },
+    {
+      "icon": "fas-truck-fast",
+      "file": "icons/fas-truck-fast.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "2d912d0dbf312f1771f592e8464bedcb57dccf48b5f3708c0a3d47a2c43f0dda"
     },
     {
       "icon": "fas-truck-loading",
@@ -1557,6 +1634,13 @@
       "width": 30,
       "height": 30,
       "sha256": "8fb6079eaf0f7b3d225d0a8c15ee52cdd9c844f1fc9f27eb3c596adb4cc1bc13"
+    },
+    {
+      "icon": "iD-multipolygon",
+      "file": "icons/id-multipolygon.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "c6e1f4e64cceba5e38ca36ce3c5096040eb93f0000c4044e4f6482a71ca1f790"
     },
     {
       "icon": "iD-other-line",
@@ -2245,6 +2329,13 @@
       "sha256": "2f502bc909e0aaa7e62137a7e5dc80f6c4bb6b94827287e8c683eeac0a313be0"
     },
     {
+      "icon": "maki-hospital",
+      "file": "icons/maki-hospital.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "47f4f78bf7fd34db8e9a240bdcfa473a559ebfabc7beb95ff6cee0673b5e1466"
+    },
+    {
       "icon": "maki-industry",
       "file": "icons/maki-industry.webp",
       "width": 30,
@@ -2404,6 +2495,13 @@
       "width": 30,
       "height": 30,
       "sha256": "95b7220ab6eca8544e8cf4a77718150987dcd79bf53b96af9312494d37fcecb4"
+    },
+    {
+      "icon": "maki-racetrack-horse",
+      "file": "icons/maki-racetrack-horse.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "3e36d7e96a23685c5e8433c96cfc5649f17e4a24370b44a152b5c8f5dd8f5b18"
     },
     {
       "icon": "maki-rail-metro",
@@ -2642,6 +2740,13 @@
       "width": 30,
       "height": 30,
       "sha256": "2ede8029b47fb1b9553c01bb0c378191523b3e7772d682956369f90c93f0b0e9"
+    },
+    {
+      "icon": "maki-tunnel",
+      "file": "icons/maki-tunnel.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "58cc4491c18216ec9898784aac4e52f68c5b1cc0e6e90511b6e73cfd77698f5a"
     },
     {
       "icon": "maki-veterinary",
@@ -2994,6 +3099,13 @@
       "sha256": "78e13357d990495f379227db9727dccb3c915b05b5581fa74278625b6ce68257"
     },
     {
+      "icon": "temaki-bicycle_wash",
+      "file": "icons/temaki-bicycle-wash.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "7c23168554119e80e7b57b732c78457477c8618840e1ea6da1baa4a2a0df5b44"
+    },
+    {
       "icon": "temaki-bikini",
       "file": "icons/temaki-bikini.webp",
       "width": 30,
@@ -3181,6 +3293,13 @@
       "width": 30,
       "height": 30,
       "sha256": "68a8d7a6547c8e152e9d4b1ee0c017eb5e88a70860a6889dd03716b0bc0a0456"
+    },
+    {
+      "icon": "temaki-bread",
+      "file": "icons/temaki-bread.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "7a5926c3885be77bece5a8a349e522dd0c82b6b0ce9d3d27ffce12de4b8e16c5"
     },
     {
       "icon": "temaki-brick_trowel",
@@ -3505,6 +3624,13 @@
       "sha256": "c9a83e7030c249d95a91b289ae66abcfc72b2cf5e8f7b95794b2e35018763a1c"
     },
     {
+      "icon": "temaki-crossing_markings-ladder",
+      "file": "icons/temaki-crossing-markings-ladder.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "f8b6052731343ad74c0893500ec5d0243db5ba71451bb5085bef32eed15d47ca"
+    },
+    {
       "icon": "temaki-crossing_tram_solid",
       "file": "icons/temaki-crossing-tram-solid.webp",
       "width": 30,
@@ -3610,6 +3736,13 @@
       "sha256": "a17f1a06c7e7c248a0c23dc239c68fe174be51331767aab35b31e966ccb160bb"
     },
     {
+      "icon": "temaki-electronic",
+      "file": "icons/temaki-electronic.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "2e321115f3ec41ae76c787e8ca49e8c2cbbe34a95f74910e2318ad154beccaa5"
+    },
+    {
       "icon": "temaki-elevator",
       "file": "icons/temaki-elevator.webp",
       "width": 30,
@@ -3657,6 +3790,13 @@
       "width": 30,
       "height": 30,
       "sha256": "0d5d7206c80629732ebaefe0daf99bab197f5aeb3527423683dc3a69e9b3ea22"
+    },
+    {
+      "icon": "temaki-fire_hydrant_underground",
+      "file": "icons/temaki-fire-hydrant-underground.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "86a26e6d23ef398065b95251747cc1319aa9286f5d46dfa34ceebd1f423f62a0"
     },
     {
       "icon": "temaki-fireplace",
@@ -4121,6 +4261,13 @@
       "sha256": "302213b74eb3ff8995becfe07bf2f0b8dfa03a49d60350b752e46f1fe24fa55a"
     },
     {
+      "icon": "temaki-milk_jug",
+      "file": "icons/temaki-milk-jug.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "3ee0c7d2e0fd42f5688835f69f883dd2280a5dbbdc9173a5485f7c8862e536fa"
+    },
+    {
       "icon": "temaki-mineshaft_cage",
       "file": "icons/temaki-mineshaft-cage.webp",
       "width": 30,
@@ -4399,6 +4546,13 @@
       "width": 30,
       "height": 30,
       "sha256": "e0cb84b57f48b90d24514155f7cc54ffc9b772fd96f874fe63783acbde209cb7"
+    },
+    {
+      "icon": "temaki-power_shutoff",
+      "file": "icons/temaki-power-shutoff.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "a05518fa8c9cafaa1a45703c9f80df8ecc76b5cbbd4cf79243ff0e20dc68a82a"
     },
     {
       "icon": "temaki-power_switch",
@@ -4728,6 +4882,13 @@
       "width": 30,
       "height": 30,
       "sha256": "4d1119b0e5a2bdd350c812620ed0c83d4907dae95bb2568534d73b84e89a006a"
+    },
+    {
+      "icon": "temaki-ski_jumping",
+      "file": "icons/temaki-ski-jumping.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "f6cb062b18d8f6f6f7ed84f77d3c0de2841ecb5f2affa690c02fb41074058a25"
     },
     {
       "icon": "temaki-skiing",
@@ -5129,6 +5290,13 @@
       "sha256": "dd955a616d0e481078352307de8e85c9429fe81f223b02e29d7231f13e183519"
     },
     {
+      "icon": "temaki-tree_stump",
+      "file": "icons/temaki-tree-stump.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "4155ef19592de7c27b6fc3c89f283ed676a66a9fb32b5537401eec402cf8248f"
+    },
+    {
       "icon": "temaki-trench",
       "file": "icons/temaki-trench.webp",
       "width": 30,
@@ -5330,6 +5498,13 @@
       "width": 30,
       "height": 30,
       "sha256": "4d02df01367c21494ec1a06f4e490d40b90f3155925bfdfceb082969be5af587"
+    },
+    {
+      "icon": "temaki-water",
+      "file": "icons/temaki-water.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "ad7e951c9d38733d2b290309d37b5d9c4f1660e2e60fd101c06148720c9ed12e"
     },
     {
       "icon": "temaki-water_bottle",

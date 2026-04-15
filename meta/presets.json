@@ -97638,5 +97638,79 @@
       "waterway access point"
     ],
     "matchScore": 1
+  },
+  {
+    "id": 2918,
+    "name": "Area",
+    "icon": "maki-marker-stroked",
+    "tags": {
+      "area": "yes"
+    },
+    "geometry": [
+      "area"
+    ],
+    "terms": [
+      "polygon"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "area"
+    ],
+    "matchScore": 0.05
+  },
+  {
+    "id": 2919,
+    "name": "Embankment",
+    "icon": "iD-other-line",
+    "tags": {
+      "embankment": "yes"
+    },
+    "geometry": [
+      "line"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "embankment"
+    ],
+    "matchScore": 0.05
+  },
+  {
+    "id": 2920,
+    "name": "Traffic Island Area",
+    "icon": "temaki-island_trees_building",
+    "tags": {
+      "area:highway": "traffic_island"
+    },
+    "geometry": [
+      "area"
+    ],
+    "terms": [
+      "refuge island",
+      "traffic island"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "traffic island area"
+    ],
+    "matchScore": 0.05
   }
 ]

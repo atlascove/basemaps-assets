@@ -91357,5 +91357,6286 @@
       "lodging and dining"
     ],
     "matchScore": 1
+  },
+  {
+    "id": 2697,
+    "name": "Advertising Sign",
+    "icon": "fas-sign-hanging",
+    "tags": {
+      "advertising": "sign"
+    },
+    "geometry": [
+      "point",
+      "vertex",
+      "line",
+      "area"
+    ],
+    "terms": [
+      "ad",
+      "fascia",
+      "logo",
+      "storefront"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "advertising sign"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2698,
+    "name": "Baking Oven",
+    "icon": "temaki-bread",
+    "tags": {
+      "amenity": "baking_oven"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "bakehouse",
+      "beehive oven",
+      "bread",
+      "clay oven",
+      "horno",
+      "masonry oven",
+      "pizza oven",
+      "tabun oven"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "baking oven"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2699,
+    "name": "Bicycle Wash",
+    "icon": "temaki-bicycle_wash",
+    "tags": {
+      "amenity": "bicycle_wash"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "bicycle",
+      "bicycle cleaning",
+      "bicycle wash",
+      "bike",
+      "bike wash",
+      "cycle rinse station",
+      "cycle wash",
+      "cycling"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "bicycle wash"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2700,
+    "name": "Dialysis Center",
+    "icon": "maki-doctor",
+    "tags": {
+      "healthcare": "dialysis"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "dialysis clinic",
+      "kidney dialysis"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "dialysis center"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2701,
+    "name": "Chitalishte",
+    "icon": "maki-town-hall",
+    "tags": {
+      "community_centre": "chitalishte"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "community center"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "chitalishte"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2702,
+    "name": "Club Home",
+    "icon": "maki-town-hall",
+    "tags": {
+      "amenity": "community_centre",
+      "community_centre": "club_home"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "club home"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2703,
+    "name": "Community Hall",
+    "icon": "maki-town-hall",
+    "tags": {
+      "amenity": "community_centre",
+      "community_centre": "community_hall"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "community center"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "community hall"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2704,
+    "name": "Cultural Centre",
+    "icon": "maki-town-hall",
+    "tags": {
+      "amenity": "community_centre",
+      "community_centre": "cultural_centre"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "cultural centre"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2705,
+    "name": "Family Centre",
+    "icon": "maki-town-hall",
+    "tags": {
+      "amenity": "community_centre",
+      "community_centre": "family_centre"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "family centre"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2706,
+    "name": "Parish Hall",
+    "icon": "maki-town-hall",
+    "tags": {
+      "amenity": "community_centre",
+      "community_centre": "parish_hall"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "parish center"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "parish hall"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2707,
+    "name": "Village Hall",
+    "icon": "maki-town-hall",
+    "tags": {
+      "amenity": "community_centre",
+      "community_centre": "village_hall"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "village community center"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "village hall"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2708,
+    "name": "Device Charging Station",
+    "icon": "temaki-electronic",
+    "tags": {
+      "amenity": "device_charging_station"
+    },
+    "geometry": [
+      "point"
+    ],
+    "terms": [
+      "cell phone",
+      "charger",
+      "mobile",
+      "phone",
+      "plug",
+      "smartphone",
+      "usb"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "device charging station"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2709,
+    "name": "Allergologist",
+    "icon": "maki-doctor",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare:speciality": "allergology"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "allergy",
+      "asthma"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "allergologist"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2710,
+    "name": "Cardiologist",
+    "icon": "maki-doctor",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare:speciality": "cardiology"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "cardiac surgeon",
+      "cardiology",
+      "cardiovascular system",
+      "coronary artery",
+      "heart"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "cardiologist"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2711,
+    "name": "Child and Adolescent Psychiatrist",
+    "icon": "maki-doctor",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare:speciality": "child_psychiatry"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "adolescent psychiatry",
+      "child psychiatry",
+      "pediatric psychiatry"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "child and adolescent psychiatrist"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2712,
+    "name": "Dermatologist",
+    "icon": "maki-doctor",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare:speciality": "dermatology"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "dermatology",
+      "hair",
+      "nails",
+      "skin"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "dermatologist"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2713,
+    "name": "Gastroenterologist",
+    "icon": "maki-doctor",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare:speciality": "gastroenterology"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "bowels",
+      "digestion",
+      "digestive system",
+      "esophagus",
+      "food pipe",
+      "gallstone",
+      "gastroenterology",
+      "gastrointestinal tract",
+      "gullet",
+      "intestines",
+      "large intestine",
+      "liver",
+      "oesophagus",
+      "small intestine",
+      "stomach"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "gastroenterologist"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2714,
+    "name": "Primary Care Physician",
+    "icon": "maki-doctor",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare:speciality": "general"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "family doctor",
+      "family physician",
+      "family practitioner",
+      "gp"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "primary care physician"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2715,
+    "name": "Obstetrician / Gynecologist",
+    "icon": "maki-doctor",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare:speciality": "gynaecology"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "egg",
+      "gynaecologist",
+      "gynaecology",
+      "gynecology",
+      "ob/gyn",
+      "obgyn",
+      "obstetrics",
+      "ovulation",
+      "reproductive",
+      "woman's doctor",
+      "women's doctor"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "obstetrician / gynecologist"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2716,
+    "name": "Hematologist",
+    "icon": "maki-doctor",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare:speciality": "haematology"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "anemia",
+      "blood",
+      "bone marrow",
+      "haematology",
+      "leukemia",
+      "lymphoma"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "hematologist"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2717,
+    "name": "Internist",
+    "icon": "maki-doctor",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare:speciality": "internal"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "internal general practitioner",
+      "internal medicine",
+      "internist",
+      "physician"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "internist"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2718,
+    "name": "Nephrologist",
+    "icon": "maki-doctor",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare:speciality": "nephrology"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "kidney",
+      "kidney medicine",
+      "kidneys",
+      "nephrology",
+      "renal"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "nephrologist"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2719,
+    "name": "Neurologist",
+    "icon": "maki-doctor",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare:speciality": "neurology"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "brain",
+      "nerves",
+      "nervous system",
+      "neurology",
+      "neurosurgery"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "neurologist"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2720,
+    "name": "Neurosurgeon",
+    "icon": "maki-doctor",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare:speciality": "neurosurgery"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "brain",
+      "neurological surgery"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "neurosurgeon"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2721,
+    "name": "Oncologist",
+    "icon": "maki-doctor",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare:speciality": "oncology"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "cancer",
+      "chemotherapy",
+      "oncology",
+      "tumor"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "oncologist"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2722,
+    "name": "Ophthalmologist",
+    "icon": "maki-doctor",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare:speciality": "ophthalmology"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "eye",
+      "eyes",
+      "glasses",
+      "ocular",
+      "ophthalmology"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "ophthalmologist"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2723,
+    "name": "Orthopedic Surgeon",
+    "icon": "maki-doctor",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare:speciality": "orthopaedics"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "orthopedic surgery"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "orthopedic surgeon"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2724,
+    "name": "Otolaryngologist",
+    "icon": "maki-doctor",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare:speciality": "otolaryngology"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "ear",
+      "ent",
+      "head and neck surgery",
+      "nose",
+      "ohns",
+      "orl",
+      "orl–h&n",
+      "otolaryngologist",
+      "otorhinolaryngology",
+      "skull",
+      "throat"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "otolaryngologist"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2725,
+    "name": "Pediatrician",
+    "icon": "maki-doctor",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare:speciality": "paediatrics"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "adolescents",
+      "children",
+      "infants",
+      "paediatrics"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "pediatrician"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2726,
+    "name": "Pathologist",
+    "icon": "maki-doctor",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare:speciality": "pathology"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "anatomic pathology",
+      "anatomical pathology",
+      "autopsy",
+      "pathology"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "pathologist"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2727,
+    "name": "Plastic Surgeon",
+    "icon": "maki-doctor",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare:speciality": "plastic_surgery"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "aesthetic surgery",
+      "cosmetic surgery",
+      "craniofacial surgery",
+      "plastic surgery",
+      "reconstructive surgery"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "plastic surgeon"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2728,
+    "name": "Podiatrist",
+    "icon": "maki-doctor",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare:speciality": "podiatry"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "ankle",
+      "feet",
+      "foot",
+      "leg",
+      "legs",
+      "podiatry"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "podiatrist"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2729,
+    "name": "Colorectal Surgeon",
+    "icon": "maki-doctor",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare:speciality": "proctology"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "assman",
+      "colorectal surgery",
+      "proctology"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "colorectal surgeon"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2730,
+    "name": "Psychiatrist",
+    "icon": "maki-doctor",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare:speciality": "psychiatry"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "psychiatry",
+      "psychology",
+      "psychotherapy"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "psychiatrist"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2731,
+    "name": "Pulmonologist",
+    "icon": "maki-doctor",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare:speciality": "pulmonology"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "asthma",
+      "chest medicine",
+      "lung",
+      "lungs",
+      "pneumologist",
+      "pneumology",
+      "pneumonia",
+      "pneumonologist",
+      "pneumonology",
+      "pulmonology",
+      "respiratory medicine",
+      "respiratory tract",
+      "respirology"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "pulmonologist"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2732,
+    "name": "Radiologist",
+    "icon": "maki-doctor",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare:speciality": "radiology"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "computed tomography",
+      "ct",
+      "magnetic resonance imaging",
+      "medical ultrasonography",
+      "medical ultrasound",
+      "mri",
+      "radiology",
+      "sonography",
+      "ultrasonography"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "radiologist"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2733,
+    "name": "Rheumatologist",
+    "icon": "maki-doctor",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare:speciality": "rheumatology"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "lupus",
+      "oteoporosis",
+      "rheuma",
+      "rheumatology"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "rheumatologist"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2734,
+    "name": "General Surgeon",
+    "icon": "maki-doctor",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare:speciality": "surgery"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "surgery"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "general surgeon"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2735,
+    "name": "Trauma Surgeon",
+    "icon": "maki-doctor",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare:speciality": "trauma"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "surgery",
+      "trauma surgery"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "trauma surgeon"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2736,
+    "name": "Urologist",
+    "icon": "maki-doctor",
+    "tags": {
+      "amenity": "doctors",
+      "healthcare:speciality": "urology"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "adrenal glands",
+      "bladder",
+      "epididymis",
+      "kidney",
+      "penis",
+      "prostate",
+      "reproductive",
+      "scrotum",
+      "testicles",
+      "testis",
+      "ureters",
+      "urethra",
+      "urinary",
+      "urology"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "urologist"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2737,
+    "name": "Dog Toilet",
+    "icon": "maki-dog-park",
+    "tags": {
+      "amenity": "dog_toilet"
+    },
+    "geometry": [
+      "area",
+      "point"
+    ],
+    "terms": [
+      "dog excrement",
+      "dog excrete",
+      "dog poo area",
+      "dog relief area",
+      "dog urinate",
+      "dog urine"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "dog toilet"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2738,
+    "name": "Driver Training Grounds",
+    "icon": "maki-car",
+    "tags": {
+      "amenity": "driver_training"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "driving school"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "driver training grounds"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2739,
+    "name": "Bagel Fast Food",
+    "icon": "maki-fast-food",
+    "tags": {
+      "amenity": "fast_food",
+      "cuisine": "bagel"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "breakfast",
+      "lox"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "bagel fast food"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2740,
+    "name": "Chinese Fast Food",
+    "icon": "maki-restaurant-noodle",
+    "tags": {
+      "amenity": "fast_food",
+      "cuisine": "chinese"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "dim sum"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "chinese fast food"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2741,
+    "name": "Chicken Wings Fast Food",
+    "icon": "maki-fast-food",
+    "tags": {
+      "amenity": "fast_food",
+      "cuisine": "wings"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "chicken",
+      "dine",
+      "dining",
+      "dinner",
+      "eat",
+      "lunch",
+      "table"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "chicken wings fast food"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2742,
+    "name": "Funeral Service Hall",
+    "icon": "maki-cemetery",
+    "tags": {
+      "amenity": "funeral_hall"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "funeral ceremony",
+      "funeral hall"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "funeral service hall"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2743,
+    "name": "Ramen Restaurant",
+    "icon": "maki-restaurant-noodle",
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "ramen"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "japanese",
+      "noodles",
+      "ramen-ten",
+      "ramen-ya",
+      "soup"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "ramen restaurant"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2744,
+    "name": "Senior Assisted Living Facility",
+    "icon": "maki-wheelchair",
+    "tags": {
+      "amenity": "social_facility",
+      "social_facility": "assisted_living",
+      "social_facility:for": "senior"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "assisted living",
+      "care home",
+      "elderly",
+      "living",
+      "old",
+      "senior"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "senior assisted living facility"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2745,
+    "name": "Swinger Club",
+    "icon": "maki-heart",
+    "tags": {
+      "amenity": "swingerclub"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "18+",
+      "adult",
+      "lifestyle club",
+      "porn",
+      "sex",
+      "strip",
+      "swinger"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "swinger club"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2746,
+    "name": "Auto Rickshaw Stand",
+    "icon": "fas-person-arrow-up-from-line",
+    "tags": {
+      "amenity": "taxi",
+      "taxi_vehicle": "auto_rickshaw"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "bajaj",
+      "toda",
+      "tricycle station",
+      "tuk-tuk",
+      "tuksi"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "auto rickshaw stand"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2747,
+    "name": "Motorcycle Taxi Stand",
+    "icon": "temaki-pedestrian_and_cyclist",
+    "tags": {
+      "amenity": "taxi",
+      "taxi_vehicle": "motorcycle"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "habal-habal",
+      "moto taxi",
+      "pillion"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "motorcycle taxi stand"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2748,
+    "name": "Barangay Hall",
+    "icon": "fas-building-flag",
+    "tags": {
+      "amenity": "townhall",
+      "townhall:type": "barangay"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "barrio hall"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "barangay hall"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2749,
+    "name": "Snack Vending Machine",
+    "icon": "temaki-vending_machine",
+    "tags": {
+      "amenity": "vending_machine",
+      "vending": "food",
+      "food": "snacks"
+    },
+    "geometry": [
+      "point",
+      "vertex"
+    ],
+    "terms": [
+      "candy",
+      "chip",
+      "cookie",
+      "cracker",
+      "gum",
+      "pretzel"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "snack vending machine"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2750,
+    "name": "Veterinary Pharmacy",
+    "icon": "temaki-veterinary_care",
+    "tags": {
+      "amenity": "veterinary_pharmacy"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "animal medication",
+      "animal pharmacy",
+      "pet clinic",
+      "pet doctor",
+      "pet meds",
+      "pet pharmacy",
+      "pet prescriptions",
+      "vet pharmacy",
+      "veterinarian",
+      "veterinary compounding",
+      "veterinary pharmacy",
+      "veterinary supplies"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "veterinary pharmacy"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2751,
+    "name": "Horse Walker",
+    "icon": "temaki-amusement_park",
+    "tags": {
+      "animal": "horse_walker"
+    },
+    "geometry": [
+      "area",
+      "point"
+    ],
+    "terms": [
+      "horse training"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "horse walker"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2752,
+    "name": "Barrier (Unspecified Type)",
+    "icon": "maki-roadblock",
+    "tags": {
+      "barrier": "yes"
+    },
+    "geometry": [
+      "point",
+      "vertex",
+      "line",
+      "area"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "barrier (unspecified type)"
+    ],
+    "matchScore": 0.5
+  },
+  {
+    "id": 2753,
+    "name": "Flush Curb",
+    "icon": "temaki-kerb-flush",
+    "tags": {
+      "barrier": "kerb",
+      "kerb": "flush"
+    },
+    "geometry": [
+      "vertex",
+      "line"
+    ],
+    "terms": [
+      "even curb",
+      "level curb",
+      "tactile curb"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "flush curb"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2754,
+    "name": "Lowered Curb",
+    "icon": "temaki-kerb-lowered",
+    "tags": {
+      "barrier": "kerb",
+      "kerb": "lowered"
+    },
+    "geometry": [
+      "vertex",
+      "line"
+    ],
+    "terms": [
+      "curb cut",
+      "curb ramp",
+      "dropped kerb",
+      "kerb ramp",
+      "pram ramp"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "lowered curb"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2755,
+    "name": "Raised Curb",
+    "icon": "temaki-kerb-raised",
+    "tags": {
+      "barrier": "kerb",
+      "kerb": "raised"
+    },
+    "geometry": [
+      "vertex",
+      "line"
+    ],
+    "terms": [
+      "step"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "raised curb"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2756,
+    "name": "Rolled Curb",
+    "icon": "temaki-kerb-rolled",
+    "tags": {
+      "barrier": "kerb",
+      "kerb": "rolled"
+    },
+    "geometry": [
+      "vertex",
+      "line"
+    ],
+    "terms": [
+      "gutter"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "rolled curb"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2757,
+    "name": "Hazardous Area",
+    "icon": "fas-triangle-exclamation",
+    "tags": {
+      "boundary": "hazard"
+    },
+    "geometry": [
+      "area"
+    ],
+    "terms": [
+      "danger",
+      "prohibited"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "hazardous area"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2758,
+    "name": "Industrial Production Building",
+    "icon": "maki-industry",
+    "tags": {
+      "building": "manufacture"
+    },
+    "geometry": [
+      "area"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "industrial production building"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2759,
+    "name": "Outbuilding",
+    "icon": "maki-building",
+    "tags": {
+      "building": "outbuilding"
+    },
+    "geometry": [
+      "area"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "outbuilding"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2760,
+    "name": "Bakehouse",
+    "icon": "temaki-bread",
+    "tags": {
+      "building": "bakehouse"
+    },
+    "geometry": [
+      "area"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "bakehouse"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2761,
+    "name": "Fire Station Building",
+    "icon": "fas-house-fire",
+    "tags": {
+      "building": "fire_station"
+    },
+    "geometry": [
+      "area"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "fire station building"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2762,
+    "name": "Townhouse",
+    "icon": "temaki-row_houses",
+    "tags": {
+      "building": "house",
+      "house": "terraced"
+    },
+    "geometry": [
+      "area"
+    ],
+    "terms": [
+      "brownstone",
+      "dwelling",
+      "family",
+      "home",
+      "residence",
+      "row home",
+      "terrace",
+      "townhome"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "townhouse"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2763,
+    "name": "Indoor Horseback Riding Arena",
+    "icon": "maki-horse-riding",
+    "tags": {
+      "building": "riding_hall"
+    },
+    "geometry": [
+      "area"
+    ],
+    "terms": [
+      "equestrian arena",
+      "equestrian indoor arena",
+      "horse riding",
+      "indoor arena",
+      "indoor riding",
+      "indoor ring",
+      "longeing hall"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "indoor horseback riding arena"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2764,
+    "name": "Grave",
+    "icon": "maki-cemetery",
+    "tags": {
+      "cemetery": "grave"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "mausoleum",
+      "tomb"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "grave"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2765,
+    "name": "Climbing Crag",
+    "icon": "temaki-climbing",
+    "tags": {
+      "climbing": "crag"
+    },
+    "geometry": [
+      "point"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "climbing crag"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2766,
+    "name": "Climbing Route",
+    "icon": "temaki-climbing",
+    "tags": {
+      "climbing": "route"
+    },
+    "geometry": [
+      "line",
+      "point"
+    ],
+    "terms": [
+      "boulder problem",
+      "climb",
+      "climbing",
+      "rock climbing",
+      "rock climbing route",
+      "sport climbing"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "climbing route"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2767,
+    "name": "Climbing Route Start",
+    "icon": "temaki-abseiling",
+    "tags": {
+      "climbing": "route_bottom"
+    },
+    "geometry": [
+      "point",
+      "vertex"
+    ],
+    "terms": [
+      "climbing area",
+      "climbing crag",
+      "climbing point",
+      "rock climbing route",
+      "route bottom",
+      "route start",
+      "sport climbing"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "climbing route start"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2768,
+    "name": "Scout Group",
+    "icon": "fas-handshake",
+    "tags": {
+      "club": "scout"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "guide",
+      "pathfinder",
+      "scouting"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "scout group"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2769,
+    "name": "Education Facility (Unspecified Type)",
+    "icon": "temaki-school",
+    "tags": {
+      "education": "yes"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "education facility (unspecified type)"
+    ],
+    "matchScore": 0.5
+  },
+  {
+    "id": 2770,
+    "name": "College Grounds",
+    "icon": "maki-college",
+    "tags": {
+      "education": "college"
+    },
+    "geometry": [
+      "area",
+      "point"
+    ],
+    "terms": [
+      "undergraduate school",
+      "university"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "college grounds"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2771,
+    "name": "Dance School",
+    "icon": "fas-music",
+    "tags": {
+      "education": "dancing_school"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "ballet",
+      "ballet studio",
+      "dance teaching",
+      "jive",
+      "swing",
+      "tango",
+      "waltz"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "dance school"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2772,
+    "name": "Driving School",
+    "icon": "temaki-car_pool",
+    "tags": {
+      "education": "driving_school"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "driving school"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2773,
+    "name": "Preschool / Kindergarten Grounds",
+    "icon": "temaki-school",
+    "tags": {
+      "education": "kindergarten"
+    },
+    "geometry": [
+      "area",
+      "point"
+    ],
+    "terms": [
+      "kindergarden",
+      "kindergarten",
+      "pre-school"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "preschool / kindergarten grounds"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2774,
+    "name": "Language School",
+    "icon": "temaki-school",
+    "tags": {
+      "education": "language_school"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "esl"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "language school"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2775,
+    "name": "Music School",
+    "icon": "fas-music",
+    "tags": {
+      "education": "music_school"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "school of music"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "music school"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2776,
+    "name": "Test Prep / Tutoring School",
+    "icon": "temaki-school",
+    "tags": {
+      "education": "prep_school"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "academic",
+      "act",
+      "homework",
+      "math",
+      "reading",
+      "sat",
+      "test prep",
+      "tutoring",
+      "writing"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "test prep / tutoring school"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2777,
+    "name": "School Grounds",
+    "icon": "temaki-school",
+    "tags": {
+      "education": "school"
+    },
+    "geometry": [
+      "area",
+      "point"
+    ],
+    "terms": [
+      "academy",
+      "elementary school",
+      "high school",
+      "middle school"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "school grounds"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2778,
+    "name": "University Grounds",
+    "icon": "maki-college",
+    "tags": {
+      "education": "university"
+    },
+    "geometry": [
+      "area",
+      "point"
+    ],
+    "terms": [
+      "college",
+      "graduate school",
+      "master's degree program",
+      "phd program"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "university grounds"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2779,
+    "name": "Disaster Response Station",
+    "icon": "fas-helmet-safety",
+    "tags": {
+      "emergency": "disaster_response"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "civil defense",
+      "civil protection",
+      "disaster management",
+      "emergency management",
+      "ses"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "disaster response station"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2780,
+    "name": "Pillar Fire Hydrant",
+    "icon": "temaki-fire_hydrant",
+    "tags": {
+      "emergency": "fire_hydrant",
+      "fire_hydrant:type": "pillar"
+    },
+    "geometry": [
+      "point",
+      "vertex"
+    ],
+    "terms": [
+      "fire plug",
+      "pillar hydrant"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "pillar fire hydrant"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2781,
+    "name": "Underground Fire Hydrant",
+    "icon": "temaki-fire_hydrant_underground",
+    "tags": {
+      "emergency": "fire_hydrant",
+      "fire_hydrant:type": "underground"
+    },
+    "geometry": [
+      "point",
+      "vertex"
+    ],
+    "terms": [
+      "fire plug",
+      "fire water well",
+      "underground hydrant"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "underground fire hydrant"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2782,
+    "name": "Fire Department Connection",
+    "icon": "maki-water",
+    "tags": {
+      "emergency": "fire_service_inlet"
+    },
+    "geometry": [
+      "point",
+      "vertex"
+    ],
+    "terms": [
+      "building hydrant inlet",
+      "charged riser",
+      "dry riser inlet",
+      "dry standpipe",
+      "fdc",
+      "fire service inlet",
+      "fire sprinkler inlet",
+      "riser inlet",
+      "standpipe",
+      "wet riser inlet",
+      "wet standpipe"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "fire department connection"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2783,
+    "name": "Lifeboat Station",
+    "icon": "temaki-boat_tour",
+    "tags": {
+      "emergency": "water_rescue"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "boat rescue",
+      "life saving",
+      "lifeboat",
+      "rescue",
+      "search and rescue"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "lifeboat station"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2784,
+    "name": "Emergency Water Tank",
+    "icon": "temaki-storage_tank",
+    "tags": {
+      "emergency": "water_tank",
+      "man_made": "storage_tank"
+    },
+    "geometry": [
+      "point",
+      "vertex",
+      "area"
+    ],
+    "terms": [
+      "cistern",
+      "extinguishing",
+      "firefighting",
+      "water tank"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "emergency water tank"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2785,
+    "name": "Healthcare Facility (Unspecified Type)",
+    "icon": "maki-hospital",
+    "tags": {
+      "healthcare": "yes"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "healthcare facility (unspecified type)"
+    ],
+    "matchScore": 0.5
+  },
+  {
+    "id": 2786,
+    "name": "Homeopath",
+    "icon": "maki-doctor",
+    "tags": {
+      "healthcare": "alternative",
+      "healthcare:speciality": "homeopathy"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "homeopath"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2787,
+    "name": "Osteopath",
+    "icon": "maki-doctor",
+    "tags": {
+      "healthcare": "alternative",
+      "healthcare:speciality": "osteopathy"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "osteopath"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2788,
+    "name": "Busway",
+    "icon": "temaki-bus",
+    "tags": {
+      "highway": "busway"
+    },
+    "geometry": [
+      "line"
+    ],
+    "terms": [
+      "brt"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "busway"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2789,
+    "name": "Informal Crossing",
+    "icon": "temaki-pedestrian",
+    "tags": {
+      "crossing": "informal"
+    },
+    "geometry": [
+      "vertex"
+    ],
+    "terms": [
+      "informal crosswalk",
+      "informal foot path crossing",
+      "informal pedestrian crossing"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "informal crossing"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2790,
+    "name": "Cycle Crossing With Traffic Signals",
+    "icon": "fas-biking",
+    "tags": {
+      "highway": "cycleway",
+      "cycleway": "crossing",
+      "crossing": "traffic_signals"
+    },
+    "geometry": [
+      "line"
+    ],
+    "terms": [
+      "bicycle crossing",
+      "bike crossing",
+      "cycle path crossing",
+      "cycleway crossing"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "cycle crossing with traffic signals"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2791,
+    "name": "Marked Cycle Crossing",
+    "icon": "temaki-cyclist_crosswalk",
+    "tags": {
+      "highway": "cycleway",
+      "cycleway": "crossing",
+      "crossing": "uncontrolled"
+    },
+    "geometry": [
+      "line"
+    ],
+    "terms": [
+      "bicycle crossing",
+      "bike crossing",
+      "cycle crosswalk",
+      "cycle path crossing",
+      "cycleway crossing"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "marked cycle crossing"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2792,
+    "name": "Cycle Refuge Island",
+    "icon": "fas-biking",
+    "tags": {
+      "highway": "cycleway",
+      "cycleway": "traffic_island"
+    },
+    "geometry": [
+      "line"
+    ],
+    "terms": [
+      "crossing island"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "cycle refuge island"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2793,
+    "name": "Cycle & Foot Refuge Island",
+    "icon": "temaki-pedestrian_and_cyclist",
+    "tags": {
+      "highway": "cycleway",
+      "cycleway": "traffic_island",
+      "foot": "designated",
+      "bicycle": "designated"
+    },
+    "geometry": [
+      "line"
+    ],
+    "terms": [
+      "crossing island"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "cycle & foot refuge island"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2794,
+    "name": "Cyclist Waiting Aid",
+    "icon": "temaki-guard_rail",
+    "tags": {
+      "highway": "cyclist_waiting_aid"
+    },
+    "geometry": [
+      "vertex"
+    ],
+    "terms": [
+      "foot rail",
+      "footrail",
+      "footrest",
+      "grip",
+      "hand rail",
+      "handle",
+      "handrail",
+      "handrest",
+      "holding rail"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "cyclist waiting aid"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2795,
+    "name": "Runaway Truck Ramp",
+    "icon": "fas-truck-fast",
+    "tags": {
+      "highway": "escape"
+    },
+    "geometry": [
+      "line"
+    ],
+    "terms": [
+      "emergency escape ramp",
+      "escape lane",
+      "runaway truck lane",
+      "truck arrester bed"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "runaway truck ramp"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2796,
+    "name": "Marked Crossing",
+    "icon": "temaki-pedestrian",
+    "tags": {
+      "highway": "footway",
+      "footway": "crossing",
+      "crossing": "uncontrolled"
+    },
+    "geometry": [
+      "line"
+    ],
+    "terms": [
+      "crosswalk",
+      "marked crosswalk",
+      "marked foot path crossing",
+      "marked pedestrian crosswalk",
+      "zebra crossing"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "marked crossing"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2797,
+    "name": "Sidewalk",
+    "icon": "temaki-pedestrian",
+    "tags": {
+      "footway": "sidewalk"
+    },
+    "geometry": [
+      "line"
+    ],
+    "terms": [
+      "pavement",
+      "sidepath"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "sidewalk"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2798,
+    "name": "Refuge Island",
+    "icon": "temaki-pedestrian",
+    "tags": {
+      "highway": "footway",
+      "footway": "traffic_island"
+    },
+    "geometry": [
+      "line"
+    ],
+    "terms": [
+      "crossing island"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "refuge island"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2799,
+    "name": "Ladder",
+    "icon": "temaki-crossing_markings-ladder",
+    "tags": {
+      "highway": "ladder"
+    },
+    "geometry": [
+      "vertex",
+      "line"
+    ],
+    "terms": [
+      "ladder"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "ladder"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2800,
+    "name": "Cycle & Foot Crossing",
+    "icon": "temaki-cyclist_crosswalk",
+    "tags": {
+      "path": "crossing"
+    },
+    "geometry": [
+      "line"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "cycle & foot crossing"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2801,
+    "name": "Cycle & Foot Crossing With Pedestrian Signals",
+    "icon": "temaki-railway_signals",
+    "tags": {
+      "highway": "path",
+      "path": "crossing",
+      "crossing": "traffic_signals"
+    },
+    "geometry": [
+      "line"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "cycle & foot crossing with pedestrian signals"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2802,
+    "name": "Marked Cycle & Foot Crossing",
+    "icon": "temaki-pedestrian",
+    "tags": {
+      "highway": "path",
+      "path": "crossing",
+      "crossing": "uncontrolled"
+    },
+    "geometry": [
+      "line"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "marked cycle & foot crossing"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2803,
+    "name": "Unmarked Cycle & Foot Crossing",
+    "icon": "temaki-pedestrian",
+    "tags": {
+      "highway": "path",
+      "path": "crossing",
+      "crossing": "unmarked"
+    },
+    "geometry": [
+      "line"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "unmarked cycle & foot crossing"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2804,
+    "name": "Blue Plaque",
+    "icon": "temaki-plaque",
+    "tags": {
+      "memorial": "blue_plaque"
+    },
+    "geometry": [
+      "point",
+      "vertex"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "blue plaque"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2805,
+    "name": "Memorial Plaque Stolperstein",
+    "icon": "temaki-plaque",
+    "tags": {
+      "historic": "memorial",
+      "memorial": "stolperstein"
+    },
+    "geometry": [
+      "point",
+      "vertex"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "memorial plaque stolperstein"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2806,
+    "name": "Junction",
+    "icon": "temaki-junction",
+    "tags": {
+      "junction": "yes"
+    },
+    "geometry": [
+      "vertex",
+      "area"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "junction"
+    ],
+    "matchScore": 0.5
+  },
+  {
+    "id": 2807,
+    "name": "Fish Farm / Hatchery",
+    "icon": "fas-fish",
+    "tags": {
+      "landuse": "aquaculture",
+      "produce": "fish"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "bass",
+      "carp",
+      "fish farm",
+      "fish hatchery",
+      "salmon",
+      "sturgeon",
+      "tilapia",
+      "trout"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "fish farm / hatchery"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2808,
+    "name": "Meadow With Fruit Trees",
+    "icon": "maki-park",
+    "tags": {
+      "landuse": "meadow",
+      "meadow": "meadow_orchard"
+    },
+    "geometry": [
+      "area"
+    ],
+    "terms": [
+      "fruit",
+      "maedow"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "meadow with fruit trees"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2809,
+    "name": "Orchard Planted in a Meadow",
+    "icon": "maki-park",
+    "tags": {
+      "landuse": "orchard",
+      "orchard": "meadow_orchard"
+    },
+    "geometry": [
+      "area"
+    ],
+    "terms": [
+      "fruit",
+      "maedow"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "orchard planted in a meadow"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2810,
+    "name": "Olive Grove",
+    "icon": "maki-park",
+    "tags": {
+      "landuse": "orchard",
+      "trees": "olive_trees"
+    },
+    "geometry": [
+      "area"
+    ],
+    "terms": [
+      "olive culture",
+      "olive oil",
+      "olive orchard",
+      "olive production",
+      "olive yard"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "olive grove"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2811,
+    "name": "Mobile Home Park",
+    "icon": "temaki-manufactured_home",
+    "tags": {
+      "residential": "trailer_park"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "caravan park",
+      "manufactured home community",
+      "trailer park"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "mobile home park"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2812,
+    "name": "Bathing Place",
+    "icon": "maki-water",
+    "tags": {
+      "leisure": "bathing_place"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "bathing",
+      "dipping",
+      "ladder",
+      "pier",
+      "swimming",
+      "swimming hole",
+      "water"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "bathing place"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2813,
+    "name": "Kitchen Garden",
+    "icon": "fas-carrot",
+    "tags": {
+      "leisure": "garden",
+      "garden:style": "kitchen"
+    },
+    "geometry": [
+      "area"
+    ],
+    "terms": [
+      "cook's garden",
+      "culinary garden",
+      "edible garden",
+      "potager garden",
+      "vegetable garden"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "kitchen garden"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2814,
+    "name": "Residential Garden",
+    "icon": "maki-garden",
+    "tags": {
+      "leisure": "garden",
+      "garden:type": "residential"
+    },
+    "geometry": [
+      "area"
+    ],
+    "terms": [
+      "back garden",
+      "backyard",
+      "domestic garden",
+      "front garden",
+      "front yard"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "residential garden"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2815,
+    "name": "Hot Tub",
+    "icon": "fas-hot-tub-person",
+    "tags": {
+      "leisure": "hot_tub"
+    },
+    "geometry": [
+      "area",
+      "point"
+    ],
+    "terms": [
+      "jacuzzi",
+      "spa"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "hot tub"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2816,
+    "name": "Yacht Berths",
+    "icon": "temaki-sailboat",
+    "tags": {
+      "seamark:harbour:category": "marina_no_facilities"
+    },
+    "geometry": [
+      "area",
+      "point",
+      "vertex"
+    ],
+    "terms": [
+      "boats",
+      "docks",
+      "harbor",
+      "harbour",
+      "marina",
+      "moorings",
+      "yachts"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "yacht berths"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2817,
+    "name": "Track & Field Pitch",
+    "icon": "maki-pitch",
+    "tags": {
+      "leisure": "pitch",
+      "sport": "athletics"
+    },
+    "geometry": [
+      "area",
+      "point"
+    ],
+    "terms": [
+      "athletics"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "track & field pitch"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2818,
+    "name": "American Handball Court",
+    "icon": "temaki-wall",
+    "tags": {
+      "leisure": "pitch",
+      "sport": "american_handball"
+    },
+    "geometry": [
+      "area",
+      "point"
+    ],
+    "terms": [
+      "handball",
+      "wallball"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "american handball court"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2819,
+    "name": "Discus Ring / Sector",
+    "icon": "maki-pitch",
+    "tags": {
+      "leisure": "pitch",
+      "sport": "athletics",
+      "athletics": "discus_throw"
+    },
+    "geometry": [
+      "area",
+      "point"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "discus ring / sector"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2820,
+    "name": "Hammer Throw Ring / Sector",
+    "icon": "maki-pitch",
+    "tags": {
+      "leisure": "pitch",
+      "sport": "athletics",
+      "athletics": "hammer_throw"
+    },
+    "geometry": [
+      "area",
+      "point"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "hammer throw ring / sector"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2821,
+    "name": "High Jump Area",
+    "icon": "maki-pitch",
+    "tags": {
+      "leisure": "pitch",
+      "sport": "athletics",
+      "athletics": "high_jump"
+    },
+    "geometry": [
+      "area",
+      "point"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "high jump area"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2822,
+    "name": "Javelin Sector",
+    "icon": "maki-pitch",
+    "tags": {
+      "leisure": "pitch",
+      "sport": "athletics",
+      "athletics": "javelin_throw"
+    },
+    "geometry": [
+      "area",
+      "point"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "javelin sector"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2823,
+    "name": "Long Jump Pit",
+    "icon": "maki-pitch",
+    "tags": {
+      "leisure": "pitch",
+      "sport": "athletics",
+      "athletics": "long_jump"
+    },
+    "geometry": [
+      "area",
+      "point"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "long jump pit"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2824,
+    "name": "Pole Vault Pit",
+    "icon": "maki-pitch",
+    "tags": {
+      "leisure": "pitch",
+      "sport": "athletics",
+      "athletics": "pole_vault"
+    },
+    "geometry": [
+      "area",
+      "point"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "pole vault pit"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2825,
+    "name": "Shot Put Ring / Pit",
+    "icon": "maki-pitch",
+    "tags": {
+      "leisure": "pitch",
+      "sport": "athletics",
+      "athletics": "shot_put"
+    },
+    "geometry": [
+      "area",
+      "point"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "shot put ring / pit"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2826,
+    "name": "Triple Jump Pit",
+    "icon": "maki-pitch",
+    "tags": {
+      "leisure": "pitch",
+      "sport": "athletics",
+      "athletics": "triple_jump"
+    },
+    "geometry": [
+      "area",
+      "point"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "triple jump pit"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2827,
+    "name": "Biathlon Range",
+    "icon": "fas-crosshairs",
+    "tags": {
+      "leisure": "pitch",
+      "sport": "biathlon"
+    },
+    "geometry": [
+      "area",
+      "point"
+    ],
+    "terms": [
+      "biathlon firing range",
+      "biathlon shooting gallery",
+      "biathlon shooting range"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "biathlon range"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2828,
+    "name": "Funnel Ball Court",
+    "icon": "maki-pitch",
+    "tags": {
+      "leisure": "pitch",
+      "sport": "funnel_ball"
+    },
+    "geometry": [
+      "area",
+      "point"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "funnel ball court"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2829,
+    "name": "Gaga Pit",
+    "icon": "maki-pitch",
+    "tags": {
+      "leisure": "pitch",
+      "sport": "gaga"
+    },
+    "geometry": [
+      "area",
+      "point"
+    ],
+    "terms": [
+      "gaga ball"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "gaga pit"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2830,
+    "name": "Team Handball Court",
+    "icon": "maki-pitch",
+    "tags": {
+      "leisure": "pitch",
+      "sport": "handball"
+    },
+    "geometry": [
+      "area",
+      "point"
+    ],
+    "terms": [
+      "handball"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "team handball court"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2831,
+    "name": "Adventure Park",
+    "icon": "temaki-abseiling",
+    "tags": {
+      "leisure": "sports_centre",
+      "sport": "climbing_adventure"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "obstacle course",
+      "rope climbing",
+      "ropes course",
+      "zip line"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "adventure park"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2832,
+    "name": "Horse Race Course",
+    "icon": "maki-racetrack-horse",
+    "tags": {
+      "leisure": "sports_centre",
+      "sport": "horse_racing"
+    },
+    "geometry": [
+      "area",
+      "point"
+    ],
+    "terms": [
+      "equestrian race course",
+      "gallop",
+      "horse race",
+      "horse race betting",
+      "horse racing",
+      "horseracing",
+      "race course",
+      "racecourse"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "horse race course"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2833,
+    "name": "Track & Field Runway",
+    "icon": "fas-running",
+    "tags": {
+      "leisure": "track",
+      "sport": "athletics"
+    },
+    "geometry": [
+      "point",
+      "line",
+      "area"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "track & field runway"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2834,
+    "name": "Running Track",
+    "icon": "fas-running",
+    "tags": {
+      "leisure": "track",
+      "sport": "athletics",
+      "athletics": "running"
+    },
+    "geometry": [
+      "point",
+      "line",
+      "area"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "running track"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2835,
+    "name": "Javelin Runway",
+    "icon": "fas-running",
+    "tags": {
+      "leisure": "track",
+      "sport": "athletics",
+      "athletics": "javelin_throw"
+    },
+    "geometry": [
+      "point",
+      "line",
+      "area"
+    ],
+    "terms": [
+      "javelin track"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "javelin runway"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2836,
+    "name": "Long Jump Runway",
+    "icon": "fas-running",
+    "tags": {
+      "leisure": "track",
+      "sport": "athletics",
+      "athletics": "long_jump"
+    },
+    "geometry": [
+      "point",
+      "line",
+      "area"
+    ],
+    "terms": [
+      "long jump track"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "long jump runway"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2837,
+    "name": "Pole Vault Runway",
+    "icon": "fas-running",
+    "tags": {
+      "leisure": "track",
+      "sport": "athletics",
+      "athletics": "pole_vault"
+    },
+    "geometry": [
+      "point",
+      "line",
+      "area"
+    ],
+    "terms": [
+      "pole vault track"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "pole vault runway"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2838,
+    "name": "Sprint Runway",
+    "icon": "fas-running",
+    "tags": {
+      "leisure": "track",
+      "sport": "athletics",
+      "athletics": "sprint"
+    },
+    "geometry": [
+      "point",
+      "line",
+      "area"
+    ],
+    "terms": [
+      "sprint track",
+      "sprinting"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "sprint runway"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2839,
+    "name": "Steeplechase Runway",
+    "icon": "fas-running",
+    "tags": {
+      "leisure": "track",
+      "sport": "athletics",
+      "athletics": "steeplechase"
+    },
+    "geometry": [
+      "point",
+      "line",
+      "area"
+    ],
+    "terms": [
+      "steeplechase track"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "steeplechase runway"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2840,
+    "name": "Triple Jump Runway",
+    "icon": "fas-running",
+    "tags": {
+      "leisure": "track",
+      "sport": "athletics",
+      "athletics": "triple_jump"
+    },
+    "geometry": [
+      "point",
+      "line",
+      "area"
+    ],
+    "terms": [
+      "triple jump track"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "triple jump runway"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2841,
+    "name": "Man-Made Feature (Unspecified Type)",
+    "icon": "temaki-storage_tank",
+    "tags": {
+      "man_made": "yes"
+    },
+    "geometry": [
+      "point",
+      "vertex",
+      "line",
+      "area"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "man-made feature (unspecified type)"
+    ],
+    "matchScore": 0.5
+  },
+  {
+    "id": 2842,
+    "name": "Ceremonial Gate",
+    "icon": "fas-archway",
+    "tags": {
+      "man_made": "ceremonial_gate"
+    },
+    "geometry": [
+      "point",
+      "vertex",
+      "line",
+      "area"
+    ],
+    "terms": [
+      "arch",
+      "gate",
+      "paifang",
+      "torii"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "ceremonial gate"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2843,
+    "name": "Torii",
+    "icon": "temaki-shinto",
+    "tags": {
+      "ceremonial_gate": "torii"
+    },
+    "geometry": [
+      "point",
+      "vertex",
+      "line"
+    ],
+    "terms": [
+      "japanese gate",
+      "shinto shrine"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "torii"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2844,
+    "name": "EV Charging Point",
+    "icon": "fas-plug-circle-bolt",
+    "tags": {
+      "man_made": "charge_point"
+    },
+    "geometry": [
+      "point"
+    ],
+    "terms": [
+      "charge point",
+      "charging stall",
+      "charging station",
+      "electric vehicle",
+      "ev"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "ev charging point"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2845,
+    "name": "Wastewater Clarifier",
+    "icon": "temaki-waste",
+    "tags": {
+      "man_made": "clarifier"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "wastewater clarifier"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2846,
+    "name": "Gas Flare",
+    "icon": "temaki-chimney",
+    "tags": {
+      "man_made": "flare"
+    },
+    "geometry": [
+      "point",
+      "vertex"
+    ],
+    "terms": [
+      "burn",
+      "fire",
+      "flare stack",
+      "gas",
+      "oil"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "gas flare"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2847,
+    "name": "Gas Pump",
+    "icon": "maki-fuel",
+    "tags": {
+      "man_made": "fuel_pump"
+    },
+    "geometry": [
+      "point",
+      "vertex"
+    ],
+    "terms": [
+      "biodiesel",
+      "cng",
+      "diesel",
+      "fuel",
+      "gasoline",
+      "lng",
+      "petrol",
+      "propane"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "gas pump"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2848,
+    "name": "Gantry",
+    "icon": "temaki-toll_gantry",
+    "tags": {
+      "man_made": "gantry"
+    },
+    "geometry": [
+      "line"
+    ],
+    "terms": [
+      "highway gantry",
+      "mast arm",
+      "road sign holder",
+      "road sign structure",
+      "sign assembly",
+      "sign holder",
+      "sign structure"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "gantry"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2849,
+    "name": "Insect Hotel",
+    "icon": "fas-bugs",
+    "tags": {
+      "man_made": "insect_hotel"
+    },
+    "geometry": [
+      "point"
+    ],
+    "terms": [
+      "bee hotel",
+      "bug hotel",
+      "insect house"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "insect hotel"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2850,
+    "name": "Milk Churn Stand",
+    "icon": "temaki-milk_jug",
+    "tags": {
+      "man_made": "milk_churn_stand"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "creamery stand",
+      "milk can stand",
+      "milk stand"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "milk churn stand"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2851,
+    "name": "Satellite Dish",
+    "icon": "fas-satellite-dish",
+    "tags": {
+      "man_made": "satellite_dish"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "fixed satellite dish",
+      "motorized satellite dish",
+      "parabolic dish",
+      "satellite communication",
+      "tracking satellite dish"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "satellite dish"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2852,
+    "name": "Ski Jumping Tower",
+    "icon": "temaki-ski_jumping",
+    "tags": {
+      "man_made": "ski_jump"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "in-run",
+      "inrun",
+      "jump",
+      "ski jump",
+      "ski jump in-run tower",
+      "ski jump structure",
+      "ski jumping hill tower"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "ski jumping tower"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2853,
+    "name": "Postal Relay Box",
+    "icon": "fas-door-closed",
+    "tags": {
+      "man_made": "street_cabinet",
+      "street_cabinet": "postal_service"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "letter storage",
+      "post delivery",
+      "postal services"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "postal relay box"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2854,
+    "name": "Traffic Control System Cabinet",
+    "icon": "fas-door-closed",
+    "tags": {
+      "man_made": "street_cabinet",
+      "street_cabinet": "traffic_control"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "traffic control automation",
+      "traffic light"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "traffic control system cabinet"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2855,
+    "name": "Traffic Monitoring Cabinet",
+    "icon": "fas-door-closed",
+    "tags": {
+      "man_made": "street_cabinet",
+      "street_cabinet": "traffic_monitoring"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "traffic monitoring",
+      "vehicle counting"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "traffic monitoring cabinet"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2856,
+    "name": "Transport Management Cabinet",
+    "icon": "fas-door-closed",
+    "tags": {
+      "man_made": "street_cabinet",
+      "street_cabinet": "transport_management"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "public transport automation"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "transport management cabinet"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2857,
+    "name": "Private Waste Collection Cabinet",
+    "icon": "maki-recycling",
+    "tags": {
+      "man_made": "street_cabinet",
+      "street_cabinet": "waste"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "private waste collection cabinet"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2858,
+    "name": "Telescope",
+    "icon": "fas-satellite-dish",
+    "tags": {
+      "man_made": "telescope"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "telescope"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2859,
+    "name": "Optical Telescope",
+    "icon": "temaki-telescope",
+    "tags": {
+      "man_made": "telescope",
+      "telescope:type": "optical"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "reflecting telescope",
+      "refracting telescope"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "optical telescope"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2860,
+    "name": "Industrial Brewery",
+    "icon": "temaki-storage_fermenter",
+    "tags": {
+      "man_made": "works",
+      "product": "beer"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "alcohol",
+      "beer",
+      "bier",
+      "booze",
+      "cider"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "industrial brewery"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2861,
+    "name": "Arête",
+    "icon": "temaki-mountain_range",
+    "tags": {
+      "natural": "arete"
+    },
+    "geometry": [
+      "line"
+    ],
+    "terms": [
+      "mountains",
+      "ridge"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "arête"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2862,
+    "name": "Peninsula",
+    "icon": "temaki-cape_landform",
+    "tags": {
+      "natural": "peninsula"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "bay",
+      "cape",
+      "coastline",
+      "erosion",
+      "headland",
+      "island",
+      "islet",
+      "promontory"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "peninsula"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2863,
+    "name": "Sinkhole",
+    "icon": "temaki-trench",
+    "tags": {
+      "natural": "sinkhole"
+    },
+    "geometry": [
+      "point",
+      "vertex",
+      "area"
+    ],
+    "terms": [
+      "cenote",
+      "collapse sink",
+      "doline",
+      "shakehole",
+      "sink",
+      "snake hole",
+      "swallet",
+      "swallow hole"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "sinkhole"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2864,
+    "name": "Strait",
+    "icon": "iD-waterway-river",
+    "tags": {
+      "natural": "strait"
+    },
+    "geometry": [
+      "point",
+      "line",
+      "area"
+    ],
+    "terms": [
+      "channel",
+      "pass",
+      "passage"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "strait"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2865,
+    "name": "Broadleaved Tree",
+    "icon": "maki-park",
+    "tags": {
+      "natural": "tree",
+      "leaf_type": "broadleaved"
+    },
+    "geometry": [
+      "point",
+      "vertex"
+    ],
+    "terms": [
+      "broadleaf",
+      "broadleaved",
+      "hardwood"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "broadleaved tree"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2866,
+    "name": "Needleleaved Tree",
+    "icon": "roentgen-needleleaved_tree",
+    "tags": {
+      "natural": "tree",
+      "leaf_type": "needleleaved"
+    },
+    "geometry": [
+      "point",
+      "vertex"
+    ],
+    "terms": [
+      "conifer",
+      "needleleaved",
+      "softwood"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "needleleaved tree"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2867,
+    "name": "Broadleaved Tree (deciduous)",
+    "icon": "maki-park",
+    "tags": {
+      "natural": "tree",
+      "leaf_type": "broadleaved",
+      "leaf_cycle": "deciduous"
+    },
+    "geometry": [
+      "point",
+      "vertex"
+    ],
+    "terms": [
+      "broadleaf",
+      "broadleaved",
+      "deciduous",
+      "hardwood",
+      "tree"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "broadleaved tree (deciduous)"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2868,
+    "name": "Broadleaved Tree (evergreen)",
+    "icon": "maki-park",
+    "tags": {
+      "natural": "tree",
+      "leaf_type": "broadleaved",
+      "leaf_cycle": "evergreen"
+    },
+    "geometry": [
+      "point",
+      "vertex"
+    ],
+    "terms": [
+      "broadleaf",
+      "broadleaved",
+      "evergreen",
+      "hardwood",
+      "tree"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "broadleaved tree (evergreen)"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2869,
+    "name": "Needleleaved Tree (deciduous)",
+    "icon": "roentgen-needleleaved_tree",
+    "tags": {
+      "natural": "tree",
+      "leaf_type": "needleleaved",
+      "leaf_cycle": "deciduous"
+    },
+    "geometry": [
+      "point",
+      "vertex"
+    ],
+    "terms": [
+      "conifer",
+      "deciduous",
+      "needleleaved",
+      "softwood",
+      "tree"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "needleleaved tree (deciduous)"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2870,
+    "name": "Needleleaved Tree (evergreen)",
+    "icon": "roentgen-needleleaved_tree",
+    "tags": {
+      "natural": "tree",
+      "leaf_type": "needleleaved",
+      "leaf_cycle": "evergreen"
+    },
+    "geometry": [
+      "point",
+      "vertex"
+    ],
+    "terms": [
+      "conifer",
+      "evergreen",
+      "needleleaved",
+      "softwood",
+      "tree"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "needleleaved tree (evergreen)"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2871,
+    "name": "Tree Stump",
+    "icon": "temaki-tree_stump",
+    "tags": {
+      "natural": "tree_stump"
+    },
+    "geometry": [
+      "point",
+      "vertex"
+    ],
+    "terms": [
+      "cut tree",
+      "removed tree"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "tree stump"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2872,
+    "name": "Oxbow Lake",
+    "icon": "maki-water",
+    "tags": {
+      "natural": "water",
+      "water": "oxbow"
+    },
+    "geometry": [
+      "area"
+    ],
+    "terms": [
+      "anabranch",
+      "billabong",
+      "cut off",
+      "meander",
+      "oxbow",
+      "resaca"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "oxbow lake"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2873,
+    "name": "Engineering Office",
+    "icon": "fas-pen-ruler",
+    "tags": {
+      "office": "engineer"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "civil engineer",
+      "electrical engineer",
+      "engineer",
+      "engineering firm",
+      "mechanical engineer",
+      "structural engineer",
+      "technical engineer"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "engineering office"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2874,
+    "name": "Graphic Design Office",
+    "icon": "maki-suitcase",
+    "tags": {
+      "office": "graphic_design"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "art",
+      "design",
+      "illustrate",
+      "technology",
+      "visual"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "graphic design office"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2875,
+    "name": "Labor Union Office",
+    "icon": "maki-suitcase",
+    "tags": {
+      "office": "union"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "trade union",
+      "union office"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "labor union office"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2876,
+    "name": "Pipeline Substation",
+    "icon": "temaki-powered_pump",
+    "tags": {
+      "pipeline": "substation"
+    },
+    "geometry": [
+      "area",
+      "point"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "pipeline substation"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2877,
+    "name": "Ski Jumping Piste",
+    "icon": "temaki-ski_jumping",
+    "tags": {
+      "piste:type": "ski_jump"
+    },
+    "geometry": [
+      "line",
+      "area"
+    ],
+    "terms": [
+      "jump",
+      "ski jump",
+      "ski jumping hill"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "ski jumping piste"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2878,
+    "name": "Ski Jumping Take-Off",
+    "icon": "temaki-ski_jumping",
+    "tags": {
+      "piste:takeoff": "yes"
+    },
+    "geometry": [
+      "vertex"
+    ],
+    "terms": [
+      "jump",
+      "ski jump",
+      "ski jump table",
+      "ski jump take-off",
+      "ski jumping hill in-run table",
+      "take-off",
+      "takeoff"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "ski jumping take-off"
+    ],
+    "matchScore": 0.5
+  },
+  {
+    "id": 2879,
+    "name": "Farm",
+    "icon": "maki-farm",
+    "tags": {
+      "place": "farm"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "farm"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2880,
+    "name": "Play Activity Panel",
+    "icon": "maki-playground",
+    "tags": {
+      "playground": "activitypanel"
+    },
+    "geometry": [
+      "point",
+      "line",
+      "area"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "play activity panel"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2881,
+    "name": "Hanging Spinner",
+    "icon": "maki-playground",
+    "tags": {
+      "playground": "aerialrotator"
+    },
+    "geometry": [
+      "point"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "hanging spinner"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2882,
+    "name": "Play Bridge",
+    "icon": "maki-playground",
+    "tags": {
+      "playground": "bridge"
+    },
+    "geometry": [
+      "point",
+      "line",
+      "area"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "play bridge"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2883,
+    "name": "Play Climbing Wall",
+    "icon": "maki-playground",
+    "tags": {
+      "playground": "climbingwall"
+    },
+    "geometry": [
+      "point",
+      "line",
+      "area"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "play climbing wall"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2884,
+    "name": "Funnel Ball Funnel",
+    "icon": "maki-playground",
+    "tags": {
+      "playground": "funnel_ball"
+    },
+    "geometry": [
+      "point"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "funnel ball funnel"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2885,
+    "name": "Painted Playground Map",
+    "icon": "temaki-compass",
+    "tags": {
+      "playground": "map"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "painted playground map"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2886,
+    "name": "Play Water Pump",
+    "icon": "temaki-water",
+    "tags": {
+      "playground": "pump"
+    },
+    "geometry": [
+      "point"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "play water pump"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2887,
+    "name": "Play Sledding Hill",
+    "icon": "temaki-sledding",
+    "tags": {
+      "playground": "sledding"
+    },
+    "geometry": [
+      "point"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "play sledding hill"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2888,
+    "name": "Play Splash Pad",
+    "icon": "temaki-fountain",
+    "tags": {
+      "playground": "splash_pad"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "pad",
+      "spray",
+      "water"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "play splash pad"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2889,
+    "name": "Teen Shelter",
+    "icon": "maki-shelter",
+    "tags": {
+      "playground": "teenshelter"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "teen shelter"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2890,
+    "name": "Tetherball Pole",
+    "icon": "maki-playground",
+    "tags": {
+      "playground": "tetherball"
+    },
+    "geometry": [
+      "point"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "tetherball pole"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2891,
+    "name": "Trampoline",
+    "icon": "maki-playground",
+    "tags": {
+      "playground": "trampoline"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "trampoline"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2892,
+    "name": "Play Tunnel",
+    "icon": "maki-tunnel",
+    "tags": {
+      "playground": "tunnel_tube"
+    },
+    "geometry": [
+      "point",
+      "line",
+      "area"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "play tunnel"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2893,
+    "name": "Play Water Device (unspecified)",
+    "icon": "temaki-water",
+    "tags": {
+      "playground": "water"
+    },
+    "geometry": [
+      "point",
+      "line",
+      "area"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "play water device (unspecified)"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2894,
+    "name": "Catenary Pole",
+    "icon": "temaki-power_pole",
+    "tags": {
+      "power": "catenary_mast"
+    },
+    "geometry": [
+      "point",
+      "vertex"
+    ],
+    "terms": [
+      "catenary mast",
+      "catenary pylon",
+      "overhead line",
+      "overhead wire"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "catenary pole"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2895,
+    "name": "Solar Farm",
+    "icon": "fas-solar-panel",
+    "tags": {
+      "power": "plant",
+      "plant:source": "solar",
+      "plant:method": "photovoltaic"
+    },
+    "geometry": [
+      "area"
+    ],
+    "terms": [
+      "photovoltaic power station",
+      "solar panels",
+      "solar park",
+      "utility-scale solar"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "solar farm"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2896,
+    "name": "Anchor Portal",
+    "icon": "temaki-power",
+    "tags": {
+      "power": "portal"
+    },
+    "geometry": [
+      "vertex",
+      "line"
+    ],
+    "terms": [
+      "anchor gantry",
+      "gantry tower",
+      "h-frame tower"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "anchor portal"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2897,
+    "name": "Switchgear",
+    "icon": "temaki-power_switch",
+    "tags": {
+      "power": "switchgear"
+    },
+    "geometry": [
+      "area"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "switchgear"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2898,
+    "name": "Signal Box",
+    "icon": "temaki-power_shutoff",
+    "tags": {
+      "railway": "signal_box"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "interlock tower",
+      "interlocking tower",
+      "lever frame",
+      "radio block center",
+      "radio block centre",
+      "signal cab",
+      "signalling box",
+      "signalling cab"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "signal box"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2899,
+    "name": "Railway Turntable",
+    "icon": "maki-circle-stroked",
+    "tags": {
+      "railway": "turntable"
+    },
+    "geometry": [
+      "area",
+      "vertex"
+    ],
+    "terms": [
+      "turn table"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "railway turntable"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2900,
+    "name": "Relation",
+    "icon": "iD-relation",
+    "tags": {},
+    "geometry": [
+      "relation"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "relation"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2901,
+    "name": "Roller Coaster Station",
+    "icon": "temaki-roller_coaster",
+    "tags": {
+      "roller_coaster": "station"
+    },
+    "geometry": [
+      "vertex",
+      "area"
+    ],
+    "terms": [
+      "amusement ride",
+      "theme park"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "roller coaster station"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2902,
+    "name": "Roller Coaster Track",
+    "icon": "temaki-roller_coaster",
+    "tags": {
+      "roller_coaster": "track"
+    },
+    "geometry": [
+      "line"
+    ],
+    "terms": [
+      "amusement ride",
+      "theme park"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "roller coaster track"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2903,
+    "name": "Barbecue Shop",
+    "icon": "maki-bbq",
+    "tags": {
+      "shop": "bbq"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "barbecue",
+      "barbeque",
+      "bbq",
+      "grill"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "barbecue shop"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2904,
+    "name": "Esoteric Store",
+    "icon": "maki-shop",
+    "tags": {
+      "shop": "esoteric"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "acupuncture",
+      "alternative",
+      "aromatherapy",
+      "crystal",
+      "essential oil",
+      "meditation",
+      "new age",
+      "pendant",
+      "psychic",
+      "woo"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "esoteric store"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2905,
+    "name": "Lawn & Garden Equipment Store",
+    "icon": "fas-tractor",
+    "tags": {
+      "shop": "groundskeeping"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "chainsaw",
+      "cultivator",
+      "garden machinery",
+      "garden power tools",
+      "groundskeeping",
+      "mower, string trimmer",
+      "snow blower"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "lawn & garden equipment store"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2906,
+    "name": "Barber",
+    "icon": "temaki-beauty_salon",
+    "tags": {
+      "shop": "hairdresser",
+      "hairdresser": "barber"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "beard",
+      "groom",
+      "grooming",
+      "hair cut",
+      "hairdresser",
+      "moustache",
+      "razor",
+      "shave",
+      "shaving"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "barber"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2907,
+    "name": "Honey Store",
+    "icon": "fas-jar",
+    "tags": {
+      "shop": "honey"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "honey store"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2908,
+    "name": "Locksmith",
+    "icon": "fas-key",
+    "tags": {
+      "shop": "locksmith"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "key",
+      "lockpick"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "locksmith"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2909,
+    "name": "Visitor Center",
+    "icon": "maki-information",
+    "tags": {
+      "tourism": "information",
+      "information": "visitor_centre"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "visitors center",
+      "visitors information center",
+      "welcome center"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "visitor center"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2910,
+    "name": "Mini Speed Bumps",
+    "icon": "temaki-speed_bump",
+    "tags": {
+      "traffic_calming": "mini_bumps"
+    },
+    "geometry": [
+      "vertex"
+    ],
+    "terms": [
+      "bumps",
+      "circular bumps",
+      "circular speed bumps",
+      "slow",
+      "small bumps",
+      "small speed bumps",
+      "speed",
+      "traffic calming"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "mini speed bumps"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2911,
+    "name": "Variable Message Sign",
+    "icon": "temaki-billboard",
+    "tags": {
+      "traffic_sign": "variable_message"
+    },
+    "geometry": [
+      "point",
+      "vertex"
+    ],
+    "terms": [
+      "dynamic message sign",
+      "vms"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "variable message sign"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2912,
+    "name": "Associated Street",
+    "icon": "iD-relation",
+    "tags": {
+      "type": "associatedStreet"
+    },
+    "geometry": [
+      "relation"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "associated street"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2913,
+    "name": "Multipolygon",
+    "icon": "iD-multipolygon",
+    "tags": {
+      "type": "multipolygon"
+    },
+    "geometry": [
+      "relation"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "multipolygon"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2914,
+    "name": "Climbing Route",
+    "icon": "temaki-climbing",
+    "tags": {
+      "type": "route",
+      "route": "climbing"
+    },
+    "geometry": [
+      "relation"
+    ],
+    "terms": [
+      "climb",
+      "climbing",
+      "mountain climbing",
+      "rock climbing",
+      "rock climbing route"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "climbing route"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2915,
+    "name": "Climbing Area",
+    "icon": "temaki-climbing",
+    "tags": {
+      "climbing": "area",
+      "type": "site"
+    },
+    "geometry": [
+      "relation"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "climbing area"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2916,
+    "name": "Climbing Crag",
+    "icon": "temaki-climbing",
+    "tags": {
+      "type": "site",
+      "climbing": "crag"
+    },
+    "geometry": [
+      "relation"
+    ],
+    "terms": [],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "climbing crag"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2917,
+    "name": "Waterway Access Point",
+    "icon": "temaki-beach",
+    "tags": {
+      "waterway": "access_point"
+    },
+    "geometry": [
+      "vertex"
+    ],
+    "terms": [
+      "boat",
+      "canoe",
+      "kayak",
+      "launch",
+      "paddleboard",
+      "portage",
+      "put-in",
+      "rowboat",
+      "take-out"
+    ],
+    "last_updated": "2026-04-15",
+    "ds": "2026-04-15",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "waterway access point"
+    ],
+    "matchScore": 1
   }
 ]

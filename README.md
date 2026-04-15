@@ -99,3 +99,37 @@ Underlying script:
 Report output:
 
 - `tmp/missing_preset_icons_report.json`
+
+## id-tagging-schema Update Watch
+
+Check upstream `openstreetmap/id-tagging-schema` for a newer release and generate a delta report:
+
+```bash
+make check-id-tagging-schema
+```
+
+or:
+
+```bash
+./scripts/check_id_tagging_schema_updates.py --cache-presets
+```
+
+Report output:
+
+- `tmp/id_tagging_schema_update_report.json`
+
+Tracking file:
+
+- `meta/id_tagging_schema_tracking.json`
+
+After you finish a real sync/import, mark the tracked release:
+
+```bash
+make mark-id-tagging-schema-synced
+```
+
+or:
+
+```bash
+./scripts/mark_id_tagging_schema_synced.py --tag vX.Y.Z --note "import completed"
+```

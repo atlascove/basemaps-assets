@@ -24,6 +24,12 @@ detect-missing-icons:
 fetch-missing-icons:
 	./scripts/fetch_missing_icons.py --apply
 
+check-id-tagging-schema:
+	./scripts/check_id_tagging_schema_updates.py
+
+mark-id-tagging-schema-synced:
+	./scripts/mark_id_tagging_schema_synced.py
+
 	#serve static files
 serve:
 	http-server

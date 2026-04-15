@@ -18,6 +18,12 @@ runtime-icon-pack:
 refresh-assets:
 	./scripts/refresh_sprites_and_runtime.py
 
+detect-missing-icons:
+	./scripts/fetch_missing_icons.py
+
+fetch-missing-icons:
+	./scripts/fetch_missing_icons.py --apply
+
 	#serve static files
 serve:
 	http-server

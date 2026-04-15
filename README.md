@@ -74,3 +74,28 @@ What it runs:
 3. vendor key merge (`scripts/merge_vendor_sprite_keys.py`)
 4. runtime icon-pack build (`scripts/build_runtime_icon_pack.py`)
 5. final guard: fails if `runtime/icon-pack/v1/missing_from_sprite.json` is non-empty
+
+## Missing Icon Detection / Auto-Fetch
+
+Detect preset icons that are referenced in `meta/presets.json` but missing from `icons/`:
+
+```bash
+make detect-missing-icons
+```
+
+Attempt to fetch and write missing SVGs from known local/upstream sources:
+
+```bash
+make fetch-missing-icons
+```
+
+Underlying script:
+
+```bash
+./scripts/fetch_missing_icons.py          # dry-run
+./scripts/fetch_missing_icons.py --apply  # write files
+```
+
+Report output:
+
+- `tmp/missing_preset_icons_report.json`

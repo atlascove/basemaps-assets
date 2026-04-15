@@ -7,7 +7,7 @@
     "sprite_json": "sprites/sprites@2x.json",
     "sprite_png": "sprites/sprites@2x.png"
   },
-  "icon_count": 800,
+  "icon_count": 801,
   "missing_count": 0,
   "collisions": {},
   "icons": [
@@ -913,6 +913,13 @@
       "width": 30,
       "height": 30,
       "sha256": "372b9cae446a77f77ea01339f46112082d279f2ceb32cbf6bdba93a8401799f1"
+    },
+    {
+      "icon": "fas-scales",
+      "file": "icons/fas-scales.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "987172a9d4dab5323edf6c0aa322b6538149e319a2e92f96421f023f407e26ca"
     },
     {
       "icon": "fas-school",

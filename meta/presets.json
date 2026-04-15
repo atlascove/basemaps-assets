@@ -4602,7 +4602,7 @@
   {
     "id": 124,
     "name": "Marketplace",
-    "icon": "maki-shop",
+    "icon": "fas-scales",
     "tags": {
       "amenity": "marketplace"
     },

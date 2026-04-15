@@ -133,3 +133,14 @@ or:
 ```bash
 ./scripts/mark_id_tagging_schema_synced.py --tag vX.Y.Z --note "import completed"
 ```
+
+Generate candidate patch artifacts (added/changed upstream presets + icon readiness):
+
+```bash
+make generate-id-tagging-import-candidates
+```
+
+Outputs:
+
+- `tmp/id_tagging_schema_import_candidates.json`
+- `tmp/id_tagging_schema_import_candidates.tsv`

@@ -30,6 +30,9 @@ check-id-tagging-schema:
 mark-id-tagging-schema-synced:
 	./scripts/mark_id_tagging_schema_synced.py
 
+generate-id-tagging-import-candidates:
+	./scripts/generate_id_schema_import_candidates.py
+
 	#serve static files
 serve:
 	http-server

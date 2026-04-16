@@ -11,6 +11,7 @@ retina:
 	./scripts/build_runtime_icon_pack.py
 
 sprites-build: icon retina
+	./scripts/build_sprites_64.py
 
 runtime-icon-pack:
 	./scripts/build_runtime_icon_pack.py

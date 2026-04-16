@@ -72,8 +72,9 @@ What it runs:
 1. icon size validation (`scripts/check-icon-sizes.sh`)
 2. sprite build (1x + 2x)
 3. vendor key merge (`scripts/merge_vendor_sprite_keys.py`)
-4. runtime icon-pack build (`scripts/build_runtime_icon_pack.py`)
-5. final guard: fails if `runtime/icon-pack/v1/missing_from_sprite.json` is non-empty
+4. 64px sprite build (`sprites/sprites@64.{png,json}`)
+5. runtime icon-pack build (`scripts/build_runtime_icon_pack.py`)
+6. final guard: fails if `runtime/icon-pack/v1/missing_from_sprite.json` is non-empty
 
 ## Missing Icon Detection / Auto-Fetch
 

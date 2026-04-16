@@ -43,6 +43,8 @@ def main() -> int:
     run(["spreet", "--retina", "./icons", "./sprites/sprites@2x"], args.dry_run)
     run(["./scripts/merge_vendor_sprite_keys.py", "--ratio", "2"], args.dry_run)
 
+    run(["./scripts/build_sprites_64.py"], args.dry_run)
+
     run(["./scripts/build_runtime_icon_pack.py"], args.dry_run)
 
     if args.dry_run:
@@ -68,4 +70,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     sys.exit(main())
-

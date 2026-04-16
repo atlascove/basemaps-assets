@@ -144,3 +144,16 @@ Outputs:
 
 - `tmp/id_tagging_schema_import_candidates.json`
 - `tmp/id_tagging_schema_import_candidates.tsv`
+
+## 64px Sprite Variant
+
+Build a dedicated 64px atlas from source SVGs:
+
+```bash
+make sprites-64
+```
+
+Outputs:
+
+- `sprites/sprites@64.png`
+- `sprites/sprites@64.json`

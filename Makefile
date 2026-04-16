@@ -33,6 +33,9 @@ mark-id-tagging-schema-synced:
 generate-id-tagging-import-candidates:
 	./scripts/generate_id_schema_import_candidates.py
 
+sprites-64:
+	./scripts/build_sprites_64.py
+
 	#serve static files
 serve:
 	http-server

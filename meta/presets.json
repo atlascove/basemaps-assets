@@ -97716,7 +97716,7 @@
   {
     "id": 2921,
     "name": "Waiting Room",
-    "icon": "fas-couch",
+    "icon": "fts-waiting",
     "tags": {
       "amenity": "waiting_room"
     },
@@ -97729,7 +97729,9 @@
       "waiting area",
       "lounge",
       "waiting lounge",
-      "seating area"
+      "seating area",
+      "salon",
+      "lobby"
     ],
     "last_updated": "2026-04-19",
     "ds": "2026-04-19",

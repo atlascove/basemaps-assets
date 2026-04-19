@@ -7,7 +7,7 @@
     "sprite_json": "sprites/sprites@2x.json",
     "sprite_png": "sprites/sprites@2x.png"
   },
-  "icon_count": 801,
+  "icon_count": 802,
   "missing_count": 0,
   "collisions": {},
   "icons": [
@@ -1487,6 +1487,13 @@
       "width": 30,
       "height": 30,
       "sha256": "36be6998bd8db98bcc16baf3c62a05c6a927bea93d46edae9f6c431debacd635"
+    },
+    {
+      "icon": "fts-waiting",
+      "file": "icons/fts-waiting.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "9dac7fdbf2d783fbc40c79b5174e6d2905b6ca98e37bbb7bb0837dfc912ef45a"
     },
     {
       "icon": "fts-whale",

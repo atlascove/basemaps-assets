@@ -97712,5 +97712,35 @@
       "traffic island area"
     ],
     "matchScore": 0.05
+  },
+  {
+    "id": 2921,
+    "name": "Waiting Room",
+    "icon": "fas-couch",
+    "tags": {
+      "amenity": "waiting_room"
+    },
+    "geometry": [
+      "point",
+      "vertex",
+      "area"
+    ],
+    "terms": [
+      "waiting area",
+      "lounge",
+      "waiting lounge",
+      "seating area"
+    ],
+    "last_updated": "2026-04-19",
+    "ds": "2026-04-19",
+    "name_required": false,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "waiting room"
+    ],
+    "matchScore": 1
   }
 ]

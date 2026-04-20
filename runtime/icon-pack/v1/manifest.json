@@ -7,7 +7,7 @@
     "sprite_json": "sprites/sprites@2x.json",
     "sprite_png": "sprites/sprites@2x.png"
   },
-  "icon_count": 802,
+  "icon_count": 805,
   "missing_count": 0,
   "collisions": {},
   "icons": [
@@ -2873,6 +2873,27 @@
       "width": 30,
       "height": 30,
       "sha256": "8a4f9df9102905e3af33edf30d7840a675a93cf8b1f627893552e312e4c07c0a"
+    },
+    {
+      "icon": "ocha-airport",
+      "file": "icons/ocha-airport.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "f4226494ce2770b8e4e3719b582d5aba31d5c289889219490c7118e665e2eadb"
+    },
+    {
+      "icon": "ocha-ferry",
+      "file": "icons/ocha-ferry.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "15f41c0e14e599975f5b7cbc7b5cb76235d3943483711fe8d288500d05f88b60"
+    },
+    {
+      "icon": "ocha-train",
+      "file": "icons/ocha-train.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "3cbf9a8abaf80d374c14e4edbd415f4712881a2edba364d3138ab52488f1aa05"
     },
     {
       "icon": "onlinewebfonts-cave",

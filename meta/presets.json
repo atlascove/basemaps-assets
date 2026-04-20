@@ -1259,7 +1259,7 @@
   {
     "id": 38,
     "name": "Airport",
-    "icon": "temaki-airport",
+    "icon": "ocha-airport",
     "tags": {
       "aeroway": "aerodrome"
     },
@@ -1491,7 +1491,7 @@
   {
     "id": 44,
     "name": "Ferry Terminal",
-    "icon": "temaki-ferry",
+    "icon": "ocha-ferry",
     "tags": {
       "amenity": "ferry_terminal"
     },
@@ -36614,7 +36614,7 @@
   {
     "id": 1013,
     "name": "Ferry Station",
-    "icon": "temaki-ferry",
+    "icon": "ocha-ferry",
     "tags": {
       "ferry": "yes",
       "public_transport": "station"
@@ -37878,7 +37878,7 @@
   {
     "id": 1048,
     "name": "Train Station",
-    "icon": "temaki-train",
+    "icon": "ocha-train",
     "tags": {
       "train": "yes",
       "public_transport": "station"
@@ -38139,7 +38139,7 @@
   {
     "id": 1055,
     "name": "Ferry Stopping Location",
-    "icon": "temaki-ferry",
+    "icon": "ocha-ferry",
     "tags": {
       "ferry": "yes",
       "public_transport": "stop_position"
@@ -39068,7 +39068,7 @@
   {
     "id": 1079,
     "name": "Ferry Stop / Platform",
-    "icon": "temaki-ferry",
+    "icon": "ocha-ferry",
     "tags": {
       "ferry": "yes",
       "public_transport": "platform"
@@ -40141,7 +40141,7 @@
   {
     "id": 1110,
     "name": "Railway Station",
-    "icon": "temaki-train",
+    "icon": "ocha-train",
     "tags": {
       "railway": "station"
     },
@@ -85807,7 +85807,7 @@
   {
     "id": 2515,
     "name": "Domestic Airports",
-    "icon": "temaki-airport",
+    "icon": "ocha-airport",
     "tags": {
       "aeroway": "aerodrome",
       "aerodrome": "domestic"
@@ -87660,7 +87660,7 @@
   {
     "id": 2576,
     "name": "Major Airport",
-    "icon": "temaki-airport",
+    "icon": "ocha-airport",
     "tags": {
       "aeroway": "aerodrome",
       "aerodrome": "international"
@@ -90765,7 +90765,7 @@
   {
     "id": 2679,
     "name": "Train Station",
-    "icon": "temaki-train",
+    "icon": "ocha-train",
     "tags": {
       "railway": "station",
       "public_transport": "station"

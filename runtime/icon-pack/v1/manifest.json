@@ -2903,11 +2903,11 @@
       "sha256": "1a81a71c4ce773b25be34abebf97c1e4ba2d10461ad331dce02c53d85d25b1ae"
     },
     {
-      "icon": "ocha-ferry-whitefill",
-      "file": "icons/ocha-ferry-whitefill.webp",
+      "icon": "ocha-ferry-maki-whitefill",
+      "file": "icons/ocha-ferry-maki-whitefill.webp",
       "width": 30,
       "height": 30,
-      "sha256": "b09c7cac89d1c2b124227f24b3f4ce56211d26349f08ccac844cd5f76db90acb"
+      "sha256": "49e58c8bc01cfca360ab537ae61f86cb31aac8cd466393ba9cff54747429dab6"
     },
     {
       "icon": "ocha-light-rail-whitefill",

@@ -1491,7 +1491,7 @@
   {
     "id": 44,
     "name": "Ferry Terminal",
-    "icon": "ocha-ferry-whitefill",
+    "icon": "ocha-ferry-maki-whitefill",
     "tags": {
       "amenity": "ferry_terminal"
     },
@@ -36614,7 +36614,7 @@
   {
     "id": 1013,
     "name": "Ferry Station",
-    "icon": "ocha-ferry-whitefill",
+    "icon": "ocha-ferry-maki-whitefill",
     "tags": {
       "ferry": "yes",
       "public_transport": "station"
@@ -38139,7 +38139,7 @@
   {
     "id": 1055,
     "name": "Ferry Stopping Location",
-    "icon": "ocha-ferry-whitefill",
+    "icon": "ocha-ferry-maki-whitefill",
     "tags": {
       "ferry": "yes",
       "public_transport": "stop_position"
@@ -39068,7 +39068,7 @@
   {
     "id": 1079,
     "name": "Ferry Stop / Platform",
-    "icon": "ocha-ferry-whitefill",
+    "icon": "ocha-ferry-maki-whitefill",
     "tags": {
       "ferry": "yes",
       "public_transport": "platform"

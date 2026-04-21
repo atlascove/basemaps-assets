@@ -6434,7 +6434,7 @@
   {
     "id": 171,
     "name": "Ticket Validator",
-    "icon": "temaki-vending_machine",
+    "icon": "temaki-vending_tickets",
     "tags": {
       "amenity": "ticket_validator"
     },
@@ -77367,7 +77367,7 @@
   {
     "id": 2238,
     "name": "Bus Ticket Agency",
-    "icon": "temaki-bus",
+    "icon": "fas-ticket-alt",
     "tags": {
       "shop": "ticket",
       "ticket": "bus"
@@ -89620,7 +89620,7 @@
   {
     "id": 2640,
     "name": "Railway Ticket Agent",
-    "icon": "temaki-train_bullet",
+    "icon": "fas-ticket-alt",
     "tags": {
       "shop": "ticket",
       "ticket": "railway"

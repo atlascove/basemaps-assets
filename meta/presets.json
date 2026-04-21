@@ -37878,7 +37878,7 @@
   {
     "id": 1048,
     "name": "Train Station",
-    "icon": "ocha-train",
+    "icon": "ocha-train-big",
     "tags": {
       "train": "yes",
       "public_transport": "station"
@@ -40141,7 +40141,7 @@
   {
     "id": 1110,
     "name": "Railway Station",
-    "icon": "ocha-train",
+    "icon": "ocha-train-big",
     "tags": {
       "railway": "station"
     },
@@ -90765,7 +90765,7 @@
   {
     "id": 2679,
     "name": "Train Station",
-    "icon": "ocha-train",
+    "icon": "ocha-train-big",
     "tags": {
       "railway": "station",
       "public_transport": "station"

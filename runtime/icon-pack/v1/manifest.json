@@ -2889,11 +2889,11 @@
       "sha256": "15f41c0e14e599975f5b7cbc7b5cb76235d3943483711fe8d288500d05f88b60"
     },
     {
-      "icon": "ocha-train",
-      "file": "icons/ocha-train.webp",
-      "width": 30,
-      "height": 30,
-      "sha256": "3cbf9a8abaf80d374c14e4edbd415f4712881a2edba364d3138ab52488f1aa05"
+      "icon": "ocha-train-big",
+      "file": "icons/ocha-train-big.webp",
+      "width": 60,
+      "height": 60,
+      "sha256": "eb4234ce6308f3fddd15af84cbccf708015276ad677c666a4f64e229d72d362c"
     },
     {
       "icon": "onlinewebfonts-cave",

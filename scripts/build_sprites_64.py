@@ -34,6 +34,9 @@ OUT_JSON = SPRITES_DIR / "sprites@64.json"
 BASE_ICON_SIZE = 15.0
 TARGET_ICON_SIZE = 64.0
 SCALE = TARGET_ICON_SIZE / BASE_ICON_SIZE
+# Keep selected icons "standard" in @64 even if source SVG is 30x30.
+# This lets us run enlarged train icons in 1x/2x sprites while retaining 64x64 in sprites@64.
+FORCE_STANDARD_64_KEYS = {"ocha-train-big"}
 
 SVG_TAG_RE = re.compile(r"<svg\s+[^>]*>", re.IGNORECASE)
 WIDTH_RE = re.compile(r'\bwidth\s*=\s*"?(\d+(?:\.\d+)?)"?', re.IGNORECASE)
@@ -83,8 +86,13 @@ def load_local_items() -> List[SpriteItem]:
     items: List[SpriteItem] = []
     for svg in sorted(ICONS_DIR.glob("*.svg")):
         src_w, src_h = parse_svg_size(svg)
-        out_w = max(1, int(round(src_w * SCALE)))
-        out_h = max(1, int(round(src_h * SCALE)))
+        if svg.stem in FORCE_STANDARD_64_KEYS and src_w > BASE_ICON_SIZE and src_h > BASE_ICON_SIZE:
+            factor = BASE_ICON_SIZE / max(src_w, src_h)
+            out_w = max(1, int(round(src_w * SCALE * factor)))
+            out_h = max(1, int(round(src_h * SCALE * factor)))
+        else:
+            out_w = max(1, int(round(src_w * SCALE)))
+            out_h = max(1, int(round(src_h * SCALE)))
         img = render_svg(svg, out_w, out_h)
         items.append(SpriteItem(name=svg.stem, image=img, width=img.width, height=img.height))
     return items

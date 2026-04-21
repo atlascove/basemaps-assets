@@ -866,11 +866,11 @@
       "sha256": "b14b8ae501c91da8dc6303fb8ae103d1d13fe845c0d4c6fa698a096daf58d6a7"
     },
     {
-      "icon": "fas-plus-circle",
-      "file": "icons/fas-plus-circle.webp",
+      "icon": "fas-plus-circle-whitefill",
+      "file": "icons/fas-plus-circle-whitefill.webp",
       "width": 30,
       "height": 30,
-      "sha256": "5cbfea321174c5076d684417f40e42bb5fdf819bf9d1222aff41c4ddb8115d24"
+      "sha256": "cabe5ba930838f9d45a94acca18baf84296ffb77faa7380a77254d5b14929633"
     },
     {
       "icon": "fas-print",
@@ -2875,25 +2875,25 @@
       "sha256": "8a4f9df9102905e3af33edf30d7840a675a93cf8b1f627893552e312e4c07c0a"
     },
     {
-      "icon": "ocha-airport",
-      "file": "icons/ocha-airport.webp",
+      "icon": "ocha-airport-whitefill",
+      "file": "icons/ocha-airport-whitefill.webp",
       "width": 30,
       "height": 30,
-      "sha256": "f4226494ce2770b8e4e3719b582d5aba31d5c289889219490c7118e665e2eadb"
+      "sha256": "b29639be7dff13b60133aec005571da1f4e4bcdf470a886848f72812f5beca22"
     },
     {
-      "icon": "ocha-ferry",
-      "file": "icons/ocha-ferry.webp",
+      "icon": "ocha-ferry-whitefill",
+      "file": "icons/ocha-ferry-whitefill.webp",
       "width": 30,
       "height": 30,
-      "sha256": "15f41c0e14e599975f5b7cbc7b5cb76235d3943483711fe8d288500d05f88b60"
+      "sha256": "b09c7cac89d1c2b124227f24b3f4ce56211d26349f08ccac844cd5f76db90acb"
     },
     {
-      "icon": "ocha-train-big",
-      "file": "icons/ocha-train-big.webp",
+      "icon": "ocha-train-whitefill-big",
+      "file": "icons/ocha-train-whitefill-big.webp",
       "width": 60,
       "height": 60,
-      "sha256": "eb4234ce6308f3fddd15af84cbccf708015276ad677c666a4f64e229d72d362c"
+      "sha256": "0575a441bb51ef88a3579dbe0284787ef96978cf62c931a0e2ec6c25f8a7f9e8"
     },
     {
       "icon": "onlinewebfonts-cave",

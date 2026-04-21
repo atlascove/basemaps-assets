@@ -36,7 +36,14 @@ TARGET_ICON_SIZE = 64.0
 SCALE = TARGET_ICON_SIZE / BASE_ICON_SIZE
 # Keep selected icons "standard" in @64 even if source SVG is 30x30.
 # This lets us run enlarged train icons in 1x/2x sprites while retaining 64x64 in sprites@64.
-FORCE_STANDARD_64_KEYS = {"ocha-train-big"}
+FORCE_STANDARD_64_KEYS = {"ocha-train-big", "ocha-train-whitefill-big"}
+SOURCE_OVERRIDE_64 = {
+    # Keep @64 using original non-white variants for these keys.
+    "ocha-airport-whitefill": "ocha-airport",
+    "ocha-ferry-whitefill": "ocha-ferry",
+    "ocha-train-whitefill-big": "ocha-train-big",
+    "fas-plus-circle-whitefill": "fas-plus-circle",
+}
 
 SVG_TAG_RE = re.compile(r"<svg\s+[^>]*>", re.IGNORECASE)
 WIDTH_RE = re.compile(r'\bwidth\s*=\s*"?(\d+(?:\.\d+)?)"?', re.IGNORECASE)
@@ -85,7 +92,11 @@ def render_svg(path: Path, out_w: int, out_h: int) -> Image.Image:
 def load_local_items() -> List[SpriteItem]:
     items: List[SpriteItem] = []
     for svg in sorted(ICONS_DIR.glob("*.svg")):
-        src_w, src_h = parse_svg_size(svg)
+        source_svg = svg
+        source_stem = SOURCE_OVERRIDE_64.get(svg.stem)
+        if source_stem:
+            source_svg = ICONS_DIR / f"{source_stem}.svg"
+        src_w, src_h = parse_svg_size(source_svg)
         if svg.stem in FORCE_STANDARD_64_KEYS and src_w > BASE_ICON_SIZE and src_h > BASE_ICON_SIZE:
             factor = BASE_ICON_SIZE / max(src_w, src_h)
             out_w = max(1, int(round(src_w * SCALE * factor)))
@@ -93,7 +104,7 @@ def load_local_items() -> List[SpriteItem]:
         else:
             out_w = max(1, int(round(src_w * SCALE)))
             out_h = max(1, int(round(src_h * SCALE)))
-        img = render_svg(svg, out_w, out_h)
+        img = render_svg(source_svg, out_w, out_h)
         items.append(SpriteItem(name=svg.stem, image=img, width=img.width, height=img.height))
     return items
 

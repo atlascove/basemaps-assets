@@ -1259,7 +1259,7 @@
   {
     "id": 38,
     "name": "Airport",
-    "icon": "ocha-airport",
+    "icon": "ocha-airport-whitefill",
     "tags": {
       "aeroway": "aerodrome"
     },
@@ -1491,7 +1491,7 @@
   {
     "id": 44,
     "name": "Ferry Terminal",
-    "icon": "ocha-ferry",
+    "icon": "ocha-ferry-whitefill",
     "tags": {
       "amenity": "ferry_terminal"
     },
@@ -3963,7 +3963,7 @@
   {
     "id": 107,
     "name": "Hospital Grounds",
-    "icon": "fas-plus-circle",
+    "icon": "fas-plus-circle-whitefill",
     "tags": {
       "amenity": "hospital"
     },
@@ -36614,7 +36614,7 @@
   {
     "id": 1013,
     "name": "Ferry Station",
-    "icon": "ocha-ferry",
+    "icon": "ocha-ferry-whitefill",
     "tags": {
       "ferry": "yes",
       "public_transport": "station"
@@ -37878,7 +37878,7 @@
   {
     "id": 1048,
     "name": "Train Station",
-    "icon": "ocha-train-big",
+    "icon": "ocha-train-whitefill-big",
     "tags": {
       "train": "yes",
       "public_transport": "station"
@@ -38139,7 +38139,7 @@
   {
     "id": 1055,
     "name": "Ferry Stopping Location",
-    "icon": "ocha-ferry",
+    "icon": "ocha-ferry-whitefill",
     "tags": {
       "ferry": "yes",
       "public_transport": "stop_position"
@@ -39068,7 +39068,7 @@
   {
     "id": 1079,
     "name": "Ferry Stop / Platform",
-    "icon": "ocha-ferry",
+    "icon": "ocha-ferry-whitefill",
     "tags": {
       "ferry": "yes",
       "public_transport": "platform"
@@ -40141,7 +40141,7 @@
   {
     "id": 1110,
     "name": "Railway Station",
-    "icon": "ocha-train-big",
+    "icon": "ocha-train-whitefill-big",
     "tags": {
       "railway": "station"
     },
@@ -62681,7 +62681,7 @@
   {
     "id": 1762,
     "name": "Women's Health Clinic",
-    "icon": "fas-plus-circle",
+    "icon": "fas-plus-circle-whitefill",
     "tags": {
       "amenity": "clinic",
       "healthcare": "clinic",
@@ -66114,7 +66114,7 @@
   {
     "id": 1873,
     "name": "Dialysis Clinic",
-    "icon": "fas-plus-circle",
+    "icon": "fas-plus-circle-whitefill",
     "tags": {
       "amenity": "clinic",
       "healthcare": "dialysis"
@@ -72025,7 +72025,7 @@
   {
     "id": 2063,
     "name": "Childrens Hospital",
-    "icon": "fas-plus-circle",
+    "icon": "fas-plus-circle-whitefill",
     "tags": {
       "healthcare": "hospital",
       "healthcare:speciality": "paediatrics"
@@ -85807,7 +85807,7 @@
   {
     "id": 2515,
     "name": "Domestic Airports",
-    "icon": "ocha-airport",
+    "icon": "ocha-airport-whitefill",
     "tags": {
       "aeroway": "aerodrome",
       "aerodrome": "domestic"
@@ -86380,7 +86380,7 @@
   {
     "id": 2534,
     "name": "Cancer Treatment Center",
-    "icon": "fas-plus-circle",
+    "icon": "fas-plus-circle-whitefill",
     "tags": {
       "amenity": "clinic",
       "healthcare": "clinic",
@@ -87660,7 +87660,7 @@
   {
     "id": 2576,
     "name": "Major Airport",
-    "icon": "ocha-airport",
+    "icon": "ocha-airport-whitefill",
     "tags": {
       "aeroway": "aerodrome",
       "aerodrome": "international"
@@ -90765,7 +90765,7 @@
   {
     "id": 2679,
     "name": "Train Station",
-    "icon": "ocha-train-big",
+    "icon": "ocha-train-whitefill-big",
     "tags": {
       "railway": "station",
       "public_transport": "station"
@@ -90920,7 +90920,7 @@
   {
     "id": 2684,
     "name": "Hospital",
-    "icon": "fas-plus-circle",
+    "icon": "fas-plus-circle-whitefill",
     "tags": {
       "amenity": "hospital"
     },

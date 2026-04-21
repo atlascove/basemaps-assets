@@ -1484,9 +1484,9 @@
     {
       "icon": "fts-subway-whitefill",
       "file": "icons/fts-subway-whitefill.webp",
-      "width": 30,
-      "height": 30,
-      "sha256": "a873d66c2366eb9a796f4c085c24a84a70bb0860dda4408fbac5c6c222b183c5"
+      "width": 36,
+      "height": 36,
+      "sha256": "0a6efa87d7e3265b1e1de3f216fd104995df9600f619ab32faaf3a70d82cb586"
     },
     {
       "icon": "fts-tipi",
@@ -5138,9 +5138,9 @@
     {
       "icon": "temaki-subway",
       "file": "icons/temaki-subway.webp",
-      "width": 30,
-      "height": 30,
-      "sha256": "aa4cb8bb19ea7796d843adb43cbb127a4e5806f83034f9051b936e321494ab44"
+      "width": 36,
+      "height": 36,
+      "sha256": "731f10cb3cd34f57d6d7ae8c4e05461a700c20faf069ee3f6d1cc2f2b7042606"
     },
     {
       "icon": "temaki-suitcase_key",

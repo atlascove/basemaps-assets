@@ -38069,7 +38069,7 @@
       "transport stop",
       "transit"
     ],
-    "matchScore": 1
+    "matchScore": 0.01
   },
   {
     "id": 1053,
@@ -45854,7 +45854,7 @@
       "exit",
       "sign"
     ],
-    "matchScore": 1
+    "matchScore": 0.01
   },
   {
     "id": 1255,
@@ -48927,7 +48927,7 @@
       "public transportation",
       "transit"
     ],
-    "matchScore": 1
+    "matchScore": 0.01
   },
   {
     "id": 1335,
@@ -49357,7 +49357,7 @@
       "boundary line",
       "boundary area"
     ],
-    "matchScore": 1
+    "matchScore": 0.01
   },
   {
     "id": 1347,
@@ -49395,7 +49395,7 @@
       "road speed",
       "traffic lane"
     ],
-    "matchScore": 1
+    "matchScore": 0.01
   },
   {
     "id": 1348,
@@ -49423,7 +49423,7 @@
       "sign",
       "exit sign"
     ],
-    "matchScore": 1
+    "matchScore": 0.01
   },
   {
     "id": 1349,
@@ -49452,7 +49452,7 @@
       "sign",
       "security"
     ],
-    "matchScore": 1
+    "matchScore": 0.01
   },
   {
     "id": 1350,
@@ -49484,7 +49484,7 @@
       "restricted area",
       "access restriction"
     ],
-    "matchScore": 1
+    "matchScore": 0.01
   },
   {
     "id": 1351,
@@ -49521,7 +49521,7 @@
       "significant place",
       "tourist spot"
     ],
-    "matchScore": 1
+    "matchScore": 0.01
   },
   {
     "id": 1352,
@@ -49558,7 +49558,7 @@
       "water passage",
       "water supply"
     ],
-    "matchScore": 1
+    "matchScore": 0.01
   },
   {
     "id": 1353,
@@ -49584,7 +49584,7 @@
       "administrative",
       "exit sign"
     ],
-    "matchScore": 1
+    "matchScore": 0.01
   },
   {
     "id": 1354,
@@ -49695,7 +49695,7 @@
       "transit station group",
       "public transport center"
     ],
-    "matchScore": 1
+    "matchScore": 0.01
   },
   {
     "id": 1357,
@@ -49734,7 +49734,7 @@
       "do not turn left",
       "left turn restriction"
     ],
-    "matchScore": 1
+    "matchScore": 0.05
   },
   {
     "id": 1358,
@@ -49771,7 +49771,7 @@
       "right_turn_traffic_rule",
       "no_right_turn_warning"
     ],
-    "matchScore": 1
+    "matchScore": 0.05
   },
   {
     "id": 1359,
@@ -49848,7 +49848,7 @@
       "no proceed on",
       "no straight allowed"
     ],
-    "matchScore": 1
+    "matchScore": 0.05
   },
   {
     "id": 1361,
@@ -49888,7 +49888,7 @@
       "no reverse driving",
       "no turning reverse"
     ],
-    "matchScore": 1
+    "matchScore": 0.05
   },
   {
     "id": 1362,
@@ -49926,7 +49926,7 @@
       "no right-turning",
       "left turn"
     ],
-    "matchScore": 1
+    "matchScore": 0.05
   },
   {
     "id": 1363,
@@ -49963,7 +49963,7 @@
       "turn",
       "right turn only restriction"
     ],
-    "matchScore": 1
+    "matchScore": 0.05
   },
   {
     "id": 1364,
@@ -50001,7 +50001,7 @@
       "straight path",
       "straight movement"
     ],
-    "matchScore": 1
+    "matchScore": 0.05
   },
   {
     "id": 1365,
@@ -50075,7 +50075,7 @@
       "restricted traffic movement",
       "u-turn restriction"
     ],
-    "matchScore": 1
+    "matchScore": 0.05
   },
   {
     "id": 1367,
@@ -97503,7 +97503,7 @@
     "natural_language_category": [
       "associated street"
     ],
-    "matchScore": 1
+    "matchScore": 0.01
   },
   {
     "id": 2913,
@@ -97526,7 +97526,7 @@
     "natural_language_category": [
       "multipolygon"
     ],
-    "matchScore": 1
+    "matchScore": 0.01
   },
   {
     "id": 2914,

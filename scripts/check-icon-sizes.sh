@@ -35,17 +35,17 @@ for path in icons_dir.rglob('*.svg'):
         continue
     is_big_variant = path.stem.endswith('-big')
     if is_big_variant:
-        if width != 30 or height != 30:
-            bad.append((path, f'expected 30x30 for -big variant, got width={width} height={height}'))
+        if width not in (24, 30) or height not in (24, 30) or width != height:
+            bad.append((path, f'expected 24x24 or 30x30 for -big variant, got width={width} height={height}'))
     else:
-        if width != 15 or height != 15:
-            bad.append((path, f'width={width} height={height}'))
+        if width not in (15, 18) or height not in (15, 18) or width != height:
+            bad.append((path, f'expected 15x15 or 18x18, got width={width} height={height}'))
 
 if bad:
-    print('Non-15x15 icons:')
+    print('Icons with unsupported dimensions:')
     for path, reason in sorted(bad, key=lambda x: str(x[0])):
         print(f'- {path}: {reason}')
     raise SystemExit(1)
 
-print('All icons are 15x15')
+print('All icons match allowed dimensions (15/18 standard, 24/30 big)')
 PY

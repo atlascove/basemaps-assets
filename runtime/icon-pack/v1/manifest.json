@@ -2884,44 +2884,44 @@
     {
       "icon": "ocha-airport-whitefill-big",
       "file": "icons/ocha-airport-whitefill-big.webp",
-      "width": 60,
-      "height": 60,
-      "sha256": "5577fe3db1c61a29136dff60459b8b24c1e6ebd6f35a7e66a7041a71f82d6561"
+      "width": 48,
+      "height": 48,
+      "sha256": "7e4f8b26170c52e53655ef640fddcf27d0b50e2a725187254ddf8f654148174d"
     },
     {
       "icon": "ocha-board-bus-whitefill",
       "file": "icons/ocha-board-bus-whitefill.webp",
-      "width": 30,
-      "height": 30,
-      "sha256": "5317e1a52f114fb442df388133aa2f304d5fed7b96865a635ff6218e3965a916"
+      "width": 36,
+      "height": 36,
+      "sha256": "28b1762dffe69fe065099f50e8f9a8bbb7380cc6f35fbcaec2811f1b6e3afc4b"
     },
     {
       "icon": "ocha-bus-stop-whitefill",
       "file": "icons/ocha-bus-stop-whitefill.webp",
-      "width": 30,
-      "height": 30,
-      "sha256": "1a81a71c4ce773b25be34abebf97c1e4ba2d10461ad331dce02c53d85d25b1ae"
+      "width": 36,
+      "height": 36,
+      "sha256": "cffeaad140332b38e3b3e80f52fda96e06ecbceba653ce2c997fe459db2bd35e"
     },
     {
       "icon": "ocha-ferry-maki-whitefill",
       "file": "icons/ocha-ferry-maki-whitefill.webp",
-      "width": 30,
-      "height": 30,
-      "sha256": "49e58c8bc01cfca360ab537ae61f86cb31aac8cd466393ba9cff54747429dab6"
+      "width": 36,
+      "height": 36,
+      "sha256": "32aaa89b284b4e8c7ab04592f2963967f6c4ea92f2de95f3c3ea956e53126b53"
     },
     {
       "icon": "ocha-light-rail-whitefill",
       "file": "icons/ocha-light-rail-whitefill.webp",
-      "width": 30,
-      "height": 30,
-      "sha256": "04c2edfd3c8997d104f8d46907a3838851f0b7866dadc970de90ae9a13ae8de5"
+      "width": 36,
+      "height": 36,
+      "sha256": "6fc7bec676d93d2303ed6fb0587adfec1d088bbeb31a87c3129d29d80c2ca46c"
     },
     {
       "icon": "ocha-train-whitefill-big",
       "file": "icons/ocha-train-whitefill-big.webp",
-      "width": 60,
-      "height": 60,
-      "sha256": "0575a441bb51ef88a3579dbe0284787ef96978cf62c931a0e2ec6c25f8a7f9e8"
+      "width": 48,
+      "height": 48,
+      "sha256": "e1b4f3ea047328b4294ee58c82d080844cabe4bafa706eede254f45538059e91"
     },
     {
       "icon": "onlinewebfonts-cave",

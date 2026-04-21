@@ -38464,7 +38464,7 @@
   {
     "id": 1064,
     "name": "Bus Platform",
-    "icon": "temaki-board_bus",
+    "icon": "ocha-board-bus-whitefill",
     "tags": {
       "bus": "yes",
       "public_transport": "platform"

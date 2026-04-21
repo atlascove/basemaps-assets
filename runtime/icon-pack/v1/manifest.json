@@ -7,7 +7,7 @@
     "sprite_json": "sprites/sprites@2x.json",
     "sprite_png": "sprites/sprites@2x.png"
   },
-  "icon_count": 809,
+  "icon_count": 808,
   "missing_count": 0,
   "collisions": {},
   "icons": [
@@ -2889,18 +2889,18 @@
       "sha256": "5577fe3db1c61a29136dff60459b8b24c1e6ebd6f35a7e66a7041a71f82d6561"
     },
     {
+      "icon": "ocha-board-bus-whitefill",
+      "file": "icons/ocha-board-bus-whitefill.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "5317e1a52f114fb442df388133aa2f304d5fed7b96865a635ff6218e3965a916"
+    },
+    {
       "icon": "ocha-bus-stop-whitefill",
       "file": "icons/ocha-bus-stop-whitefill.webp",
       "width": 30,
       "height": 30,
       "sha256": "1a81a71c4ce773b25be34abebf97c1e4ba2d10461ad331dce02c53d85d25b1ae"
-    },
-    {
-      "icon": "ocha-bus-whitefill",
-      "file": "icons/ocha-bus-whitefill.webp",
-      "width": 30,
-      "height": 30,
-      "sha256": "2a0083b104bf463cb260675115defcd78a2272e9f4e27e49a5b4f4795a4b7f75"
     },
     {
       "icon": "ocha-ferry-whitefill",
@@ -3195,13 +3195,6 @@
       "width": 30,
       "height": 30,
       "sha256": "d087187f6ce66093144c26dfa1c94bc1dd9ea90b1e700022a69457545cffc2ff"
-    },
-    {
-      "icon": "temaki-board_bus",
-      "file": "icons/temaki-board-bus.webp",
-      "width": 30,
-      "height": 30,
-      "sha256": "a78d0f83fee3fcf99233e97acf9a2137c020bcb7d3e0b7f3ac2ea80ea9ab1b7d"
     },
     {
       "icon": "temaki-board_ferry",

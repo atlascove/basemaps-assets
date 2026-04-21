@@ -7049,7 +7049,7 @@
   {
     "id": 187,
     "name": "Bus Station / Terminal",
-    "icon": "temaki-bus",
+    "icon": "ocha-bus-whitefill",
     "tags": {
       "amenity": "bus_station"
     },
@@ -20928,7 +20928,7 @@
   {
     "id": 578,
     "name": "Bus Stop",
-    "icon": "temaki-bus",
+    "icon": "ocha-bus-whitefill",
     "tags": {
       "highway": "bus_stop"
     },
@@ -37695,7 +37695,7 @@
   {
     "id": 1042,
     "name": "Public Transit Station (bus)",
-    "icon": "temaki-bus",
+    "icon": "ocha-bus-whitefill",
     "tags": {
       "bus": "yes",
       "public_transport": "station"
@@ -37840,7 +37840,7 @@
   {
     "id": 1047,
     "name": "Subway Station",
-    "icon": "temaki-subway",
+    "icon": "fts-subway-whitefill",
     "tags": {
       "subway": "yes",
       "public_transport": "station"
@@ -54278,7 +54278,7 @@
   {
     "id": 1495,
     "name": "Bus Station",
-    "icon": "temaki-bus",
+    "icon": "ocha-bus-whitefill",
     "tags": {
       "bus": "yes",
       "amenity": "bus_station",
@@ -88423,7 +88423,7 @@
   {
     "id": 2601,
     "name": "Metro Station",
-    "icon": "temaki-subway",
+    "icon": "fts-subway-whitefill",
     "tags": {
       "subway": "yes",
       "railway": "station",

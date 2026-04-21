@@ -7,7 +7,7 @@
     "sprite_json": "sprites/sprites@2x.json",
     "sprite_png": "sprites/sprites@2x.png"
   },
-  "icon_count": 805,
+  "icon_count": 807,
   "missing_count": 0,
   "collisions": {},
   "icons": [
@@ -1482,6 +1482,13 @@
       "sha256": "4d56b3f0894916804f58f5883fcd26602bc545c89e0ba506693c282ff1b2ef33"
     },
     {
+      "icon": "fts-subway-whitefill",
+      "file": "icons/fts-subway-whitefill.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "a873d66c2366eb9a796f4c085c24a84a70bb0860dda4408fbac5c6c222b183c5"
+    },
+    {
       "icon": "fts-tipi",
       "file": "icons/fts-tipi.webp",
       "width": 30,
@@ -2880,6 +2887,13 @@
       "width": 30,
       "height": 30,
       "sha256": "b29639be7dff13b60133aec005571da1f4e4bcdf470a886848f72812f5beca22"
+    },
+    {
+      "icon": "ocha-bus-whitefill",
+      "file": "icons/ocha-bus-whitefill.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "2a0083b104bf463cb260675115defcd78a2272e9f4e27e49a5b4f4795a4b7f75"
     },
     {
       "icon": "ocha-ferry-whitefill",

@@ -43,6 +43,8 @@ SOURCE_OVERRIDE_64 = {
     "ocha-ferry-whitefill": "ocha-ferry",
     "ocha-train-whitefill-big": "ocha-train-big",
     "fas-plus-circle-whitefill": "fas-plus-circle",
+    "ocha-bus-whitefill": "ocha-bus",
+    "fts-subway-whitefill": "fts-subway",
 }
 
 SVG_TAG_RE = re.compile(r"<svg\s+[^>]*>", re.IGNORECASE)

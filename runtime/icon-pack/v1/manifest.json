@@ -2882,11 +2882,11 @@
       "sha256": "8a4f9df9102905e3af33edf30d7840a675a93cf8b1f627893552e312e4c07c0a"
     },
     {
-      "icon": "ocha-airport-whitefill",
-      "file": "icons/ocha-airport-whitefill.webp",
-      "width": 30,
-      "height": 30,
-      "sha256": "b29639be7dff13b60133aec005571da1f4e4bcdf470a886848f72812f5beca22"
+      "icon": "ocha-airport-whitefill-big",
+      "file": "icons/ocha-airport-whitefill-big.webp",
+      "width": 60,
+      "height": 60,
+      "sha256": "5577fe3db1c61a29136dff60459b8b24c1e6ebd6f35a7e66a7041a71f82d6561"
     },
     {
       "icon": "ocha-bus-whitefill",
@@ -2901,6 +2901,13 @@
       "width": 30,
       "height": 30,
       "sha256": "b09c7cac89d1c2b124227f24b3f4ce56211d26349f08ccac844cd5f76db90acb"
+    },
+    {
+      "icon": "ocha-light-rail-whitefill",
+      "file": "icons/ocha-light-rail-whitefill.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "04c2edfd3c8997d104f8d46907a3838851f0b7866dadc970de90ae9a13ae8de5"
     },
     {
       "icon": "ocha-train-whitefill-big",
@@ -4217,13 +4224,6 @@
       "width": 30,
       "height": 30,
       "sha256": "0d3ad55924c0824a302540450151c7cbf7868279240eb2655534808961c9b00f"
-    },
-    {
-      "icon": "temaki-light_rail",
-      "file": "icons/temaki-light-rail.webp",
-      "width": 30,
-      "height": 30,
-      "sha256": "09541d77d91820097b1aa50ad04070babe8379c9385deb2f0e535a730854fbe1"
     },
     {
       "icon": "temaki-lipstick",

@@ -1259,7 +1259,7 @@
   {
     "id": 38,
     "name": "Airport",
-    "icon": "ocha-airport-whitefill",
+    "icon": "ocha-airport-whitefill-big",
     "tags": {
       "aeroway": "aerodrome"
     },
@@ -37730,7 +37730,7 @@
   {
     "id": 1044,
     "name": "Light Rail Station",
-    "icon": "temaki-light_rail",
+    "icon": "ocha-light-rail-whitefill",
     "tags": {
       "light_rail": "yes",
       "public_transport": "station"
@@ -38178,7 +38178,7 @@
   {
     "id": 1056,
     "name": "Light Rail Stopping Location",
-    "icon": "temaki-light_rail",
+    "icon": "ocha-light-rail-whitefill",
     "tags": {
       "light_rail": "yes",
       "public_transport": "stop_position"
@@ -39101,7 +39101,7 @@
   {
     "id": 1080,
     "name": "Light Rail Stop / Platform",
-    "icon": "temaki-light_rail",
+    "icon": "ocha-light-rail-whitefill",
     "tags": {
       "light_rail": "yes",
       "public_transport": "platform"
@@ -85807,7 +85807,7 @@
   {
     "id": 2515,
     "name": "Domestic Airports",
-    "icon": "ocha-airport-whitefill",
+    "icon": "ocha-airport-whitefill-big",
     "tags": {
       "aeroway": "aerodrome",
       "aerodrome": "domestic"
@@ -87660,7 +87660,7 @@
   {
     "id": 2576,
     "name": "Major Airport",
-    "icon": "ocha-airport-whitefill",
+    "icon": "ocha-airport-whitefill-big",
     "tags": {
       "aeroway": "aerodrome",
       "aerodrome": "international"

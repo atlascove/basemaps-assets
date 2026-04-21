@@ -36,7 +36,7 @@ TARGET_ICON_SIZE = 64.0
 SCALE = TARGET_ICON_SIZE / BASE_ICON_SIZE
 # Keep selected icons "standard" in @64 even if source SVG is 30x30.
 # This lets us run enlarged train icons in 1x/2x sprites while retaining 64x64 in sprites@64.
-FORCE_STANDARD_64_KEYS = {"ocha-train-big", "ocha-train-whitefill-big"}
+FORCE_STANDARD_64_KEYS = {"ocha-train-big", "ocha-train-whitefill-big", "ocha-airport-whitefill-big"}
 SOURCE_OVERRIDE_64 = {
     # Keep @64 using original non-white variants for these keys.
     "ocha-airport-whitefill": "ocha-airport",

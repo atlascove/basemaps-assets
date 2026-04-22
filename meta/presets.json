@@ -15257,7 +15257,7 @@
   {
     "id": 414,
     "name": "Train Station Building",
-    "icon": "temaki-train",
+    "icon": "ocha-train-whitefill-big",
     "tags": {
       "building": "train_station"
     },

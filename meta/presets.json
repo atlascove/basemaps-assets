@@ -25598,7 +25598,7 @@
   {
     "id": 710,
     "name": "Nature Reserve",
-    "icon": "maki-park",
+    "icon": "fts-deer",
     "tags": {
       "leisure": "nature_reserve"
     },

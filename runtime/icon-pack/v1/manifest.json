@@ -7,7 +7,7 @@
     "sprite_json": "sprites/sprites@2x.json",
     "sprite_png": "sprites/sprites@2x.png"
   },
-  "icon_count": 812,
+  "icon_count": 813,
   "missing_count": 0,
   "collisions": {},
   "icons": [
@@ -1431,6 +1431,13 @@
       "width": 30,
       "height": 30,
       "sha256": "839025cc3f14800a2486c8b448e1de8bb9a0f4e56429d9d13c13359e693109a2"
+    },
+    {
+      "icon": "fts-deer",
+      "file": "icons/fts-deer.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "bd3335086e9e183dd8806f796b333f8acdc0d264cd79cfc1d394707f5ab3fd83"
     },
     {
       "icon": "fts-dress",

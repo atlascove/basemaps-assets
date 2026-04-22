@@ -110,14 +110,8 @@ def load_local_items() -> List[SpriteItem]:
         source_stem = SOURCE_OVERRIDE_64.get(svg.stem)
         if source_stem:
             source_svg = ICONS_DIR / f"{source_stem}.svg"
-        src_w, src_h = parse_svg_size(source_svg)
-        if svg.stem in FORCE_STANDARD_64_KEYS and src_w > BASE_ICON_SIZE and src_h > BASE_ICON_SIZE:
-            factor = BASE_ICON_SIZE / max(src_w, src_h)
-            out_w = max(1, int(round(src_w * SCALE * factor)))
-            out_h = max(1, int(round(src_h * SCALE * factor)))
-        else:
-            out_w = max(1, int(round(src_w * SCALE)))
-            out_h = max(1, int(round(src_h * SCALE)))
+        out_w = int(TARGET_ICON_SIZE)
+        out_h = int(TARGET_ICON_SIZE)
         img = render_svg(source_svg, out_w, out_h)
         items.append(SpriteItem(name=svg.stem, image=img, width=img.width, height=img.height))
     return items
@@ -177,8 +171,8 @@ def merge_vendor_keys(
         sx, sy = int(vm["x"]), int(vm["y"])
         sw, sh = int(vm["width"]), int(vm["height"])
         tile = vendor_png.crop((sx, sy, sx + sw, sy + sh))
-        tw = max(1, int(round(sw * SCALE)))
-        th = max(1, int(round(sh * SCALE)))
+        tw = int(TARGET_ICON_SIZE)
+        th = int(TARGET_ICON_SIZE)
         scaled = tile.resize((tw, th), Image.Resampling.LANCZOS)
         scaled_tiles[key] = scaled
 

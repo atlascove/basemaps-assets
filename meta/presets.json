@@ -91220,7 +91220,7 @@
   {
     "id": 2693,
     "name": "Aerialway Transit Station",
-    "icon": "temaki-gondola_lift",
+    "icon": "ocha-aerialway-station-whitefill",
     "tags": {
       "aerialway": "station",
       "public_transport": "station"

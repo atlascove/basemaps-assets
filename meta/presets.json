@@ -37662,7 +37662,7 @@
   {
     "id": 1041,
     "name": "Aerialway Station",
-    "icon": "temaki-gondola_lift",
+    "icon": "ocha-aerialway-station-whitefill",
     "tags": {
       "aerialway": "station"
     },
@@ -37801,7 +37801,7 @@
   {
     "id": 1046,
     "name": "Monorail Station",
-    "icon": "temaki-monorail",
+    "icon": "ocha-monorail-whitefill",
     "tags": {
       "monorail": "yes",
       "public_transport": "station"
@@ -37961,7 +37961,7 @@
   {
     "id": 1050,
     "name": "Tram Station",
-    "icon": "temaki-tram",
+    "icon": "ocha-tram-whitefill",
     "tags": {
       "tram": "yes",
       "public_transport": "station"
@@ -97742,6 +97742,37 @@
     "overture_categories": [],
     "natural_language_category": [
       "waiting room"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 2922,
+    "name": "Hanging Monorail Station",
+    "icon": "ocha-hanging-rail-whitefill",
+    "tags": {
+      "monorail": "hanging",
+      "public_transport": "station"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "hanging monorail",
+      "suspended monorail"
+    ],
+    "last_updated": "2026-04-22",
+    "ds": "2026-04-22",
+    "name_required": true,
+    "allow_add": true,
+    "source": "osm",
+    "version": "3",
+    "overture_categories": [],
+    "natural_language_category": [
+      "hanging monorail station",
+      "monorail station",
+      "station",
+      "public transit station"
     ],
     "matchScore": 1
   }

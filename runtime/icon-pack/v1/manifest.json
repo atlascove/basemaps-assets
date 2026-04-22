@@ -7,7 +7,7 @@
     "sprite_json": "sprites/sprites@2x.json",
     "sprite_png": "sprites/sprites@2x.png"
   },
-  "icon_count": 808,
+  "icon_count": 812,
   "missing_count": 0,
   "collisions": {},
   "icons": [
@@ -2882,6 +2882,13 @@
       "sha256": "5ec5d6969d0dffbd95f8dd9ffce25a4dd5682d710219c3d548b8e35d3934b028"
     },
     {
+      "icon": "ocha-aerialway-station-whitefill",
+      "file": "icons/ocha-aerialway-station-whitefill.webp",
+      "width": 36,
+      "height": 36,
+      "sha256": "40287b1d50933735cefdb6fccb563fa48353cc578c8c8113e4c8cf068769a4cd"
+    },
+    {
       "icon": "ocha-airport-whitefill-big",
       "file": "icons/ocha-airport-whitefill-big.webp",
       "width": 48,
@@ -2910,6 +2917,13 @@
       "sha256": "32aaa89b284b4e8c7ab04592f2963967f6c4ea92f2de95f3c3ea956e53126b53"
     },
     {
+      "icon": "ocha-hanging-rail-whitefill",
+      "file": "icons/ocha-hanging-rail-whitefill.webp",
+      "width": 36,
+      "height": 36,
+      "sha256": "e2a662d54ba75b3ea70a56319066776b77d9cd892d53a2d65873ae12310787c8"
+    },
+    {
       "icon": "ocha-light-rail-whitefill",
       "file": "icons/ocha-light-rail-whitefill.webp",
       "width": 36,
@@ -2917,11 +2931,25 @@
       "sha256": "6fc7bec676d93d2303ed6fb0587adfec1d088bbeb31a87c3129d29d80c2ca46c"
     },
     {
+      "icon": "ocha-monorail-whitefill",
+      "file": "icons/ocha-monorail-whitefill.webp",
+      "width": 36,
+      "height": 36,
+      "sha256": "6ccb6227a0c4fa422d7c36dd71e34a467f78b87cb7dd2f990b518ace81a99c26"
+    },
+    {
       "icon": "ocha-train-whitefill-big",
       "file": "icons/ocha-train-whitefill-big.webp",
       "width": 48,
       "height": 48,
       "sha256": "e1b4f3ea047328b4294ee58c82d080844cabe4bafa706eede254f45538059e91"
+    },
+    {
+      "icon": "ocha-tram-whitefill",
+      "file": "icons/ocha-tram-whitefill.webp",
+      "width": 36,
+      "height": 36,
+      "sha256": "ea3376ba6ce139c311d216b27d79bb4d60ea0a56e7af3498ae5713531b81fae3"
     },
     {
       "icon": "onlinewebfonts-cave",

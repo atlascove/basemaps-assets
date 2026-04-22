@@ -2879,7 +2879,7 @@
       "file": "icons/material-symbols-passport.webp",
       "width": 30,
       "height": 30,
-      "sha256": "8a4f9df9102905e3af33edf30d7840a675a93cf8b1f627893552e312e4c07c0a"
+      "sha256": "5ec5d6969d0dffbd95f8dd9ffce25a4dd5682d710219c3d548b8e35d3934b028"
     },
     {
       "icon": "ocha-airport-whitefill-big",
@@ -2900,7 +2900,7 @@
       "file": "icons/ocha-bus-stop-whitefill.webp",
       "width": 36,
       "height": 36,
-      "sha256": "cffeaad140332b38e3b3e80f52fda96e06ecbceba653ce2c997fe459db2bd35e"
+      "sha256": "f17b6f63e8224ce008a8500abafd3831f9e36950b1ae67399986e75bb44ac313"
     },
     {
       "icon": "ocha-ferry-maki-whitefill",
@@ -3446,7 +3446,7 @@
       "file": "icons/temaki-bus.webp",
       "width": 30,
       "height": 30,
-      "sha256": "b22d549dedd16f8bb14b8e6aedf0e2c04f6954ea9a1095969450393ed57eabf9"
+      "sha256": "aa7bd840c456859045fc6485b17d56ab4a4302c70940cf3a8e422cddbaeb7679"
     },
     {
       "icon": "temaki-bus_guided",

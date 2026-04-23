@@ -33,7 +33,7 @@ for path in icons_dir.rglob('*.svg'):
     except ValueError:
         bad.append((path, 'invalid width/height'))
         continue
-    is_big_variant = path.stem.endswith('-big')
+    is_big_variant = path.stem.endswith('-big') or path.stem.endswith('-big-covered') or path.stem.endswith('-big-selected')
     if is_big_variant:
         if width not in (24, 30) or height not in (24, 30) or width != height:
             bad.append((path, f'expected 24x24 or 30x30 for -big variant, got width={width} height={height}'))

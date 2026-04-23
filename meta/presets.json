@@ -20459,7 +20459,7 @@
   {
     "id": 564,
     "name": "Steps",
-    "icon": "iD-highway-steps",
+    "icon": "material-stairs",
     "tags": {
       "highway": "steps"
     },
@@ -20473,12 +20473,12 @@
       "pathway",
       "route"
     ],
-    "last_updated": "2025-12-17",
+    "last_updated": "2026-04-23",
     "ds": "2025-09-03",
     "name_required": false,
     "allow_add": true,
     "source": "osm",
-    "version": "3",
+    "version": "4",
     "overture_categories": [],
     "natural_language_category": [
       "steps",
@@ -23014,7 +23014,7 @@
   {
     "id": 638,
     "name": "Indoor Stairwell",
-    "icon": "iD-highway-steps",
+    "icon": "material-stairs",
     "tags": {
       "indoor": "room",
       "stairs": "yes"
@@ -23029,12 +23029,12 @@
       "room",
       "yes"
     ],
-    "last_updated": "2025-12-17",
+    "last_updated": "2026-04-23",
     "ds": "2025-09-03",
     "name_required": false,
     "allow_add": true,
     "source": "osm",
-    "version": "3",
+    "version": "4",
     "overture_categories": [],
     "natural_language_category": [
       "indoor stairwell",
@@ -26762,7 +26762,7 @@
   {
     "id": 742,
     "name": "Exercise Stairs",
-    "icon": "maki-pitch",
+    "icon": "material-stairs",
     "tags": {
       "leisure": "fitness_station",
       "fitness_station": "stairs"
@@ -26778,12 +26778,12 @@
       "fitness",
       "gym"
     ],
-    "last_updated": "2025-12-17",
+    "last_updated": "2026-04-23",
     "ds": "2025-09-03",
     "name_required": false,
     "allow_add": true,
     "source": "osm",
-    "version": "3",
+    "version": "4",
     "overture_categories": [],
     "natural_language_category": [
       "exercise stairs",
@@ -90085,7 +90085,7 @@
   {
     "id": 2656,
     "name": "Stair Entrance",
-    "icon": "maki-entrance-alt1",
+    "icon": "maki-entrance",
     "tags": {
       "entrance": "staircase"
     },
@@ -90100,12 +90100,12 @@
       "stair entrance",
       "staircase"
     ],
-    "last_updated": "2025-12-17",
+    "last_updated": "2026-04-23",
     "ds": "2025-09-03",
     "name_required": false,
     "allow_add": true,
     "source": "osm",
-    "version": "2",
+    "version": "3",
     "overture_categories": [],
     "natural_language_category": [
       "stair entrance"

@@ -1608,13 +1608,6 @@
       "sha256": "20fb117900b724b406e840f5e013352ec5fb266f1ed9546a4b112e8abd95f103"
     },
     {
-      "icon": "iD-highway-steps",
-      "file": "icons/id-highway-steps.webp",
-      "width": 30,
-      "height": 30,
-      "sha256": "b0880c580b94a402f81a543b994451070085b81401f8a5defe8f083bdedcb96c"
-    },
-    {
       "icon": "iD-highway-tertiary",
       "file": "icons/id-highway-tertiary.webp",
       "width": 30,
@@ -2880,6 +2873,13 @@
       "width": 30,
       "height": 30,
       "sha256": "172d22194307ddff6da7b09b6b19e9321e092ea9e79762d0d9f8022a8d899b77"
+    },
+    {
+      "icon": "material-stairs",
+      "file": "icons/material-stairs.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "2c6d4f5d02eaa743d10152afb9e54399e8dc6774722d7a704655d623e21eeb03"
     },
     {
       "icon": "material-symbols-passport",

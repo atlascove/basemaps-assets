@@ -45,6 +45,7 @@ FORCE_STANDARD_64_KEYS = {
     "ocha-airport-whitefill",
     "ocha-aerialway-station-whitefill",
     "ocha-board-bus-whitefill",
+    "ocha-board-ferry-whitefill",
     "ocha-bus-stop-whitefill",
     "ocha-bus-whitefill",
     "ocha-ferry-maki-whitefill",

@@ -38610,7 +38610,7 @@
   {
     "id": 1068,
     "name": "Ferry Platform",
-    "icon": "temaki-board_ferry",
+    "icon": "ocha-board-ferry-whitefill",
     "tags": {
       "ferry": "yes",
       "public_transport": "platform"
@@ -38631,12 +38631,12 @@
       "water transit",
       "water transportation"
     ],
-    "last_updated": "2025-09-03",
+    "last_updated": "2026-04-23",
     "ds": "2025-09-03",
     "name_required": false,
     "allow_add": false,
     "source": "osm",
-    "version": "2",
+    "version": "3",
     "overture_categories": [],
     "natural_language_category": [
       "ferry platform",

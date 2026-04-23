@@ -2910,6 +2910,13 @@
       "sha256": "28b1762dffe69fe065099f50e8f9a8bbb7380cc6f35fbcaec2811f1b6e3afc4b"
     },
     {
+      "icon": "ocha-board-ferry-whitefill",
+      "file": "icons/ocha-board-ferry-whitefill.webp",
+      "width": 36,
+      "height": 36,
+      "sha256": "e378719331b25ac83385b65b53cb76667ad98b088d3147a7b69c63aa9114d5d9"
+    },
+    {
       "icon": "ocha-bus-stop-whitefill",
       "file": "icons/ocha-bus-stop-whitefill.webp",
       "width": 36,
@@ -3230,13 +3237,6 @@
       "width": 30,
       "height": 30,
       "sha256": "d087187f6ce66093144c26dfa1c94bc1dd9ea90b1e700022a69457545cffc2ff"
-    },
-    {
-      "icon": "temaki-board_ferry",
-      "file": "icons/temaki-board-ferry.webp",
-      "width": 30,
-      "height": 30,
-      "sha256": "4f59623effa53304eced1df8c4ad140b49e7e37cc1e2d2bc55eed9c6812f08a4"
     },
     {
       "icon": "temaki-board_gondola_lift",

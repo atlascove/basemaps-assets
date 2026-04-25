@@ -635,6 +635,13 @@
       "sha256": "1b3455114ac399c1dfdff7c334bad0fa583ff4c6548e051e5a45533685d2eb30"
     },
     {
+      "icon": "fas-info",
+      "file": "icons/fas-info.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "6e8e8b56a5e616eb5bc544f20f389aa542fa1a70454477755a2af8396418fe2f"
+    },
+    {
       "icon": "fas-jar",
       "file": "icons/fas-jar.webp",
       "width": 30,
@@ -2971,13 +2978,6 @@
       "width": 30,
       "height": 30,
       "sha256": "060c1d8a09a11beb6a5f2afa425177368178a2f3ccf1e39cec07930f3feb9b22"
-    },
-    {
-      "icon": "remix-information",
-      "file": "icons/remix-information.webp",
-      "width": 30,
-      "height": 30,
-      "sha256": "5cbfea321174c5076d684417f40e42bb5fdf819bf9d1222aff41c4ddb8115d24"
     },
     {
       "icon": "remixicon-building",

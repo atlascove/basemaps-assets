@@ -47886,7 +47886,7 @@
   {
     "id": 1307,
     "name": "Information",
-    "icon": "remix-information",
+    "icon": "fas-info",
     "tags": {
       "tourism": "information"
     },

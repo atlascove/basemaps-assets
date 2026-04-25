@@ -21968,7 +21968,7 @@
   },
   {
     "id": 607,
-    "name": "Unknown Road Bridge",
+    "name": "Road Bridge",
     "icon": "iD-other-line",
     "tags": {
       "bridge": "*",
@@ -21986,7 +21986,7 @@
     "version": "2",
     "overture_categories": [],
     "natural_language_category": [
-      "unknown road bridge",
+      "road bridge",
       "bridge"
     ],
     "matchScore": 0.25
@@ -90363,6 +90363,35 @@
       "bridge"
     ],
     "matchScore": 1.1
+  },
+  {
+    "id": 3200,
+    "name": "Viaduct",
+    "icon": "maki-bridge",
+    "tags": {
+      "bridge": "viaduct"
+    },
+    "geometry": [
+      "point",
+      "line",
+      "area"
+    ],
+    "terms": [
+      "viaduct",
+      "bridge"
+    ],
+    "last_updated": "2026-04-26",
+    "ds": "2025-09-03",
+    "name_required": false,
+    "allow_add": false,
+    "source": "osm",
+    "version": "1",
+    "overture_categories": [],
+    "natural_language_category": [
+      "viaduct",
+      "bridge"
+    ],
+    "matchScore": 1.2
   },
   {
     "id": 2666,

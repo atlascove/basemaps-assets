@@ -38323,7 +38323,7 @@
   {
     "id": 1060,
     "name": "Train Stopping Location",
-    "icon": "temaki-train",
+    "icon": "ocha-train-whitefill-big",
     "tags": {
       "train": "yes",
       "public_transport": "stop_position"

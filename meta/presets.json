@@ -13294,7 +13294,7 @@
       "preschool center",
       "early education"
     ],
-    "matchScore": 0.5
+    "matchScore": 1.1
   },
   {
     "id": 356,
@@ -13794,7 +13794,7 @@
       "hospital",
       "medical"
     ],
-    "matchScore": 0.5
+    "matchScore": 1.1
   },
   {
     "id": 370,
@@ -13988,7 +13988,7 @@
       "study center",
       "university"
     ],
-    "matchScore": 0.5
+    "matchScore": 1.1
   },
   {
     "id": 376,
@@ -14772,7 +14772,7 @@
       "academic building",
       "educational site"
     ],
-    "matchScore": 0.5
+    "matchScore": 1.1
   },
   {
     "id": 400,
@@ -15148,7 +15148,7 @@
       "academic facility",
       "college structure"
     ],
-    "matchScore": 0.5
+    "matchScore": 1.1
   },
   {
     "id": 411,

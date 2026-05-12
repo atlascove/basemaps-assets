@@ -48,6 +48,16 @@ jobs:
           source: fonts/
           target: built-fonts/
 
+      - name: Regenerate fonts.json index (defensive)
+        run: |
+          cd built-fonts
+          find . -mindepth 1 -maxdepth 1 -type d -printf "%f\n" \
+            | sort | jq -R . | jq -s . > fonts.json
+          echo "fonts.json contents:"
+          cat fonts.json
+          # Fail if no fontstacks produced
+          test "$(jq 'length' fonts.json)" -gt 0
+
       - uses: actions/upload-artifact@v4
         with:
           name: build-output

@@ -124,11 +124,18 @@ jobs:
 
       - name: Sync fonts (PBF glyphs) to S3
         run: |
+          # PBF glyphs: immutable cache, protobuf content-type
           aws s3 sync built-fonts/ "s3://${{ steps.target.outputs.bucket }}/assets/fonts/" \
             --delete \
             --exclude "*.DS_Store" \
+            --exclude "*.json" \
             --content-type "application/x-protobuf" \
             --cache-control "public, max-age=31536000, immutable"
+          # fonts.json index: short cache, JSON content-type
+          aws s3 cp built-fonts/fonts.json \
+            "s3://${{ steps.target.outputs.bucket }}/assets/fonts/fonts.json" \
+            --content-type "application/json" \
+            --cache-control "public, max-age=300"
 
       - name: Sync presets.json to S3 (triggers DB sync Lambda)
         run: |

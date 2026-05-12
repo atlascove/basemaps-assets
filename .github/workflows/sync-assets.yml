@@ -1,0 +1,143 @@
+name: Sync Assets to S3
+
+on:
+  push:
+    branches: [main, dev]
+    paths:
+      - 'icons/**'
+      - 'fonts/**'
+      - 'meta/presets.json'
+      - 'Makefile'
+      - '.github/workflows/sync-assets.yml'
+  workflow_dispatch:
+    inputs:
+      environment:
+        description: 'Environment to sync'
+        required: true
+        default: 'dev'
+        type: choice
+        options:
+          - dev
+          - prod
+          - both
+
+env:
+  AWS_REGION: eu-west-1
+  SPREET_VERSION: 0.11.0
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install spreet
+        run: |
+          curl -fsSL -o spreet.tgz \
+            "https://github.com/flother/spreet/releases/download/v${SPREET_VERSION}/spreet-x86_64-unknown-linux-gnu.tar.gz"
+          tar -xzf spreet.tgz
+          sudo mv spreet /usr/local/bin/
+          spreet --version
+
+      - name: Build sprite variants
+        run: make sprites
+
+      - name: Build PBF glyphs from TTF fonts
+        uses: linz/action-build-pbf-glyphs@v1
+        with:
+          source: fonts/
+          target: built-fonts/
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: build-output
+          path: |
+            sprites/
+            built-fonts/
+            meta/presets.json
+          retention-days: 1
+
+  resolve-env:
+    runs-on: ubuntu-latest
+    outputs:
+      envs: ${{ steps.set.outputs.envs }}
+    steps:
+      - id: set
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            case "${{ github.event.inputs.environment }}" in
+              dev)  echo 'envs=["dev"]'        >> "$GITHUB_OUTPUT" ;;
+              prod) echo 'envs=["prod"]'       >> "$GITHUB_OUTPUT" ;;
+              both) echo 'envs=["dev","prod"]' >> "$GITHUB_OUTPUT" ;;
+            esac
+          elif [ "${{ github.ref }}" = "refs/heads/main" ]; then
+            echo 'envs=["prod"]' >> "$GITHUB_OUTPUT"
+          else
+            echo 'envs=["dev"]' >> "$GITHUB_OUTPUT"
+          fi
+
+  sync:
+    needs: [build, resolve-env]
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        env: ${{ fromJson(needs.resolve-env.outputs.envs) }}
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: build-output
+          path: .
+
+      - uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: ${{ env.AWS_REGION }}
+
+      - name: Resolve target bucket + distribution
+        id: target
+        run: |
+          if [ "${{ matrix.env }}" = "prod" ]; then
+            echo "bucket=${{ secrets.S3_BUCKET_PROD }}" >> "$GITHUB_OUTPUT"
+            echo "cdn=${{ secrets.CDN_DISTRIBUTION_PROD }}" >> "$GITHUB_OUTPUT"
+          else
+            echo "bucket=${{ secrets.S3_BUCKET_DEV }}" >> "$GITHUB_OUTPUT"
+            echo "cdn=${{ secrets.CDN_DISTRIBUTION_DEV }}" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Sync sprites to S3
+        run: |
+          aws s3 sync sprites/ "s3://${{ steps.target.outputs.bucket }}/assets/sprites/" \
+            --delete \
+            --cache-control "public, max-age=31536000, immutable"
+
+      - name: Sync fonts (PBF glyphs) to S3
+        run: |
+          aws s3 sync built-fonts/ "s3://${{ steps.target.outputs.bucket }}/assets/fonts/" \
+            --delete \
+            --exclude "*.DS_Store" \
+            --content-type "application/x-protobuf" \
+            --cache-control "public, max-age=31536000, immutable"
+
+      - name: Sync presets.json to S3 (triggers DB sync Lambda)
+        run: |
+          aws s3 cp meta/presets.json \
+            "s3://${{ steps.target.outputs.bucket }}/system/presets/presets.json" \
+            --content-type "application/json" \
+            --cache-control "no-cache"
+
+      - name: Invalidate CloudFront
+        if: steps.target.outputs.cdn != ''
+        run: |
+          aws cloudfront create-invalidation \
+            --distribution-id "${{ steps.target.outputs.cdn }}" \
+            --paths "/assets/sprites/*" "/assets/fonts/*"
+
+      - name: Summary
+        run: |
+          echo "Synced to ${{ matrix.env }}:" >> "$GITHUB_STEP_SUMMARY"
+          echo "- s3://${{ steps.target.outputs.bucket }}/assets/sprites/" >> "$GITHUB_STEP_SUMMARY"
+          echo "- s3://${{ steps.target.outputs.bucket }}/assets/fonts/" >> "$GITHUB_STEP_SUMMARY"
+          echo "- s3://${{ steps.target.outputs.bucket }}/system/presets/presets.json" >> "$GITHUB_STEP_SUMMARY"
+          echo "- CloudFront ${{ steps.target.outputs.cdn }} invalidated" >> "$GITHUB_STEP_SUMMARY"

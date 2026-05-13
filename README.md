@@ -25,3 +25,136 @@ The license for each group of assets is contained within that directory:
 
 * `fonts/`: [SIL Open Font License](fonts/OFL.txt)
 * `sprites/`: derived from [MIT-licensed tangrams/icons](https://github.com/tangrams/icons/blob/master/LICENSE.md)
+
+## Vendor Sprite Overlay
+
+Some style-referenced sprite keys are not available as local SVG icons.  
+Those keys are stored as a vendor raster overlay under:
+
+- `vendor/maptiler-openstreetmap-sprite/`
+
+Build flow now is:
+
+1. `spreet` builds from `icons/` (SVG pipeline)
+2. `scripts/merge_vendor_sprite_keys.py` appends missing vendor keys
+
+Rollback is straightforward: revert the commit that added the overlay and merge step.
+
+## Runtime Icon Pack
+
+Build a per-icon runtime pack (WebP + manifest), useful for Android fallback loading:
+
+```bash
+make runtime-icon-pack
+```
+
+Output is written to:
+
+- `runtime/icon-pack/v1/icons/*.webp`
+- `runtime/icon-pack/v1/manifest.json`
+
+## One-Command Asset Refresh
+
+Use this when you want a clean, repeatable refresh after icon/preset updates:
+
+```bash
+make refresh-assets
+```
+
+Equivalent script:
+
+```bash
+./scripts/refresh_sprites_and_runtime.py
+```
+
+What it runs:
+
+1. icon size validation (`scripts/check-icon-sizes.sh`)
+2. sprite build (1x + 2x)
+3. vendor key merge (`scripts/merge_vendor_sprite_keys.py`)
+4. 64px sprite build (`sprites/sprites@64.{png,json}`)
+5. runtime icon-pack build (`scripts/build_runtime_icon_pack.py`)
+6. final guard: fails if `runtime/icon-pack/v1/missing_from_sprite.json` is non-empty
+
+## Missing Icon Detection / Auto-Fetch
+
+Detect preset icons that are referenced in `meta/presets.json` but missing from `icons/`:
+
+```bash
+make detect-missing-icons
+```
+
+Attempt to fetch and write missing SVGs from known local/upstream sources:
+
+```bash
+make fetch-missing-icons
+```
+
+Underlying script:
+
+```bash
+./scripts/fetch_missing_icons.py          # dry-run
+./scripts/fetch_missing_icons.py --apply  # write files
+```
+
+Report output:
+
+- `tmp/missing_preset_icons_report.json`
+
+## id-tagging-schema Update Watch
+
+Check upstream `openstreetmap/id-tagging-schema` for a newer release and generate a delta report:
+
+```bash
+make check-id-tagging-schema
+```
+
+or:
+
+```bash
+./scripts/check_id_tagging_schema_updates.py --cache-presets
+```
+
+Report output:
+
+- `tmp/id_tagging_schema_update_report.json`
+
+Tracking file:
+
+- `meta/id_tagging_schema_tracking.json`
+
+After you finish a real sync/import, mark the tracked release:
+
+```bash
+make mark-id-tagging-schema-synced
+```
+
+or:
+
+```bash
+./scripts/mark_id_tagging_schema_synced.py --tag vX.Y.Z --note "import completed"
+```
+
+Generate candidate patch artifacts (added/changed upstream presets + icon readiness):
+
+```bash
+make generate-id-tagging-import-candidates
+```
+
+Outputs:
+
+- `tmp/id_tagging_schema_import_candidates.json`
+- `tmp/id_tagging_schema_import_candidates.tsv`
+
+## 64px Sprite Variant
+
+Build a dedicated 64px atlas from source SVGs:
+
+```bash
+make sprites-64
+```
+
+Outputs:
+
+- `sprites/sprites@64.png`
+- `sprites/sprites@64.json`

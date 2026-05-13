@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="15" height="15" viewBox="0 0 15 15" xmlns="http://www.w3.org/2000/svg" id="os_benchmark">
-  <path d="M1 1L14 1L14 3L1 3L1 1ZM7.5 3.5L9 14L6 14L7.5 3.5ZM7.5 3.5L14.18 10.42L11.72 12.14L7.5 3.5ZM7.5 3.5L3.28 12.14L0.82 10.42L7.5 3.5Z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 15" version="1.1" width="15" height="15">
+  <g transform="translate(7.500000 7.500000) scale(0.866667) translate(-7.500000 -7.500000)"><g transform="translate(0.000000 0.000000) scale(1.000000)"><path d="M1 1L14 1L14 3L1 3L1 1ZM7.5 3.5L9 14L6 14L7.5 3.5ZM7.5 3.5L14.18 10.42L11.72 12.14L7.5 3.5ZM7.5 3.5L3.28 12.14L0.82 10.42L7.5 3.5Z" />
+</g></g></svg>

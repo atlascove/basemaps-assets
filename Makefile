@@ -1,7 +1,7 @@
 SPRITES_DIR = ./sprites
 ICONS_DIR   = ./icons
 
-.PHONY: sprites sprite-1x sprite-2x sprite-64 sprite-sdf sprite-sdf-2x icon retina clean serve sprites-build runtime-icon-pack refresh-assets detect-missing-icons fetch-missing-icons check-id-tagging-schema mark-id-tagging-schema-synced generate-id-tagging-import-candidates sprites-64
+.PHONY: sprites sprite-1x sprite-2x sprite-64 sprite-sdf sprite-sdf-2x icon retina clean serve sprites-build runtime-icon-pack refresh-assets deploy-cdn-assets detect-missing-icons fetch-missing-icons check-id-tagging-schema mark-id-tagging-schema-synced generate-id-tagging-import-candidates sprites-64
 
 sprites: sprite-1x sprite-2x sprite-64 sprite-sdf sprite-sdf-2x
 
@@ -41,6 +41,9 @@ runtime-icon-pack:
 
 refresh-assets:
 	./scripts/refresh_sprites_and_runtime.py
+
+deploy-cdn-assets:
+	./scripts/deploy_cdn_assets.sh
 
 detect-missing-icons:
 	./scripts/fetch_missing_icons.py

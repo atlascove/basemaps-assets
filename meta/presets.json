@@ -44911,7 +44911,7 @@
   {
     "id": 1231,
     "name": "Outdoors Store",
-    "icon": "temaki-compass",
+    "icon": "fas-hiking",
     "tags": {
       "shop": "outdoor"
     },

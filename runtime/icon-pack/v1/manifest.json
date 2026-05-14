@@ -37,7 +37,7 @@
       "file": "icons/dejonge-hangglider.webp",
       "width": 30,
       "height": 30,
-      "sha256": "051d2e092b8976539156d49e03142d43498362d1773139f17a56808197cc9ff9"
+      "sha256": "ffb62da4638e4f4b541ea17bca2780b0255f1ec0510288bde2265a5ac4db1ef4"
     },
     {
       "icon": "denimao-surf",
@@ -107,7 +107,7 @@
       "file": "icons/fas-bahai.webp",
       "width": 30,
       "height": 30,
-      "sha256": "eacebc362a2750e400e15e4fff07519ea7481b330e14073567e30ed80e06b55e"
+      "sha256": "9223ce99b987922f82e702460fab3487524c6d7347ada6f8c643abd425af7a05"
     },
     {
       "icon": "fas-balance-scale",
@@ -478,7 +478,7 @@
       "file": "icons/fas-dumpster.webp",
       "width": 30,
       "height": 30,
-      "sha256": "22e46bbee77b6ae5e5fc5189d8a94d63305dc1875062e59bf7152bced72bd75d"
+      "sha256": "e36d52d1b3966b813221281475f1bba5242d4057a346a2a7785ec90a4c936e08"
     },
     {
       "icon": "fas-dumpster-fire",
@@ -548,7 +548,7 @@
       "file": "icons/fas-guitar.webp",
       "width": 30,
       "height": 30,
-      "sha256": "6f731347049447a10ae778de2ffc19c9594f62114cb3095f5e41e8e5c57aa188"
+      "sha256": "00e98ffde2fa1244378a0bdd472734d15058f7ab43f108b69d76808865ccf1bc"
     },
     {
       "icon": "fas-hammer",
@@ -639,7 +639,7 @@
       "file": "icons/fas-info.webp",
       "width": 30,
       "height": 30,
-      "sha256": "6e8e8b56a5e616eb5bc544f20f389aa542fa1a70454477755a2af8396418fe2f"
+      "sha256": "92943e7e7e2e54f9b5e8e1881af7dd3253d70066ee52cbabefb8d890620abad9"
     },
     {
       "icon": "fas-jar",
@@ -660,7 +660,7 @@
       "file": "icons/fas-language.webp",
       "width": 30,
       "height": 30,
-      "sha256": "f95848c526144cd70ef62580d4e2232b3b1e2817af1ba25763b8a14a849a468e"
+      "sha256": "2fb98b08e558ff00dc9b421f824003cfa093e67ef398079598dac7bfcf1b61a3"
     },
     {
       "icon": "fas-laptop",
@@ -674,7 +674,7 @@
       "file": "icons/fas-laptop-code.webp",
       "width": 30,
       "height": 30,
-      "sha256": "c5874138ae86223502d7128227897e7649d24e8ee2df68855cfec4c4f73d12bd"
+      "sha256": "4b9df4f9eebd72bb5fea7294e51b4f6d4d69df004bebe0047b6a01fd3f4d51c5"
     },
     {
       "icon": "fas-leaf",
@@ -716,7 +716,7 @@
       "file": "icons/fas-mask.webp",
       "width": 30,
       "height": 30,
-      "sha256": "2d8f53b151457926c43c75543783d68980b9f4c2f3cddbbdd6bc39a2dbe7b92d"
+      "sha256": "d4560613e8d346cbfbbe39cd256ba4b44e0934c23bd763b68f826c12edf675c8"
     },
     {
       "icon": "fas-medkit",
@@ -744,7 +744,7 @@
       "file": "icons/fas-mobile-alt.webp",
       "width": 30,
       "height": 30,
-      "sha256": "72f57a53a89c758faa260fea7b20c16baf5e05f2ede14d1f5fc824e4212ce0db"
+      "sha256": "4599677add6150475fc0511fff19c20a641d78f3cf686863d819508dac7cc7f1"
     },
     {
       "icon": "fas-moped",
@@ -898,7 +898,7 @@
       "file": "icons/fas-puzzle.webp",
       "width": 30,
       "height": 30,
-      "sha256": "65a28785a7ed49673ca141473bfc8e7637a19e8545cf70e2f5b1dcbfb8938248"
+      "sha256": "a02ace06bca9c73ad75261e8182cd72256331d6800710b33b263ef3f337876c7"
     },
     {
       "icon": "fas-puzzle-piece",
@@ -926,7 +926,7 @@
       "file": "icons/fas-scales.webp",
       "width": 30,
       "height": 30,
-      "sha256": "987172a9d4dab5323edf6c0aa322b6538149e319a2e92f96421f023f407e26ca"
+      "sha256": "16b7378675c0fdcb454fb49c69ffa982c1ce640ac341c389e688f0deaf1b0c4f"
     },
     {
       "icon": "fas-school",
@@ -961,7 +961,7 @@
       "file": "icons/fas-shapes.webp",
       "width": 30,
       "height": 30,
-      "sha256": "9558ec1ae1ef75dbc316fb2fa1434757ba674c2e8dcaac2de6812b2bbfa7de29"
+      "sha256": "7e065c768bbef7043d6e0480a8df800d4d92fd2e9e766aa2d18e586f875c465f"
     },
     {
       "icon": "fas-shoe-prints",
@@ -1353,7 +1353,7 @@
       "file": "icons/fas-whiskey.webp",
       "width": 30,
       "height": 30,
-      "sha256": "f48caf0cd70d2e7efd443666b3955edfc11b823f69902e938fb89875ab4aa3e9"
+      "sha256": "4b52464b46ac32a88926464d27e1d74073376aee24e33de763f26137d618e05a"
     },
     {
       "icon": "fas-wifi",
@@ -1367,28 +1367,28 @@
       "file": "icons/fas-wine-bottle.webp",
       "width": 30,
       "height": 30,
-      "sha256": "f64255257b9c1c9aa5cefe33929e546b3118536ff462b5460dd4f07b4f184a4b"
+      "sha256": "df1d098cb54094401214f9be52251104804bca52e8831857f3059f07415833f2"
     },
     {
       "icon": "fotoshi-cupcake",
       "file": "icons/fotoshi-cupcake.webp",
       "width": 30,
       "height": 30,
-      "sha256": "4d26472e38c2b08c9eb9b82aa47124f1ec84597d6e0184f5bbb0f74baa5fd1eb"
+      "sha256": "bf97115a58f06813759520e377e9162b531dc26c2598c8e4e9d56167381753cd"
     },
     {
       "icon": "fotoshi-ford",
       "file": "icons/fotoshi-ford.webp",
       "width": 30,
       "height": 30,
-      "sha256": "61db964f0050456ba345e7171db5fd227394f5ef73a0dee1b756ba0ba7df1b70"
+      "sha256": "a41acdf43aac4ee42332b3239966060d4e9d95894786df4e53f97b25527cd797"
     },
     {
       "icon": "fts-agave",
       "file": "icons/fts-agave.webp",
       "width": 30,
       "height": 30,
-      "sha256": "62c9047131ec24118cf6ff080457b16ff10c51be0f2efd4a0f3d526f228874e5"
+      "sha256": "96fc2730d9fdf600594ab091e50f14303e3d4d1468a99046e064ca066f450053"
     },
     {
       "icon": "fts-atm",
@@ -1409,21 +1409,21 @@
       "file": "icons/fts-billiards.webp",
       "width": 30,
       "height": 30,
-      "sha256": "0ce793ecad7f6addc485e7bcc8366251fe0b6d7124b392dd0efbd4530f48d155"
+      "sha256": "6b225a8783ac53134b9a73926cfd5d48fbfb03aefcc71be59962131a2bfbb20d"
     },
     {
       "icon": "fts-boot",
       "file": "icons/fts-boot.webp",
       "width": 30,
       "height": 30,
-      "sha256": "1662c5db6beb5ef3eed63f07dc76f130ef9f6b28e8a67b447826623fba529d19"
+      "sha256": "c871be59410d01efdf61e1ffd7ebd3e40949fbd9347dde3f9d5e13b279b11fd2"
     },
     {
       "icon": "fts-cactus",
       "file": "icons/fts-cactus.webp",
       "width": 30,
       "height": 30,
-      "sha256": "bc0098e3ea2a52a13657910aba90353bc17ba264677855e72111391a82af8283"
+      "sha256": "30dfb4324776c31a581fcd09dfc145569246daf7ee76d82ecf9d48ae4d7d3671"
     },
     {
       "icon": "fts-cage",
@@ -1437,7 +1437,7 @@
       "file": "icons/fts-carpet.webp",
       "width": 30,
       "height": 30,
-      "sha256": "839025cc3f14800a2486c8b448e1de8bb9a0f4e56429d9d13c13359e693109a2"
+      "sha256": "4691373ef41c83d1505aae5cfe196f12509a234508ce068af27fded564f5362d"
     },
     {
       "icon": "fts-deer",
@@ -1451,49 +1451,49 @@
       "file": "icons/fts-dress.webp",
       "width": 30,
       "height": 30,
-      "sha256": "a052f70679f09fdc0ab23f93970eae40bf6fecbaf0e8986964bbc6d6ce7a6233"
+      "sha256": "a23bf196bd14df2ec40a5584ed1a68765901360420c6e0f143c3293361a34744"
     },
     {
       "icon": "fts-elephant",
       "file": "icons/fts-elephant.webp",
       "width": 30,
       "height": 30,
-      "sha256": "5d4a91bada07c7c7c794aa41aedfd928b72cfee4b107b0a2134b70547e628245"
+      "sha256": "c203a6e019601e99a7c8ca3006bc579f6af54652e9421c2b4f95e57e0376dbae"
     },
     {
       "icon": "fts-gymnastics",
       "file": "icons/fts-gymnastics.webp",
       "width": 30,
       "height": 30,
-      "sha256": "aacd6013d070d11922a193759fd91b2788a69007151cc27f8ab7a6fd1a77ff27"
+      "sha256": "17b78e38e07bbfd28bc64d06b55b503d7141be1592c1f20473a377001dbc7e97"
     },
     {
       "icon": "fts-hookah",
       "file": "icons/fts-hookah.webp",
       "width": 30,
       "height": 30,
-      "sha256": "6c5e384364dfc4b349c9ce1ac935e3db912e27199cb73176a83c98cc38080988"
+      "sha256": "a00c4dcc0543006324bb0adce9dbbe8e4fc7f07f63c36166609c43aa47767db2"
     },
     {
       "icon": "fts-magic",
       "file": "icons/fts-magic.webp",
       "width": 30,
       "height": 30,
-      "sha256": "c48072972a4eeadead6b488c9ff7d2d2954aa36d40cf843a932ad31003c25e44"
+      "sha256": "103bf452bfe8afa48dd46ab354c65407d9c1782ab926a3925ff59996f3e87152"
     },
     {
       "icon": "fts-paw",
       "file": "icons/fts-paw.webp",
       "width": 30,
       "height": 30,
-      "sha256": "d6af1b84aa4820ceb4ce922dfa19c1dfca440fda158790afebb68fdce4da49d1"
+      "sha256": "77862d798db72e0f3afb017b557512d1b6ace8f56bca6d824ec2173a79bbd193"
     },
     {
       "icon": "fts-pray",
       "file": "icons/fts-pray.webp",
       "width": 30,
       "height": 30,
-      "sha256": "4d56b3f0894916804f58f5883fcd26602bc545c89e0ba506693c282ff1b2ef33"
+      "sha256": "170f525cb67727035d2c91053453abfeb2c91fd556e1f17193bd8452b28917f7"
     },
     {
       "icon": "fts-subway-whitefill",
@@ -1507,14 +1507,14 @@
       "file": "icons/fts-tipi.webp",
       "width": 30,
       "height": 30,
-      "sha256": "36be6998bd8db98bcc16baf3c62a05c6a927bea93d46edae9f6c431debacd635"
+      "sha256": "32ee5178d547e6817182e9fd8de51876b66794121827de8f8dfd889b6db68a5e"
     },
     {
       "icon": "fts-waiting",
       "file": "icons/fts-waiting.webp",
       "width": 30,
       "height": 30,
-      "sha256": "9dac7fdbf2d783fbc40c79b5174e6d2905b6ca98e37bbb7bb0837dfc912ef45a"
+      "sha256": "96a10102e59d4e138d4f9b47246b5eb80879ed744bc914a6ee8222f4e83840c1"
     },
     {
       "icon": "fts-whale",
@@ -1528,7 +1528,7 @@
       "file": "icons/fts-xmas.webp",
       "width": 30,
       "height": 30,
-      "sha256": "b8544e7dfa27a25fb5b32da44ed92dcd839d50382494c1d6c5883c46ebea2d30"
+      "sha256": "c070431a517ff73b9da73cc416b5c41b373b019e2484b86565254fef99d0f3a7"
     },
     {
       "icon": "game-icons-cornu",
@@ -3012,14 +3012,14 @@
       "file": "icons/streamline-ultimate-bookcase.webp",
       "width": 30,
       "height": 30,
-      "sha256": "0364b702ca921fac1b070b198f9afe96929bf3d3250197ed832eac53a42a6c3a"
+      "sha256": "c21d3e844a431d0857b8e330cb771f90606e5590ef7f4a4a8c47cbbc5c96206b"
     },
     {
       "icon": "streamline-ultimate-coworking",
       "file": "icons/streamline-ultimate-coworking.webp",
       "width": 30,
       "height": 30,
-      "sha256": "6883a13fdfc75ad350088a2b98bd6cf06803b6440efcdcf087a4da1f79970d12"
+      "sha256": "30923b607ac9900252b0ecad957852f58d655f44205556a8d8203c082e2d6af9"
     },
     {
       "icon": "temaki-abseiling",
@@ -5693,14 +5693,14 @@
       "file": "icons/windows8-mb.webp",
       "width": 30,
       "height": 30,
-      "sha256": "290c1fb3b8cb5a8e17244a9687394f36ad4c8264ddb0e2b965a2c095d87902d6"
+      "sha256": "8530c255581ee98aee3a072612937261bb6c3e99922caa0e1edd55a66128c3dc"
     },
     {
       "icon": "wishforge-milkshake",
       "file": "icons/wishforge-milkshake.webp",
       "width": 30,
       "height": 30,
-      "sha256": "5fed9fdfc6e58f1b9c451097dd26da9badabcf188b7b8394b1da7547f3da6cf8"
+      "sha256": "340389164f2fcfd24dc4921a0b67b69ddc753ee7f3962df09e1cc2e2364e3c18"
     }
   ]
 }

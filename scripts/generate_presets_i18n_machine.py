@@ -22,9 +22,27 @@ ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_PRESETS = ROOT / "meta" / "presets.json"
 DEFAULT_CACHE = ROOT / "tmp" / "preset_i18n_translation_cache.json"
 
-SUPPORTED_LANGUAGES = {"it", "ko"}
+SUPPORTED_LANGUAGES = {"es", "it", "ko"}
 
 CURATED_NAMES = {
+    "es": {
+        "ATM": "Cajero automático",
+        "BBQ/Grill": "Parrilla",
+        "Cable Car": "Teleférico",
+        "Cafe": "Cafetería",
+        "Convenience Store": "Tienda de conveniencia",
+        "Dialysis Center": "Centro de diálisis",
+        "Dinner Theater": "Teatro con cena",
+        "Donation Center": "Centro de donaciones",
+        "Drinking Water": "Agua potable",
+        "Fish & Chips Fast Food": "Fish and chips",
+        "Gas Station": "Gasolinera",
+        "Hotel & Restaurant": "Hotel y restaurante",
+        "Place of Worship": "Lugar de culto",
+        "Public Transport Platform": "Andén de transporte público",
+        "Transit Stopping Location": "Parada de transporte público",
+        "Visitor Center": "Centro de visitantes",
+    },
     "it": {
         "ATM": "Bancomat",
         "BBQ/Grill": "Barbecue",
@@ -64,6 +82,26 @@ CURATED_NAMES = {
 }
 
 CURATED_TERMS = {
+    "es": {
+        "amenity": "servicio",
+        "charity": "caridad",
+        "dinner show": "cena espectáculo",
+        "dinner theater": "teatro con cena",
+        "dinner theatre": "teatro con cena",
+        "donation": "donación",
+        "donation center": "centro de donaciones",
+        "chips fast": "fish and chips",
+        "fish": "pescado",
+        "fish chip": "fish and chips",
+        "fish and chip eatery": "fish and chips",
+        "fish and chips fast": "fish and chips",
+        "fish chips": "fish and chips",
+        "fish chips fast food": "fish and chips",
+        "fish fry": "pescado frito",
+        "gas station": "gasolinera",
+        "supper club": "club con cena",
+        "theatre restaurant": "teatro restaurante",
+    },
     "it": {
         "amenity": "servizio",
         "charity": "beneficenza",
@@ -104,6 +142,17 @@ CURATED_TERMS = {
 }
 
 SEARCH_TERMS_BY_NAME = {
+    "es": {
+        "Restaurant": ["restaurante", "comedor", "tapas", "bar"],
+        "Cafe": ["cafetería", "café", "coffee shop"],
+        "Gas Station": ["gasolinera", "estación de servicio", "combustible"],
+        "Pharmacy": ["farmacia", "medicamentos"],
+        "Supermarket": ["supermercado", "mercado", "comestibles"],
+        "Convenience Store": ["tienda de conveniencia", "minimarket", "tienda"],
+        "Toilets": ["baño", "aseos", "servicios", "wc"],
+        "Donation Center": ["centro de donaciones", "donaciones", "caridad"],
+        "Dinner Theater": ["teatro con cena", "cena espectáculo", "teatro restaurante"],
+    },
     "it": {
         "Restaurant": ["ristorante", "trattoria", "osteria", "pizzeria", "tavola calda"],
         "Cafe": ["caffè", "caffetteria", "bar", "coffee shop"],

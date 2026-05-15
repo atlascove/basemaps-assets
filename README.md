@@ -12,6 +12,7 @@ This repository contains the assets for the Atlascove basemaps.
 
 * `meta/`: Contains metadata for mapping
   * `presets.json` - iD editor presets from [id-tagging-schema](https://github.com/openstreetmap/id-tagging-schema)
+  * `presets_es.json` - Spanish localization sidecar keyed by canonical preset ID
   * `presets_it.json` - Italian localization sidecar keyed by canonical preset ID
   * `presets_ko.json` - Korean localization sidecar keyed by canonical preset ID
   * `tags_table_transformed.json` - Overture categories to OSM tags mapping
@@ -160,6 +161,7 @@ language code.
 Generate sidecars:
 
 ```bash
+make generate-presets-es
 make generate-presets-it
 make generate-presets-ko
 ```
@@ -167,6 +169,7 @@ make generate-presets-ko
 Validate that every canonical preset has exactly one localization entry:
 
 ```bash
+make validate-presets-es
 make validate-presets-it
 make validate-presets-ko
 ```

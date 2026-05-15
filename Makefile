@@ -1,7 +1,7 @@
 SPRITES_DIR = ./sprites
 ICONS_DIR   = ./icons
 
-.PHONY: sprites sprite-1x sprite-2x sprite-64 sprite-sdf sprite-sdf-2x icon retina clean serve sprites-build runtime-icon-pack refresh-assets deploy-cdn-assets detect-missing-icons fetch-missing-icons check-id-tagging-schema mark-id-tagging-schema-synced generate-id-tagging-import-candidates generate-presets-it generate-presets-ko validate-presets-i18n validate-presets-it validate-presets-ko sprites-64
+.PHONY: sprites sprite-1x sprite-2x sprite-64 sprite-sdf sprite-sdf-2x icon retina clean serve sprites-build runtime-icon-pack refresh-assets deploy-cdn-assets detect-missing-icons fetch-missing-icons check-id-tagging-schema mark-id-tagging-schema-synced generate-id-tagging-import-candidates generate-presets-es generate-presets-it generate-presets-ko validate-presets-i18n validate-presets-es validate-presets-it validate-presets-ko sprites-64
 
 sprites: sprite-1x sprite-2x sprite-64 sprite-sdf sprite-sdf-2x
 
@@ -60,6 +60,9 @@ mark-id-tagging-schema-synced:
 generate-id-tagging-import-candidates:
 	./scripts/generate_id_schema_import_candidates.py
 
+generate-presets-es:
+	./scripts/generate_presets_es.py
+
 generate-presets-it:
 	./scripts/generate_presets_it.py
 
@@ -68,6 +71,9 @@ generate-presets-ko:
 
 validate-presets-i18n:
 	./scripts/validate_presets_i18n.py
+
+validate-presets-es:
+	./scripts/validate_presets_i18n.py --localization ./meta/presets_es.json
 
 validate-presets-it:
 	./scripts/validate_presets_i18n.py --localization ./meta/presets_it.json

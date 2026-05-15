@@ -175,7 +175,7 @@ Each localized entry contains:
 
 - `name` - localized display label
 - `terms` - localized search aliases
-- `quality` - `curated_exact`, `curated_rules`, or `fallback_original`
+- `quality` - `curated_exact`, `machine_translation`, or `fallback_original`
 
 ## 64px Sprite Variant
 

@@ -791,8 +791,8 @@
     "name": "Free Cabina",
     "quality": "curated_rules",
     "terms": [
-      "donation",
       "donations",
+      "donazione",
       "free cabina",
       "free tavolo",
       "freebox",
@@ -3010,16 +3010,17 @@
     "name": "Charity Negozio",
     "quality": "curated_rules",
     "terms": [
+      "beneficenza negozio",
       "charitable",
       "charity negozio",
-      "donation",
+      "donazione",
       "nonprofit",
       "nonprofit negozio",
       "op negozio",
       "resale negozio",
       "secondhand negozio",
       "thrift",
-      "thrift charity",
+      "thrift beneficenza",
       "thrift negozio",
       "used abbigliamento negozio"
     ]
@@ -9103,7 +9104,7 @@
       "free library",
       "library",
       "libro borrowing",
-      "libro donation",
+      "libro donazione",
       "libro lending",
       "libro sharing",
       "libro swap",
@@ -20047,12 +20048,14 @@
     ]
   },
   "2417": {
-    "name": "Donation Centro",
-    "quality": "curated_rules",
+    "name": "Centro donazioni",
+    "quality": "curated_exact",
     "terms": [
-      "charity",
-      "donation",
-      "donation centro",
+      "beneficenza",
+      "carità",
+      "centro donazioni",
+      "donazione",
+      "donazioni",
       "servizio"
     ]
   },
@@ -20066,15 +20069,15 @@
     ]
   },
   "2419": {
-    "name": "Dinner Theater",
-    "quality": "fallback_original",
+    "name": "Teatro con cena",
+    "quality": "curated_exact",
     "terms": [
+      "cabaret",
       "cabaret supper",
-      "dinner show",
-      "dinner theater",
-      "dinner theatre",
-      "supper club",
-      "theatre ristorante"
+      "cena spettacolo",
+      "club con cena",
+      "teatro con cena",
+      "teatro ristorante"
     ]
   },
   "242": {
@@ -30175,16 +30178,16 @@
       "apheresis",
       "blood",
       "blood banca",
-      "blood donation",
+      "blood donazione",
       "blood donor centro",
       "blood transfusion",
-      "donation",
+      "donazione",
       "plasma",
       "plasmapheresi",
       "plasmapheresis",
       "plateletpheresi",
       "plateletpheresis",
-      "stem cell donation"
+      "stem cell donazione"
     ]
   },
   "517": {
@@ -37631,9 +37634,10 @@
     "name": "Charity Ufficio",
     "quality": "curated_rules",
     "terms": [
+      "beneficenza",
+      "beneficenza organizzazione",
+      "beneficenza ufficio",
       "charitable organizzazione",
-      "charity",
-      "charity organizzazione",
       "charity ufficio",
       "organizzazione",
       "ufficio"
@@ -37891,7 +37895,7 @@
     "terms": [
       "associazione",
       "attività",
-      "charity",
+      "beneficenza",
       "club",
       "ngo",
       "non",
@@ -38390,7 +38394,7 @@
     "name": "NGO Ufficio",
     "quality": "curated_rules",
     "terms": [
-      "charity",
+      "beneficenza",
       "humanitarian",
       "ngo",
       "ngo headquarter",

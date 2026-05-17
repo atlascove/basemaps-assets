@@ -7,6 +7,9 @@ on:
       - 'icons/**'
       - 'fonts/**'
       - 'meta/presets.json'
+      - 'scripts/**'
+      - 'vendor/**'
+      - 'sprites/**'
       - 'Makefile'
       - '.github/workflows/sync-assets.yml'
   workflow_dispatch:
@@ -32,6 +35,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
+      - name: Install sprite build dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y librsvg2-bin
+          python3 -m pip install --upgrade pip
+          python3 -m pip install Pillow
 
       - name: Install spreet
         run: |
@@ -124,7 +134,7 @@ jobs:
         run: |
           aws s3 sync sprites/ "s3://${{ steps.target.outputs.bucket }}/assets/sprites/" \
             --delete \
-            --cache-control "public, max-age=31536000, immutable"
+            --cache-control "public, max-age=300, must-revalidate"
 
       - name: Sync fonts (PBF glyphs) to S3
         run: |

@@ -3,17 +3,19 @@ ICONS_DIR   = ./icons
 
 .PHONY: sprites sprite-1x sprite-2x sprite-64 sprite-sdf sprite-sdf-2x icon retina clean serve sprites-build runtime-icon-pack refresh-assets deploy-cdn-assets detect-missing-icons fetch-missing-icons check-id-tagging-schema mark-id-tagging-schema-synced generate-id-tagging-import-candidates generate-presets-es generate-presets-it generate-presets-ko validate-presets-i18n validate-presets-es validate-presets-it validate-presets-ko sprites-64
 
-sprites: sprite-1x sprite-2x sprite-64 sprite-sdf sprite-sdf-2x
+sprites: check-sprite-deps sprite-1x sprite-2x sprite-64 sprite-sdf sprite-sdf-2x verify-sprites
 
 sprite-1x:
 	@mkdir -p $(SPRITES_DIR)
 	spreet --minify-index-file $(ICONS_DIR) $(SPRITES_DIR)/sprites
+	./scripts/merge_vendor_sprite_keys.py --ratio 1
 
 sprite-2x:
 	spreet --retina --minify-index-file $(ICONS_DIR) $(SPRITES_DIR)/sprites@2x
+	./scripts/merge_vendor_sprite_keys.py --ratio 2
 
 sprite-64:
-	spreet --ratio 4 --minify-index-file $(ICONS_DIR) $(SPRITES_DIR)/sprites@64
+	./scripts/build_sprites_64.py
 
 sprite-sdf:
 	spreet --sdf --minify-index-file $(ICONS_DIR) $(SPRITES_DIR)/sprites-sdf
@@ -41,6 +43,12 @@ runtime-icon-pack:
 
 refresh-assets:
 	./scripts/refresh_sprites_and_runtime.py
+
+check-sprite-deps:
+	./scripts/check-icon-sizes.sh
+
+verify-sprites:
+	./scripts/verify_sprite_vendor_keys.py
 
 deploy-cdn-assets:
 	./scripts/deploy_cdn_assets.sh

@@ -1,7 +1,7 @@
 SPRITES_DIR = ./sprites
 ICONS_DIR   = ./icons
 
-.PHONY: sprites sprite-1x sprite-2x sprite-64 sprite-sdf sprite-sdf-2x icon retina clean serve sprites-build runtime-icon-pack refresh-assets deploy-cdn-assets detect-missing-icons fetch-missing-icons check-id-tagging-schema mark-id-tagging-schema-synced generate-id-tagging-import-candidates generate-presets-es generate-presets-it generate-presets-ko validate-presets-i18n validate-presets-es validate-presets-it validate-presets-ko sprites-64
+.PHONY: sprites sprite-1x sprite-2x sprite-64 sprite-sdf sprite-sdf-2x icon retina clean serve sprites-build runtime-icon-pack refresh-assets deploy-cdn-assets detect-missing-icons fetch-missing-icons check-id-tagging-schema mark-id-tagging-schema-synced generate-id-tagging-import-candidates generate-presets-ar generate-presets-es generate-presets-hu generate-presets-it generate-presets-ja generate-presets-ko validate-presets-i18n validate-presets-ar validate-presets-es validate-presets-hu validate-presets-it validate-presets-ja validate-presets-ko sprites-64
 
 sprites: check-sprite-deps sprite-1x sprite-2x sprite-64 sprite-sdf sprite-sdf-2x verify-sprites
 
@@ -68,11 +68,20 @@ mark-id-tagging-schema-synced:
 generate-id-tagging-import-candidates:
 	./scripts/generate_id_schema_import_candidates.py
 
+generate-presets-ar:
+	./scripts/generate_presets_ar.py
+
 generate-presets-es:
 	./scripts/generate_presets_es.py
 
+generate-presets-hu:
+	./scripts/generate_presets_hu.py
+
 generate-presets-it:
 	./scripts/generate_presets_it.py
+
+generate-presets-ja:
+	./scripts/generate_presets_ja.py
 
 generate-presets-ko:
 	./scripts/generate_presets_ko.py
@@ -80,11 +89,20 @@ generate-presets-ko:
 validate-presets-i18n:
 	./scripts/validate_presets_i18n.py
 
+validate-presets-ar:
+	./scripts/validate_presets_i18n.py --localization ./meta/presets_ar.json
+
 validate-presets-es:
 	./scripts/validate_presets_i18n.py --localization ./meta/presets_es.json
 
+validate-presets-hu:
+	./scripts/validate_presets_i18n.py --localization ./meta/presets_hu.json
+
 validate-presets-it:
 	./scripts/validate_presets_i18n.py --localization ./meta/presets_it.json
+
+validate-presets-ja:
+	./scripts/validate_presets_i18n.py --localization ./meta/presets_ja.json
 
 validate-presets-ko:
 	./scripts/validate_presets_i18n.py --localization ./meta/presets_ko.json

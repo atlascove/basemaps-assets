@@ -21,6 +21,8 @@ on:
 
 env:
   AWS_REGION: eu-west-1
+  API_PRESETS_BUCKET_DEV: fotoshi-api-dev-systembucketbucket-stxkzndr
+  API_PRESETS_BUCKET_PROD: fotoshi-api-prod-systembucketbucket-bbdsncmu
 
 jobs:
   sync-dev:
@@ -46,8 +48,11 @@ jobs:
 
       - name: Upload presets.json to DEV S3 bucket
         run: |
-          aws s3 cp meta/presets.json s3://${{ secrets.S3_BUCKET_DEV }}/system/presets/presets.json
-          echo "✅ Uploaded to DEV bucket: ${{ secrets.S3_BUCKET_DEV }}"
+          aws s3 cp meta/presets.json \
+            "s3://${API_PRESETS_BUCKET_DEV}/system/presets/presets.json" \
+            --content-type "application/json" \
+            --cache-control "no-cache"
+          echo "✅ Uploaded to DEV API presets bucket: ${API_PRESETS_BUCKET_DEV}"
 
   sync-prod:
     runs-on: ubuntu-latest
@@ -72,5 +77,8 @@ jobs:
 
       - name: Upload presets.json to PROD S3 bucket
         run: |
-          aws s3 cp meta/presets.json s3://${{ secrets.S3_BUCKET_PROD }}/system/presets/presets.json
-          echo "✅ Uploaded to PROD bucket: ${{ secrets.S3_BUCKET_PROD }}"
+          aws s3 cp meta/presets.json \
+            "s3://${API_PRESETS_BUCKET_PROD}/system/presets/presets.json" \
+            --content-type "application/json" \
+            --cache-control "no-cache"
+          echo "✅ Uploaded to PROD API presets bucket: ${API_PRESETS_BUCKET_PROD}"

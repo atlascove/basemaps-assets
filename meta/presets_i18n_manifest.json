@@ -174,11 +174,65 @@
       "tier": 2
     },
     {
+      "code": "am",
+      "name": "Amharic",
+      "native_name": "አማርኛ",
+      "direction": "ltr",
+      "file": "presets_am.json",
+      "format": "localized_lightweight",
+      "tier": 3
+    },
+    {
+      "code": "hy",
+      "name": "Armenian",
+      "native_name": "Հայերեն",
+      "direction": "ltr",
+      "file": "presets_hy.json",
+      "format": "localized_lightweight",
+      "tier": 3
+    },
+    {
+      "code": "bg",
+      "name": "Bulgarian",
+      "native_name": "Български",
+      "direction": "ltr",
+      "file": "presets_bg.json",
+      "format": "localized_lightweight",
+      "tier": 3
+    },
+    {
+      "code": "hr",
+      "name": "Croatian",
+      "native_name": "Hrvatski",
+      "direction": "ltr",
+      "file": "presets_hr.json",
+      "format": "localized_lightweight",
+      "tier": 3
+    },
+    {
+      "code": "cs",
+      "name": "Czech",
+      "native_name": "Čeština",
+      "direction": "ltr",
+      "file": "presets_cs.json",
+      "format": "localized_lightweight",
+      "tier": 3
+    },
+    {
       "code": "fil",
       "name": "Filipino",
       "native_name": "Filipino",
       "direction": "ltr",
       "file": "presets_fil.json",
+      "format": "localized_lightweight",
+      "tier": 3
+    },
+    {
+      "code": "ka",
+      "name": "Georgian",
+      "native_name": "ქართული",
+      "direction": "ltr",
+      "file": "presets_ka.json",
       "format": "localized_lightweight",
       "tier": 3
     },
@@ -233,6 +287,15 @@
       "native_name": "Kiswahili",
       "direction": "ltr",
       "file": "presets_sw.json",
+      "format": "localized_lightweight",
+      "tier": 3
+    },
+    {
+      "code": "ta",
+      "name": "Tamil",
+      "native_name": "தமிழ்",
+      "direction": "ltr",
+      "file": "presets_ta.json",
       "format": "localized_lightweight",
       "tier": 3
     },

@@ -1,6 +1,6 @@
 SPRITES_DIR = ./sprites
 ICONS_DIR   = ./icons
-PRESET_I18N_LANGS = ar bn de el es fa fil fr he hi hu id it ja ko pl pt_br ro ru sr sw th tr uk ur vi zh_hans zh_hant
+PRESET_I18N_LANGS = am ar bg bn cs de el es fa fil fr he hi hr hu hy id it ja ka ko pl pt_br ro ru sr sw ta th tr uk ur vi zh_hans zh_hant
 
 .PHONY: sprites sprite-1x sprite-2x sprite-64 sprite-sdf sprite-sdf-2x icon retina clean serve sprites-build runtime-icon-pack refresh-assets deploy-cdn-assets detect-missing-icons fetch-missing-icons check-id-tagging-schema mark-id-tagging-schema-synced generate-id-tagging-import-candidates generate-presets-i18n $(PRESET_I18N_LANGS:%=generate-presets-%) validate-presets-i18n validate-presets-i18n-all $(PRESET_I18N_LANGS:%=validate-presets-%) sprites-64
 

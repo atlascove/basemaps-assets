@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
-"""Generate preset localization sidecars with phrase-level machine translation.
+"""Generate lightweight preset localization files with machine translation.
 
 The canonical matching source remains meta/presets.json. This script writes a
-sidecar keyed by preset id with localized display names and search terms. It
-intentionally translates only canonical preset names and terms; it does not use
-natural_language_category.
+lightweight list of objects with preset id, localized display name, localized
+search terms, and translation quality. It intentionally translates only
+canonical preset names and terms; it does not use natural_language_category.
 """
 
 from __future__ import annotations
@@ -21,8 +21,236 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_PRESETS = ROOT / "meta" / "presets.json"
 DEFAULT_CACHE = ROOT / "tmp" / "preset_i18n_translation_cache.json"
+DEFAULT_MANIFEST = ROOT / "meta" / "presets_i18n_manifest.json"
 
-SUPPORTED_LANGUAGES = {"ar", "es", "hu", "it", "ja", "ko"}
+LANGUAGE_CONFIG = {
+    "ar": {
+        "code": "ar",
+        "google": "ar",
+        "name": "Arabic",
+        "native_name": "العربية",
+        "direction": "rtl",
+        "tier": 1,
+    },
+    "bn": {
+        "code": "bn",
+        "google": "bn",
+        "name": "Bengali",
+        "native_name": "বাংলা",
+        "direction": "ltr",
+        "tier": 2,
+    },
+    "de": {
+        "code": "de",
+        "google": "de",
+        "name": "German",
+        "native_name": "Deutsch",
+        "direction": "ltr",
+        "tier": 1,
+    },
+    "el": {
+        "code": "el",
+        "google": "el",
+        "name": "Greek",
+        "native_name": "Ελληνικά",
+        "direction": "ltr",
+        "tier": 3,
+    },
+    "es": {
+        "code": "es",
+        "google": "es",
+        "name": "Spanish",
+        "native_name": "Español",
+        "direction": "ltr",
+        "tier": 1,
+    },
+    "fa": {
+        "code": "fa",
+        "google": "fa",
+        "name": "Persian",
+        "native_name": "فارسی",
+        "direction": "rtl",
+        "tier": 3,
+    },
+    "fil": {
+        "code": "fil",
+        "google": "tl",
+        "name": "Filipino",
+        "native_name": "Filipino",
+        "direction": "ltr",
+        "tier": 3,
+    },
+    "fr": {
+        "code": "fr",
+        "google": "fr",
+        "name": "French",
+        "native_name": "Français",
+        "direction": "ltr",
+        "tier": 1,
+    },
+    "he": {
+        "code": "he",
+        "google": "iw",
+        "name": "Hebrew",
+        "native_name": "עברית",
+        "direction": "rtl",
+        "tier": 3,
+    },
+    "hi": {
+        "code": "hi",
+        "google": "hi",
+        "name": "Hindi",
+        "native_name": "हिन्दी",
+        "direction": "ltr",
+        "tier": 1,
+    },
+    "hu": {
+        "code": "hu",
+        "google": "hu",
+        "name": "Hungarian",
+        "native_name": "Magyar",
+        "direction": "ltr",
+        "tier": None,
+    },
+    "id": {
+        "code": "id",
+        "google": "id",
+        "name": "Indonesian",
+        "native_name": "Bahasa Indonesia",
+        "direction": "ltr",
+        "tier": 1,
+    },
+    "it": {
+        "code": "it",
+        "google": "it",
+        "name": "Italian",
+        "native_name": "Italiano",
+        "direction": "ltr",
+        "tier": None,
+    },
+    "ja": {
+        "code": "ja",
+        "google": "ja",
+        "name": "Japanese",
+        "native_name": "日本語",
+        "direction": "ltr",
+        "tier": 1,
+    },
+    "ko": {
+        "code": "ko",
+        "google": "ko",
+        "name": "Korean",
+        "native_name": "한국어",
+        "direction": "ltr",
+        "tier": 1,
+    },
+    "pl": {
+        "code": "pl",
+        "google": "pl",
+        "name": "Polish",
+        "native_name": "Polski",
+        "direction": "ltr",
+        "tier": 3,
+    },
+    "pt_br": {
+        "code": "pt-BR",
+        "google": "pt",
+        "name": "Portuguese",
+        "native_name": "Português",
+        "direction": "ltr",
+        "tier": 1,
+    },
+    "ro": {
+        "code": "ro",
+        "google": "ro",
+        "name": "Romanian",
+        "native_name": "Română",
+        "direction": "ltr",
+        "tier": 2,
+    },
+    "ru": {
+        "code": "ru",
+        "google": "ru",
+        "name": "Russian",
+        "native_name": "Русский",
+        "direction": "ltr",
+        "tier": 2,
+    },
+    "sr": {
+        "code": "sr",
+        "google": "sr",
+        "name": "Serbian",
+        "native_name": "Српски",
+        "direction": "ltr",
+        "tier": 2,
+    },
+    "sw": {
+        "code": "sw",
+        "google": "sw",
+        "name": "Swahili",
+        "native_name": "Kiswahili",
+        "direction": "ltr",
+        "tier": 3,
+    },
+    "th": {
+        "code": "th",
+        "google": "th",
+        "name": "Thai",
+        "native_name": "ไทย",
+        "direction": "ltr",
+        "tier": 2,
+    },
+    "tr": {
+        "code": "tr",
+        "google": "tr",
+        "name": "Turkish",
+        "native_name": "Türkçe",
+        "direction": "ltr",
+        "tier": 1,
+    },
+    "uk": {
+        "code": "uk",
+        "google": "uk",
+        "name": "Ukrainian",
+        "native_name": "Українська",
+        "direction": "ltr",
+        "tier": 2,
+    },
+    "ur": {
+        "code": "ur",
+        "google": "ur",
+        "name": "Urdu",
+        "native_name": "اردو",
+        "direction": "rtl",
+        "tier": 2,
+    },
+    "vi": {
+        "code": "vi",
+        "google": "vi",
+        "name": "Vietnamese",
+        "native_name": "Tiếng Việt",
+        "direction": "ltr",
+        "tier": 1,
+    },
+    "zh_hans": {
+        "code": "zh-Hans",
+        "google": "zh-CN",
+        "name": "Simplified Chinese",
+        "native_name": "简体中文",
+        "direction": "ltr",
+        "tier": 3,
+    },
+    "zh_hant": {
+        "code": "zh-Hant",
+        "google": "zh-TW",
+        "name": "Traditional Chinese",
+        "native_name": "繁體中文",
+        "direction": "ltr",
+        "tier": 3,
+    },
+}
+
+SUPPORTED_LANGUAGES = set(LANGUAGE_CONFIG)
 
 CURATED_NAMES = {
     "es": {
@@ -331,7 +559,8 @@ def save_cache(path: Path, cache: dict[str, str]) -> None:
 
 
 def translate_query(text: str, lang: str, attempts: int = 4) -> str:
-    query = urllib.parse.urlencode({"client": "gtx", "sl": "en", "tl": lang, "dt": "t", "q": text})
+    google_lang = LANGUAGE_CONFIG[lang]["google"]
+    query = urllib.parse.urlencode({"client": "gtx", "sl": "en", "tl": google_lang, "dt": "t", "q": text})
     url = f"https://translate.googleapis.com/translate_a/single?{query}"
     for attempt in range(attempts):
         try:
@@ -416,11 +645,10 @@ def terms_for_preset(preset: dict, translated_name: str, translations: dict[str,
     return sorted(term for term in terms if term)
 
 
-def build(presets: list[dict], lang: str, translations: dict[str, str]) -> dict[str, dict]:
-    output: dict[str, dict] = {}
+def build(presets: list[dict], lang: str, translations: dict[str, str]) -> list[dict]:
+    output: list[dict] = []
     curated_names = CURATED_NAMES.get(lang, {})
     for preset in presets:
-        pid = str(preset["id"])
         source_name = str(preset["name"])
         if source_name in curated_names:
             name = curated_names[source_name]
@@ -428,12 +656,51 @@ def build(presets: list[dict], lang: str, translations: dict[str, str]) -> dict[
         else:
             name = translations.get(source_name, source_name)
             quality = "machine_translation" if name != source_name else "fallback_original"
-        output[pid] = {
+        output.append({
+            "id": int(preset["id"]),
             "name": name,
             "terms": terms_for_preset(preset, name, translations, lang),
             "quality": quality,
-        }
+        })
     return output
+
+
+def preset_file_for_lang(lang: str) -> str:
+    return f"presets_{lang}.json"
+
+
+def build_manifest() -> dict:
+    languages = [
+        {
+            "code": "en",
+            "name": "English",
+            "native_name": "English",
+            "direction": "ltr",
+            "file": "presets.json",
+            "format": "canonical",
+            "tier": 1,
+        }
+    ]
+    for lang in sorted(SUPPORTED_LANGUAGES, key=lambda item: (LANGUAGE_CONFIG[item]["tier"] is None, LANGUAGE_CONFIG[item]["tier"] or 99, LANGUAGE_CONFIG[item]["name"])):
+        config = LANGUAGE_CONFIG[lang]
+        languages.append({
+            "code": config["code"],
+            "name": config["name"],
+            "native_name": config["native_name"],
+            "direction": config["direction"],
+            "file": preset_file_for_lang(lang),
+            "format": "localized_lightweight",
+            **({"tier": config["tier"]} if config["tier"] is not None else {}),
+        })
+    return {
+        "version": 1,
+        "default_language": "en",
+        "languages": languages,
+    }
+
+
+def write_manifest(path: Path) -> None:
+    path.write_text(json.dumps(build_manifest(), ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
 
 def main() -> int:
@@ -443,18 +710,22 @@ def main() -> int:
     parser.add_argument("--output")
     parser.add_argument("--cache", default=DEFAULT_CACHE)
     parser.add_argument("--workers", type=int, default=12)
+    parser.add_argument("--manifest", default=DEFAULT_MANIFEST)
+    parser.add_argument("--skip-manifest", action="store_true")
     args = parser.parse_args()
 
     presets = json.loads(Path(args.presets).read_text(encoding="utf-8"))
-    output_path = Path(args.output) if args.output else ROOT / "meta" / f"presets_{args.lang}.json"
+    output_path = Path(args.output) if args.output else ROOT / "meta" / preset_file_for_lang(args.lang)
     cache_path = Path(args.cache)
     texts = collect_texts(presets, args.lang)
     translations = translate_many(texts, args.lang, cache_path, args.workers)
     output = build(presets, args.lang, translations)
-    output_path.write_text(json.dumps(output, ensure_ascii=False, indent=2, sort_keys=True) + "\n", encoding="utf-8")
+    output_path.write_text(json.dumps(output, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    if not args.skip_manifest:
+        write_manifest(Path(args.manifest))
 
     counts: dict[str, int] = {}
-    for item in output.values():
+    for item in output:
         counts[item["quality"]] = counts.get(item["quality"], 0) + 1
     print(f"wrote {output_path}: {len(output)} translations; quality={counts}")
     return 0

@@ -6,7 +6,7 @@ on:
     paths:
       - 'icons/**'
       - 'fonts/**'
-      - 'meta/presets.json'
+      - 'meta/presets*.json'
       - 'scripts/**'
       - 'vendor/**'
       - 'sprites/**'
@@ -76,7 +76,7 @@ jobs:
           path: |
             sprites/
             built-fonts/
-            meta/presets.json
+            meta/presets*.json
           retention-days: 1
 
   resolve-env:
@@ -158,17 +158,26 @@ jobs:
             --content-type "application/json" \
             --cache-control "no-cache"
 
+      - name: Sync localized preset metadata to CDN
+        run: |
+          aws s3 sync meta/ "s3://${{ steps.target.outputs.bucket }}/assets/meta/" \
+            --exclude "*" \
+            --include "presets*.json" \
+            --content-type "application/json" \
+            --cache-control "public, max-age=300, must-revalidate"
+
       - name: Invalidate CloudFront
         if: steps.target.outputs.cdn != ''
         run: |
           aws cloudfront create-invalidation \
             --distribution-id "${{ steps.target.outputs.cdn }}" \
-            --paths "/assets/sprites/*" "/assets/fonts/*"
+            --paths "/assets/sprites/*" "/assets/fonts/*" "/assets/meta/*"
 
       - name: Summary
         run: |
           echo "Synced to ${{ matrix.env }}:" >> "$GITHUB_STEP_SUMMARY"
           echo "- s3://${{ steps.target.outputs.bucket }}/assets/sprites/" >> "$GITHUB_STEP_SUMMARY"
           echo "- s3://${{ steps.target.outputs.bucket }}/assets/fonts/" >> "$GITHUB_STEP_SUMMARY"
+          echo "- s3://${{ steps.target.outputs.bucket }}/assets/meta/presets*.json" >> "$GITHUB_STEP_SUMMARY"
           echo "- s3://${{ steps.target.outputs.presets_bucket }}/system/presets/presets.json" >> "$GITHUB_STEP_SUMMARY"
           echo "- CloudFront ${{ steps.target.outputs.cdn }} invalidated" >> "$GITHUB_STEP_SUMMARY"

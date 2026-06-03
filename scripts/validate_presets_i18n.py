@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Validate preset localization sidecars against canonical presets.json."""
+"""Validate lightweight preset localization files against canonical presets.json."""
 
 from __future__ import annotations
 
@@ -21,10 +21,26 @@ def main() -> int:
 
     presets = json.loads(Path(args.presets).read_text(encoding="utf-8"))
     localization = json.loads(Path(args.localization).read_text(encoding="utf-8"))
-    preset_ids = {str(item["id"]) for item in presets}
-    loc_ids = set(localization)
+    preset_ids = {int(item["id"]) for item in presets}
 
     errors: list[str] = []
+    if not isinstance(localization, list):
+        errors.append("localization must be a list of objects")
+        localization = []
+
+    loc_ids = set()
+    for index, item in enumerate(localization):
+        if not isinstance(item, dict):
+            errors.append(f"{index}: item must be an object")
+            continue
+        pid = item.get("id")
+        if not isinstance(pid, int):
+            errors.append(f"{index}: id must be an integer")
+            continue
+        if pid in loc_ids:
+            errors.append(f"{pid}: duplicate id")
+        loc_ids.add(pid)
+
     missing = sorted(preset_ids - loc_ids, key=int)
     extra = sorted(loc_ids - preset_ids, key=int)
     if missing:
@@ -33,10 +49,10 @@ def main() -> int:
         errors.append(f"unknown localization ids: {extra[:20]}{'...' if len(extra) > 20 else ''}")
 
     term_pattern = re.compile(r"^\S(?:.*\S)?$")
-    for pid, item in localization.items():
+    for item in localization:
         if not isinstance(item, dict):
-            errors.append(f"{pid}: value must be an object")
             continue
+        pid = item.get("id", "?")
         name = item.get("name")
         terms = item.get("terms")
         if not isinstance(name, str) or not name.strip():
@@ -64,7 +80,7 @@ def main() -> int:
         return 1
 
     quality_counts: dict[str, int] = {}
-    for item in localization.values():
+    for item in localization:
         quality = str(item.get("quality", "unspecified"))
         quality_counts[quality] = quality_counts.get(quality, 0) + 1
     print(

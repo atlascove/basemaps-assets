@@ -12,12 +12,8 @@ This repository contains the assets for the Atlascove basemaps.
 
 * `meta/`: Contains metadata for mapping
   * `presets.json` - iD editor presets from [id-tagging-schema](https://github.com/openstreetmap/id-tagging-schema)
-  * `presets_ar.json` - Arabic localization sidecar keyed by canonical preset ID
-  * `presets_es.json` - Spanish localization sidecar keyed by canonical preset ID
-  * `presets_hu.json` - Hungarian localization sidecar keyed by canonical preset ID
-  * `presets_it.json` - Italian localization sidecar keyed by canonical preset ID
-  * `presets_ja.json` - Japanese localization sidecar keyed by canonical preset ID
-  * `presets_ko.json` - Korean localization sidecar keyed by canonical preset ID
+  * `presets_<language>.json` - lightweight localized preset list
+  * `presets_i18n_manifest.json` - available localized preset files and language metadata
   * `tags_table_transformed.json` - Overture categories to OSM tags mapping
 
 ## Linking to Assets in Styles
@@ -152,42 +148,60 @@ Outputs:
 - `tmp/id_tagging_schema_import_candidates.json`
 - `tmp/id_tagging_schema_import_candidates.tsv`
 
-## Preset Localization Sidecars
+## Preset Localization
 
 `meta/presets.json` remains the canonical matching source. Language-specific
-files should be sidecars keyed by preset ID so tags, geometry, category, and
-matching behavior do not diverge from the canonical file.
+files are lightweight localized lists keyed semantically by preset `id`, so
+tags, geometry, category, and matching behavior do not diverge from the
+canonical file.
 
 Use `presets_<language>.json`, where `<language>` is the ISO 639-1 two-letter
-language code.
+language code or a normalized locale suffix such as `pt_br`, `zh_hans`, or
+`zh_hant`.
 
-Generate sidecars:
+Generate all localized preset files:
 
 ```bash
-make generate-presets-ar
-make generate-presets-es
-make generate-presets-hu
-make generate-presets-it
-make generate-presets-ja
-make generate-presets-ko
+make generate-presets-i18n
+```
+
+Generate or validate one language:
+
+```bash
+make generate-presets-tr
+make validate-presets-tr
 ```
 
 Validate that every canonical preset has exactly one localization entry:
 
 ```bash
-make validate-presets-ar
-make validate-presets-es
-make validate-presets-hu
-make validate-presets-it
-make validate-presets-ja
-make validate-presets-ko
+make validate-presets-i18n-all
 ```
 
-Each localized entry contains:
+Each localized file is a list of objects:
 
+```json
+[
+  {
+    "id": 1,
+    "name": "Ponte",
+    "terms": ["arco", "capriata", "fiume", "ponte"],
+    "quality": "machine_translation"
+  }
+]
+```
+
+Each localized object contains:
+
+- `id` - canonical preset ID from `presets.json`
 - `name` - localized display label
 - `terms` - localized search aliases
 - `quality` - `curated_exact`, `machine_translation`, or `fallback_original`
+
+Clients should read `presets_i18n_manifest.json` to discover display names,
+native names, text direction, and file names. English uses canonical
+`presets.json`; localized files intentionally omit canonical matching fields
+such as `tags`, `geometry`, and `icon`.
 
 ## 64px Sprite Variant
 

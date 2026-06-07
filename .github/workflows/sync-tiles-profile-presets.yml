@@ -1,0 +1,55 @@
+name: Sync Presets to Tiles Profile
+
+on:
+  push:
+    branches: [main, dev]
+    paths:
+      - "meta/presets.json"
+      - "meta/tags_table_transformed.json"
+      - ".github/workflows/sync-tiles-profile-presets.yml"
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Require cross-repo token
+        env:
+          SYNC_TOKEN: ${{ secrets.TILES_PROFILE_SYNC_TOKEN }}
+        run: |
+          if [ -z "${SYNC_TOKEN}" ]; then
+            echo "Missing TILES_PROFILE_SYNC_TOKEN secret with write access to atlascove/tiles-profile" >&2
+            exit 1
+          fi
+
+      - name: Checkout basemaps-assets
+        uses: actions/checkout@v4
+        with:
+          path: basemaps-assets
+
+      - name: Checkout tiles-profile
+        uses: actions/checkout@v4
+        with:
+          repository: atlascove/tiles-profile
+          ref: ${{ github.ref_name }}
+          token: ${{ secrets.TILES_PROFILE_SYNC_TOKEN }}
+          path: tiles-profile
+
+      - name: Copy canonical preset resources
+        run: |
+          cp basemaps-assets/meta/presets.json tiles-profile/src/main/resources/presets.json
+          cp basemaps-assets/meta/tags_table_transformed.json tiles-profile/src/main/resources/tags_table_transformed.json
+
+      - name: Commit and push if changed
+        working-directory: tiles-profile
+        run: |
+          if git diff --quiet -- src/main/resources/presets.json src/main/resources/tags_table_transformed.json; then
+            echo "tiles-profile preset resources already match basemaps-assets/${{ github.ref_name }}"
+            exit 0
+          fi
+
+          git config user.name "fotoshi-presets-sync[bot]"
+          git config user.email "fotoshi-presets-sync[bot]@users.noreply.github.com"
+          git add src/main/resources/presets.json src/main/resources/tags_table_transformed.json
+          git commit -m "Sync preset resources from basemaps-assets"
+          git push origin "HEAD:${{ github.ref_name }}"

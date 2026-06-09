@@ -18018,7 +18018,7 @@
   {
     "id": 492,
     "name": "Emergency Water Reservoir",
-    "icon": "maki-water",
+    "icon": "dazzle-water",
     "tags": {
       "water": "reservoir",
       "natural": "water",
@@ -18057,7 +18057,7 @@
   {
     "id": 493,
     "name": "Emergency Water Reservoir (Underground)",
-    "icon": "maki-water",
+    "icon": "dazzle-water",
     "tags": {
       "man_made": "reservoir_covered",
       "emergency": "water_tank"
@@ -24214,7 +24214,7 @@
   {
     "id": 673,
     "name": "Basin Landuse",
-    "icon": "maki-water",
+    "icon": "dazzle-water",
     "tags": {
       "landuse": "basin"
     },
@@ -24357,7 +24357,7 @@
   {
     "id": 677,
     "name": "Pond Landuse",
-    "icon": "maki-water",
+    "icon": "dazzle-water",
     "tags": {
       "landuse": "pond"
     },
@@ -24384,7 +24384,7 @@
   {
     "id": 678,
     "name": "Reservoir Landuse",
-    "icon": "maki-water",
+    "icon": "dazzle-water",
     "tags": {
       "landuse": "reservoir"
     },
@@ -29659,7 +29659,7 @@
   {
     "id": 821,
     "name": "Covered Reservoir",
-    "icon": "maki-water",
+    "icon": "dazzle-water",
     "tags": {
       "man_made": "reservoir_covered"
     },
@@ -31776,7 +31776,7 @@
   {
     "id": 880,
     "name": "Geyser",
-    "icon": "maki-water",
+    "icon": "maki-hot-spring",
     "tags": {
       "natural": "geyser"
     },
@@ -31921,7 +31921,7 @@
   {
     "id": 884,
     "name": "Hot Spring",
-    "icon": "maki-water",
+    "icon": "maki-hot-spring",
     "tags": {
       "natural": "hot_spring"
     },
@@ -32664,7 +32664,7 @@
   {
     "id": 904,
     "name": "Basin",
-    "icon": "maki-water",
+    "icon": "dazzle-water",
     "tags": {
       "water": "basin",
       "natural": "water"
@@ -32736,7 +32736,7 @@
   {
     "id": 906,
     "name": "Lake",
-    "icon": "maki-water",
+    "icon": "dazzle-water",
     "tags": {
       "water": "lake",
       "natural": "water"
@@ -32769,7 +32769,7 @@
   {
     "id": 907,
     "name": "Moat",
-    "icon": "maki-water",
+    "icon": "dazzle-water",
     "tags": {
       "water": "moat",
       "natural": "water"
@@ -32808,7 +32808,7 @@
   {
     "id": 908,
     "name": "Pond",
-    "icon": "maki-water",
+    "icon": "dazzle-water",
     "tags": {
       "water": "pond",
       "natural": "water"
@@ -32841,7 +32841,7 @@
   {
     "id": 909,
     "name": "Reservoir",
-    "icon": "maki-water",
+    "icon": "dazzle-water",
     "tags": {
       "water": "reservoir",
       "natural": "water"
@@ -94748,7 +94748,7 @@
   {
     "id": 2812,
     "name": "Bathing Place",
-    "icon": "maki-water",
+    "icon": "dazzle-water",
     "tags": {
       "leisure": "bathing_place"
     },
@@ -96467,7 +96467,7 @@
   {
     "id": 2872,
     "name": "Oxbow Lake",
-    "icon": "maki-water",
+    "icon": "dazzle-water",
     "tags": {
       "natural": "water",
       "water": "oxbow"

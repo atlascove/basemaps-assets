@@ -7,7 +7,7 @@
     "sprite_json": "sprites/sprites@2x.json",
     "sprite_png": "sprites/sprites@2x.png"
   },
-  "icon_count": 813,
+  "icon_count": 815,
   "missing_count": 0,
   "collisions": {},
   "icons": [
@@ -31,6 +31,13 @@
       "width": 30,
       "height": 30,
       "sha256": "1a1051c8fda2663b49d77faf502c8c939b6d0130d57bb5b1f865a21001cba6a9"
+    },
+    {
+      "icon": "dazzle-water",
+      "file": "icons/dazzle-water.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "8e92e1cb827802837282e4b44a02fc3ebbd92fb8dbaa85a1264590f8e2269e6f"
     },
     {
       "icon": "dejonge-hangglider",
@@ -2362,6 +2369,13 @@
       "width": 30,
       "height": 30,
       "sha256": "47f4f78bf7fd34db8e9a240bdcfa473a559ebfabc7beb95ff6cee0673b5e1466"
+    },
+    {
+      "icon": "maki-hot-spring",
+      "file": "icons/maki-hot-spring.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "cd94f31a0dc3bde6936cbfa7ee9edb717cb83c3dbf0fa34d4c91afbccd1686a3"
     },
     {
       "icon": "maki-industry",

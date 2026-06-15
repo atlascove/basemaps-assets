@@ -29958,7 +29958,7 @@
   {
     "id": 829,
     "name": "Tunnel Area",
-    "icon": "temaki-tunnel",
+    "icon": "wikimedia-tunnel",
     "tags": {
       "man_made": "tunnel"
     },
@@ -51388,7 +51388,7 @@
   {
     "id": 1403,
     "name": "Tunnel",
-    "icon": "temaki-tunnel",
+    "icon": "wikimedia-tunnel",
     "tags": {
       "tunnel": "yes",
       "highway": "*"

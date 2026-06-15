@@ -5416,13 +5416,6 @@
       "sha256": "ca2b385d4aa114ebf580624e6928120ca55f47c31c7d34923b1c21a17d10cd44"
     },
     {
-      "icon": "temaki-tunnel",
-      "file": "icons/temaki-tunnel.webp",
-      "width": 30,
-      "height": 30,
-      "sha256": "80f2b8e73c84dcb7672c7424d09c4d6c3c3771bd285345d8965ad58903b7871c"
-    },
-    {
       "icon": "temaki-turnstile",
       "file": "icons/temaki-turnstile.webp",
       "width": 30,
@@ -5701,6 +5694,13 @@
       "width": 30,
       "height": 30,
       "sha256": "534af320cfbfe700fbf582bd873121c6781907753c33e57316be64a065239056"
+    },
+    {
+      "icon": "wikimedia-tunnel",
+      "file": "icons/wikimedia-tunnel.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "1b20f67fdda5cfd419f11213fdeddfeb52189e2109ae354579036b849f3022df"
     },
     {
       "icon": "windows8-mb",

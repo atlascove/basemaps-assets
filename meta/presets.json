@@ -6412,7 +6412,6 @@
     "version": "4",
     "overture_categories": [
       "topic_concert_venue",
-      "music_venue",
       "theatre",
       "comedy_club",
       "theatrical_productions",
@@ -97835,6 +97834,46 @@
       "monorail station",
       "station",
       "public transit station"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 3202,
+    "name": "Music Venue",
+    "icon": "fas-music",
+    "tags": {
+      "amenity": "music_venue"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "concert venue",
+      "live music venue",
+      "gig venue",
+      "performance venue",
+      "music hall",
+      "concert hall"
+    ],
+    "last_updated": "2026-06-16",
+    "ds": "2025-09-03",
+    "name_required": true,
+    "allow_add": true,
+    "source": "osm",
+    "version": "1",
+    "overture_categories": [
+      "music_venue",
+      "topic_concert_venue"
+    ],
+    "natural_language_category": [
+      "music venue",
+      "live music venue",
+      "concert venue",
+      "gig venue",
+      "concert hall",
+      "music hall",
+      "live performance venue"
     ],
     "matchScore": 1
   }

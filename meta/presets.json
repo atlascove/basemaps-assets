@@ -98437,5 +98437,40 @@
     ],
     "matchScore": 1,
     "id": 3220
+  },
+  {
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "last_updated": "2026-06-26",
+    "ds": "2026-06-26",
+    "source": "osm",
+    "version": "1",
+    "overture_categories": [],
+    "name": "Ice Cream Shop",
+    "icon": "fas-ice-cream",
+    "tags": {
+      "shop": "ice_cream"
+    },
+    "terms": [
+      "gelato",
+      "sorbet",
+      "sherbet",
+      "gelateria",
+      "scoop",
+      "ice cream"
+    ],
+    "name_required": true,
+    "allow_add": false,
+    "natural_language_category": [
+      "ice cream shop",
+      "ice cream parlor",
+      "ice cream store",
+      "gelateria",
+      "frozen dessert shop"
+    ],
+    "matchScore": 1,
+    "id": 3221
   }
 ]

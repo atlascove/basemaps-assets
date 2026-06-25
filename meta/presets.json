@@ -97804,5 +97804,456 @@
       "public transit station"
     ],
     "matchScore": 1
+  },
+  {
+    "id": 3201,
+    "name": "Ski School",
+    "icon": "temaki-skiing",
+    "tags": {
+      "amenity": "ski_school"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "ski school",
+      "ski instructor",
+      "ski lessons",
+      "ski academy",
+      "snowsports school"
+    ],
+    "last_updated": "2026-06-07",
+    "ds": "2026-06-07",
+    "name_required": true,
+    "allow_add": false,
+    "source": "osm",
+    "version": "1",
+    "overture_categories": [],
+    "natural_language_category": [
+      "ski school",
+      "skiing",
+      "ski lessons",
+      "ski instructor"
+    ],
+    "matchScore": 1
+  },
+  {
+    "id": 3202,
+    "name": "Music Venue",
+    "icon": "fas-music",
+    "tags": {
+      "amenity": "music_venue"
+    },
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "terms": [
+      "concert venue",
+      "live music venue",
+      "gig venue",
+      "performance venue",
+      "music hall",
+      "concert hall"
+    ],
+    "last_updated": "2026-06-16",
+    "ds": "2025-09-03",
+    "name_required": true,
+    "allow_add": true,
+    "source": "osm",
+    "version": "1",
+    "overture_categories": [
+      "music_venue",
+      "topic_concert_venue"
+    ],
+    "natural_language_category": [
+      "music venue",
+      "live music venue",
+      "concert venue",
+      "gig venue",
+      "concert hall",
+      "music hall",
+      "live performance venue"
+    ],
+    "matchScore": 1
+  },
+  {
+    "geometry": [
+      "area"
+    ],
+    "last_updated": "2026-06-25",
+    "ds": "2026-06-25",
+    "source": "osm",
+    "version": "1",
+    "overture_categories": [],
+    "name": "Building Part",
+    "icon": "remixicon-building",
+    "tags": {
+      "building:part": "yes"
+    },
+    "terms": [
+      "building part",
+      "part of building",
+      "building section"
+    ],
+    "name_required": false,
+    "allow_add": false,
+    "natural_language_category": [
+      "building part",
+      "building section"
+    ],
+    "matchScore": 0.02,
+    "id": 3203
+  },
+  {
+    "geometry": [
+      "point",
+      "vertex"
+    ],
+    "last_updated": "2026-06-25",
+    "ds": "2026-06-25",
+    "source": "osm",
+    "version": "1",
+    "overture_categories": [],
+    "name": "Traffic Sign",
+    "icon": "maki-square-stroked",
+    "tags": {
+      "traffic_sign": "yes"
+    },
+    "terms": [
+      "road sign",
+      "street sign",
+      "traffic sign",
+      "sign"
+    ],
+    "name_required": false,
+    "allow_add": true,
+    "natural_language_category": [
+      "traffic sign",
+      "road sign"
+    ],
+    "matchScore": 1,
+    "id": 3204
+  },
+  {
+    "geometry": [
+      "point",
+      "vertex"
+    ],
+    "last_updated": "2026-06-25",
+    "ds": "2026-06-25",
+    "source": "osm",
+    "version": "1",
+    "overture_categories": [],
+    "name": "Traffic Sign",
+    "icon": "maki-square-stroked",
+    "tags": {
+      "traffic_sign": "*"
+    },
+    "terms": [
+      "road sign",
+      "street sign",
+      "traffic sign",
+      "sign"
+    ],
+    "name_required": false,
+    "allow_add": false,
+    "natural_language_category": [
+      "traffic sign",
+      "road sign"
+    ],
+    "matchScore": 0.2,
+    "id": 3205
+  },
+  {
+    "geometry": [
+      "point",
+      "vertex"
+    ],
+    "last_updated": "2026-06-25",
+    "ds": "2026-06-25",
+    "source": "osm",
+    "version": "1",
+    "overture_categories": [],
+    "name": "Service Entrance",
+    "icon": "maki-entrance-alt1",
+    "tags": {
+      "entrance": "service"
+    },
+    "terms": [
+      "service door",
+      "staff entrance",
+      "service access",
+      "back entrance"
+    ],
+    "name_required": false,
+    "allow_add": true,
+    "natural_language_category": [
+      "service entrance",
+      "entrance"
+    ],
+    "matchScore": 1,
+    "id": 3206
+  },
+  {
+    "geometry": [
+      "point",
+      "vertex"
+    ],
+    "last_updated": "2026-06-25",
+    "ds": "2026-06-25",
+    "source": "osm",
+    "version": "1",
+    "overture_categories": [],
+    "name": "Train Station Entrance",
+    "icon": "maki-entrance-alt1",
+    "tags": {
+      "railway": "train_station_entrance"
+    },
+    "terms": [
+      "station entrance",
+      "railway entrance",
+      "train entrance",
+      "transit entrance"
+    ],
+    "name_required": false,
+    "allow_add": true,
+    "natural_language_category": [
+      "train station entrance",
+      "station entrance",
+      "entrance"
+    ],
+    "matchScore": 1,
+    "id": 3207
+  },
+  {
+    "geometry": [
+      "point",
+      "vertex",
+      "area"
+    ],
+    "last_updated": "2026-06-25",
+    "ds": "2026-06-25",
+    "source": "osm",
+    "version": "1",
+    "overture_categories": [],
+    "name": "Mobile Phone Accessories Store",
+    "icon": "fas-mobile-alt",
+    "tags": {
+      "shop": "mobile_phone_accessories"
+    },
+    "terms": [
+      "phone accessories",
+      "mobile accessories",
+      "phone case",
+      "charger",
+      "screen protector"
+    ],
+    "name_required": true,
+    "allow_add": true,
+    "natural_language_category": [
+      "mobile phone accessories store",
+      "phone accessories store"
+    ],
+    "matchScore": 1,
+    "id": 3208
+  },
+  {
+    "geometry": [
+      "point",
+      "vertex",
+      "area"
+    ],
+    "last_updated": "2026-06-25",
+    "ds": "2026-06-25",
+    "source": "osm",
+    "version": "1",
+    "overture_categories": [],
+    "name": "Real Estate Agent",
+    "icon": "temaki-real_estate_agency",
+    "tags": {
+      "shop": "estate_agent"
+    },
+    "terms": [
+      "real estate",
+      "estate agent",
+      "property agent",
+      "realtor",
+      "broker"
+    ],
+    "name_required": true,
+    "allow_add": false,
+    "natural_language_category": [
+      "real estate agent",
+      "real estate office"
+    ],
+    "matchScore": 1,
+    "id": 3209
+  },
+  {
+    "geometry": [
+      "point",
+      "vertex",
+      "area"
+    ],
+    "last_updated": "2026-06-25",
+    "ds": "2026-06-25",
+    "source": "osm",
+    "version": "1",
+    "overture_categories": [],
+    "name": "Dance School",
+    "icon": "fas-music",
+    "tags": {
+      "amenity": "dancing_school"
+    },
+    "terms": [
+      "dance school",
+      "dance studio",
+      "ballet",
+      "tango",
+      "waltz",
+      "dance teaching"
+    ],
+    "name_required": true,
+    "allow_add": false,
+    "natural_language_category": [
+      "dance school",
+      "dance studio"
+    ],
+    "matchScore": 1,
+    "id": 3210
+  },
+  {
+    "geometry": [
+      "point",
+      "vertex",
+      "area"
+    ],
+    "last_updated": "2026-06-25",
+    "ds": "2026-06-25",
+    "source": "osm",
+    "version": "1",
+    "overture_categories": [],
+    "name": "HVAC Store",
+    "icon": "temaki-tools",
+    "tags": {
+      "shop": "hvac"
+    },
+    "terms": [
+      "hvac",
+      "heating",
+      "ventilation",
+      "air conditioning",
+      "cooling",
+      "hvac supplier"
+    ],
+    "name_required": true,
+    "allow_add": true,
+    "natural_language_category": [
+      "hvac store",
+      "hvac supplier"
+    ],
+    "matchScore": 1,
+    "id": 3211
+  },
+  {
+    "geometry": [
+      "point",
+      "vertex",
+      "area"
+    ],
+    "last_updated": "2026-06-25",
+    "ds": "2026-06-25",
+    "source": "osm",
+    "version": "1",
+    "overture_categories": [],
+    "name": "Jeweller",
+    "icon": "maki-jewelry-store",
+    "tags": {
+      "craft": "jeweller"
+    },
+    "terms": [
+      "jeweller",
+      "jeweler",
+      "jewellery",
+      "jewelry",
+      "goldsmith"
+    ],
+    "name_required": true,
+    "allow_add": true,
+    "natural_language_category": [
+      "jeweller",
+      "jewelry craftsperson",
+      "goldsmith"
+    ],
+    "matchScore": 1,
+    "id": 3212
+  },
+  {
+    "geometry": [
+      "point",
+      "vertex",
+      "area"
+    ],
+    "last_updated": "2026-06-25",
+    "ds": "2026-06-25",
+    "source": "osm",
+    "version": "1",
+    "overture_categories": [],
+    "name": "Orthopedic Store",
+    "icon": "maki-doctor",
+    "tags": {
+      "shop": "orthopedics"
+    },
+    "terms": [
+      "orthopedics",
+      "orthopaedics",
+      "orthopedic store",
+      "orthopaedic store",
+      "medical supplies",
+      "braces"
+    ],
+    "name_required": true,
+    "allow_add": true,
+    "natural_language_category": [
+      "orthopedic store",
+      "orthopaedic store",
+      "medical supply store"
+    ],
+    "matchScore": 1,
+    "id": 3213
+  },
+  {
+    "geometry": [
+      "point",
+      "vertex",
+      "area"
+    ],
+    "last_updated": "2026-06-25",
+    "ds": "2026-06-25",
+    "source": "osm",
+    "version": "1",
+    "overture_categories": [],
+    "name": "Advertising Screen",
+    "icon": "temaki-billboard",
+    "tags": {
+      "advertising": "screen"
+    },
+    "terms": [
+      "advertising screen",
+      "digital sign",
+      "digital advertising",
+      "display screen",
+      "ad screen"
+    ],
+    "name_required": false,
+    "allow_add": true,
+    "natural_language_category": [
+      "advertising screen",
+      "digital advertising screen"
+    ],
+    "matchScore": 1,
+    "id": 3214
   }
 ]

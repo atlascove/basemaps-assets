@@ -1,0 +1,328 @@
+{
+  "version": 1,
+  "default_language": "en",
+  "languages": [
+    {
+      "code": "en",
+      "name": "English",
+      "native_name": "English",
+      "direction": "ltr",
+      "file": "presets.json",
+      "format": "canonical",
+      "tier": 1
+    },
+    {
+      "code": "ar",
+      "name": "Arabic",
+      "native_name": "العربية",
+      "direction": "rtl",
+      "file": "presets_ar.json",
+      "format": "localized_lightweight",
+      "tier": 1
+    },
+    {
+      "code": "fr",
+      "name": "French",
+      "native_name": "Français",
+      "direction": "ltr",
+      "file": "presets_fr.json",
+      "format": "localized_lightweight",
+      "tier": 1
+    },
+    {
+      "code": "de",
+      "name": "German",
+      "native_name": "Deutsch",
+      "direction": "ltr",
+      "file": "presets_de.json",
+      "format": "localized_lightweight",
+      "tier": 1
+    },
+    {
+      "code": "hi",
+      "name": "Hindi",
+      "native_name": "हिन्दी",
+      "direction": "ltr",
+      "file": "presets_hi.json",
+      "format": "localized_lightweight",
+      "tier": 1
+    },
+    {
+      "code": "id",
+      "name": "Indonesian",
+      "native_name": "Bahasa Indonesia",
+      "direction": "ltr",
+      "file": "presets_id.json",
+      "format": "localized_lightweight",
+      "tier": 1
+    },
+    {
+      "code": "ja",
+      "name": "Japanese",
+      "native_name": "日本語",
+      "direction": "ltr",
+      "file": "presets_ja.json",
+      "format": "localized_lightweight",
+      "tier": 1
+    },
+    {
+      "code": "ko",
+      "name": "Korean",
+      "native_name": "한국어",
+      "direction": "ltr",
+      "file": "presets_ko.json",
+      "format": "localized_lightweight",
+      "tier": 1
+    },
+    {
+      "code": "pt-BR",
+      "name": "Portuguese",
+      "native_name": "Português",
+      "direction": "ltr",
+      "file": "presets_pt_br.json",
+      "format": "localized_lightweight",
+      "tier": 1
+    },
+    {
+      "code": "es",
+      "name": "Spanish",
+      "native_name": "Español",
+      "direction": "ltr",
+      "file": "presets_es.json",
+      "format": "localized_lightweight",
+      "tier": 1
+    },
+    {
+      "code": "tr",
+      "name": "Turkish",
+      "native_name": "Türkçe",
+      "direction": "ltr",
+      "file": "presets_tr.json",
+      "format": "localized_lightweight",
+      "tier": 1
+    },
+    {
+      "code": "vi",
+      "name": "Vietnamese",
+      "native_name": "Tiếng Việt",
+      "direction": "ltr",
+      "file": "presets_vi.json",
+      "format": "localized_lightweight",
+      "tier": 1
+    },
+    {
+      "code": "bn",
+      "name": "Bengali",
+      "native_name": "বাংলা",
+      "direction": "ltr",
+      "file": "presets_bn.json",
+      "format": "localized_lightweight",
+      "tier": 2
+    },
+    {
+      "code": "ro",
+      "name": "Romanian",
+      "native_name": "Română",
+      "direction": "ltr",
+      "file": "presets_ro.json",
+      "format": "localized_lightweight",
+      "tier": 2
+    },
+    {
+      "code": "ru",
+      "name": "Russian",
+      "native_name": "Русский",
+      "direction": "ltr",
+      "file": "presets_ru.json",
+      "format": "localized_lightweight",
+      "tier": 2
+    },
+    {
+      "code": "sr",
+      "name": "Serbian",
+      "native_name": "Српски",
+      "direction": "ltr",
+      "file": "presets_sr.json",
+      "format": "localized_lightweight",
+      "tier": 2
+    },
+    {
+      "code": "th",
+      "name": "Thai",
+      "native_name": "ไทย",
+      "direction": "ltr",
+      "file": "presets_th.json",
+      "format": "localized_lightweight",
+      "tier": 2
+    },
+    {
+      "code": "uk",
+      "name": "Ukrainian",
+      "native_name": "Українська",
+      "direction": "ltr",
+      "file": "presets_uk.json",
+      "format": "localized_lightweight",
+      "tier": 2
+    },
+    {
+      "code": "ur",
+      "name": "Urdu",
+      "native_name": "اردو",
+      "direction": "rtl",
+      "file": "presets_ur.json",
+      "format": "localized_lightweight",
+      "tier": 2
+    },
+    {
+      "code": "am",
+      "name": "Amharic",
+      "native_name": "አማርኛ",
+      "direction": "ltr",
+      "file": "presets_am.json",
+      "format": "localized_lightweight",
+      "tier": 3
+    },
+    {
+      "code": "hy",
+      "name": "Armenian",
+      "native_name": "Հայերեն",
+      "direction": "ltr",
+      "file": "presets_hy.json",
+      "format": "localized_lightweight",
+      "tier": 3
+    },
+    {
+      "code": "bg",
+      "name": "Bulgarian",
+      "native_name": "Български",
+      "direction": "ltr",
+      "file": "presets_bg.json",
+      "format": "localized_lightweight",
+      "tier": 3
+    },
+    {
+      "code": "hr",
+      "name": "Croatian",
+      "native_name": "Hrvatski",
+      "direction": "ltr",
+      "file": "presets_hr.json",
+      "format": "localized_lightweight",
+      "tier": 3
+    },
+    {
+      "code": "cs",
+      "name": "Czech",
+      "native_name": "Čeština",
+      "direction": "ltr",
+      "file": "presets_cs.json",
+      "format": "localized_lightweight",
+      "tier": 3
+    },
+    {
+      "code": "fil",
+      "name": "Filipino",
+      "native_name": "Filipino",
+      "direction": "ltr",
+      "file": "presets_fil.json",
+      "format": "localized_lightweight",
+      "tier": 3
+    },
+    {
+      "code": "ka",
+      "name": "Georgian",
+      "native_name": "ქართული",
+      "direction": "ltr",
+      "file": "presets_ka.json",
+      "format": "localized_lightweight",
+      "tier": 3
+    },
+    {
+      "code": "el",
+      "name": "Greek",
+      "native_name": "Ελληνικά",
+      "direction": "ltr",
+      "file": "presets_el.json",
+      "format": "localized_lightweight",
+      "tier": 3
+    },
+    {
+      "code": "he",
+      "name": "Hebrew",
+      "native_name": "עברית",
+      "direction": "rtl",
+      "file": "presets_he.json",
+      "format": "localized_lightweight",
+      "tier": 3
+    },
+    {
+      "code": "fa",
+      "name": "Persian",
+      "native_name": "فارسی",
+      "direction": "rtl",
+      "file": "presets_fa.json",
+      "format": "localized_lightweight",
+      "tier": 3
+    },
+    {
+      "code": "pl",
+      "name": "Polish",
+      "native_name": "Polski",
+      "direction": "ltr",
+      "file": "presets_pl.json",
+      "format": "localized_lightweight",
+      "tier": 3
+    },
+    {
+      "code": "zh-Hans",
+      "name": "Simplified Chinese",
+      "native_name": "简体中文",
+      "direction": "ltr",
+      "file": "presets_zh_hans.json",
+      "format": "localized_lightweight",
+      "tier": 3
+    },
+    {
+      "code": "sw",
+      "name": "Swahili",
+      "native_name": "Kiswahili",
+      "direction": "ltr",
+      "file": "presets_sw.json",
+      "format": "localized_lightweight",
+      "tier": 3
+    },
+    {
+      "code": "ta",
+      "name": "Tamil",
+      "native_name": "தமிழ்",
+      "direction": "ltr",
+      "file": "presets_ta.json",
+      "format": "localized_lightweight",
+      "tier": 3
+    },
+    {
+      "code": "zh-Hant",
+      "name": "Traditional Chinese",
+      "native_name": "繁體中文",
+      "direction": "ltr",
+      "file": "presets_zh_hant.json",
+      "format": "localized_lightweight",
+      "tier": 3
+    },
+    {
+      "code": "hu",
+      "name": "Hungarian",
+      "native_name": "Magyar",
+      "direction": "ltr",
+      "file": "presets_hu.json",
+      "format": "localized_lightweight"
+    },
+    {
+      "code": "it",
+      "name": "Italian",
+      "native_name": "Italiano",
+      "direction": "ltr",
+      "file": "presets_it.json",
+      "format": "localized_lightweight"
+    }
+  ]
+}

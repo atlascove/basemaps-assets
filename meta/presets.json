@@ -98255,5 +98255,187 @@
     ],
     "matchScore": 1,
     "id": 3214
+  },
+  {
+    "geometry": [
+      "area"
+    ],
+    "last_updated": "2026-06-25",
+    "ds": "2026-06-25",
+    "source": "osm",
+    "version": "1",
+    "overture_categories": [],
+    "name": "Building Part",
+    "icon": "remixicon-building",
+    "tags": {
+      "building:part": "*"
+    },
+    "terms": [
+      "building part",
+      "part of building",
+      "building section"
+    ],
+    "name_required": false,
+    "allow_add": false,
+    "natural_language_category": [
+      "building part",
+      "building section"
+    ],
+    "matchScore": 0.02,
+    "id": 3215
+  },
+  {
+    "geometry": [
+      "area"
+    ],
+    "last_updated": "2026-06-25",
+    "ds": "2026-06-25",
+    "source": "osm",
+    "version": "1",
+    "overture_categories": [],
+    "name": "Collapsed Building",
+    "icon": "temaki-ruins",
+    "tags": {
+      "building": "collapsed"
+    },
+    "terms": [
+      "collapsed building",
+      "ruins",
+      "wrecked building",
+      "destroyed building"
+    ],
+    "name_required": false,
+    "allow_add": true,
+    "natural_language_category": [
+      "collapsed building",
+      "ruined building",
+      "damaged building"
+    ],
+    "matchScore": 0.5,
+    "id": 3216
+  },
+  {
+    "geometry": [
+      "point",
+      "vertex",
+      "line"
+    ],
+    "last_updated": "2026-06-25",
+    "ds": "2026-06-25",
+    "source": "osm",
+    "version": "1",
+    "overture_categories": [],
+    "name": "Stepping Stones",
+    "icon": "fotoshi-ford",
+    "tags": {
+      "ford": "stepping_stones"
+    },
+    "terms": [
+      "stepping stones",
+      "ford",
+      "stream crossing",
+      "river crossing"
+    ],
+    "name_required": false,
+    "allow_add": true,
+    "natural_language_category": [
+      "stepping stones",
+      "ford crossing",
+      "pedestrian water crossing"
+    ],
+    "matchScore": 1,
+    "id": 3217
+  },
+  {
+    "geometry": [
+      "point",
+      "vertex",
+      "area"
+    ],
+    "last_updated": "2026-06-25",
+    "ds": "2026-06-25",
+    "source": "osm",
+    "version": "1",
+    "overture_categories": [],
+    "name": "Comic Shop",
+    "icon": "fas-book",
+    "tags": {
+      "shop": "comics"
+    },
+    "terms": [
+      "comic shop",
+      "comic books",
+      "manga",
+      "graphic novels"
+    ],
+    "name_required": true,
+    "allow_add": true,
+    "natural_language_category": [
+      "comic shop",
+      "comic books store",
+      "manga shop"
+    ],
+    "matchScore": 1,
+    "id": 3218
+  },
+  {
+    "geometry": [
+      "area"
+    ],
+    "last_updated": "2026-06-25",
+    "ds": "2026-06-25",
+    "source": "osm",
+    "version": "1",
+    "overture_categories": [],
+    "name": "Villa",
+    "icon": "remixicon-building",
+    "tags": {
+      "building": "villa"
+    },
+    "terms": [
+      "villa",
+      "residence",
+      "historic villa"
+    ],
+    "name_required": false,
+    "allow_add": false,
+    "natural_language_category": [
+      "villa",
+      "villa building",
+      "residential villa"
+    ],
+    "matchScore": 0.5,
+    "id": 3219
+  },
+  {
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "last_updated": "2026-06-25",
+    "ds": "2026-06-25",
+    "source": "osm",
+    "version": "1",
+    "overture_categories": [],
+    "name": "Public Building",
+    "icon": "maki-building",
+    "tags": {
+      "amenity": "public_building"
+    },
+    "terms": [
+      "public building",
+      "civic building",
+      "government building",
+      "municipal building"
+    ],
+    "name_required": false,
+    "allow_add": false,
+    "natural_language_category": [
+      "public building",
+      "civic building",
+      "government building"
+    ],
+    "matchScore": 1,
+    "id": 3220
   }
 ]

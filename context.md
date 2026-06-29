@@ -31,6 +31,14 @@ The 2x sprites are required for production parity. Do not skip.
 - Every preset **must** reference a valid icon name (without `.svg`).
 - Keep IDs stable. Only append new IDs.
 
+## Mobile Satellite Selectability
+- Android tag selection uses MapLibre `queryRenderedFeatures(...)` against the current style, then filters returned features by `id`, `preset_id`, and `tags`.
+- The satellite style intentionally hides or zeroes visual polygon fills so imagery stays readable. Hidden layers are not available to Android hit testing.
+- Keep `satellite/styles.json` near-transparent `selectable_polygon_hit_*` fill layers for selectable polygon source-layers. These layers are not visual styling; they are hit-test surfaces.
+- Current hit-test source-layers: `landcover`, `landuse`, `building`, `transportation`, `water`, and `aeroway`.
+- Do not remove these just because they appear invisible. They preserve selectability for beaches, parks/landcover, buildings, piers/platforms/bridges, lakes/water polygons, and aeroway polygons in satellite mode.
+- If a new polygon source-layer becomes selectable in Android, add a matching `selectable_polygon_hit_<source-layer>` layer in the satellite style with `visibility: visible`, a polygon filter, `has preset_id`, `has tags`, and near-zero opacity.
+
 ## Common Tasks
 - **Add or replace an icon:**
   1) Add SVG under `icons/` with correct size/color.

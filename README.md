@@ -158,3 +158,11 @@ Outputs:
 
 - `sprites/sprites@64.png`
 - `sprites/sprites@64.json`
+
+## Satellite Style Hit Layers
+
+`satellite/styles.json` includes near-transparent `selectable_polygon_hit_*` fill layers. These are required for Android satellite-mode tag selection.
+
+Android discovers nearby selectable places with MapLibre `queryRenderedFeatures(...)`. In satellite mode, many polygon fills are hidden or set to zero opacity so the imagery remains visible. Without separate rendered hit layers, polygons such as beaches, buildings, parks/landcover, piers/platforms, lakes, and aeroway areas can exist in the vector tile but never appear in Android's rendered-feature query.
+
+The hit layers should remain visually negligible and filtered to polygon features with both `preset_id` and `tags`.

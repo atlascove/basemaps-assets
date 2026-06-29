@@ -5519,6 +5519,144 @@
       ]
     },
     {
+      "id": "selectable_polygon_hit_landcover",
+      "type": "fill",
+      "source": "openmaptiles",
+      "source-layer": "landcover",
+      "filter": [
+        "all",
+        ["==", "$type", "Polygon"],
+        ["has", "preset_id"],
+        ["has", "tags"]
+      ],
+      "layout": {
+        "visibility": "visible"
+      },
+      "paint": {
+        "fill-color": "#000000",
+        "fill-opacity": 0.001
+      },
+      "metadata": {
+        "fotoshi:purpose": "Android satellite hit testing",
+        "fotoshi:rationale": "Satellite visual layers hide or zero-opacity polygons to preserve imagery; Android tag selection uses queryRenderedFeatures, so selectable polygon features need a rendered near-transparent layer."
+      }
+    },
+    {
+      "id": "selectable_polygon_hit_landuse",
+      "type": "fill",
+      "source": "openmaptiles",
+      "source-layer": "landuse",
+      "filter": [
+        "all",
+        ["==", "$type", "Polygon"],
+        ["has", "preset_id"],
+        ["has", "tags"]
+      ],
+      "layout": {
+        "visibility": "visible"
+      },
+      "paint": {
+        "fill-color": "#000000",
+        "fill-opacity": 0.001
+      },
+      "metadata": {
+        "fotoshi:purpose": "Android satellite hit testing",
+        "fotoshi:rationale": "Satellite visual layers hide or zero-opacity polygons to preserve imagery; Android tag selection uses queryRenderedFeatures, so selectable polygon features need a rendered near-transparent layer."
+      }
+    },
+    {
+      "id": "selectable_polygon_hit_building",
+      "type": "fill",
+      "source": "openmaptiles",
+      "source-layer": "building",
+      "filter": [
+        "all",
+        ["==", "$type", "Polygon"],
+        ["has", "preset_id"],
+        ["has", "tags"]
+      ],
+      "layout": {
+        "visibility": "visible"
+      },
+      "paint": {
+        "fill-color": "#000000",
+        "fill-opacity": 0.001
+      },
+      "metadata": {
+        "fotoshi:purpose": "Android satellite hit testing",
+        "fotoshi:rationale": "Satellite visual layers hide or zero-opacity polygons to preserve imagery; Android tag selection uses queryRenderedFeatures, so selectable polygon features need a rendered near-transparent layer."
+      }
+    },
+    {
+      "id": "selectable_polygon_hit_transportation",
+      "type": "fill",
+      "source": "openmaptiles",
+      "source-layer": "transportation",
+      "filter": [
+        "all",
+        ["==", "$type", "Polygon"],
+        ["has", "preset_id"],
+        ["has", "tags"]
+      ],
+      "layout": {
+        "visibility": "visible"
+      },
+      "paint": {
+        "fill-color": "#000000",
+        "fill-opacity": 0.001
+      },
+      "metadata": {
+        "fotoshi:purpose": "Android satellite hit testing",
+        "fotoshi:rationale": "Satellite visual layers hide or zero-opacity polygons to preserve imagery; Android tag selection uses queryRenderedFeatures, so selectable polygon features need a rendered near-transparent layer."
+      }
+    },
+    {
+      "id": "selectable_polygon_hit_water",
+      "type": "fill",
+      "source": "openmaptiles",
+      "source-layer": "water",
+      "filter": [
+        "all",
+        ["==", "$type", "Polygon"],
+        ["has", "preset_id"],
+        ["has", "tags"]
+      ],
+      "layout": {
+        "visibility": "visible"
+      },
+      "paint": {
+        "fill-color": "#000000",
+        "fill-opacity": 0.001
+      },
+      "metadata": {
+        "fotoshi:purpose": "Android satellite hit testing",
+        "fotoshi:rationale": "Satellite visual layers hide or zero-opacity polygons to preserve imagery; Android tag selection uses queryRenderedFeatures, so selectable polygon features need a rendered near-transparent layer."
+      }
+    },
+    {
+      "id": "selectable_polygon_hit_aeroway",
+      "type": "fill",
+      "source": "openmaptiles",
+      "source-layer": "aeroway",
+      "filter": [
+        "all",
+        ["==", "$type", "Polygon"],
+        ["has", "preset_id"],
+        ["has", "tags"]
+      ],
+      "layout": {
+        "visibility": "visible"
+      },
+      "paint": {
+        "fill-color": "#000000",
+        "fill-opacity": 0.001
+      },
+      "metadata": {
+        "fotoshi:purpose": "Android satellite hit testing",
+        "fotoshi:rationale": "Satellite visual layers hide or zero-opacity polygons to preserve imagery; Android tag selection uses queryRenderedFeatures, so selectable polygon features need a rendered near-transparent layer."
+      }
+    },
+    {
       "id": "poi_label",
       "type": "symbol",
       "source": "pois",

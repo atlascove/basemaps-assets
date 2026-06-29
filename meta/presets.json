@@ -98472,5 +98472,43 @@
     ],
     "matchScore": 1,
     "id": 3221
+  },
+  {
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "last_updated": "2026-06-29",
+    "ds": "2026-06-29",
+    "source": "osm",
+    "version": "1",
+    "overture_categories": [],
+    "name": "Head Shop",
+    "icon": "fas-cannabis",
+    "tags": {
+      "shop": "headshop"
+    },
+    "terms": [
+      "headshop",
+      "head shop",
+      "smoke shop",
+      "bong shop",
+      "smoking accessories",
+      "cannabis accessories",
+      "paraphernalia"
+    ],
+    "name_required": true,
+    "allow_add": true,
+    "natural_language_category": [
+      "head shop",
+      "headshop",
+      "smoke shop",
+      "bong shop",
+      "smoking accessories shop",
+      "cannabis accessories shop",
+      "paraphernalia shop"
+    ],
+    "matchScore": 1,
+    "id": 3222
   }
 ]

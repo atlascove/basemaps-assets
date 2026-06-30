@@ -7,7 +7,7 @@
     "sprite_json": "sprites/sprites@2x.json",
     "sprite_png": "sprites/sprites@2x.png"
   },
-  "icon_count": 813,
+  "icon_count": 815,
   "missing_count": 0,
   "collisions": {},
   "icons": [
@@ -1433,6 +1433,13 @@
       "sha256": "5888eafd9d03055f84cdda09466c3316cf752bc463bf30fa29a0e99935f981d9"
     },
     {
+      "icon": "fts-cannon",
+      "file": "icons/fts-cannon.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "0ba2b559b18a4ff3058503fb0c2a6e37980d95ced24be29cc5ba50dd851f2021"
+    },
+    {
       "icon": "fts-carpet",
       "file": "icons/fts-carpet.webp",
       "width": 30,
@@ -1494,6 +1501,13 @@
       "width": 30,
       "height": 30,
       "sha256": "4d56b3f0894916804f58f5883fcd26602bc545c89e0ba506693c282ff1b2ef33"
+    },
+    {
+      "icon": "fts-ramp",
+      "file": "icons/fts-ramp.webp",
+      "width": 30,
+      "height": 30,
+      "sha256": "8b97f770a346c0ff1559c97642b1284e3269e8adef674cfab0071a7586f115f9"
     },
     {
       "icon": "fts-subway-whitefill",

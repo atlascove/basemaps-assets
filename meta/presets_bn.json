@@ -32611,5 +32611,31 @@
       "আইসক্রিম",
       "আইসক্রিমের দোকান"
     ]
+  },
+  {
+    "id": 3223,
+    "name": "Cannon",
+    "quality": "machine_translation",
+    "terms": [
+      "cannon",
+      "historic cannon",
+      "artillery",
+      "gun",
+      "fortification",
+      "Cannon"
+    ]
+  },
+  {
+    "id": 3224,
+    "name": "Ramp",
+    "quality": "machine_translation",
+    "terms": [
+      "ramp",
+      "access ramp",
+      "wheelchair ramp",
+      "incline",
+      "slope",
+      "Ramp"
+    ]
   }
 ]

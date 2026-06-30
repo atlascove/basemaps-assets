@@ -98510,5 +98510,72 @@
     ],
     "matchScore": 1,
     "id": 3222
+  },
+  {
+    "geometry": [
+      "point",
+      "area"
+    ],
+    "last_updated": "2026-06-30",
+    "ds": "2026-06-30",
+    "source": "osm",
+    "version": "1",
+    "overture_categories": [],
+    "name": "Cannon",
+    "icon": "fts-cannon",
+    "tags": {
+      "historic": "cannon"
+    },
+    "terms": [
+      "cannon",
+      "historic cannon",
+      "artillery",
+      "gun",
+      "fortification"
+    ],
+    "name_required": false,
+    "allow_add": true,
+    "natural_language_category": [
+      "cannon",
+      "historic cannon",
+      "artillery piece"
+    ],
+    "matchScore": 1,
+    "id": 3223
+  },
+  {
+    "geometry": [
+      "point",
+      "line",
+      "area"
+    ],
+    "last_updated": "2026-06-30",
+    "ds": "2026-06-30",
+    "source": "osm",
+    "version": "1",
+    "overture_categories": [],
+    "name": "Ramp",
+    "icon": "fts-ramp",
+    "tags": {
+      "highway": "footway",
+      "ramp": "yes"
+    },
+    "terms": [
+      "ramp",
+      "access ramp",
+      "wheelchair ramp",
+      "incline",
+      "slope"
+    ],
+    "name_required": false,
+    "allow_add": true,
+    "natural_language_category": [
+      "ramp",
+      "pedestrian ramp",
+      "access ramp",
+      "wheelchair ramp"
+    ],
+    "matchScore": 0.95,
+    "id": 3224
   }
 ]

@@ -6869,9 +6869,10 @@
           "path"
         ],
         [
-          "==",
+          "in",
           "subclass",
-          "footway"
+          "footway",
+          "path"
         ]
       ]
     },
@@ -7270,9 +7271,10 @@
           "path"
         ],
         [
-          "==",
+          "in",
           "subclass",
-          "footway"
+          "footway",
+          "path"
         ]
       ]
     },

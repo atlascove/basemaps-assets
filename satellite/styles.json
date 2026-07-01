@@ -3773,7 +3773,7 @@
         ["==", "$type", "LineString"],
         ["==", "brunnel", "bridge"],
         ["in", "class", "path"],
-        ["==", "subclass", "footway"]
+        ["in", "subclass", "footway", "path"]
       ]
     },
     {
@@ -3974,7 +3974,7 @@
         ["==", "$type", "LineString"],
         ["==", "brunnel", "bridge"],
         ["in", "class", "path"],
-        ["==", "subclass", "footway"]
+        ["in", "subclass", "footway", "path"]
       ]
     },
     {

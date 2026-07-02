@@ -5172,6 +5172,7 @@
       "type": "symbol",
       "source": "openmaptiles",
       "source-layer": "mountain_peak",
+      "minzoom": 7,
       "maxzoom": 16,
       "layout": {
         "text-font": ["Noto Sans Regular"],
@@ -5179,14 +5180,16 @@
         "icon-image": "peak",
         "text-field": {
           "stops": [
-            [6, " "],
+            [7, " "],
+            [10, "{name}"],
             [12, "{name} {ele}m"]
           ]
         },
         "text-anchor": "top",
         "text-offset": [0, 0.5],
         "text-max-width": 6,
-        "text-line-height": 1.1
+        "text-line-height": 1.1,
+        "symbol-sort-key": ["to-number", ["get", "rank"], 999]
       },
       "paint": {
         "text-color": "hsl(29, 8%, 50%)",

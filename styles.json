@@ -9325,8 +9325,12 @@
         "text-field": {
           "stops": [
             [
-              6,
+              7,
               " "
+            ],
+            [
+              10,
+              "{name}"
             ],
             [
               12,
@@ -9340,13 +9344,22 @@
           0.5
         ],
         "text-max-width": 6,
-        "text-line-height": 1.1
+        "text-line-height": 1.1,
+        "symbol-sort-key": [
+          "to-number",
+          [
+            "get",
+            "rank"
+          ],
+          999
+        ]
       },
       "paint": {
         "text-color": "hsl(29, 8%, 50%)",
         "text-halo-color": "rgba(255, 255, 255, .8)",
         "text-halo-width": 1
-      }
+      },
+      "minzoom": 7
     },
     {
       "id": "place_village",
